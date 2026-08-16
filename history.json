@@ -1,6 +1,18 @@
 {
-    "robinrabit": 0.05033318742967057,
-    "hood-rat-dumpster-club": 0.0,
-    "hoodle": 0.4599652691500312,
-    "robinhood-chimps": 58.06226307143158
+    "robinrabit": {
+        "volume": 0.05033318742967057,
+        "sales": 2066
+    },
+    "hood-rat-dumpster-club": {
+        "volume": 0.0,
+        "sales": 0
+    },
+    "hoodle": {
+        "volume": 0.4599652691500312,
+        "sales": 5119
+    },
+    "robinhood-chimps": {
+        "volume": 58.06746307143158,
+        "sales": 30167
+    }
 }
