@@ -13,12 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Tarik kode dari repositori
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Siapkan Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+        uses: actions/setup-python@v5
 
       - name: Install module tambahan
         run: pip install requests
