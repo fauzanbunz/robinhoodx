@@ -6,8 +6,8 @@ import time
 # ==========================================
 # 1. KONFIGURASI DARI GITHUB SECRETS
 # ==========================================
-WEBHOOK_URL = os.environ.get('https://discord.com/api/webhooks/1538626239915622561/6UhYuKGIOXGhfilmuS5X4vQhXraSY9YI2w-pIUpF1XiYinuIlg4x447nDDG5zsaYeE-P')
-OPENSEA_API_KEY = os.environ.get('41802fa0aba5427dade81149557fce46')
+WEBHOOK_URL = os.environ.get('WEBHOOK_URL')
+OPENSEA_API_KEY = os.environ.get('OPENSEA_KEY')
 HISTORY_FILE = 'history.json'
 TARGET_CHAIN = 'robinhood' # Kunci utama: Hanya memproses chain Robinhood
 
