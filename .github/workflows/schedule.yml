@@ -1,0 +1,39 @@
+name: Bot Pump Radar Robinhood
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Berjalan setiap menit ke-0 (setiap 1 jam)
+  workflow_dispatch: # Mengizinkanmu menjalankan bot manual lewat tombol
+
+permissions:
+  contents: write # Mengizinkan bot mengedit file history.json
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tarik kode dari repositori
+        uses: actions/checkout@v3
+
+      - name: Siapkan Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install module tambahan
+        run: pip install requests
+
+      - name: Jalankan Bot Python
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          OPENSEA_KEY: ${{ secrets.OPENSEA_KEY }}
+        run: python bot.py
+
+      - name: Simpan ingatan (history.json) kembali ke GitHub
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add history.json
+          # Jika tidak ada perubahan, jangan lakukan apa-apa. Jika ada, simpan.
+          git commit -m "Auto-update: Pembaruan memori volume 1 jam" || exit 0
+          git push
