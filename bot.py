@@ -10,14 +10,7 @@ WEBHOOK_URL = os.environ.get('WEBHOOK_URL')
 OPENSEA_API_KEY = os.environ.get('OPENSEA_KEY')
 HISTORY_FILE = 'history.json'
 TARGET_CHAIN = 'robinhood'
-
-WATCHLIST = [
-    "robinrabit",
-    "hood-rat-dumpster-club",
-    "cash-cats",
-    "hoodle",
-    "robinhood-chimps"
-]
+LIMIT_SCAN = 50 # Jumlah koleksi yang akan di-scan untuk dicari 20 teratasnya
 
 # ==========================================
 # 2. MANAJEMEN MEMORI (BACA & TULIS FILE)
@@ -36,141 +29,122 @@ def simpan_history(data):
         json.dump(data, file, indent=4)
 
 # ==========================================
-# 3. FUNGSI MENDAPATKAN HARGA ETH TO USD
+# 3. FUNGSI PENGIRIM PESAN LEADERBOARD
 # ==========================================
-def get_eth_usd_price():
-    try:
-        res = requests.get("https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd")
-        if res.status_code == 200:
-            return res.json()['ethereum']['usd']
-    except Exception as e:
-        print(f"[!] Gagal mengambil harga ETH dari CoinGecko: {e}")
-    return 0 # Kembalikan 0 jika gagal
+def send_leaderboard_alert(leaderboard_data):
+    # Menyusun teks deskripsi untuk Discord Embed
+    description_text = ""
+    for idx, item in enumerate(leaderboard_data):
+        # Format: 1. Nama (+Persentase%) | Floor: Harga
+        change_sign = "+" if item['change_pct'] > 0 else ""
+        description_text += f"**{idx + 1}. [{item['name']}]({item['url']})**\n"
+        description_text += f"└ Floor: {item['floor']} ETH | 1H Change: `{change_sign}{item['change_pct']:.1f}%`\n\n"
 
-# ==========================================
-# 4. FUNGSI PENGIRIM PESAN
-# ==========================================
-def send_pump_alert(collection_name, floor_text, vol_1_jam, sales_1_jam, url, image_url):
     data = {
-        "content": f"🎯 **ROBINHOOD CHAIN HOURLY UPDATE**",
+        "content": f"🏆 **TOP 20 {TARGET_CHAIN.upper()} CHAIN: 1H FLOOR PUMP**",
         "embeds": [{
-            "title": f"{collection_name} Activity",
-            "description": "Laporan pergerakan pasar 1 jam terakhir.",
-            "url": url,
+            "title": "🔥 Trending Collections by Floor Price Change",
+            "description": description_text if description_text else "Belum ada pergerakan harga yang signifikan.",
             "color": 3447003,
-            "fields": [
-                {
-                    "name": "Floor Price", 
-                    "value": floor_text, 
-                    "inline": False # Dibuat False agar memakan satu baris penuh supaya rapi
-                },
-                {
-                    "name": "Volume 1 Jam", 
-                    "value": f"{vol_1_jam:.4f} ETH", 
-                    "inline": True
-                },
-                {
-                    "name": "Transaksi 1 Jam", 
-                    "value": f"{sales_1_jam} Sales", 
-                    "inline": True
-                }
-            ],
-            "thumbnail": {"url": image_url},
             "footer": {"text": "Robinhood Chain Radar • GitHub Actions"}
         }]
     }
     requests.post(WEBHOOK_URL, json=data)
 
 # ==========================================
-# 5. FUNGSI UTAMA 
+# 4. FUNGSI UTAMA 
 # ==========================================
 def jalankan_bot():
-    print("[*] Memulai pemindaian OpenSea (Khusus Robinhood Chain)...")
-    
-    # 1. Ambil harga ETH ke USD terlebih dahulu
-    eth_usd_rate = get_eth_usd_price()
-    print(f"[*] Harga ETH saat ini: ${eth_usd_rate}")
-
+    print(f"[*] Memulai pemindaian {LIMIT_SCAN} koleksi di {TARGET_CHAIN}...")
     headers = {
         "accept": "application/json",
         "x-api-key": OPENSEA_API_KEY
     }
     
-    # 2. Muat ingatan dari jam sebelumnya
     history = muat_history()
+    koleksi_dinamis = []
     
-    for slug in WATCHLIST:
-        stats_url = f"https://api.opensea.io/api/v2/collections/{slug}/stats"
-        info_url = f"https://api.opensea.io/api/v2/collections/{slug}"
+    # 1. Ambil daftar koleksi secara otomatis dari jaringan
+    try:
+        col_url = f"https://api.opensea.io/api/v2/collections?chain={TARGET_CHAIN}&limit={LIMIT_SCAN}"
+        res = requests.get(col_url, headers=headers)
+        if res.status_code == 200:
+            koleksi_dinamis = res.json().get('collections', [])
+        else:
+            print(f"[!] Gagal menarik daftar koleksi. Status: {res.status_code}")
+            return
+    except Exception as e:
+        print(f"[!] Error saat menarik koleksi: {e}")
+        return
+
+    hasil_scan = []
+    
+    # 2. Proses setiap koleksi untuk mendapatkan metrik
+    for col in koleksi_dinamis:
+        slug = col.get('collection')
+        name = col.get('name', slug)
+        opensea_url = f"https://opensea.io/collection/{slug}"
         
+        stats_url = f"https://api.opensea.io/api/v2/collections/{slug}/stats"
         try:
             stats_res = requests.get(stats_url, headers=headers)
-            info_res = requests.get(info_url, headers=headers)
-            
-            if stats_res.status_code == 200 and info_res.status_code == 200:
+            if stats_res.status_code == 200:
                 stats_data = stats_res.json().get('total', {})
-                info_data = info_res.json()
+                current_floor = float(stats_data.get('floor_price', 0) or 0)
                 
-                # Validasi Chain
-                contracts = info_data.get('contracts', [])
-                is_robinhood = any(c.get('chain') == TARGET_CHAIN for c in contracts)
+                change_pct = 0.0
                 
-                if not is_robinhood:
-                    print(f"⏭️ Mengabaikan {slug} (Bukan rantai Robinhood).")
-                    continue
-
-                name = info_data.get('name', slug)
-                image_url = info_data.get('image_url', 'https://via.placeholder.com/150')
-                opensea_url = f"https://opensea.io/collection/{slug}"
-                
-                # Ambil data metrik dari API
-                floor_price = stats_data.get('floor_price', 0)
-                total_vol_sekarang = stats_data.get('volume', 0)
-                total_sales_sekarang = int(stats_data.get('sales', 0))
-                
-                # Kalkulasi USD (Jika berhasil mengambil harga ETH)
-                if floor_price and eth_usd_rate > 0:
-                    floor_usd = floor_price * eth_usd_rate
-                    floor_text = f"{floor_price} ETH (`~${floor_usd:,.2f}`)"
-                else:
-                    floor_text = f"{floor_price} ETH" if floor_price else "N/A"
-
-                # Logika kalkulasi perbedaan 1 jam
+                # Kalkulasi Persentase 1 Jam (Jika ada memori)
                 if slug in history:
-                    # Penanganan struktur data lama (transisi dari skrip sebelumnya)
-                    if isinstance(history[slug], dict):
-                        old_vol = history[slug].get('volume', 0)
-                        old_sales = history[slug].get('sales', 0)
-                    else:
-                        old_vol = history[slug]
-                        old_sales = total_sales_sekarang # Abaikan diff sales di run pertama
-                    
-                    vol_1_jam_terakhir = total_vol_sekarang - old_vol
-                    sales_1_jam_terakhir = total_sales_sekarang - old_sales
-                    
-                    print(f"✅ Data {name}: Vol {vol_1_jam_terakhir:.4f} ETH, {sales_1_jam_terakhir} Sales")
-                    
-                    # Kirim notifikasi (hanya jika ada volume transaksi untuk menghindari spam)
-                    if vol_1_jam_terakhir > 0 or sales_1_jam_terakhir > 0:
-                        send_pump_alert(name, floor_text, vol_1_jam_terakhir, sales_1_jam_terakhir, opensea_url, image_url)
-                    else:
-                        print(f"⏸️ Tidak ada transaksi baru untuk {name}.")
-                else:
-                    print(f"🔄 Mencatat data awal {name}. Notifikasi mulai di jam berikutnya.")
+                    old_data = history[slug]
+                    # Pastikan struktur lama berbentuk dictionary dan memiliki key 'floor'
+                    if isinstance(old_data, dict) and 'floor' in old_data:
+                        old_floor = float(old_data['floor'])
+                        
+                        # Rumus persentase perubahan: ((Baru - Lama) / Lama) * 100
+                        if old_floor > 0 and current_floor > 0:
+                            change_pct = ((current_floor - old_floor) / old_floor) * 100
+                            
+                # Simpan hasil kalkulasi ke dalam daftar sementara
+                if current_floor > 0: # Hanya masukkan yang ada harganya
+                    hasil_scan.append({
+                        'name': name,
+                        'slug': slug,
+                        'url': opensea_url,
+                        'floor': current_floor,
+                        'change_pct': change_pct
+                    })
                 
-                # Simpan metrik terbaru (Volume dan Sales) ke memori
+                # Perbarui ingatan untuk jam berikutnya
                 history[slug] = {
-                    'volume': total_vol_sekarang,
-                    'sales': total_sales_sekarang
+                    'floor': current_floor
                 }
                 
-            else:
-                print(f"[!] Gagal menarik {slug}. Status: {stats_res.status_code}")
-                
         except Exception as e:
-            print(f"[!] Error pada {slug}: {e}")
+            print(f"[!] Error metrik pada {slug}: {e}")
             
-        time.sleep(1)
+        time.sleep(0.5) # Jeda untuk mengamankan API Rate Limit (Penting karena sekarang scan 50 data)
+
+    # 3. Sortir dan Ambil Top 20
+    # Menyortir data berdasarkan 'change_pct' dari yang paling tinggi ke rendah
+    hasil_scan.sort(key=lambda x: x['change_pct'], reverse=True)
+    
+    # Memotong list hanya menjadi 20 teratas
+    top_20 = hasil_scan[:20]
+    
+    # 4. Evaluasi Pengiriman Laporan
+    is_first_run = True
+    for item in top_20:
+        if item['change_pct'] != 0.0:
+            is_first_run = False
+            break
+
+    if is_first_run:
+        print("🔄 Ini adalah eksekusi pertama (atau format memori baru). Mengumpulkan baseline harga lantai. Leaderboard akan dikirim jam depan.")
+    else:
+        print(f"✅ Data selesai diproses. Mengirim Leaderboard Top 20 ke Discord...")
+        # Hanya kirim koleksi yang memiliki persentase perubahan positif (Pump) atau tampilkan semua top 20
+        send_leaderboard_alert(top_20)
 
     # Simpan kembali ingatan ke file
     simpan_history(history)
