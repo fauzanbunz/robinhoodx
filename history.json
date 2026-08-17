@@ -169,7 +169,7 @@
         "floor": 0.0
     },
     "stonkladies-nft": {
-        "floor": 0.06
+        "floor": 0.0
     },
     "dkmhood": {
         "floor": 0.0
@@ -313,6 +313,153 @@
         "floor": 0.0
     },
     "t11-804129755": {
+        "floor": 0.06
+    },
+    "moonhood": {
+        "floor": 0.0
+    },
+    "pixelhood-minis-nft": {
+        "floor": 0.0
+    },
+    "rootbots-277728240": {
+        "floor": 0.0
+    },
+    "acospace-test-895574655": {
+        "floor": 0.0
+    },
+    "gogh-punks-nft": {
+        "floor": 0.0
+    },
+    "crocshoods-156394134": {
+        "floor": 1.23
+    },
+    "anonbrokers": {
+        "floor": 0.0
+    },
+    "omr-evo-708465603": {
+        "floor": 0.04
+    },
+    "stonk-wizards-nft-690056499": {
+        "floor": 0.07
+    },
+    "copium-juice-394090391": {
+        "floor": 0.0
+    },
+    "monkeyhood-nft-809680050": {
+        "floor": 0.05
+    },
+    "candle-broker-131481999": {
+        "floor": 0.06
+    },
+    "0x25c08b2e77411bf127a63e66a98c85e217056361": {
+        "floor": 0.0
+    },
+    "crocs-nft-404761476": {
+        "floor": 0.0
+    },
+    "future-spacexipo-by-virtuals": {
+        "floor": 0.0
+    },
+    "future-wallaby-by-virtuals": {
+        "floor": 0.0
+    },
+    "octos-hood-248511312": {
+        "floor": 0.06
+    },
+    "kimju-842348673": {
+        "floor": 0.04
+    },
+    "future-brunson-by-virtuals": {
+        "floor": 0.0
+    },
+    "spawnhood-nft-873781443": {
+        "floor": 0.0
+    },
+    "future-hatcher-by-virtuals": {
+        "floor": 0.0
+    },
+    "the-oil-rigs-138": {
+        "floor": 0.06
+    },
+    "future-firework-by-virtuals": {
+        "floor": 0.0
+    },
+    "sabet-x-veefriends-nft": {
+        "floor": 0.0
+    },
+    "copium-hood": {
+        "floor": 0.02
+    },
+    "future-catapult-by-virtuals": {
+        "floor": 0.0
+    },
+    "future-thebetrayer-by-virtuals": {
+        "floor": 0.0
+    },
+    "suited-apes-society": {
+        "floor": 0.06
+    },
+    "future-manlet-by-virtuals": {
+        "floor": 0.0
+    },
+    "future-grokclaw-by-virtuals": {
+        "floor": 0.0
+    },
+    "market-broker": {
+        "floor": 0.06
+    },
+    "fish-it-813600972": {
+        "floor": 0.0
+    },
+    "iron-legion-408263074": {
+        "floor": 0.0
+    },
+    "suits-mock-661782453": {
+        "floor": 0.0
+    },
+    "veevibrations-hood-nft": {
+        "floor": 0.0
+    },
+    "pixel-monkey-hood-708473169": {
+        "floor": 57.0
+    },
+    "spawnhood-genesis-294187373": {
+        "floor": 0.0
+    },
+    "day-2-882762829": {
+        "floor": 0.0
+    },
+    "spawnhood-nft-140494369": {
+        "floor": 53.0
+    },
+    "the-pixel-wizards-hoods": {
+        "floor": 0.8
+    },
+    "robinhoodphones-nft": {
+        "floor": 50.0
+    },
+    "0xcd4170c8427cf58669635e50c5931596b5694791": {
+        "floor": 0.0
+    },
+    "craftmini": {
+        "floor": 0.05
+    },
+    "trippers-751932276": {
+        "floor": 0.0
+    },
+    "pigneon-974137570": {
+        "floor": 0.06
+    },
+    "0x2fffaf5f36395728c07390cce98b592a025384d6": {
+        "floor": 49.99
+    },
+    "rh-access-pass-489654784": {
+        "floor": 0.0
+    },
+    "pigneon": {
+        "floor": 0.0
+    },
+    "cash-hamster-club": {
         "floor": 0.06
     }
 }
