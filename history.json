@@ -2854,10 +2854,10 @@
         "floor": 0.00024
     },
     "luminare-527515098": {
-        "floor": 0.0
+        "floor": 0.04
     },
     "greencloak-927774925": {
-        "floor": 0.0
+        "floor": 0.18
     },
     "0xda0aafdb3216eb71b1da524efc42942e0e4c25c0": {
         "floor": 0.0
@@ -3002,5 +3002,149 @@
     },
     "zaza-274747137": {
         "floor": 0.0
+    },
+    "jello-test-mntd-drop": {
+        "floor": 0.0
+    },
+    "a-507114314": {
+        "floor": 0.0
+    },
+    "txw3": {
+        "floor": 0.0
+    },
+    "blobs-81351074": {
+        "floor": 0.0
+    },
+    "cash-monkey-765180623": {
+        "floor": 0.0
+    },
+    "rbwaipp": {
+        "floor": 0.0
+    },
+    "hoodpokerclub": {
+        "floor": 0.0
+    },
+    "padzero": {
+        "floor": 0.08
+    },
+    "robin-bandits-11119875": {
+        "floor": 0.0
+    },
+    "t-s-t": {
+        "floor": 0.0
+    },
+    "renieonrh": {
+        "floor": 0.18
+    },
+    "hoodlings-world": {
+        "floor": 0.0
+    },
+    "jello-test-low-sup": {
+        "floor": 0.0
+    },
+    "momo11-22700579": {
+        "floor": 1.0
+    },
+    "buddies-586532363": {
+        "floor": 0.01
+    },
+    "grumps": {
+        "floor": 0.0
+    },
+    "renierh": {
+        "floor": 0.1
+    },
+    "8bit-597188881": {
+        "floor": 0.19
+    },
+    "robin-strategy": {
+        "floor": 0.17
+    },
+    "drifters-hood": {
+        "floor": 0.0
+    },
+    "the-doughies-864387591": {
+        "floor": 9.9e-06
+    },
+    "dingus-745528577": {
+        "floor": 0.0
+    },
+    "acospace-snapshot-826658446": {
+        "floor": 0.0
+    },
+    "ovcharka-861147232": {
+        "floor": 0.0
+    },
+    "black-504709930": {
+        "floor": 0.19
+    },
+    "tst-13629485": {
+        "floor": 0.31
+    },
+    "saddam-614917539": {
+        "floor": 0.08
+    },
+    "super-epic-jello-drop-494389593": {
+        "floor": 0.0
+    },
+    "jmjhjmj": {
+        "floor": 0.0
+    },
+    "buddies-679663063": {
+        "floor": 0.0001
+    },
+    "testtest2-535780100": {
+        "floor": 0.0
+    },
+    "bigetron-alpha": {
+        "floor": 0.98
+    },
+    "nextstickman": {
+        "floor": 0.0
+    },
+    "the-emerald-fox-865159330": {
+        "floor": 0.01
+    },
+    "hoodverse-296520556": {
+        "floor": 0.09
+    },
+    "cyber-pixels-584508157": {
+        "floor": 0.09
+    },
+    "the-emerald-fox-13456492": {
+        "floor": 0.0
+    },
+    "chica-615967128": {
+        "floor": 0.0
+    },
+    "esta-386604590": {
+        "floor": 0.0
+    },
+    "0x69fa4ea975721d1ed6d14f11e9e7ff9fb977e392": {
+        "floor": 0.0
+    },
+    "0x7f29a310f0efeeda1afba25e64a1c6984f00a97a": {
+        "floor": 0.0
+    },
+    "0x409432d52e2857873600e10e282463745cd6ac00": {
+        "floor": 0.0
+    },
+    "0xf9560024697476c10b88ce1ed75100e04915802c": {
+        "floor": 0.0
+    },
+    "envelope-321965938": {
+        "floor": 0.0
+    },
+    "k3ys-keys-6582981": {
+        "floor": 0.0
+    },
+    "forest-rogue-646803727": {
+        "floor": 0.0
+    },
+    "verdant-rogue-194681543": {
+        "floor": 0.1
+    },
+    "the-oil-rigs-hood": {
+        "floor": 1.0
     }
 }
