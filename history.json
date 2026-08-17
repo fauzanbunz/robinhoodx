@@ -1652,5 +1652,155 @@
     },
     "fake-world-assets": {
         "floor": 0.02
+    },
+    "graffiti-pepe": {
+        "floor": 0.0
+    },
+    "robin-opulent-cets": {
+        "floor": 0.0
+    },
+    "rafael-589981305": {
+        "floor": 0.0
+    },
+    "realoilrig-846901822": {
+        "floor": 0.0
+    },
+    "cats-568982960": {
+        "floor": 0.0
+    },
+    "komodo-clan": {
+        "floor": 0.0
+    },
+    "thecardwall-genesis-868808813": {
+        "floor": 0.06
+    },
+    "0xae2cc3d2de2a1cd693d44208667561a51276883f": {
+        "floor": 0.0
+    },
+    "rekt-labs": {
+        "floor": 0.0
+    },
+    "ballast-manatee": {
+        "floor": 0.0
+    },
+    "cash-cows-394774990": {
+        "floor": 0.0
+    },
+    "nailong-rh": {
+        "floor": 0.0
+    },
+    "rafael-496368233": {
+        "floor": 0.06
+    },
+    "omr-evo-853118744": {
+        "floor": 0.04
+    },
+    "niu-lai-niu-lai-723220497": {
+        "floor": 0.0
+    },
+    "hood-shib": {
+        "floor": 0.0
+    },
+    "inferenc-angels-genesis": {
+        "floor": 0.06
+    },
+    "camryhood": {
+        "floor": 0.0
+    },
+    "acospace-test-477498917": {
+        "floor": 0.0
+    },
+    "purrivate-banker": {
+        "floor": 0.0
+    },
+    "robin-gorillas-nft": {
+        "floor": 0.0
+    },
+    "retail-shrooms-hoods": {
+        "floor": 0.0
+    },
+    "cash-monkeys-701383828": {
+        "floor": 0.17
+    },
+    "rafael-610922978": {
+        "floor": 0.0
+    },
+    "printar": {
+        "floor": 0.3
+    },
+    "candle-broker-": {
+        "floor": 0.0052
+    },
+    "hood-butt": {
+        "floor": 0.0
+    },
+    "white-mask-hood": {
+        "floor": 0.0
+    },
+    "0x89d42fe09ff6236a5887330cb9aeeefe98bd7cb3": {
+        "floor": 0.0
+    },
+    "hoodbutt-256457629": {
+        "floor": 0.0
+    },
+    "emoji-niu-lai": {
+        "floor": 0.0
+    },
+    "rekt-trador-genesis": {
+        "floor": 0.0
+    },
+    "kupo-719009905": {
+        "floor": 0.03
+    },
+    "hoodarrow": {
+        "floor": 0.3
+    },
+    "chica-435856929": {
+        "floor": 0.0
+    },
+    "bluekitty-416057045": {
+        "floor": 0.45
+    },
+    "cash-fox": {
+        "floor": 1.0
+    },
+    "ape-divas-999069669": {
+        "floor": 0.0
+    },
+    "inference-angels-genesis": {
+        "floor": 9.0
+    },
+    "mythic-realm-477976215": {
+        "floor": 0.0
+    },
+    "broke-studio": {
+        "floor": 0.0
+    },
+    "digitalslop-nft": {
+        "floor": 0.0
+    },
+    "roost-33837073": {
+        "floor": 0.0
+    },
+    "quackhood-618961505": {
+        "floor": 0.02
+    },
+    "bestickman-nft": {
+        "floor": 0.0
+    },
+    "cranberry": {
+        "floor": 0.0
+    },
+    "mars-980909914": {
+        "floor": 0.0
+    },
+    "derp-robinhood": {
+        "floor": 1.0
+    },
+    "minecat-45860957": {
+        "floor": 0.0
+    },
+    "0x48917c639422fa0b602c1f3d0ad1e165ba6e4354": {
+        "floor": 0.0
     }
 }
