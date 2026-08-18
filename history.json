@@ -3925,7 +3925,7 @@
         "floor": 0.0
     },
     "doetwn": {
-        "floor": 0.0
+        "floor": 0.12
     },
     "purrivate-banker-nft": {
         "floor": 0.1
@@ -4045,6 +4045,132 @@
         "floor": 50.0
     },
     "theregulatorsnft": {
+        "floor": 0.0
+    },
+    "the-rangers-357126369": {
+        "floor": 0.0
+    },
+    "simpson-511858988": {
+        "floor": 0.0
+    },
+    "eyecash": {
+        "floor": 0.0
+    },
+    "hoodns-domains": {
+        "floor": 0.0
+    },
+    "hoodns-namespaces": {
+        "floor": 0.0
+    },
+    "robohood-427987737": {
+        "floor": 0.0
+    },
+    "the-rentiers": {
+        "floor": 0.0
+    },
+    "future-overcall-by-virtuals-620339490": {
+        "floor": 0.0
+    },
+    "cashcowsrh": {
+        "floor": 0.0
+    },
+    "robinhood-lucky": {
+        "floor": 0.14
+    },
+    "monkey-hood-nft": {
+        "floor": 0.0
+    },
+    "stonkm-qegolgwk": {
+        "floor": 0.0
+    },
+    "hood-monkex-401206275": {
+        "floor": 0.0057
+    },
+    "monkeyhood-nft-395386639": {
+        "floor": 0.0
+    },
+    "0xf17e13d9dc919140b0600a9677f67230cff3e426": {
+        "floor": 0.0
+    },
+    "bog-dots-nft": {
+        "floor": 0.0
+    },
+    "capital-ern": {
+        "floor": 0.0
+    },
+    "frunji-64739407": {
+        "floor": 0.0
+    },
+    "the-bunker--": {
+        "floor": 0.0042
+    },
+    "the-cats-brokers-nft": {
+        "floor": 0.0
+    },
+    "0xdb4698656fd64ef1a4b092a0512d5051eaba874d": {
+        "floor": 0.0
+    },
+    "murakami-flowers-nft-518467258": {
+        "floor": 0.0
+    },
+    "freshbuttoil": {
+        "floor": 0.0
+    },
+    "useless-767698677": {
+        "floor": 0.0
+    },
+    "alpha-simps-319700700": {
+        "floor": 0.0037
+    },
+    "future-overcall-by-virtuals-774152919": {
+        "floor": 0.0
+    },
+    "wispos-896461621": {
+        "floor": 1.5
+    },
+    "zerocatclub-162850067": {
+        "floor": 0.0008
+    },
+    "airdrop101": {
+        "floor": 0.0
+    },
+    "the-ravenhood": {
+        "floor": 0.0
+    },
+    "goatzzz-932245402": {
+        "floor": 0.0
+    },
+    "robin-pump-it-hood": {
+        "floor": 2.0
+    },
+    "blnk-nft-22387157": {
+        "floor": 0.0
+    },
+    "goatzzz-279190403": {
+        "floor": 0.0
+    },
+    "robohood-376491952": {
+        "floor": 0.0
+    },
+    "cat-bonkers-nft-425340282": {
+        "floor": 0.0
+    },
+    "stonkm-kqeyakaa": {
+        "floor": 0.0
+    },
+    "goatzzz": {
+        "floor": 0.0
+    },
+    "pufflings-929123533": {
+        "floor": 0.0
+    },
+    "phoenix-in-the-hood-580238241": {
+        "floor": 0.0
+    },
+    "harmony-in-motion-45306954": {
+        "floor": 0.0
+    },
+    "elonpunkrh": {
         "floor": 0.0
     }
 }
