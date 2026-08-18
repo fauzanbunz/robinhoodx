@@ -6112,10 +6112,10 @@
         "floor": 0.0
     },
     "poseidon2-665013484": {
-        "floor": 0.0
+        "floor": 0.00089999999999
     },
     "spread-by-unknown": {
-        "floor": 0.0
+        "floor": 2.4e-05
     },
     "ff-331028465": {
         "floor": 0.0
@@ -6139,7 +6139,7 @@
         "floor": 0.0
     },
     "3letters": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "nn-205459820": {
         "floor": 0.0
@@ -6163,7 +6163,7 @@
         "floor": 0.0
     },
     "web3-cat": {
-        "floor": 0.0
+        "floor": 0.001
     },
     "noctyra-835958847": {
         "floor": 0.07
@@ -6248,5 +6248,101 @@
     },
     "dragon-riot": {
         "floor": 0.06
+    },
+    "gondi_user_vault-945279474": {
+        "floor": 0.0
+    },
+    "robinkets": {
+        "floor": 0.0
+    },
+    "0x897c0070dc69756d5af5a807ddc0525c80acff71": {
+        "floor": 0.0
+    },
+    "wif-outlaws-nft-129366428": {
+        "floor": 0.08
+    },
+    "wer-158533306": {
+        "floor": 0.0
+    },
+    "rb-sharks": {
+        "floor": 0.0
+    },
+    "let-me-drive": {
+        "floor": 0.0
+    },
+    "robinhood-bot-test-do-not-mint": {
+        "floor": 0.0
+    },
+    "tempat-agency-nft": {
+        "floor": 0.0
+    },
+    "citizen-of-brokerhood": {
+        "floor": 0.0
+    },
+    "poseidon3": {
+        "floor": 0.0
+    },
+    "0x6d1504539dc7c25824f5194a836748812a4d0343": {
+        "floor": 0.0
+    },
+    "chuby-paaws": {
+        "floor": 0.0
+    },
+    "void-hunters": {
+        "floor": 0.0
+    },
+    "0xd9cc7763d0f7d957c05e89602075880f62fd7a6e": {
+        "floor": 0.0
+    },
+    "just-banners-921941698": {
+        "floor": 0.18
+    },
+    "anthropic-781677932": {
+        "floor": 0.0006
+    },
+    "crater-394857437": {
+        "floor": 0.0
+    },
+    "crater-272162809": {
+        "floor": 0.0
+    },
+    "pp-192244038": {
+        "floor": 0.0
+    },
+    "buddies-519627358": {
+        "floor": 0.00024999
+    },
+    "acospace-test-732844605": {
+        "floor": 0.0
+    },
+    "neon-owls-656866068": {
+        "floor": 2.0
+    },
+    "the-saudi-phones": {
+        "floor": 0.0
+    },
+    "artificial-inu-974835654": {
+        "floor": 0.05
+    },
+    "robin-rocks-gems-783004711": {
+        "floor": 0.0
+    },
+    "apes-robinhood-hoodi": {
+        "floor": 0.5
+    },
+    "0x70822b1d3b89f7fcbd1f58b9c7735a8da7d3580a": {
+        "floor": 0.0
+    },
+    "test-staked-position-985450458": {
+        "floor": 0.0
+    },
+    "chica-212417293": {
+        "floor": 0.0
+    },
+    "1111foxxy": {
+        "floor": 0.09
+    },
+    "thebunkerhood-740802352": {
+        "floor": 0.0
     }
 }
