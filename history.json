@@ -3796,7 +3796,7 @@
         "floor": 0.0
     },
     "sanikwave": {
-        "floor": 0.0
+        "floor": 6.9999999899999e-05
     },
     "testrun-echo": {
         "floor": 0.0
@@ -3917,5 +3917,134 @@
     },
     "the-saudis-oil-rigs": {
         "floor": 0.025
+    },
+    "chullas": {
+        "floor": 0.0001
+    },
+    "bullpixels": {
+        "floor": 0.0
+    },
+    "doetwn": {
+        "floor": 0.0
+    },
+    "purrivate-banker-nft": {
+        "floor": 0.1
+    },
+    "rekt-tradoors": {
+        "floor": 0.0
+    },
+    "buffalo-bliss": {
+        "floor": 0.0
+    },
+    "robimons-180826824": {
+        "floor": 0.0
+    },
+    "pixona-257215393": {
+        "floor": 0.0
+    },
+    "coreforge-72771515": {
+        "floor": 0.0
+    },
+    "trumpusd-441760145": {
+        "floor": 0.0
+    },
+    "mamho": {
+        "floor": 0.05
+    },
+    "nerds-on-rh-537814417": {
+        "floor": 0.0
+    },
+    "404-pixelated-identities-nft": {
+        "floor": 0.0
+    },
+    "blastoons-nft": {
+        "floor": 0.0
+    },
+    "pepecat-tenkai": {
+        "floor": 0.19
+    },
+    "panda-club-79424895": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-142726761": {
+        "floor": 0.0
+    },
+    "clay-stonkz-134070529": {
+        "floor": 0.0
+    },
+    "clay-stonkz": {
+        "floor": 0.0
+    },
+    "pakrie": {
+        "floor": 0.06
+    },
+    "deadware-nft-947604575": {
+        "floor": 0.4
+    },
+    "moody-archives-hood-nft": {
+        "floor": 0.0
+    },
+    "beeme": {
+        "floor": 0.05
+    },
+    "robimons": {
+        "floor": 0.0
+    },
+    "miu-830909070": {
+        "floor": 0.0
+    },
+    "doodle-ghoul-915753010": {
+        "floor": 0.06
+    },
+    "briefcase-inu": {
+        "floor": 0.0
+    },
+    "ms-paint-punks-nft": {
+        "floor": 0.0
+    },
+    "mini-brokers-974415868": {
+        "floor": 1.0
+    },
+    "tendiess-nft": {
+        "floor": 0.0
+    },
+    "internet-monkes-627432043": {
+        "floor": 0.0
+    },
+    "breed-lab": {
+        "floor": 0.0
+    },
+    "rekt-tradooors-wl-pass": {
+        "floor": 0.0
+    },
+    "cattoonhood-846735754": {
+        "floor": 0.0
+    },
+    "trippers-615853622": {
+        "floor": 0.0002
+    },
+    "the-relics-nft-255285666": {
+        "floor": 0.0
+    },
+    "niu-chang-niufactory": {
+        "floor": 0.0
+    },
+    "the-sun-rises-in-maluku": {
+        "floor": 0.0
+    },
+    "ms-paint-punk": {
+        "floor": 0.0
+    },
+    "999-collection-secret-airdrop": {
+        "floor": 2.9557724225486e-05
+    },
+    "trench-brokers": {
+        "floor": 0.0
+    },
+    "rekt-tradooors-nft": {
+        "floor": 50.0
+    },
+    "theregulatorsnft": {
+        "floor": 0.0
     }
 }
