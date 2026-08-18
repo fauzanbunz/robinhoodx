@@ -3310,13 +3310,13 @@
         "floor": 0.0
     },
     "retail-shrooms-limited-edition": {
-        "floor": 0.0
+        "floor": 0.02
     },
     "tmnt-522925732": {
         "floor": 0.0
     },
     "black-bull-264985210": {
-        "floor": 0.0
+        "floor": 0.002499
     },
     "hoodwif-outlaws-205117041": {
         "floor": 0.0
@@ -3446,5 +3446,137 @@
     },
     "the-oil-rigs-limited-edition-856462011": {
         "floor": 0.011
+    },
+    "pixel-scalies": {
+        "floor": 0.0
+    },
+    "angel-377234308": {
+        "floor": 0.0
+    },
+    "hood-rat-dumpster-genesis-193006497": {
+        "floor": 0.0
+    },
+    "frens-nft-218805683": {
+        "floor": 2.0
+    },
+    "bear-on-robinhood": {
+        "floor": 0.0
+    },
+    "nodes-nft-5957751": {
+        "floor": 0.0
+    },
+    "terminals-assistant-459798017": {
+        "floor": 0.0
+    },
+    "raticals-231034771": {
+        "floor": 0.12
+    },
+    "solar-luna": {
+        "floor": 0.9
+    },
+    "thecardwall-nft-925334805": {
+        "floor": 0.0
+    },
+    "the-bunker-41909140": {
+        "floor": 0.49
+    },
+    "0xc799a5e83b8229988271f8acc57dcae1211f8af8": {
+        "floor": 0.0
+    },
+    "robinmilfs-342695574": {
+        "floor": 0.0
+    },
+    "terminalassist-985022410": {
+        "floor": 0.0
+    },
+    "wif-outlaws-rh-nft": {
+        "floor": 0.0
+    },
+    "collectr-nft-885075701": {
+        "floor": 1.0
+    },
+    "test-hood": {
+        "floor": 0.0
+    },
+    "quack-588184623": {
+        "floor": 0.0
+    },
+    "titans-hood": {
+        "floor": 0.04
+    },
+    "lemon-terminal": {
+        "floor": 1.1
+    },
+    "0xd23f2b3a789ef6dc9adaba90d1744aa3af6890af": {
+        "floor": 0.0
+    },
+    "no-such-thing-as-overgrowth-374345268": {
+        "floor": 0.02
+    },
+    "bunny-nft-349167760": {
+        "floor": 0.0
+    },
+    "hoodzere": {
+        "floor": 0.02
+    },
+    "ntrpy-nft": {
+        "floor": 2.0
+    },
+    "internet-monkes-81903892": {
+        "floor": 0.03
+    },
+    "wifo-nft": {
+        "floor": 0.0
+    },
+    "robinbadge2": {
+        "floor": 0.0
+    },
+    "penguin-250510962": {
+        "floor": 18.0
+    },
+    "robohood-74410484": {
+        "floor": 0.0
+    },
+    "401k-639340987": {
+        "floor": 9.0
+    },
+    "hood-maxi-biz": {
+        "floor": 0.0
+    },
+    "bonebit-227866161": {
+        "floor": 0.0
+    },
+    "wifo-91837271": {
+        "floor": 6.0
+    },
+    "pad-0": {
+        "floor": 0.0
+    },
+    "fuwa-limited-edition-144662537": {
+        "floor": 0.0055
+    },
+    "degen-kitties": {
+        "floor": 9e-05
+    },
+    "the-rocks-nft": {
+        "floor": 0.0
+    },
+    "fake-world-brokers": {
+        "floor": 0.0
+    },
+    "0xb462f3f843521dee0a696e844549724b9faf8be0": {
+        "floor": 0.0
+    },
+    "shift-19628989": {
+        "floor": 0.0
+    },
+    "outlaws-nft-520312863": {
+        "floor": 0.0
+    },
+    "robinmons": {
+        "floor": 0.0
+    },
+    "tmnt-": {
+        "floor": 0.0
     }
 }
