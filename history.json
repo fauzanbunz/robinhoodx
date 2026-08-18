@@ -5962,13 +5962,13 @@
         "floor": 1.0
     },
     "balloon-buddies-920396032": {
-        "floor": 0.0
+        "floor": 0.00394
     },
     "mousewood": {
         "floor": 0.0
     },
     "robin-strategy-550250869": {
-        "floor": 0.0
+        "floor": 0.05
     },
     "0x757122439420900ca44a80c390d586011fd72c8a": {
         "floor": 0.0
@@ -6110,5 +6110,143 @@
     },
     "aihoodroid-7345616": {
         "floor": 0.0
+    },
+    "poseidon2-665013484": {
+        "floor": 0.0
+    },
+    "spread-by-unknown": {
+        "floor": 0.0
+    },
+    "ff-331028465": {
+        "floor": 0.0
+    },
+    "gogh-punks-nft-137307384": {
+        "floor": 10.01
+    },
+    "chica-890684638": {
+        "floor": 0.0
+    },
+    "block-hood-punks-26541416": {
+        "floor": 0.0
+    },
+    "0x6929bc93b1b5375a08f63a2e04ef870a33eb732d": {
+        "floor": 0.0
+    },
+    "wlf-outiaw": {
+        "floor": 0.0
+    },
+    "rb-rehearsal-7": {
+        "floor": 0.0
+    },
+    "3letters": {
+        "floor": 0.0
+    },
+    "nn-205459820": {
+        "floor": 0.0
+    },
+    "opengatetest": {
+        "floor": 0.0
+    },
+    "rekt-tradooors-robinhood": {
+        "floor": 0.0
+    },
+    "adfas-213259486": {
+        "floor": 0.0
+    },
+    "rh-tvs": {
+        "floor": 0.0259
+    },
+    "wif-outlaws-nft-320273073": {
+        "floor": 100.01
+    },
+    "0xde69b0371f0870b7e264b765904376ed38921894": {
+        "floor": 0.0
+    },
+    "web3-cat": {
+        "floor": 0.0
+    },
+    "noctyra-835958847": {
+        "floor": 0.07
+    },
+    "stonkcats-137773368": {
+        "floor": 0.0
+    },
+    "ratbastards-240694364": {
+        "floor": 0.0
+    },
+    "sigilion-492348635": {
+        "floor": 0.2
+    },
+    "ponsi-pyramids": {
+        "floor": 0.0
+    },
+    "0xfecf51a820bc1987ffcf40a66ca796d32e0c4b47": {
+        "floor": 0.0
+    },
+    "titanhood": {
+        "floor": 0.0
+    },
+    "0xaf8de1d9eaaa145cb865d8cb598f21873fb4e523": {
+        "floor": 0.0
+    },
+    "contract-staked-position-361902031": {
+        "floor": 0.0
+    },
+    "clockin-cats-47997973": {
+        "floor": 0.0
+    },
+    "clockin-cats-281903192": {
+        "floor": 0.0
+    },
+    "clockin-cats-502495326": {
+        "floor": 0.0
+    },
+    "sigilion-894058054": {
+        "floor": 0.2
+    },
+    "0x5510c80a8253e6c53f33a97ddb490aaeaf699ab1": {
+        "floor": 0.0
+    },
+    "ratbastards-971639532": {
+        "floor": 0.0
+    },
+    "wif-outlaws-robinhood": {
+        "floor": 0.0
+    },
+    "ratbastards-348628158": {
+        "floor": 0.0
+    },
+    "buddies-291248736": {
+        "floor": 0.23
+    },
+    "uropas-champs": {
+        "floor": 0.0
+    },
+    "uropas": {
+        "floor": 0.0
+    },
+    "goldtest-218288551": {
+        "floor": 0.0
+    },
+    "ratbastards-714857804": {
+        "floor": 0.0
+    },
+    "kaleidoskopnft": {
+        "floor": 0.0
+    },
+    "hoodlaunch": {
+        "floor": 0.0
+    },
+    "kaleidoskop-794928388": {
+        "floor": 0.0
+    },
+    "ddnjdn": {
+        "floor": 0.0
+    },
+    "they-anus": {
+        "floor": 0.789
+    },
+    "dragon-riot": {
+        "floor": 0.06
     }
 }
