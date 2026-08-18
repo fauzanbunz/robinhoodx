@@ -3589,13 +3589,13 @@
         "floor": 0.0
     },
     "bricklayers-698235552": {
-        "floor": 0.0
+        "floor": 0.001055
     },
     "0xd950d80aaf6560d752209f20d44bfa4b99bd3a7b": {
         "floor": 0.0
     },
     "little-fox-197914243": {
-        "floor": 0.0
+        "floor": 6.0
     },
     "blockers-428316876": {
         "floor": 1.0
@@ -3671,5 +3671,122 @@
     },
     "tao90": {
         "floor": 10.0
+    },
+    "robinmonkes-nft-208090552": {
+        "floor": 0.0
+    },
+    "kwoteef": {
+        "floor": 0.0
+    },
+    "turban-raiders": {
+        "floor": 0.0
+    },
+    "robin-object": {
+        "floor": 0.0
+    },
+    "boz-670687618": {
+        "floor": 0.0
+    },
+    "rb-identity-md": {
+        "floor": 0.0
+    },
+    "suits-mock-723223121": {
+        "floor": 0.0
+    },
+    "perapipa": {
+        "floor": 0.0
+    },
+    "broker-mini-punk": {
+        "floor": 0.0
+    },
+    "1234-372774812": {
+        "floor": 0.0
+    },
+    "zombies-mini-hoods": {
+        "floor": 0.0
+    },
+    "cat-bonkers-nft-722914537": {
+        "floor": 0.0
+    },
+    "0x1d55f33ae8a85261625dc612f9e0db0fe6dffc93": {
+        "floor": 0.0
+    },
+    "robin-ballads-376793049": {
+        "floor": 0.0
+    },
+    "robin-collectible-906643118": {
+        "floor": 0.0
+    },
+    "panda-673121957": {
+        "floor": 7.0
+    },
+    "shuangsha": {
+        "floor": 0.0
+    },
+    "0x0a24e1fcc69e3a453e7869d6b9e8aac6982e56d6": {
+        "floor": 2.0
+    },
+    "0xb4def74a1e66bc721feef5a1e4cd7561d5dc40b0": {
+        "floor": 0.0
+    },
+    "grid-outlaws": {
+        "floor": 0.0
+    },
+    "catyhood": {
+        "floor": 0.0
+    },
+    "cash-dogs-yacht-club": {
+        "floor": 0.001
+    },
+    "rogues-hood-624381321": {
+        "floor": 0.0
+    },
+    "shuang-sha": {
+        "floor": 0.0
+    },
+    "snaily-hood": {
+        "floor": 0.0
+    },
+    "bleach-920786636": {
+        "floor": 0.0
+    },
+    "brokers-senders": {
+        "floor": 0.31
+    },
+    "stonkerhoods": {
+        "floor": 0.05
+    },
+    "robinhoodkid-958943197": {
+        "floor": 0.0
+    },
+    "robinhoodkid-321132578": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-deployer-68022990": {
+        "floor": 0.0
+    },
+    "stonkers-nft-280174699": {
+        "floor": 0.09
+    },
+    "0x59648430e2fd508f882555f030b6daa0d1e40156": {
+        "floor": 0.0
+    },
+    "eclipserh": {
+        "floor": 0.09
+    },
+    "0xf63397f9efa8643f22c7f423fee2a7a0f3a7ce74": {
+        "floor": 0.0
+    },
+    "hun-711472537": {
+        "floor": 0.0
+    },
+    "the-tradors-nft-150020268": {
+        "floor": 0.0
+    },
+    "payc-mutants-375446425": {
+        "floor": 0.0
+    },
+    "hood-homies-gs": {
+        "floor": 0.0
     }
 }
