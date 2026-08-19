@@ -8824,7 +8824,7 @@
         "floor": 0.0
     },
     "rpgonchain-706327717": {
-        "floor": 0.0
+        "floor": 0.08
     },
     "camels-129187588": {
         "floor": 0.0
@@ -8971,6 +8971,117 @@
         "floor": 0.0
     },
     "street-drifters": {
+        "floor": 0.02
+    },
+    "vps-vs-vps-601830888": {
+        "floor": 0.0
+    },
+    "applicants-234321002": {
+        "floor": 0.0
+    },
+    "pots-of-greed-nft": {
+        "floor": 0.0
+    },
+    "pots-of-greed-hoodie": {
+        "floor": 0.1
+    },
+    "hoodsbonk": {
+        "floor": 0.19
+    },
+    "pixel-gang-members": {
+        "floor": 0.0
+    },
+    "silver-broker": {
+        "floor": 0.0
+    },
+    "royalty-punks-715182005": {
+        "floor": 0.0
+    },
+    "robin-monkess": {
+        "floor": 0.0
+    },
+    "colloseum-878198226": {
+        "floor": 0.0
+    },
+    "internet-monkes-698005689": {
+        "floor": 0.2
+    },
+    "0xcad8557ee5c473490fac379851fb67c391e817ef-78322700": {
+        "floor": 0.0
+    },
+    "boobs-211277404": {
+        "floor": 1.0
+    },
+    "zippilin": {
+        "floor": 1.0
+    },
+    "titans-344830660": {
+        "floor": 0.0
+    },
+    "onchainkitty": {
+        "floor": 0.1
+    },
+    "broker-jpg": {
+        "floor": 0.1
+    },
+    "darkfarms-125204441": {
+        "floor": 0.1
+    },
+    "63fin": {
+        "floor": 0.08
+    },
+    "ghost-boy-by-evan-luza2026": {
+        "floor": 0.0
+    },
+    "xrmx-785988733": {
+        "floor": 0.02
+    },
+    "shroomies-hood": {
+        "floor": 0.5
+    },
+    "stonkcert-slab": {
+        "floor": 0.0
+    },
+    "fvbr": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-272409525": {
+        "floor": 0.0
+    },
+    "acids-887025773": {
+        "floor": 0.0004
+    },
+    "broke-dealers": {
+        "floor": 0.08
+    },
+    "cash-penguin-839209508": {
+        "floor": 0.0
+    },
+    "rhburnerpass-reference": {
+        "floor": 0.0
+    },
+    "boras-nft-919463055": {
+        "floor": 0.9
+    },
+    "wormshole": {
+        "floor": 0.0
+    },
+    "hoodclop": {
+        "floor": 0.1
+    },
+    "eggs-den": {
+        "floor": 0.0
+    },
+    "elevens-327635067": {
+        "floor": 0.0
+    },
+    "pixelsuit-gang": {
+        "floor": 0.63
+    },
+    "kivu-bears-937041746": {
+        "floor": 0.09
+    },
+    "poopy-poop-friends-561391375": {
         "floor": 0.02
     }
 }
