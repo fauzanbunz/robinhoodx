@@ -2404,7 +2404,7 @@
         "floor": 0.0
     },
     "hoodies-stac": {
-        "floor": 0.0
+        "floor": 0.0005
     },
     "0il-rig": {
         "floor": 0.0
@@ -8092,6 +8092,153 @@
         "floor": 2.2
     },
     "future-attest-by-virtuals": {
+        "floor": 0.0
+    },
+    "bruh-bear-58320075": {
+        "floor": 0.0
+    },
+    "lama-388986029": {
+        "floor": 0.0
+    },
+    "angels-814465480": {
+        "floor": 0.0
+    },
+    "apes-brazil": {
+        "floor": 1.0
+    },
+    "future-shoal-research-by-virtuals": {
+        "floor": 0.0
+    },
+    "stackers-38769915": {
+        "floor": 0.0
+    },
+    "stackers-380145906": {
+        "floor": 0.0
+    },
+    "stackers-195339508": {
+        "floor": 0.0
+    },
+    "stackers-455220025": {
+        "floor": 0.0
+    },
+    "robindroids-411541282": {
+        "floor": 0.1
+    },
+    "1337-rh": {
+        "floor": 0.0
+    },
+    "0x8f32deed470b506c8f686f1b39884c234403e073": {
+        "floor": 0.0009
+    },
+    "limeyo": {
+        "floor": 0.0
+    },
+    "robinkets-637792460": {
+        "floor": 1.5
+    },
+    "pixelforge-ingots-208955430": {
+        "floor": 0.0
+    },
+    "0xabebfb0918e9f5e9c590f46edb363156f56768d8": {
+        "floor": 0.0
+    },
+    "cash-pur": {
+        "floor": 0.0
+    },
+    "ih-252877684": {
+        "floor": 0.0
+    },
+    "0xa85173b13b55d689423108b18a1d6d2596fe9b03": {
+        "floor": 0.0
+    },
+    "pixeljunkie-424424002": {
+        "floor": 0.0
+    },
+    "future-rustic-ai-by-virtuals": {
+        "floor": 0.0
+    },
+    "miner-cats": {
+        "floor": 0.0
+    },
+    "iloveyou-nft": {
+        "floor": 0.0
+    },
+    "new-drop-test": {
+        "floor": 0.0
+    },
+    "robin-hex-313639023": {
+        "floor": 0.0
+    },
+    "ric-lan": {
+        "floor": 0.0
+    },
+    "quickmint-genesis-2-524680466": {
+        "floor": 0.0
+    },
+    "punkz-brokers": {
+        "floor": 0.0
+    },
+    "quickmint-genesis-2": {
+        "floor": 0.0
+    },
+    "wdas-299681136": {
+        "floor": 0.3
+    },
+    "bullies-on-bnb": {
+        "floor": 1.0
+    },
+    "cendrawasih-hood": {
+        "floor": 0.04
+    },
+    "chainchamps": {
+        "floor": 0.0
+    },
+    "robohood-nft": {
+        "floor": 0.0
+    },
+    "temp-agency-genesis": {
+        "floor": 0.0
+    },
+    "tryoy": {
+        "floor": 0.0
+    },
+    "robinhoodcodex-rwa-archive-964173970": {
+        "floor": 0.0
+    },
+    "ekubo-ve33-position": {
+        "floor": 0.0
+    },
+    "tauronomics": {
+        "floor": 0.02
+    },
+    "grupper": {
+        "floor": 0.0
+    },
+    "hood-rat-dumpster-club-nft-389839292": {
+        "floor": 1.0
+    },
+    "robin-buddies-240132640": {
+        "floor": 0.0
+    },
+    "fonznft": {
+        "floor": 0.0
+    },
+    "lofi-wagies": {
+        "floor": 0.0006
+    },
+    "robin-buddies-nft": {
+        "floor": 0.03
+    },
+    "mortis-nft-806256896": {
+        "floor": 0.0
+    },
+    "da-kings": {
+        "floor": 0.0
+    },
+    "pepe-birds-486661213": {
+        "floor": 0.04
+    },
+    "future-icarus-finance-by-virtuals": {
         "floor": 0.0
     }
 }
