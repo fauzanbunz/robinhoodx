@@ -7759,7 +7759,7 @@
         "floor": 0.0
     },
     "mortis-441386714": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "swag-dogey": {
         "floor": 0.0
@@ -7864,7 +7864,7 @@
         "floor": 0.00015
     },
     "titanshood": {
-        "floor": 0.0
+        "floor": 0.011
     },
     "temp-agency-rh": {
         "floor": 0.15
@@ -7885,12 +7885,90 @@
         "floor": 0.0
     },
     "saishu-hood": {
-        "floor": 0.0
+        "floor": 1.5e-05
     },
     "robinhood-labs": {
         "floor": 2.0
     },
     "cashcat-society": {
         "floor": 0.0
+    },
+    "test01-587951641": {
+        "floor": 0.0
+    },
+    "robin-strategy-270772875": {
+        "floor": 0.0
+    },
+    "robies-co-83719052": {
+        "floor": 0.0
+    },
+    "recycle-or-die": {
+        "floor": 0.19
+    },
+    "ewpezar-295066019": {
+        "floor": 0.0
+    },
+    "ewpezar": {
+        "floor": 0.0
+    },
+    "goose-547797153": {
+        "floor": 0.0
+    },
+    "cosmic-sadness": {
+        "floor": 0.0
+    },
+    "test01-156014488": {
+        "floor": 0.0
+    },
+    "bullies-283218958": {
+        "floor": 0.05
+    },
+    "the-octos-hood": {
+        "floor": 0.0
+    },
+    "robimons-184043887": {
+        "floor": 0.0
+    },
+    "13f-broker-seat-532110894": {
+        "floor": 0.0
+    },
+    "robimons-756378104": {
+        "floor": 0.0
+    },
+    "pepe-gator-746726491": {
+        "floor": 0.0
+    },
+    "leg-test-six-positions": {
+        "floor": 0.0
+    },
+    "robin-kids-575456855": {
+        "floor": 2.51
+    },
+    "0x1dc56105cbee5511b25da6ee16a883eaece70ba7": {
+        "floor": 0.0
+    },
+    "babanana-652639490": {
+        "floor": 0.0
+    },
+    "the-rangers-nft-512400969": {
+        "floor": 0.0
+    },
+    "0xc088da80a94e28485b430d790946d50ec5205285": {
+        "floor": 0.0
+    },
+    "focused-on-feet": {
+        "floor": 0.0
+    },
+    "hoodwojaknft-212995840": {
+        "floor": 0.0
+    },
+    "the-hooded": {
+        "floor": 9.9e-05
+    },
+    "big--d": {
+        "floor": 0.15
+    },
+    "igniki-": {
+        "floor": 0.017
     }
 }
