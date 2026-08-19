@@ -9094,13 +9094,13 @@
         "floor": 0.0
     },
     "0x66c734762e4c863c92b28c007f8c8f5831cfd080": {
-        "floor": 0.0
+        "floor": 0.03
     },
     "hood-demons": {
         "floor": 0.0
     },
     "0x95e339133a0925ebd32c62204e2bff57a2aafe22": {
-        "floor": 0.0
+        "floor": 2.0
     },
     "chica-627519036": {
         "floor": 0.0
@@ -9224,5 +9224,134 @@
     },
     "neon-emotions": {
         "floor": 0.1
+    },
+    "bullbluerh-40834162": {
+        "floor": 0.0
+    },
+    "hood-puppets": {
+        "floor": 0.0
+    },
+    "bigd-160347657": {
+        "floor": 0.0
+    },
+    "squadmania": {
+        "floor": 0.0
+    },
+    "slo-950637686": {
+        "floor": 0.0
+    },
+    "thedagestanis": {
+        "floor": 0.0
+    },
+    "0x2a117634698013d742f331e28cd798b093ae4b93": {
+        "floor": 0.0
+    },
+    "efg-36280367": {
+        "floor": 0.0
+    },
+    "doodle-ape-robinhood": {
+        "floor": 0.0
+    },
+    "king-is-back-647109823": {
+        "floor": 0.0
+    },
+    "internink-agent": {
+        "floor": 0.0
+    },
+    "aza-424036248": {
+        "floor": 0.0
+    },
+    "insomnus-148733266": {
+        "floor": 0.2
+    },
+    "monnero-810688974": {
+        "floor": 0.0
+    },
+    "vps-vs-vps-700946422": {
+        "floor": 0.0
+    },
+    "ihdagtry": {
+        "floor": 0.0
+    },
+    "robinhood-mfers-71198782": {
+        "floor": 0.0002
+    },
+    "dungeon-employees-269787887": {
+        "floor": 0.0
+    },
+    "0x4741a1f2048d06ed6425bbfec342115e2991ad4d": {
+        "floor": 0.0
+    },
+    "lilverse-147692398": {
+        "floor": 0.2
+    },
+    "robinhoodcodex-rwa-1722349": {
+        "floor": 0.0
+    },
+    "moshikins-179558123": {
+        "floor": 200.0
+    },
+    "p4wn": {
+        "floor": 0.0003
+    },
+    "trencent": {
+        "floor": 0.0
+    },
+    "fomobrokers-desk-6176097": {
+        "floor": 0.0
+    },
+    "chica-70089648": {
+        "floor": 0.0
+    },
+    "the-revenants-633814659": {
+        "floor": 2e-05
+    },
+    "banker-542305053": {
+        "floor": 0.0
+    },
+    "nyxbound-314614901": {
+        "floor": 0.01
+    },
+    "ih-811306611": {
+        "floor": 0.0
+    },
+    "octo-522834622": {
+        "floor": 0.05
+    },
+    "starstruck-by-proxy": {
+        "floor": 0.002
+    },
+    "ih-620931231": {
+        "floor": 0.0
+    },
+    "thinking-catss-nft-692350782": {
+        "floor": 0.02
+    },
+    "ihdag-791987865": {
+        "floor": 0.0
+    },
+    "robin-buddies-384026659": {
+        "floor": 0.0003
+    },
+    "robin-rubin": {
+        "floor": 0.5
+    },
+    "hoodie-stackers-brokers": {
+        "floor": 0.05
+    },
+    "mini-brokers-536917048": {
+        "floor": 0.09
+    },
+    "degen-flork-723807694": {
+        "floor": 0.1
+    },
+    "the-tradors-nft-286766947": {
+        "floor": 2.01
+    },
+    "rh-scaffold-nft": {
+        "floor": 0.0
+    },
+    "hoodpiratess": {
+        "floor": 0.02
     }
 }
