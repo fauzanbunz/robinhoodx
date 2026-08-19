@@ -6511,7 +6511,7 @@
         "floor": 0.0
     },
     "brainer-test": {
-        "floor": 0.0
+        "floor": 0.0002
     },
     "chaingreets-nft-733232639": {
         "floor": 0.0
@@ -6541,7 +6541,7 @@
         "floor": 0.0
     },
     "tates-907751498": {
-        "floor": 0.002297
+        "floor": 0.0021
     },
     "the-rangers-nft-946970179": {
         "floor": 8.0
@@ -6568,7 +6568,7 @@
         "floor": 0.0
     },
     "babytrump-31615437": {
-        "floor": 0.2
+        "floor": 0.13
     },
     "lokitrump": {
         "floor": 0.0
@@ -6622,6 +6622,93 @@
         "floor": 0.011
     },
     "titansrh": {
+        "floor": 0.0
+    },
+    "doodads-wtfs": {
+        "floor": 0.0
+    },
+    "nft-sniper-test-290791040": {
+        "floor": 0.0
+    },
+    "0x79aeba0143703d91865db5edc383b11902bebe99": {
+        "floor": 0.0
+    },
+    "liquidtsh": {
+        "floor": 0.0
+    },
+    "soho-": {
+        "floor": 0.0
+    },
+    "ghost-cats-495761585": {
+        "floor": 0.00014
+    },
+    "titans-4667621": {
+        "floor": 0.0
+    },
+    "paydirt-miner-290478926": {
+        "floor": 0.0
+    },
+    "bruh-bears-244662802": {
+        "floor": 0.2
+    },
+    "toplica-milosevics-745698510": {
+        "floor": 0.0
+    },
+    "kojiro-12661211": {
+        "floor": 0.05
+    },
+    "goku-pandas": {
+        "floor": 0.0
+    },
+    "soho-nft": {
+        "floor": 0.0
+    },
+    "defunks-777": {
+        "floor": 0.0
+    },
+    "the-saudis-roobihood": {
+        "floor": 0.0
+    },
+    "traderwithhat": {
+        "floor": 0.0
+    },
+    "pewpewahshoot": {
+        "floor": 0.001047
+    },
+    "test-rh-279930541": {
+        "floor": 0.0
+    },
+    "the-paydirt-miners": {
+        "floor": 0.08
+    },
+    "lilreps": {
+        "floor": 0.0
+    },
+    "proofofpotatodeployer": {
+        "floor": 0.0
+    },
+    "turtle-fees-nft-914501157": {
+        "floor": 0.34
+    },
+    "hood-miners": {
+        "floor": 0.0
+    },
+    "ethos-meow-meows-nft-996749683": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-644533499": {
+        "floor": 0.0
+    },
+    "tisto": {
+        "floor": 0.0
+    },
+    "testio-853337817": {
+        "floor": 0.0
+    },
+    "lil-reps-882817801": {
+        "floor": 0.0
+    },
+    "lil-repsssssss": {
         "floor": 0.0
     }
 }
