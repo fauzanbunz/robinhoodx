@@ -11674,7 +11674,7 @@
         "floor": 0.0
     },
     "kivu-bears-835363685": {
-        "floor": 0.0
+        "floor": 0.2
     },
     "xyztest": {
         "floor": 0.0
@@ -11809,6 +11809,126 @@
         "floor": 0.01
     },
     "testing-dontbuy": {
+        "floor": 0.0
+    },
+    "leg-test-ten-positions": {
+        "floor": 0.0
+    },
+    "onchainkitty-385662510": {
+        "floor": 0.0
+    },
+    "0x4520e0fde5632bbaec036aabf4013e480b9a1087": {
+        "floor": 0.0
+    },
+    "robihood": {
+        "floor": 0.5
+    },
+    "acres-markets-board": {
+        "floor": 0.0
+    },
+    "acres-markets-genesis-worker": {
+        "floor": 0.0
+    },
+    "snail-piace": {
+        "floor": 2.5
+    },
+    "phlzxdb": {
+        "floor": 0.0
+    },
+    "pixels-938344817": {
+        "floor": 0.0
+    },
+    "internetmonkes": {
+        "floor": 0.0
+    },
+    "numen-case-reserve-468642382": {
+        "floor": 0.0
+    },
+    "holigans-677030230": {
+        "floor": 0.03
+    },
+    "dsadas-211226631": {
+        "floor": 2.0
+    },
+    "bank-stonkbankers": {
+        "floor": 0.0
+    },
+    "snail-homebody": {
+        "floor": 0.05
+    },
+    "xylyx": {
+        "floor": 0.0
+    },
+    "ruggin-hood": {
+        "floor": 0.0
+    },
+    "oddysey-ai": {
+        "floor": 0.0
+    },
+    "hood-golden-pass": {
+        "floor": 0.0
+    },
+    "gold-of-arabia": {
+        "floor": 0.25
+    },
+    "polihood": {
+        "floor": 0.0
+    },
+    "foxxxx-574067479": {
+        "floor": 0.19
+    },
+    "liquidity-book-token-654506146": {
+        "floor": 0.0
+    },
+    "0xf9b5932772eb6a885ecd8290a4341499646584a3": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-528522827": {
+        "floor": 0.0
+    },
+    "dogdog-brokes": {
+        "floor": 0.0
+    },
+    "0x6870fce147816d3b8690a038fe3d133f25e98032": {
+        "floor": 0.0
+    },
+    "the-floks": {
+        "floor": 0.0153
+    },
+    "apheonn3": {
+        "floor": 0.0
+    },
+    "pixelforge-874600868": {
+        "floor": 0.07
+    },
+    "ntrpyy": {
+        "floor": 0.0
+    },
+    "dfcsdcsd-722835685": {
+        "floor": 0.1
+    },
+    "lola-643893421": {
+        "floor": 0.0
+    },
+    "0x0833c3830663f9f14857f050fa0e567777944e01": {
+        "floor": 0.322
+    },
+    "penguhood-5824443": {
+        "floor": 0.0
+    },
+    "0x84f540047cb5ee96c4bd99e6568b76922aac6160": {
+        "floor": 0.1
+    },
+    "open-the-gates-873509615": {
+        "floor": 0.1
+    },
+    "rabbithood-society-nft": {
+        "floor": 0.1
+    },
+    "nrpy-nft": {
+        "floor": 0.0
+    },
+    "0x0a77dd3764d0485bb8e0c4890905d7ef7f2ed5bc": {
         "floor": 0.0
     }
 }
