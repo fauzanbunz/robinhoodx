@@ -12103,7 +12103,7 @@
         "floor": 0.0
     },
     "ricig": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "0xa7eb5470c16f8d344fc0cb0dbca82cd9bae8d5ed": {
         "floor": 0.0
@@ -12229,6 +12229,129 @@
         "floor": 0.0
     },
     "chibi-batman-562736451": {
+        "floor": 0.0
+    },
+    "blockchain-warriors-802961869": {
+        "floor": 0.0
+    },
+    "goose-850361938": {
+        "floor": 0.0
+    },
+    "peace-man": {
+        "floor": 0.0
+    },
+    "ferret-hood-838329588": {
+        "floor": 0.25
+    },
+    "moonbabies-877456126": {
+        "floor": 0.0
+    },
+    "do-not-shake": {
+        "floor": 0.2
+    },
+    "galaktic-gang-embodied": {
+        "floor": 0.0
+    },
+    "regularpunks2026": {
+        "floor": 0.0
+    },
+    "ramenhood-genesis": {
+        "floor": 0.0
+    },
+    "0xd140e99fa5545dc12f0772b966a90a77d4aa283c": {
+        "floor": 0.0
+    },
+    "khdsasgdasldsagdlasdg": {
+        "floor": 0.0
+    },
+    "assa-663950214": {
+        "floor": 0.0
+    },
+    "pixelated-souls-127507491": {
+        "floor": 0.0
+    },
+    "suited-apes-society-462328973": {
+        "floor": 0.5
+    },
+    "memecoin-option-short": {
+        "floor": 0.0
+    },
+    "memecoin-option": {
+        "floor": 0.0
+    },
+    "nothe-trompe": {
+        "floor": 0.2
+    },
+    "ordinalfep-429166250": {
+        "floor": 0.012
+    },
+    "the-floaters": {
+        "floor": 0.007
+    },
+    "frogwood": {
+        "floor": 0.01
+    },
+    "stb-705325688": {
+        "floor": 0.0
+    },
+    "artificial-inus": {
+        "floor": 0.0
+    },
+    "ranchies-75123764": {
+        "floor": 0.0
+    },
+    "nothingguarantees": {
+        "floor": 0.0
+    },
+    "millionplots": {
+        "floor": 0.0
+    },
+    "0x45ef1d6e7c504605e3fbd4c893949b0090d3cb48": {
+        "floor": 0.0
+    },
+    "kenji-origins-genesis": {
+        "floor": 0.01
+    },
+    "gremlin-capital": {
+        "floor": 0.0
+    },
+    "degenpixelfe": {
+        "floor": 8.9e-05
+    },
+    "pig-dynasty": {
+        "floor": 9.98e-05
+    },
+    "stackers-930399781": {
+        "floor": 0.0
+    },
+    "the-sunday-society": {
+        "floor": 0.0
+    },
+    "frogie-409657482": {
+        "floor": 0.09
+    },
+    "fingers-me-losers-930583130": {
+        "floor": 0.0
+    },
+    "fingers-me-winners-821774672": {
+        "floor": 0.0
+    },
+    "degenpixel": {
+        "floor": 9.99
+    },
+    "robo-dogs-753363816": {
+        "floor": 0.2
+    },
+    "the-crested-swift-mainnet-pioneer": {
+        "floor": 0.0
+    },
+    "hedge-lords-nft": {
+        "floor": 0.0033
+    },
+    "proof-of-potato-663784810": {
+        "floor": 0.0
+    },
+    "degenpixel4545": {
         "floor": 0.0
     }
 }
