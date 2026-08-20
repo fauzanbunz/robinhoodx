@@ -12238,16 +12238,16 @@
         "floor": 0.0
     },
     "peace-man": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "ferret-hood-838329588": {
-        "floor": 0.25
+        "floor": 0.2
     },
     "moonbabies-877456126": {
         "floor": 0.0
     },
     "do-not-shake": {
-        "floor": 0.2
+        "floor": 0.1
     },
     "galaktic-gang-embodied": {
         "floor": 0.0
@@ -12268,7 +12268,7 @@
         "floor": 0.0
     },
     "pixelated-souls-127507491": {
-        "floor": 0.0
+        "floor": 0.19
     },
     "suited-apes-society-462328973": {
         "floor": 0.5
@@ -12353,5 +12353,116 @@
     },
     "degenpixel4545": {
         "floor": 0.0
+    },
+    "0x902c88175dce0d6804f2578c34c3e5fff64c1864": {
+        "floor": 0.0
+    },
+    "v2-341550813": {
+        "floor": 0.0
+    },
+    "dfdwvmm": {
+        "floor": 0.0
+    },
+    "chairs-751826865": {
+        "floor": 0.0
+    },
+    "evil-apes": {
+        "floor": 0.0
+    },
+    "robinaldo": {
+        "floor": 0.0
+    },
+    "stb-206288968": {
+        "floor": 2.0
+    },
+    "pko-960761098": {
+        "floor": 2.0
+    },
+    "mystic-menagerie-907320093": {
+        "floor": 0.0
+    },
+    "0x9fc1696d68d88eab0ae9b2a0356b5adafcdc091a": {
+        "floor": 8.0
+    },
+    "snaily-hood-58915998": {
+        "floor": 0.0
+    },
+    "stb-948875055": {
+        "floor": 0.0001
+    },
+    "triple-nft-52570174": {
+        "floor": 0.81
+    },
+    "funky-punks-988823133": {
+        "floor": 0.0
+    },
+    "drop-2-793106627": {
+        "floor": 0.0
+    },
+    "weird-little-pixel-995930871": {
+        "floor": 0.0
+    },
+    "hedge-lords-470256401": {
+        "floor": 0.0
+    },
+    "monkeyhood-v2": {
+        "floor": 1.0
+    },
+    "i-did-an-update": {
+        "floor": 0.0
+    },
+    "tofu-642326806": {
+        "floor": 0.0
+    },
+    "robinmilfsphase2": {
+        "floor": 0.0
+    },
+    "ntrpy-nft-986052362": {
+        "floor": 0.0
+    },
+    "cyberleek-gta": {
+        "floor": 0.0
+    },
+    "rwakers-nft-575966679": {
+        "floor": 0.02
+    },
+    "nothingguarantees-930465080": {
+        "floor": 0.0
+    },
+    "kimoli": {
+        "floor": 0.0
+    },
+    "plot-twist-620365114": {
+        "floor": 0.0
+    },
+    "rwa-flywheel-babies": {
+        "floor": 0.0
+    },
+    "lil-fighters-rh": {
+        "floor": 0.0368
+    },
+    "ntrpy-nft-195815134": {
+        "floor": 20.01
+    },
+    "funky-punks-live": {
+        "floor": 0.5
+    },
+    "robin-bandits-491152168": {
+        "floor": 0.05
+    },
+    "test-123-635200347": {
+        "floor": 0.0
+    },
+    "luvable": {
+        "floor": 0.0
+    },
+    "royalty-punks-19968059": {
+        "floor": 0.0072
+    },
+    "stackers-215071758": {
+        "floor": 0.0
+    },
+    "cyberleek-": {
+        "floor": 0.0039
     }
 }
