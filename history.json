@@ -12997,7 +12997,7 @@
         "floor": 0.0
     },
     "marketmobs": {
-        "floor": 9.4e-05
+        "floor": 0.0003
     },
     "fingers-me-losers-125929287": {
         "floor": 0.0
@@ -13028,5 +13028,56 @@
     },
     "dmbqeex": {
         "floor": 0.0
+    },
+    "0x3dfe9fa3ea19e76c5729e8a7b053e4c0114228e3": {
+        "floor": 0.0
+    },
+    "ordinalofep": {
+        "floor": 100.0
+    },
+    "0x9aab87460349677c4865452de6e344ae39737463": {
+        "floor": 0.0
+    },
+    "test-position-496429708": {
+        "floor": 0.0
+    },
+    "cyberthrone-468515127": {
+        "floor": 0.1
+    },
+    "rwptkhl": {
+        "floor": 0.0
+    },
+    "teddorarh": {
+        "floor": 0.06
+    },
+    "tgzhfve": {
+        "floor": 0.0
+    },
+    "the-colony-994581923": {
+        "floor": 0.0
+    },
+    "kiyo-740589331": {
+        "floor": 0.06
+    },
+    "apahace-yoig": {
+        "floor": 1.99
+    },
+    "bullish-misfits-600705995": {
+        "floor": 0.0
+    },
+    "0xfee7356624cec719b69f53bd29382e4a7f5f5484": {
+        "floor": 0.0
+    },
+    "genesis-q": {
+        "floor": 0.0
+    },
+    "market-creatures-v3-mainnet-beta-72699155": {
+        "floor": 0.0
+    },
+    "0x225be01b45ff7a630d75f4e9797ab7c09bcb41f3": {
+        "floor": 0.000999
+    },
+    "cannacat-739737987": {
+        "floor": 0.08
     }
 }
