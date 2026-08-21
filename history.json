@@ -12355,7 +12355,7 @@
         "floor": 0.0
     },
     "0x902c88175dce0d6804f2578c34c3e5fff64c1864": {
-        "floor": 0.0
+        "floor": 2.2e-05
     },
     "v2-341550813": {
         "floor": 0.0
@@ -12364,7 +12364,7 @@
         "floor": 0.0
     },
     "chairs-751826865": {
-        "floor": 0.0
+        "floor": 0.5
     },
     "evil-apes": {
         "floor": 0.0
@@ -12373,16 +12373,16 @@
         "floor": 0.0
     },
     "stb-206288968": {
-        "floor": 2.0
+        "floor": 1.0
     },
     "pko-960761098": {
-        "floor": 2.0
+        "floor": 1.0
     },
     "mystic-menagerie-907320093": {
-        "floor": 0.0
+        "floor": 0.4
     },
     "0x9fc1696d68d88eab0ae9b2a0356b5adafcdc091a": {
-        "floor": 8.0
+        "floor": 1.0
     },
     "snaily-hood-58915998": {
         "floor": 0.0
@@ -12412,7 +12412,7 @@
         "floor": 0.0
     },
     "tofu-642326806": {
-        "floor": 0.0
+        "floor": 100.0
     },
     "robinmilfsphase2": {
         "floor": 0.0
@@ -12464,5 +12464,113 @@
     },
     "cyberleek-": {
         "floor": 0.0039
+    },
+    "crt-bankers-706185113": {
+        "floor": 0.0
+    },
+    "hidden-box-69476998": {
+        "floor": 0.0
+    },
+    "black-931774286": {
+        "floor": 0.0
+    },
+    "hedgehogs-hood": {
+        "floor": 0.0
+    },
+    "dsjhsldhsaldsdkh": {
+        "floor": 0.0
+    },
+    "hedgehogs-rh": {
+        "floor": 0.2
+    },
+    "hedgehogs-321949165": {
+        "floor": 0.1
+    },
+    "dksldhsalakdsh": {
+        "floor": 0.0
+    },
+    "drop-5-666575925": {
+        "floor": 0.0
+    },
+    "acospace-test-61184883": {
+        "floor": 0.0
+    },
+    "onchainbunnies": {
+        "floor": 0.0
+    },
+    "delistedclub": {
+        "floor": 0.0
+    },
+    "hedgehogs-nft-107593943": {
+        "floor": 6.0
+    },
+    "0x80bdcef622423f523315fd3e4df6aaff40384e52": {
+        "floor": 0.0
+    },
+    "shadow-wizard-money-gang": {
+        "floor": 0.0
+    },
+    "fabledchronicles-153128593": {
+        "floor": 0.02
+    },
+    "chica-137650100": {
+        "floor": 0.0
+    },
+    "0xf0d500b469cffbdef7b0efa7545c711aafb616bf": {
+        "floor": 0.0
+    },
+    "drop-4-649147749": {
+        "floor": 60.0
+    },
+    "0xd9b4023ee11d5c14407a4869b5bda237bef4a7e1": {
+        "floor": 0.0
+    },
+    "dvyhize": {
+        "floor": 0.0
+    },
+    "kiyo-490565079": {
+        "floor": 0.0
+    },
+    "0x9767428d5995a70dd206a21a5b44867a7b0ce7d9-79742858": {
+        "floor": 0.0
+    },
+    "cash-pepes-861242343": {
+        "floor": 6.998e-05
+    },
+    "drop-3-909474598": {
+        "floor": 0.0
+    },
+    "0x64d5734b5063603af6f1d393b9e7885724fa36ac-699656982": {
+        "floor": 0.0
+    },
+    "0x7bba41e4b19dcca3efa3d4f65391834aaf526ea9-330736859": {
+        "floor": 0.0
+    },
+    "minter-bench": {
+        "floor": 0.0
+    },
+    "tstmint1": {
+        "floor": 0.0
+    },
+    "0x079e23352721084561fb241593d16a4e6f548a97-839449677": {
+        "floor": 0.0
+    },
+    "0xea573d90cfd624bed1344a7a7eb44785ae1ad540-215405119": {
+        "floor": 0.0
+    },
+    "robin-rabbits-834193084": {
+        "floor": 0.0
+    },
+    "0xa64a747939a5ac386dd30511540278bbf112df81": {
+        "floor": 0.0
+    },
+    "who-made-founders-bluevalley-labs": {
+        "floor": 0.0
+    },
+    "hedge-lords-official": {
+        "floor": 9.0
+    },
+    "robinmilfsphasetwooo": {
+        "floor": 0.0
     }
 }
