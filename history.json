@@ -14890,13 +14890,13 @@
         "floor": 0.0
     },
     "dummy-money-802521973": {
-        "floor": 0.0
+        "floor": 0.06
     },
     "rektoor": {
         "floor": 0.0
     },
     "mferhood": {
-        "floor": 0.9
+        "floor": 0.5
     },
     "fonz-on-pons": {
         "floor": 0.0052
@@ -14905,7 +14905,7 @@
         "floor": 1.0
     },
     "ofepforeverypeople-127868521": {
-        "floor": 0.03
+        "floor": 0.02
     },
     "pixel-critters-795217234": {
         "floor": 4.038963852e-05
@@ -15005,5 +15005,131 @@
     },
     "acolyte-58099565": {
         "floor": 0.0
+    },
+    "mewbits": {
+        "floor": 0.0
+    },
+    "testspeed": {
+        "floor": 0.0
+    },
+    "cow-boy-758736354": {
+        "floor": 0.0
+    },
+    "robion": {
+        "floor": 1.0
+    },
+    "monks-on-robinnhood": {
+        "floor": 9.9e-05
+    },
+    "0x97f28048ee255bab72144e7f67ca6def5611ade1": {
+        "floor": 0.0
+    },
+    "0x70c4894c24ed47b63ba11b067ed193723faafc6e": {
+        "floor": 0.0
+    },
+    "lowtide-citizens": {
+        "floor": 0.0
+    },
+    "grinding-skulls": {
+        "floor": 0.03
+    },
+    "horse-hood-893426925": {
+        "floor": 0.0
+    },
+    "intaglio-705297875": {
+        "floor": 0.1
+    },
+    "golden-love-643598285": {
+        "floor": 0.0
+    },
+    "0x9ad3b3775045f130fdc53b17cf1eb5339ad905f0": {
+        "floor": 0.0
+    },
+    "miwaki-clan": {
+        "floor": 0.001
+    },
+    "stackers-572319420": {
+        "floor": 0.0
+    },
+    "nft-broo": {
+        "floor": 0.0
+    },
+    "pirates-of-robinhoodland": {
+        "floor": 0.29
+    },
+    "the-ghosties-477624541": {
+        "floor": 0.05
+    },
+    "0x4db792e803b6e1bfcddad4d9ae4db5f05c1e2ae7": {
+        "floor": 0.0
+    },
+    "neon-doodle": {
+        "floor": 0.0
+    },
+    "pixona-126437838": {
+        "floor": 1.0
+    },
+    "0x0e8dc6fd7d2f3f5334316b69aefcb8fe4a6062e5": {
+        "floor": 0.0
+    },
+    "scbp": {
+        "floor": 7.89e-05
+    },
+    "testitesta": {
+        "floor": 0.0
+    },
+    "stonkwood-brokers-937644045": {
+        "floor": 1.0
+    },
+    "pepe-vip-115295273": {
+        "floor": 0.02
+    },
+    "void888": {
+        "floor": 0.0
+    },
+    "devils-hood": {
+        "floor": 0.0
+    },
+    "robin-foot-908450549": {
+        "floor": 0.00066
+    },
+    "0xdcb108e56d4d71b02cb9a19d76478eb386834167": {
+        "floor": 0.0
+    },
+    "kenji-origins-728135034": {
+        "floor": 1.0
+    },
+    "moshikins-208611441": {
+        "floor": 0.0
+    },
+    "pears-335498382": {
+        "floor": 0.0
+    },
+    "timsouw": {
+        "floor": 0.09
+    },
+    "void999": {
+        "floor": 0.0
+    },
+    "dont-mint-389949527": {
+        "floor": 100.0
+    },
+    "robin-foot": {
+        "floor": 0.0
+    },
+    "bits-nft-825015050": {
+        "floor": 0.01
+    },
+    "acospace-snapshot-776096619": {
+        "floor": 0.0
+    },
+    "0x96efa95cbb7574e399ed0f4d4596b5d4c84f51a3": {
+        "floor": 0.0
+    },
+    "0x390a4181ac28ca3fd978841346373acd683cd050": {
+        "floor": 0.0
+    },
+    "trippin-ape-yacht-clubnft": {
+        "floor": 0.001
     }
 }
