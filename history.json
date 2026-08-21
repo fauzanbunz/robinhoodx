@@ -13630,7 +13630,7 @@
         "floor": 0.0
     },
     "the-stackers": {
-        "floor": 0.0
+        "floor": 0.05
     },
     "clay-stonkz-mint-pass": {
         "floor": 0.0
@@ -13699,7 +13699,7 @@
         "floor": 0.022
     },
     "the-golden-collection-631930405": {
-        "floor": 0.0002
+        "floor": 0.000109
     },
     "rekt-tradoor-66776274": {
         "floor": 0.0
@@ -13714,7 +13714,7 @@
         "floor": 0.0
     },
     "mossborn": {
-        "floor": 0.0
+        "floor": 1e-05
     },
     "by-machines": {
         "floor": 0.0
@@ -13777,6 +13777,93 @@
         "floor": 0.0
     },
     "qgzblgd": {
+        "floor": 0.0
+    },
+    "oxwizard-899968523": {
+        "floor": 0.06
+    },
+    "-ordinalfep-rh": {
+        "floor": 0.5
+    },
+    "bibus-53115971": {
+        "floor": 0.0
+    },
+    "plunder-test-wardens": {
+        "floor": 0.0
+    },
+    "normieshoods": {
+        "floor": 0.1
+    },
+    "plunder-test-bandits": {
+        "floor": 0.0
+    },
+    "trust-us-nft": {
+        "floor": 0.0
+    },
+    "rh-ponks-869169792": {
+        "floor": 0.0
+    },
+    "hedge-lords-official-648442364": {
+        "floor": 0.02
+    },
+    "rh-glorp-nft": {
+        "floor": 0.06
+    },
+    "testaaaaaaasse": {
+        "floor": 0.0
+    },
+    "jexxy-946598244": {
+        "floor": 0.1
+    },
+    "chelmist": {
+        "floor": 0.05
+    },
+    "cyberthrone-rh": {
+        "floor": 0.252
+    },
+    "simonetta-vespucci": {
+        "floor": 0.0
+    },
+    "ntrpy-nfts": {
+        "floor": 0.0
+    },
+    "0xa3e29d8a5a5ddb68734650052a9bbe61ae466a9d": {
+        "floor": 0.0
+    },
+    "merkle-test-50": {
+        "floor": 0.0
+    },
+    "we-zards-621314467": {
+        "floor": 0.06
+    },
+    "thanks-600667364": {
+        "floor": 0.0
+    },
+    "astronautsonn": {
+        "floor": 9e-06
+    },
+    "blehh-200732759": {
+        "floor": 0.0
+    },
+    "robinhood-archer": {
+        "floor": 0.06
+    },
+    "mewron-catss": {
+        "floor": 0.06
+    },
+    "ofep-768557652": {
+        "floor": 0.0
+    },
+    "thanks-228816250": {
+        "floor": 0.0
+    },
+    "0x938fd01797eb73e9d57b81106ce25e085cb59d18": {
+        "floor": 0.0
+    },
+    "thanks-897939806": {
+        "floor": 0.0
+    },
+    "vit2-31267550": {
         "floor": 0.0
     }
 }
