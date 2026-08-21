@@ -15010,16 +15010,16 @@
         "floor": 0.0
     },
     "testspeed": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "cow-boy-758736354": {
-        "floor": 0.0
+        "floor": 1.97e-05
     },
     "robion": {
-        "floor": 1.0
+        "floor": 0.99
     },
     "monks-on-robinnhood": {
-        "floor": 9.9e-05
+        "floor": 2e-05
     },
     "0x97f28048ee255bab72144e7f67ca6def5611ade1": {
         "floor": 0.0
@@ -15031,7 +15031,7 @@
         "floor": 0.0
     },
     "grinding-skulls": {
-        "floor": 0.03
+        "floor": 0.02
     },
     "horse-hood-893426925": {
         "floor": 0.0
@@ -15046,7 +15046,7 @@
         "floor": 0.0
     },
     "miwaki-clan": {
-        "floor": 0.001
+        "floor": 2.2e-05
     },
     "stackers-572319420": {
         "floor": 0.0
@@ -15055,7 +15055,7 @@
         "floor": 0.0
     },
     "pirates-of-robinhoodland": {
-        "floor": 0.29
+        "floor": 0.09
     },
     "the-ghosties-477624541": {
         "floor": 0.05
@@ -15131,5 +15131,107 @@
     },
     "trippin-ape-yacht-clubnft": {
         "floor": 0.001
+    },
+    "0x55296a748456ebf57d3a1af20870488bd32265ca": {
+        "floor": 0.0
+    },
+    "0x57eff7b3078d07f2748be77e8d6f3c45c3b98524": {
+        "floor": 0.0
+    },
+    "30-697552453": {
+        "floor": 0.0
+    },
+    "tester-158888467": {
+        "floor": 0.0
+    },
+    "mcbrokers-rehearsal": {
+        "floor": 0.0
+    },
+    "0x1db881a311b0e718760210fb267764d32303f631": {
+        "floor": 0.0
+    },
+    "0x4c1d56dbba48b826ed02142bfea0def7dcbccdb2": {
+        "floor": 0.0
+    },
+    "clay-st-": {
+        "floor": 0.0052
+    },
+    "robin-whales": {
+        "floor": 0.0
+    },
+    "rh-fonz-nft-495552964": {
+        "floor": 0.09
+    },
+    "tempo-monkes-genesis": {
+        "floor": 0.0
+    },
+    "0x9e1c6dd9119a1c2f53a75db6433aa398b59b274d": {
+        "floor": 0.0
+    },
+    "testagain3": {
+        "floor": 0.0
+    },
+    "fonz-nft-15266976": {
+        "floor": 0.15
+    },
+    "rh-wolves": {
+        "floor": 0.0259
+    },
+    "onchainized": {
+        "floor": 0.24
+    },
+    "sami-aco": {
+        "floor": 0.0
+    },
+    "speedjust": {
+        "floor": 0.001
+    },
+    "antbrokers": {
+        "floor": 0.0
+    },
+    "aperion-605526406": {
+        "floor": 0.0
+    },
+    "newtrump-rh": {
+        "floor": 0.0
+    },
+    "void2222": {
+        "floor": 4.999999997e-05
+    },
+    "afterblock-the-night-shift": {
+        "floor": 0.0
+    },
+    "0xff3cc183b47aef6465758b0d438df7951fa3f6b2": {
+        "floor": 0.0
+    },
+    "chica-322481957": {
+        "floor": 0.0
+    },
+    "b-u-g-z-416218633": {
+        "floor": 0.0
+    },
+    "horse-hood-501733446": {
+        "floor": 0.0
+    },
+    "30mbps": {
+        "floor": 6e-05
+    },
+    "fdew-879013584": {
+        "floor": 0.0
+    },
+    "ant-brokers": {
+        "floor": 0.05
+    },
+    "galactic-arrows": {
+        "floor": 0.0
+    },
+    "tivzckw": {
+        "floor": 0.0
+    },
+    "pepe-punk-845577545": {
+        "floor": 0.0004
+    },
+    "0x86f98f137a01226369ef62d34ff88ea8185c8411": {
+        "floor": 0.0
     }
 }
