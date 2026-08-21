@@ -13780,10 +13780,10 @@
         "floor": 0.0
     },
     "oxwizard-899968523": {
-        "floor": 0.06
+        "floor": 0.05
     },
     "-ordinalfep-rh": {
-        "floor": 0.5
+        "floor": 0.001
     },
     "bibus-53115971": {
         "floor": 0.0
@@ -13865,5 +13865,140 @@
     },
     "vit2-31267550": {
         "floor": 0.0
+    },
+    "0x990c8524663fdd0a196d6b64aa6ac7c9346cc6a1": {
+        "floor": 0.0
+    },
+    "trumpinho": {
+        "floor": 0.0
+    },
+    "neonembers": {
+        "floor": 0.0
+    },
+    "babyansem": {
+        "floor": 3.0
+    },
+    "fasdf-206108071": {
+        "floor": 0.0
+    },
+    "deadchains-46248524": {
+        "floor": 0.0
+    },
+    "0x3be0bb968ac86a376579f10257cd1ebb21f2406b": {
+        "floor": 0.0
+    },
+    "weirdos-663846479": {
+        "floor": 0.05
+    },
+    "sigilion-562150037": {
+        "floor": 0.0
+    },
+    "0xb78b0a24ee6e8f39d2b526e447a1517bedab28fa": {
+        "floor": 0.0
+    },
+    "genesis-bugz-499168862": {
+        "floor": 0.0
+    },
+    "orangu-810957496": {
+        "floor": 0.2
+    },
+    "stonkbabies": {
+        "floor": 0.0
+    },
+    "burn-apples-get-aapl": {
+        "floor": 0.0
+    },
+    "drop-00": {
+        "floor": 0.0
+    },
+    "virus-623511508": {
+        "floor": 0.0
+    },
+    "ai-inu-test": {
+        "floor": 0.0
+    },
+    "kivu-bears-335667116": {
+        "floor": 0.0
+    },
+    "gift-box-hh": {
+        "floor": 0.0
+    },
+    "flamebound-503261541": {
+        "floor": 0.06
+    },
+    "0x3b7d7f6df7483975b7940ded79797b340ae0bfe8": {
+        "floor": 0.0
+    },
+    "0x8c3cc81afa8d67d9f9eb8d585fc0c69969cc6ca5": {
+        "floor": 0.0
+    },
+    "0x493349b3ba4d1c651cdbf9c306cd388b7002bcde": {
+        "floor": 0.0
+    },
+    "iri-787375682": {
+        "floor": 0.06
+    },
+    "robinhoodkong-": {
+        "floor": 1.0
+    },
+    "0x892b8901eae9230db7c2243b87bd1cb4ac1a189d": {
+        "floor": 0.0
+    },
+    "teddora": {
+        "floor": 0.04
+    },
+    "tyouy-629206050": {
+        "floor": 0.0
+    },
+    "the-wild-899": {
+        "floor": 0.09
+    },
+    "lune-273396240": {
+        "floor": 0.0
+    },
+    "orvo-851098957": {
+        "floor": 0.06
+    },
+    "frog-322292597": {
+        "floor": 0.0
+    },
+    "psycho-hoods": {
+        "floor": 0.0
+    },
+    "10k-followers-705031881": {
+        "floor": 0.0
+    },
+    "muhit-104117088": {
+        "floor": 0.06
+    },
+    "licensed-brokers": {
+        "floor": 0.0
+    },
+    "neon-gaze-141799391": {
+        "floor": 0.0
+    },
+    "gfywknn-885283649": {
+        "floor": 0.0
+    },
+    "gfywknn": {
+        "floor": 0.0
+    },
+    "drp-8": {
+        "floor": 0.0
+    },
+    "vector-ledger-units": {
+        "floor": 0.0
+    },
+    "robinhood-wojapes": {
+        "floor": 0.00024
+    },
+    "rh-ponks-717244637": {
+        "floor": 0.0
+    },
+    "hood-forms-": {
+        "floor": 0.0228
+    },
+    "0x8a814e0dbe8bca6540d4824563dab2e0e792abec": {
+        "floor": 0.01
     }
 }
