@@ -16537,7 +16537,7 @@
         "floor": 0.0
     },
     "legocon": {
-        "floor": 0.0
+        "floor": 0.11
     },
     "cuts-941836360": {
         "floor": 0.0
@@ -16546,7 +16546,7 @@
         "floor": 0.0
     },
     "helm-heads": {
-        "floor": 0.0
+        "floor": 2.301363208e-05
     },
     "ughs-nft-583134845": {
         "floor": 0.0
@@ -16619,5 +16619,143 @@
     },
     "sunrise-803783254": {
         "floor": 0.05
+    },
+    "tiny-bull-nft-912215700": {
+        "floor": 0.0
+    },
+    "fuwa-robin-hood": {
+        "floor": 0.0
+    },
+    "pontoon-deck-plate-500170077": {
+        "floor": 0.0
+    },
+    "bagholders-hosted-art-canary": {
+        "floor": 0.0
+    },
+    "pontoon-deck-plate-473492429": {
+        "floor": 0.0
+    },
+    "tiny-bull-nft": {
+        "floor": 0.06
+    },
+    "memeland-memecoin-772231075": {
+        "floor": 0.09
+    },
+    "dlmm-token-38562519": {
+        "floor": 0.0
+    },
+    "acospace-test-601171135": {
+        "floor": 0.0
+    },
+    "bagholders-indexing-canary": {
+        "floor": 0.0
+    },
+    "moshikinxs": {
+        "floor": 0.09
+    },
+    "based-turtle-685991465": {
+        "floor": 0.0
+    },
+    "castcat-nft": {
+        "floor": 0.41
+    },
+    "ughs-hood": {
+        "floor": 0.0
+    },
+    "0x16b814b56d36d46661973ee355c6a89a65a9f580": {
+        "floor": 0.05
+    },
+    "the-void-experiment": {
+        "floor": 0.4
+    },
+    "annulled": {
+        "floor": 0.0
+    },
+    "m0h00-586192318": {
+        "floor": 0.06
+    },
+    "acospace-test-667554544": {
+        "floor": 0.0
+    },
+    "rebelkin-837888594": {
+        "floor": 0.0
+    },
+    "rebelkin-905067360": {
+        "floor": 0.0
+    },
+    "gallery-pass-70648683": {
+        "floor": 0.0
+    },
+    "cosmic-strays-season-2": {
+        "floor": 0.0
+    },
+    "goat-street-nft": {
+        "floor": 0.0095
+    },
+    "jensens-dog": {
+        "floor": 0.023
+    },
+    "fomo-arena-pass": {
+        "floor": 0.0
+    },
+    "ethereum-rh-239997602": {
+        "floor": 0.09
+    },
+    "wash-squad-298842914": {
+        "floor": 1.899e-05
+    },
+    "wassie-854128925": {
+        "floor": 0.99
+    },
+    "crying-cats-170821491": {
+        "floor": 0.05
+    },
+    "quotron-nft": {
+        "floor": 200.01
+    },
+    "owl1-381234469": {
+        "floor": 0.05
+    },
+    "hood-cash-cat-678894731": {
+        "floor": 0.0
+    },
+    "hall-brokers": {
+        "floor": 0.0
+    },
+    "goobers-807703837": {
+        "floor": 0.0
+    },
+    "sasa-838394127": {
+        "floor": 0.0
+    },
+    "balloon-buddies-812952834": {
+        "floor": 7.979999948e-05
+    },
+    "moshikins-nft-150262589": {
+        "floor": 2.01
+    },
+    "shadowhooddark": {
+        "floor": 0.0
+    },
+    "verze": {
+        "floor": 0.0044
+    },
+    "robrett": {
+        "floor": 5.0
+    },
+    "goobzhood-95140552": {
+        "floor": 0.06
+    },
+    "sea-80112717": {
+        "floor": 0.0
+    },
+    "0x51c6f911eb924afe44a693d5ad65ad4d69e93e31": {
+        "floor": 0.06
+    },
+    "the-punks-mundos-nft": {
+        "floor": 0.005
+    },
+    "mm-920749447": {
+        "floor": 1.0
     }
 }
