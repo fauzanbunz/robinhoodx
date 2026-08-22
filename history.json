@@ -15676,7 +15676,7 @@
         "floor": 0.0
     },
     "nakayami-battosai": {
-        "floor": 11.0
+        "floor": 10.0
     },
     "chaingreets-nft-405221581": {
         "floor": 0.0
@@ -15685,7 +15685,7 @@
         "floor": 0.0
     },
     "quanto-residents": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "dixxxy": {
         "floor": 0.0
@@ -15751,7 +15751,7 @@
         "floor": 0.0
     },
     "miscats": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "0x29fb90f20390c4e052e4e55e65d8eae108069440": {
         "floor": 0.0
@@ -15790,6 +15790,99 @@
         "floor": 0.0
     },
     "index-brokers-v2": {
+        "floor": 0.0
+    },
+    "broken-dream-606798775": {
+        "floor": 1.0
+    },
+    "cashmere-labs-697908737": {
+        "floor": 1.0
+    },
+    "squikies-106463485": {
+        "floor": 0.5
+    },
+    "zcnqnlb": {
+        "floor": 0.0
+    },
+    "dump-woj-cats": {
+        "floor": 0.0
+    },
+    "chad-pepe-hood": {
+        "floor": 0.0
+    },
+    "bgttzhv": {
+        "floor": 0.0
+    },
+    "aovfnrz": {
+        "floor": 0.0
+    },
+    "ethereum-rh-570981782": {
+        "floor": 0.0
+    },
+    "nales-293654162": {
+        "floor": 1.0
+    },
+    "meow-cats-566084992": {
+        "floor": 0.0
+    },
+    "donot-buy-collection": {
+        "floor": 0.0
+    },
+    "slidehood": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-324571008": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-852111526": {
+        "floor": 0.0
+    },
+    "squikies-695310187": {
+        "floor": 0.09
+    },
+    "broken-dream-484829103": {
+        "floor": 0.0
+    },
+    "0xa3de786804af9639fd176c632ba9763432db9694": {
+        "floor": 0.0
+    },
+    "hoodwinked-685683497": {
+        "floor": 0.0
+    },
+    "hoodwinked-674389307": {
+        "floor": 0.0
+    },
+    "acolyte-867527994": {
+        "floor": 0.0
+    },
+    "omao-198578303": {
+        "floor": 12.0
+    },
+    "broken-dreams-787723879": {
+        "floor": 1.0
+    },
+    "pods-451398301": {
+        "floor": 0.0
+    },
+    "robbin-run": {
+        "floor": 6e-05
+    },
+    "toxtmlk": {
+        "floor": 0.0
+    },
+    "rowcats": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-83902568": {
+        "floor": 0.0
+    },
+    "ntrpy-nft-343856003": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-849352761": {
+        "floor": 0.0
+    },
+    "wasteland-137635838": {
         "floor": 0.0
     }
 }
