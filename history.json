@@ -15886,10 +15886,10 @@
         "floor": 0.0
     },
     "the-sunday-society-rh": {
-        "floor": 0.0
+        "floor": 100.0
     },
     "0x067dcf103a5c564cc91ed3eff3cd19e163981199": {
-        "floor": 0.0
+        "floor": 11500.0
     },
     "meew-290699653": {
         "floor": 0.0
@@ -15901,7 +15901,7 @@
         "floor": 0.0
     },
     "fonz-on-pons-785494905": {
-        "floor": 0.0
+        "floor": 20.0
     },
     "mutanrockins": {
         "floor": 0.0
@@ -15910,7 +15910,7 @@
         "floor": 0.0
     },
     "baby-bull-nft": {
-        "floor": 0.0
+        "floor": 0.0073
     },
     "0x9681db17dc572d4a201c350e35290e4038e7c445": {
         "floor": 0.0
@@ -16024,6 +16024,132 @@
         "floor": 1.0
     },
     "hey-837775099": {
+        "floor": 0.0
+    },
+    "nobodyhood-178023378": {
+        "floor": 0.0
+    },
+    "pawer-937715501": {
+        "floor": 0.0
+    },
+    "robinonmimu": {
+        "floor": 0.0
+    },
+    "dogshood-254177845": {
+        "floor": 0.0
+    },
+    "greenpepehoods-802717608": {
+        "floor": 0.0
+    },
+    "rwat-position": {
+        "floor": 0.0
+    },
+    "the-fuego": {
+        "floor": 0.0
+    },
+    "-crying-cats-cabal-": {
+        "floor": 0.0
+    },
+    "0x9e06785739fe1b3a80b63244457c91bc52de3b22": {
+        "floor": 0.0
+    },
+    "fidelios": {
+        "floor": 0.0
+    },
+    "0xb653e615b78f3660d7f126d7d058d59ab2eb7642": {
+        "floor": 0.0
+    },
+    "builder-bots-ai-539135815": {
+        "floor": 0.0
+    },
+    "-iron-legion-": {
+        "floor": 0.0
+    },
+    "okkk-104451386": {
+        "floor": 0.0
+    },
+    "dumbobull": {
+        "floor": 0.0
+    },
+    "kiln-island": {
+        "floor": 0.0
+    },
+    "playbandits": {
+        "floor": 0.0
+    },
+    "fuego-robin-nfts": {
+        "floor": 0.0
+    },
+    "-robinsprout-": {
+        "floor": 0.0
+    },
+    "robinhood-relics": {
+        "floor": 0.0
+    },
+    "gnome-gold-season-0-629228731": {
+        "floor": 0.0
+    },
+    "valor-nft-mint-217254595": {
+        "floor": 1000.0
+    },
+    "aperion-198058366": {
+        "floor": 0.0
+    },
+    "real-cats-rh": {
+        "floor": 94.0
+    },
+    "hood-warplets": {
+        "floor": 0.0
+    },
+    "broker-penguins-nft": {
+        "floor": 0.0
+    },
+    "rekt-punks-rh": {
+        "floor": 0.031
+    },
+    "alpha-launchpad": {
+        "floor": 0.0
+    },
+    "raocat": {
+        "floor": 0.0
+    },
+    "goofyz-club": {
+        "floor": 0.0
+    },
+    "panda-club-203405860": {
+        "floor": 0.000399889999
+    },
+    "rapper-gang": {
+        "floor": 0.0002
+    },
+    "blown-710835723": {
+        "floor": 0.0
+    },
+    "ntrpyhood": {
+        "floor": 0.0
+    },
+    "-cashmere-labs-": {
+        "floor": 0.1
+    },
+    "clay-stonkz-nft-773068875": {
+        "floor": 0.0
+    },
+    "trumpdegen": {
+        "floor": 0.0
+    },
+    "retardios-hood-398190720": {
+        "floor": 0.0
+    },
+    "clay-stonkz-club-366977863": {
+        "floor": 0.0
+    },
+    "zns-badge-513474115": {
+        "floor": 0.0
+    },
+    "my-speed-test": {
+        "floor": 0.0
+    },
+    "crying-cats-cabal": {
         "floor": 0.0
     }
 }
