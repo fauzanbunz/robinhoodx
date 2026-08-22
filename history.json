@@ -16777,7 +16777,7 @@
         "floor": 0.05
     },
     "uglyforms": {
-        "floor": 1.0
+        "floor": 0.5
     },
     "hoodchibi-927831525": {
         "floor": 0.05
@@ -16895,5 +16895,122 @@
     },
     "ponstrump-family": {
         "floor": 0.0
+    },
+    "alien-cyborgs": {
+        "floor": 0.0
+    },
+    "mintscope-api-timing-canary-2": {
+        "floor": 0.0
+    },
+    "mentographs-by-pho": {
+        "floor": 0.0
+    },
+    "fdasf-294277700": {
+        "floor": 0.0
+    },
+    "0xc74ac3c415f0c1054f2e41486c393eb32e9fd209": {
+        "floor": 0.19
+    },
+    "melania-trump-on-robinhood": {
+        "floor": 0.0
+    },
+    "memory-keepers": {
+        "floor": 0.0
+    },
+    "rh-kilnisland": {
+        "floor": 0.0
+    },
+    "hypnotoads-963727129": {
+        "floor": 0.0
+    },
+    "kilnisland-lego-hoods": {
+        "floor": 0.06
+    },
+    "wl-579691207": {
+        "floor": 0.0
+    },
+    "code4096-244864917": {
+        "floor": 0.0
+    },
+    "code4096": {
+        "floor": 0.0
+    },
+    "normies-hood-618804638": {
+        "floor": 0.02
+    },
+    "doll-club-rh": {
+        "floor": 0.127
+    },
+    "patrickstar-408676407": {
+        "floor": 0.06
+    },
+    "kitties-robinhood-716290654": {
+        "floor": 0.02
+    },
+    "0x27aea5cc43ee6c2d00d0cc8938e906f874481b75": {
+        "floor": 0.06
+    },
+    "testing-1243r3455436": {
+        "floor": 0.0
+    },
+    "gtetr": {
+        "floor": 0.0
+    },
+    "wojak-robin-club": {
+        "floor": 0.0
+    },
+    "robinhood-kitties-nft-51112688": {
+        "floor": 5.0
+    },
+    "future-donald-j-trump-by-virtuals": {
+        "floor": 0.0
+    },
+    "0xf1aa9d2d8c3aef4141c381d0e42ff09657d3ae75": {
+        "floor": 0.0
+    },
+    "flower-of-kings": {
+        "floor": 0.06
+    },
+    "seasun-947219268": {
+        "floor": 0.0
+    },
+    "robret": {
+        "floor": 0.0
+    },
+    "moshikinsx": {
+        "floor": 0.0
+    },
+    "hoodchibi-436365542": {
+        "floor": 0.0
+    },
+    "the-doll-club-nft": {
+        "floor": 0.05
+    },
+    "crocoz-club": {
+        "floor": 0.0
+    },
+    "kupo-hood-nft": {
+        "floor": 4.0
+    },
+    "bagholders-cross-chain-canary": {
+        "floor": 0.0
+    },
+    "fac-884726618": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-627001059": {
+        "floor": 0.0
+    },
+    "kupo-hood-111623396": {
+        "floor": 0.05
+    },
+    "bicat-on-hood": {
+        "floor": 0.0
+    },
+    "soho-189241208": {
+        "floor": 0.04
+    },
+    "grinnz-380342026": {
+        "floor": 5.5e-05
     }
 }
