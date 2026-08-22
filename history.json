@@ -17014,7 +17014,7 @@
         "floor": 5.5e-05
     },
     "cash-cats-v2-332150824": {
-        "floor": 0.0
+        "floor": 0.0003
     },
     "0x4c76da5dc766d29cb36c3603ba94c6525095a441": {
         "floor": 0.0
@@ -17023,7 +17023,7 @@
         "floor": 0.0
     },
     "cash-cats-v1": {
-        "floor": 1.0
+        "floor": 0.0
     },
     "babyansem-222315211": {
         "floor": 0.05
@@ -17113,6 +17113,141 @@
         "floor": 0.0
     },
     "trumphood-35339685": {
+        "floor": 0.0
+    },
+    "projectmelo": {
+        "floor": 0.0
+    },
+    "pixel-zoo-514847994": {
+        "floor": 0.0
+    },
+    "fire-250709788": {
+        "floor": 0.0
+    },
+    "pumkinhoods-505898190": {
+        "floor": 0.0
+    },
+    "wrongborn": {
+        "floor": 0.5
+    },
+    "neon-warrior-932493642": {
+        "floor": 0.0
+    },
+    "platypus-inc": {
+        "floor": 0.0
+    },
+    "misfits-782386704": {
+        "floor": 9.0
+    },
+    "0x89d9a60d8b1f4016c31820ca7f355405b540bcc5": {
+        "floor": 0.0
+    },
+    "neon-warrior-186047325": {
+        "floor": 0.0
+    },
+    "dfsa-664614986": {
+        "floor": 0.0
+    },
+    "wazihood": {
+        "floor": 0.99
+    },
+    "robinhood-interns": {
+        "floor": 0.0
+    },
+    "fasdf-607434022": {
+        "floor": 0.0
+    },
+    "pixel-rebels-913572522": {
+        "floor": 1.0
+    },
+    "katchu": {
+        "floor": 0.0
+    },
+    "dfas-318239200": {
+        "floor": 0.0
+    },
+    "peepo-broker": {
+        "floor": 1.0
+    },
+    "bb-138885923": {
+        "floor": 0.0
+    },
+    "st-861542808": {
+        "floor": 0.0
+    },
+    "world-wise-wizards-993855839": {
+        "floor": 0.5
+    },
+    "normies-hood-nft": {
+        "floor": 0.0082
+    },
+    "catzindahood": {
+        "floor": 0.5
+    },
+    "fadsaf": {
+        "floor": 0.0
+    },
+    "ezzie-toads": {
+        "floor": 0.0
+    },
+    "cash-cats-v6": {
+        "floor": 0.45
+    },
+    "cash-cats-v5": {
+        "floor": 1.0
+    },
+    "galaktic-gang-nft-900807025": {
+        "floor": 0.0073
+    },
+    "fadsf-167882729": {
+        "floor": 0.0
+    },
+    "pinata-38468377": {
+        "floor": 0.2
+    },
+    "adamtastic-754629587": {
+        "floor": 0.006
+    },
+    "pony-pixel": {
+        "floor": 0.0
+    },
+    "cash-cats-v4": {
+        "floor": 0.0
+    },
+    "bulls-of-sherwood": {
+        "floor": 0.00046
+    },
+    "sent-426215577": {
+        "floor": 0.0
+    },
+    "fasdf-546498951": {
+        "floor": 0.0
+    },
+    "triple-5-653227708": {
+        "floor": 0.0
+    },
+    "get-rekt-official": {
+        "floor": 0.0
+    },
+    "ladyboy-307320519": {
+        "floor": 0.2
+    },
+    "0x9802def92f5aa138c85e1c54729d16064410ed27": {
+        "floor": 0.0
+    },
+    "cash-cats-v3": {
+        "floor": 0.001
+    },
+    "triple-t-635335113": {
+        "floor": 0.0
+    },
+    "copebrokers": {
+        "floor": 0.0
+    },
+    "rh-crack-catz": {
+        "floor": 0.0
+    },
+    "fasdfasd-3191910": {
         "floor": 0.0
     }
 }
