@@ -15400,10 +15400,10 @@
         "floor": 30.0
     },
     "trumpestar": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "necrochrome": {
-        "floor": 7.8e-05
+        "floor": 0.00022
     },
     "hero-hero-543495009": {
         "floor": 0.0
@@ -15511,7 +15511,7 @@
         "floor": 0.0
     },
     "svckerz-916704610": {
-        "floor": 0.0
+        "floor": 0.15
     },
     "sakolako": {
         "floor": 0.0
@@ -15535,6 +15535,54 @@
         "floor": 0.0
     },
     "rhpogs": {
+        "floor": 0.0
+    },
+    "rhhhod": {
+        "floor": 0.0
+    },
+    "rabid-degens": {
+        "floor": 0.0
+    },
+    "gogh-one-shot-canary-art": {
+        "floor": 0.0
+    },
+    "sam-532940051": {
+        "floor": 0.0
+    },
+    "ethereum-rh": {
+        "floor": 0.0
+    },
+    "dazed-reptilians": {
+        "floor": 0.0006
+    },
+    "normies-hood-322247370": {
+        "floor": 1.0
+    },
+    "moonbabies-nft-920482768": {
+        "floor": 0.0
+    },
+    "robinhoodmisfits": {
+        "floor": 0.0
+    },
+    "creek-bugs": {
+        "floor": 0.002
+    },
+    "peter-jaworowski-hejz-eth": {
+        "floor": 0.0
+    },
+    "ngfnnfn": {
+        "floor": 0.0
+    },
+    "the-dubai-oil-106541953": {
+        "floor": 0.1
+    },
+    "commons-444592003": {
+        "floor": 0.5
+    },
+    "unvault-764382545": {
+        "floor": 0.0
+    },
+    "robinhoods-nft": {
         "floor": 0.0
     }
 }
