@@ -15538,10 +15538,10 @@
         "floor": 0.0
     },
     "rhhhod": {
-        "floor": 0.0
+        "floor": 0.03
     },
     "rabid-degens": {
-        "floor": 0.0
+        "floor": 0.0006
     },
     "gogh-one-shot-canary-art": {
         "floor": 0.0
@@ -15556,7 +15556,7 @@
         "floor": 0.0006
     },
     "normies-hood-322247370": {
-        "floor": 1.0
+        "floor": 0.1
     },
     "moonbabies-nft-920482768": {
         "floor": 0.0
@@ -15565,7 +15565,7 @@
         "floor": 0.0
     },
     "creek-bugs": {
-        "floor": 0.002
+        "floor": 0.00099
     },
     "peter-jaworowski-hejz-eth": {
         "floor": 0.0
@@ -15584,5 +15584,92 @@
     },
     "robinhoods-nft": {
         "floor": 0.0
+    },
+    "xotxjff-122966119": {
+        "floor": 0.0
+    },
+    "xotxjff": {
+        "floor": 0.0
+    },
+    "rhoodd-407576565": {
+        "floor": 0.0
+    },
+    "kilnisland": {
+        "floor": 0.0
+    },
+    "rhoodd-5": {
+        "floor": 0.0
+    },
+    "rhoodd-4": {
+        "floor": 0.0
+    },
+    "rhoodd-3": {
+        "floor": 0.0
+    },
+    "rhoodd-2": {
+        "floor": 0.0
+    },
+    "rhoodd-1": {
+        "floor": 0.0
+    },
+    "rhoodd": {
+        "floor": 1.0
+    },
+    "nobody-hood-292408520": {
+        "floor": 0.23
+    },
+    "chikai-441697733": {
+        "floor": 0.12
+    },
+    "broken-dream-551510826": {
+        "floor": 0.0
+    },
+    "0xc5dc462540b288537eafba3200f05fc372cbdc2c": {
+        "floor": 0.09
+    },
+    "gogh-one-shot-canary-art-410881458": {
+        "floor": 0.0
+    },
+    "sam-240425478": {
+        "floor": 85.0
+    },
+    "monkey-the-kickhood": {
+        "floor": 0.0
+    },
+    "hood-dao-pass": {
+        "floor": 0.02
+    },
+    "lemigos-genesis": {
+        "floor": 0.9
+    },
+    "mint-rehearsal-disposable": {
+        "floor": 0.0
+    },
+    "rhdd-230276903": {
+        "floor": 0.0
+    },
+    "rhdh-274748564": {
+        "floor": 0.0
+    },
+    "rhd-723904611": {
+        "floor": 0.8
+    },
+    "rhhoddd": {
+        "floor": 0.0
+    },
+    "0xba8e39a6eae0ac9d441c61763c47354cf7655d39": {
+        "floor": 0.0
+    },
+    "lelelbo": {
+        "floor": 0.0
+    },
+    "chainstreak-nft-892514016": {
+        "floor": 0.0
+    },
+    "rhhod": {
+        "floor": 0.0
+    },
+    "alpha-war": {
+        "floor": 1.0
     }
 }
