@@ -15403,7 +15403,7 @@
         "floor": 0.0
     },
     "necrochrome": {
-        "floor": 0.0
+        "floor": 7.8e-05
     },
     "hero-hero-543495009": {
         "floor": 0.0
@@ -15433,7 +15433,7 @@
         "floor": 0.0
     },
     "xcopunk": {
-        "floor": 2.0
+        "floor": 1.0
     },
     "0x565bb88e3f9ce4047845aa55b5f6ca26ff5766b0": {
         "floor": 0.0
@@ -15490,7 +15490,7 @@
         "floor": 0.0
     },
     "frogbroker": {
-        "floor": 0.0
+        "floor": 0.2
     },
     "objects-852120025": {
         "floor": 0.0
@@ -15499,12 +15499,42 @@
         "floor": 0.0
     },
     "tiny-bulls": {
-        "floor": 0.000399
+        "floor": 0.0001499
     },
     "0x366f381ef03dbcd3da1e59fee11fefab8ed25656": {
         "floor": 0.0
     },
     "syndicat-cats-381982699": {
+        "floor": 0.0
+    },
+    "0xe5b3b36999522f23b26ffbab2f86528d4e4fc30a": {
+        "floor": 0.0
+    },
+    "svckerz-916704610": {
+        "floor": 0.0
+    },
+    "sakolako": {
+        "floor": 0.0
+    },
+    "0x9529169955cb7d3f59bb35e0f4f39bc67c7e30eb": {
+        "floor": 0.0
+    },
+    "mimamol": {
+        "floor": 0.0
+    },
+    "the-absorbents": {
+        "floor": 0.0
+    },
+    "0x0cab4dfe504317b43ab0042c785ff6c6eca01313": {
+        "floor": 0.0
+    },
+    "freeminttest-836855875": {
+        "floor": 0.0
+    },
+    "memereal-nft": {
+        "floor": 0.0
+    },
+    "rhpogs": {
         "floor": 0.0
     }
 }
