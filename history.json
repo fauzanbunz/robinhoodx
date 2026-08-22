@@ -15235,7 +15235,7 @@
         "floor": 0.0
     },
     "stonkwood": {
-        "floor": 0.0
+        "floor": 0.5
     },
     "rushikai-hood": {
         "floor": 0.0
@@ -15259,10 +15259,10 @@
         "floor": 0.07
     },
     "dawg-brokers": {
-        "floor": 0.0
+        "floor": 9e-05
     },
     "vaultkeys-836557135": {
-        "floor": 0.0
+        "floor": 10.0
     },
     "chaingreets-nft-88119692": {
         "floor": 0.0
@@ -15382,6 +15382,129 @@
         "floor": 0.0
     },
     "aperion-358418951": {
+        "floor": 0.0
+    },
+    "sambana": {
+        "floor": 0.0
+    },
+    "wojapes-nft": {
+        "floor": 7.0
+    },
+    "tt-3554654": {
+        "floor": 0.0
+    },
+    "wojapes-dumb-413406864": {
+        "floor": 6.0
+    },
+    "rh-wojapes-161471453": {
+        "floor": 30.0
+    },
+    "trumpestar": {
+        "floor": 0.0
+    },
+    "necrochrome": {
+        "floor": 0.0
+    },
+    "hero-hero-543495009": {
+        "floor": 0.0
+    },
+    "0xda3ffd7efc4c401fd572365d6991d90384a7b44f": {
+        "floor": 1.0
+    },
+    "test-collection-533347170": {
+        "floor": 0.0
+    },
+    "tessstttts": {
+        "floor": 0.0
+    },
+    "clay-stonkz-nft-134170075": {
+        "floor": 5.0
+    },
+    "clay-stonkz-nft-704965401": {
+        "floor": 0.0
+    },
+    "fonz-nft-629286635": {
+        "floor": 0.5
+    },
+    "binface": {
+        "floor": 4.784e-05
+    },
+    "black-hood-518065616": {
+        "floor": 0.0
+    },
+    "xcopunk": {
+        "floor": 2.0
+    },
+    "0x565bb88e3f9ce4047845aa55b5f6ca26ff5766b0": {
+        "floor": 0.0
+    },
+    "zaaphoods-cats": {
+        "floor": 0.14
+    },
+    "hoodrot": {
+        "floor": 0.15
+    },
+    "nitrocode": {
+        "floor": 0.0
+    },
+    "furnads-rh": {
+        "floor": 0.0
+    },
+    "arena-rig-02": {
+        "floor": 0.0
+    },
+    "pharaoh-of-the-chain": {
+        "floor": 0.0
+    },
+    "robins-276308389": {
+        "floor": 0.0
+    },
+    "0xc5900ba47ed312be18616d13ef8b3c5904be29f7": {
+        "floor": 0.0
+    },
+    "0x4e574b0f3087b3b8ed1a1a30da33c6a4f40fc2ed": {
+        "floor": 0.0
+    },
+    "robi-accelerator-nft-874579767": {
+        "floor": 0.0
+    },
+    "test-cats-2-624512613": {
+        "floor": 0.0
+    },
+    "kid-story-812720859": {
+        "floor": 1.0
+    },
+    "lizhood": {
+        "floor": 0.1
+    },
+    "zihood": {
+        "floor": 0.19
+    },
+    "test-cats": {
+        "floor": 0.0
+    },
+    "erc500-legacy-998899877": {
+        "floor": 0.0
+    },
+    "erc500-proof-of-work-820318730": {
+        "floor": 0.0
+    },
+    "frogbroker": {
+        "floor": 0.0
+    },
+    "objects-852120025": {
+        "floor": 0.0
+    },
+    "100-599983922": {
+        "floor": 0.0
+    },
+    "tiny-bulls": {
+        "floor": 0.000399
+    },
+    "0x366f381ef03dbcd3da1e59fee11fefab8ed25656": {
+        "floor": 0.0
+    },
+    "syndicat-cats-381982699": {
         "floor": 0.0
     }
 }
