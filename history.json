@@ -17386,10 +17386,10 @@
         "floor": 0.0
     },
     "gawswrld-rh": {
-        "floor": 0.0
+        "floor": 0.09
     },
     "deepdivers-194193141": {
-        "floor": 0.0
+        "floor": 4e-05
     },
     "wash-traders-571376479": {
         "floor": 0.0
@@ -17407,10 +17407,10 @@
         "floor": 0.0
     },
     "stocks-index-robinrh": {
-        "floor": 0.0
+        "floor": 0.0721
     },
     "ethereum-rh-429169244": {
-        "floor": 0.0
+        "floor": 0.09
     },
     "rekt-punks-178123949": {
         "floor": 0.0
@@ -17509,6 +17509,108 @@
         "floor": 0.0
     },
     "astrobrokers": {
+        "floor": 0.0
+    },
+    "chirphood": {
+        "floor": 0.0
+    },
+    "0x7d9788f1027af886e5be4026d32f7f31079695c0": {
+        "floor": 0.0
+    },
+    "honey-badger-356649704": {
+        "floor": 0.0
+    },
+    "gossamerrh": {
+        "floor": 0.0519
+    },
+    "hoodvikings": {
+        "floor": 0.0
+    },
+    "bagholders-xyz-365623648": {
+        "floor": 14.0
+    },
+    "0xfbeb859b62a4a1b4051ef5f36249d245e1941a93": {
+        "floor": 0.0
+    },
+    "fabledchronicles-799489082": {
+        "floor": 0.0
+    },
+    "gogh-one-shot-canary-art-109356943": {
+        "floor": 0.0
+    },
+    "wash-squad-925841268": {
+        "floor": 0.0
+    },
+    "teasfhgedsf": {
+        "floor": 0.0
+    },
+    "chromehoods-970824817": {
+        "floor": 0.0
+    },
+    "chromehoods": {
+        "floor": 0.00025
+    },
+    "gay-brokers-69726405": {
+        "floor": 0.0
+    },
+    "depunkers-862020743": {
+        "floor": 0.0
+    },
+    "colorful-cute-cat-580272740": {
+        "floor": 0.0
+    },
+    "sherhook-hook-nft-189469313": {
+        "floor": 0.0
+    },
+    "colorful-cute-cat": {
+        "floor": 0.06
+    },
+    "bearsdeadhoods": {
+        "floor": 0.0
+    },
+    "occupants-78700972": {
+        "floor": 0.0
+    },
+    "occupants-561764917": {
+        "floor": 0.0
+    },
+    "occupants": {
+        "floor": 0.0
+    },
+    "hockrock": {
+        "floor": 0.0
+    },
+    "hockrocks": {
+        "floor": 0.0
+    },
+    "rich-rich": {
+        "floor": 0.0
+    },
+    "market-mood-snapshot-text-canary": {
+        "floor": 0.0
+    },
+    "risehood-774208849": {
+        "floor": 0.0
+    },
+    "dlmm-token-668639346": {
+        "floor": 0.0
+    },
+    "0x5460f4d91df51b8f72321fd5190f82f57232edc9": {
+        "floor": 0.0
+    },
+    "erc500-proof-of-work-320136679": {
+        "floor": 0.0
+    },
+    "erc500-legacy-732876430": {
+        "floor": 0.0
+    },
+    "testarfer": {
+        "floor": 0.0
+    },
+    "wash-traders-rrobi": {
+        "floor": 0.0
+    },
+    "rekt-punks-robinho": {
         "floor": 0.0
     }
 }
