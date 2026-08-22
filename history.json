@@ -15676,7 +15676,7 @@
         "floor": 0.0
     },
     "nakayami-battosai": {
-        "floor": 0.0
+        "floor": 11.0
     },
     "chaingreets-nft-405221581": {
         "floor": 0.0
@@ -15694,7 +15694,7 @@
         "floor": 0.0
     },
     "do-not-mint-256500739": {
-        "floor": 0.0
+        "floor": 0.2
     },
     "do-not-mint-957132479": {
         "floor": 0.0
@@ -15748,6 +15748,48 @@
         "floor": 0.0
     },
     "goofyz-nft": {
+        "floor": 0.0
+    },
+    "miscats": {
+        "floor": 0.0
+    },
+    "0x29fb90f20390c4e052e4e55e65d8eae108069440": {
+        "floor": 0.0
+    },
+    "moon-752542942": {
+        "floor": 0.0
+    },
+    "moon-60931089": {
+        "floor": 0.0
+    },
+    "clay-stonkz-nft-494241534": {
+        "floor": 0.55
+    },
+    "ignikiworks": {
+        "floor": 0.0
+    },
+    "broker-penguins": {
+        "floor": 0.0
+    },
+    "niggascamin": {
+        "floor": 0.0
+    },
+    "riscats": {
+        "floor": 0.0
+    },
+    "finch-329236304": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-755572313": {
+        "floor": 0.0
+    },
+    "stillwaters-genesis": {
+        "floor": 0.0212
+    },
+    "robinsprout": {
+        "floor": 0.0
+    },
+    "index-brokers-v2": {
         "floor": 0.0
     }
 }
