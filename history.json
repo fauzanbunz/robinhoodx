@@ -17512,7 +17512,7 @@
         "floor": 0.0
     },
     "chirphood": {
-        "floor": 0.0
+        "floor": 0.09
     },
     "0x7d9788f1027af886e5be4026d32f7f31079695c0": {
         "floor": 0.0
@@ -17539,7 +17539,7 @@
         "floor": 0.0
     },
     "wash-squad-925841268": {
-        "floor": 0.0
+        "floor": 1.9e-05
     },
     "teasfhgedsf": {
         "floor": 0.0
@@ -17548,7 +17548,7 @@
         "floor": 0.0
     },
     "chromehoods": {
-        "floor": 0.00025
+        "floor": 0.00011
     },
     "gay-brokers-69726405": {
         "floor": 0.0
@@ -17611,6 +17611,69 @@
         "floor": 0.0
     },
     "rekt-punks-robinho": {
+        "floor": 0.0
+    },
+    "copy-mint-test-collection": {
+        "floor": 0.0
+    },
+    "rh-pixel-punk": {
+        "floor": 0.0
+    },
+    "0x4743f50f2cb29dddb9e996a78a09bd720ae3c028": {
+        "floor": 0.0
+    },
+    "chog-399052598": {
+        "floor": 0.1
+    },
+    "green-rh-pass": {
+        "floor": 0.0
+    },
+    "gossamer-nft": {
+        "floor": 0.0315
+    },
+    "hoodoctos": {
+        "floor": 0.09
+    },
+    "alpha-80729697": {
+        "floor": 0.0
+    },
+    "gossamer-rh_": {
+        "floor": 1.0
+    },
+    "gossamer-rh-935234050": {
+        "floor": 0.09
+    },
+    "ice-pop-buddies": {
+        "floor": 2.09323065e-05
+    },
+    "mint-pass-88618234": {
+        "floor": 0.0
+    },
+    "hoodvikings-701621110": {
+        "floor": 0.0
+    },
+    "machine-totems-operator": {
+        "floor": 0.0
+    },
+    "hiro-ceo": {
+        "floor": 1.0
+    },
+    "richrich": {
+        "floor": 0.0
+    },
+    "t-1": {
+        "floor": 0.0
+    },
+    "memecoin-option-273616551": {
+        "floor": 0.0
+    },
+    "memecoin-option-short-344579524": {
+        "floor": 0.0
+    },
+    "honey-badger-951981889": {
+        "floor": 0.0
+    },
+    "hoodvikings-963627148": {
         "floor": 0.0
     }
 }
