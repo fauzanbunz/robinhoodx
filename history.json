@@ -17965,7 +17965,7 @@
         "floor": 8.0
     },
     "moto-fun": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "ant-brokers-151375627": {
         "floor": 0.0
@@ -18046,7 +18046,7 @@
         "floor": 0.0
     },
     "punkas-593369292": {
-        "floor": 5e-05
+        "floor": 4e-05
     },
     "lil-bunny-477205899": {
         "floor": 0.0
@@ -18083,5 +18083,53 @@
     },
     "bitcoincats-rh": {
         "floor": 2.09999998e-05
+    },
+    "the-cheeze": {
+        "floor": 0.06
+    },
+    "wraith20": {
+        "floor": 0.0
+    },
+    "akktest2": {
+        "floor": 0.09
+    },
+    "alfaclub-friendkey-947330061": {
+        "floor": 0.0
+    },
+    "hockrock-818023823": {
+        "floor": 0.06
+    },
+    "faceless-531540690": {
+        "floor": 0.0
+    },
+    "bearsdeadhoods-499124966": {
+        "floor": 0.06
+    },
+    "stonkerape-38640410": {
+        "floor": 0.0
+    },
+    "paper-share-certificate": {
+        "floor": 0.0
+    },
+    "0xee68b216c124afee46e20316f4d8b8f92d1f4656": {
+        "floor": 0.0
+    },
+    "0xe747b2e8d1ecd8d38ec66ddae5e30743a5a3313b": {
+        "floor": 0.0
+    },
+    "crying-cats-nft": {
+        "floor": 0.06
+    },
+    "brokerbears-627666002": {
+        "floor": 0.06
+    },
+    "cashmere-labs-777179818": {
+        "floor": 1.0
+    },
+    "0xb05e34f0f42ade5a9eb672a3127b56d9e86d88a0": {
+        "floor": 0.0
+    },
+    "punkspump-55087634": {
+        "floor": 0.06
     }
 }
