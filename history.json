@@ -18133,19 +18133,19 @@
         "floor": 0.06
     },
     "ringgoo": {
-        "floor": 0.0
+        "floor": 0.06
     },
     "faceless-190928573": {
         "floor": 0.47
     },
     "chillens": {
-        "floor": 0.0
+        "floor": 0.0002
     },
     "rektppunks": {
         "floor": 0.0
     },
     "mosaic-menagerie": {
-        "floor": 0.0
+        "floor": 0.0005
     },
     "zns-badge-515401372": {
         "floor": 0.0
@@ -18166,12 +18166,96 @@
         "floor": 0.12
     },
     "normies-hood-453276531": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "trumphoodrh": {
-        "floor": 0.001
+        "floor": 0.0001
     },
     "faceless4444": {
+        "floor": 0.0001
+    },
+    "weg-463940346": {
+        "floor": 0.0
+    },
+    "cuddles-hood": {
+        "floor": 0.0
+    },
+    "weg-637065772": {
+        "floor": 0.0
+    },
+    "weg-320700022": {
+        "floor": 0.0
+    },
+    "weg-36125283": {
+        "floor": 0.0
+    },
+    "weg-117221649": {
+        "floor": 0.0
+    },
+    "weg-230136531": {
+        "floor": 0.0
+    },
+    "gwe-274824347": {
+        "floor": 0.0
+    },
+    "gwe-354291503": {
+        "floor": 0.0
+    },
+    "gwe-923532696": {
+        "floor": 0.0
+    },
+    "gwe-479476451": {
+        "floor": 0.06
+    },
+    "gwe-881093339": {
+        "floor": 0.0
+    },
+    "beeronrobinhood": {
+        "floor": 0.0
+    },
+    "agba-policemen": {
+        "floor": 0.0
+    },
+    "the-doll-club-547248802": {
+        "floor": 0.0
+    },
+    "punk-the-first-sketches": {
+        "floor": 0.0
+    },
+    "robinhood-relicss": {
+        "floor": 0.0
+    },
+    "thearmadanft": {
+        "floor": 0.0033
+    },
+    "keysrobinhood": {
+        "floor": 0.06
+    },
+    "calldatstest": {
+        "floor": 0.0
+    },
+    "furnadsnfts": {
+        "floor": 0.06
+    },
+    "rug-dev-nft": {
+        "floor": 0.21
+    },
+    "bolds-115364932": {
         "floor": 0.48
+    },
+    "blokyz-784965876": {
+        "floor": 0.0
+    },
+    "0xff773be6a954827cfd10ec85be948c0d84db2a62": {
+        "floor": 0.48
+    },
+    "faceless-396861554": {
+        "floor": 0.48
+    },
+    "hooddegens": {
+        "floor": 1.0
+    },
+    "alfaclub": {
+        "floor": 0.0
     }
 }
