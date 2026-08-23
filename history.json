@@ -18859,10 +18859,10 @@
         "floor": 0.0
     },
     "furnads-908427081": {
-        "floor": 0.0
+        "floor": 0.0063
     },
     "cannanip": {
-        "floor": 0.0
+        "floor": 19.99
     },
     "2c-872774840": {
         "floor": 0.0
@@ -18883,7 +18883,7 @@
         "floor": 0.0
     },
     "skullipop": {
-        "floor": 0.0
+        "floor": 0.5
     },
     "2c-47275399": {
         "floor": 0.0
@@ -18976,6 +18976,129 @@
         "floor": 0.0
     },
     "0x3090a68211f80ef655cb40671fb0973090141493": {
+        "floor": 0.0
+    },
+    "krakensonink": {
+        "floor": 0.0
+    },
+    "snipr-mainnet-canary-not-official-611315553": {
+        "floor": 0.0
+    },
+    "xxxx-775250408": {
+        "floor": 0.0
+    },
+    "0xea1296d05da67ef13c0831a5c7cf32c964409770": {
+        "floor": 0.0
+    },
+    "nibblinz": {
+        "floor": 0.05
+    },
+    "flockfall-770460386": {
+        "floor": 0.2
+    },
+    "future-overcall-by-virtuals-318261061": {
+        "floor": 0.0
+    },
+    "novas-34579249": {
+        "floor": 0.0
+    },
+    "testr-220996603": {
+        "floor": 0.0
+    },
+    "4-bit-ink-740710754": {
+        "floor": 0.02
+    },
+    "turks-92235462": {
+        "floor": 0.05
+    },
+    "robinhood-ponks-582310837": {
+        "floor": 0.0
+    },
+    "ink-pop-676801467": {
+        "floor": 0.2
+    },
+    "future-chainscout-by-virtuals": {
+        "floor": 0.0
+    },
+    "0x6bf166781123d2331392c5d104911e06f45f06c0": {
+        "floor": 0.0
+    },
+    "xanon-staking-nft-731917206": {
+        "floor": 0.0
+    },
+    "ink-dogs-889919629": {
+        "floor": 1.0
+    },
+    "claynecks": {
+        "floor": 2.0
+    },
+    "novas-66981881": {
+        "floor": 0.7
+    },
+    "claynecksonink-883955782": {
+        "floor": 0.06
+    },
+    "catsrobinhood": {
+        "floor": 0.0
+    },
+    "cats-robinhood": {
+        "floor": 0.0
+    },
+    "bunny-hood-917897006": {
+        "floor": 1.0
+    },
+    "2c-350781135": {
+        "floor": 0.0
+    },
+    "cats-71804901": {
+        "floor": 0.0
+    },
+    "cats-254571317": {
+        "floor": 0.0
+    },
+    "2c-446475972": {
+        "floor": 0.0
+    },
+    "delta-wolves-wilderness-514893538": {
+        "floor": 0.011
+    },
+    "hoodworms-robinhood": {
+        "floor": 0.0
+    },
+    "trashbag": {
+        "floor": 0.0
+    },
+    "blokes-on-robinhood": {
+        "floor": 0.06
+    },
+    "future-over-by-virtuals": {
+        "floor": 0.0
+    },
+    "the-cheez-501512468": {
+        "floor": 0.0
+    },
+    "2c-908948963": {
+        "floor": 0.0
+    },
+    "2c-5128693": {
+        "floor": 0.0
+    },
+    "the-cheez-839421361": {
+        "floor": 0.0
+    },
+    "future-solana-agent-by-virtuals": {
+        "floor": 0.0
+    },
+    "vots-origins": {
+        "floor": 0.0
+    },
+    "devilix": {
+        "floor": 0.4
+    },
+    "tttttt-222973146": {
+        "floor": 0.0
+    },
+    "contract11": {
         "floor": 0.0
     }
 }
