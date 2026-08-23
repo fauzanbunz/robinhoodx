@@ -18868,7 +18868,7 @@
         "floor": 0.0
     },
     "arena-rig-04": {
-        "floor": 0.0
+        "floor": 0.09
     },
     "thesherwoodcharter": {
         "floor": 0.0
@@ -18994,7 +18994,7 @@
         "floor": 0.05
     },
     "flockfall-770460386": {
-        "floor": 0.2
+        "floor": 0.19
     },
     "future-overcall-by-virtuals-318261061": {
         "floor": 0.0
@@ -19100,5 +19100,74 @@
     },
     "contract11": {
         "floor": 0.0
+    },
+    "loop-9-465190778": {
+        "floor": 2.0
+    },
+    "0x33dfba16a412ba21c77019f6546c494dff137fd8": {
+        "floor": 0.06
+    },
+    "loop-8-426958195": {
+        "floor": 0.0
+    },
+    "lioness-0": {
+        "floor": 0.0
+    },
+    "sovereign-debt-cats-218170645": {
+        "floor": 0.001
+    },
+    "0xdeist-410200016": {
+        "floor": 1.0
+    },
+    "pighood": {
+        "floor": 0.0
+    },
+    "tesla-on-chain": {
+        "floor": 0.22
+    },
+    "snipr-mainnet-canary-not-official-373610354": {
+        "floor": 0.0
+    },
+    "0xdeist-664456541": {
+        "floor": 0.06
+    },
+    "emoboxrh": {
+        "floor": 0.0
+    },
+    "emobox": {
+        "floor": 0.0
+    },
+    "rekt-ink-hood": {
+        "floor": 0.00112
+    },
+    "the-doll-club-robinhoods": {
+        "floor": 0.0652
+    },
+    "0x0856236d5cd6c7e7ec989738faa1a979a1f5f0ae": {
+        "floor": 0.0
+    },
+    "jwymnjo": {
+        "floor": 0.0
+    },
+    "0x011899d7406cb84a6a4061e054a50b82283ceb24": {
+        "floor": 0.0
+    },
+    "teast-position": {
+        "floor": 0.0
+    },
+    "bigd-not-revealed-yet": {
+        "floor": 0.00017
+    },
+    "jancu-633473714": {
+        "floor": 0.0
+    },
+    "0xa53cb9bf52dfbd5457c43a7fffe898de0a1892e8": {
+        "floor": 0.0
+    },
+    "pixelated-frogs": {
+        "floor": 0.2
+    },
+    "nado-530616365": {
+        "floor": 0.23
     }
 }
