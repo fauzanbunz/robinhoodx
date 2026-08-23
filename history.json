@@ -17617,7 +17617,7 @@
         "floor": 0.0
     },
     "rh-pixel-punk": {
-        "floor": 0.0
+        "floor": 0.03
     },
     "0x4743f50f2cb29dddb9e996a78a09bd720ae3c028": {
         "floor": 0.0
@@ -17656,7 +17656,7 @@
         "floor": 0.0
     },
     "hiro-ceo": {
-        "floor": 1.0
+        "floor": 0.0006
     },
     "richrich": {
         "floor": 0.0
@@ -17674,6 +17674,108 @@
         "floor": 0.0
     },
     "hoodvikings-963627148": {
+        "floor": 0.0
+    },
+    "alpha-w": {
+        "floor": 0.0
+    },
+    "0xd25f876f20ec8d375333d855b9ee932949a4808b": {
+        "floor": 0.0
+    },
+    "fih-project-100806654": {
+        "floor": 0.0
+    },
+    "broktra-626558391": {
+        "floor": 0.0
+    },
+    "very-important-toilets": {
+        "floor": 0.0
+    },
+    "lazy-du": {
+        "floor": 0.0
+    },
+    "hoody-876685803": {
+        "floor": 0.0
+    },
+    "0xccdd2d4ebcf5fe474fcc2022766ae77b867c244d": {
+        "floor": 0.0
+    },
+    "horsehoodnft": {
+        "floor": 0.3
+    },
+    "asciians-713823932": {
+        "floor": 0.0
+    },
+    "crafthood-983070827": {
+        "floor": 0.0
+    },
+    "stotonktrump": {
+        "floor": 0.06
+    },
+    "sneakpeak-543078984": {
+        "floor": 1.0
+    },
+    "0xb8f77f54c0423227fe47b7133cd0128a5eb975d7": {
+        "floor": 0.2
+    },
+    "plunder-test-wardens-642654793": {
+        "floor": 0.0
+    },
+    "plunder-test-bandits-23866231": {
+        "floor": 0.0
+    },
+    "stotonkcats-211324363": {
+        "floor": 0.05
+    },
+    "bubblebuns-444564498": {
+        "floor": 0.5
+    },
+    "catz-505143553": {
+        "floor": 2.0
+    },
+    "0xfa0130773b1620e58a94cc6af67c72d50d3a3a52": {
+        "floor": 0.06
+    },
+    "0xc7e37a5ebe0e08a1d480c1e8e52ebf21e5d6f039": {
+        "floor": 0.0
+    },
+    "worldwizewizzards": {
+        "floor": 0.05
+    },
+    "xxwpsxi": {
+        "floor": 0.0
+    },
+    "qwgatsg": {
+        "floor": 0.0
+    },
+    "catz-576243375": {
+        "floor": 0.05
+    },
+    "artificialinu": {
+        "floor": 7.7e-05
+    },
+    "pixel-dreamz-10923542": {
+        "floor": 1.0
+    },
+    "pawer-191974503": {
+        "floor": 0.08
+    },
+    "skitch-73877757": {
+        "floor": 1.0
+    },
+    "unusual-memories-498228183": {
+        "floor": 0.0
+    },
+    "catz-248594630": {
+        "floor": 0.4
+    },
+    "kuma-646762792": {
+        "floor": 0.0
+    },
+    "fomo-arena-326080639": {
+        "floor": 0.0
+    },
+    "mendel-breeder-967612670": {
         "floor": 0.0
     }
 }
