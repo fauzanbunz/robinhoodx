@@ -18124,12 +18124,54 @@
         "floor": 0.06
     },
     "cashmere-labs-777179818": {
-        "floor": 1.0
+        "floor": 0.48
     },
     "0xb05e34f0f42ade5a9eb672a3127b56d9e86d88a0": {
         "floor": 0.0
     },
     "punkspump-55087634": {
         "floor": 0.06
+    },
+    "ringgoo": {
+        "floor": 0.0
+    },
+    "faceless-190928573": {
+        "floor": 0.47
+    },
+    "chillens": {
+        "floor": 0.0
+    },
+    "rektppunks": {
+        "floor": 0.0
+    },
+    "mosaic-menagerie": {
+        "floor": 0.0
+    },
+    "zns-badge-515401372": {
+        "floor": 0.0
+    },
+    "zns-badge-753552184": {
+        "floor": 0.0
+    },
+    "baked-rufus": {
+        "floor": 4.0755542062782e-05
+    },
+    "hood-degens-500319260": {
+        "floor": 0.0
+    },
+    "imp-keeps-570380000": {
+        "floor": 0.0
+    },
+    "401k-nft": {
+        "floor": 0.12
+    },
+    "normies-hood-453276531": {
+        "floor": 0.0
+    },
+    "trumphoodrh": {
+        "floor": 0.001
+    },
+    "faceless4444": {
+        "floor": 0.48
     }
 }
