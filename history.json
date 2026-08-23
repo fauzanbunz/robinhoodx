@@ -19102,7 +19102,7 @@
         "floor": 0.0
     },
     "loop-9-465190778": {
-        "floor": 2.0
+        "floor": 1.99
     },
     "0x33dfba16a412ba21c77019f6546c494dff137fd8": {
         "floor": 0.06
@@ -19114,13 +19114,13 @@
         "floor": 0.0
     },
     "sovereign-debt-cats-218170645": {
-        "floor": 0.001
+        "floor": 0.0009
     },
     "0xdeist-410200016": {
-        "floor": 1.0
+        "floor": 0.98
     },
     "pighood": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "tesla-on-chain": {
         "floor": 0.22
@@ -19132,7 +19132,7 @@
         "floor": 0.06
     },
     "emoboxrh": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "emobox": {
         "floor": 0.0
@@ -19165,9 +19165,111 @@
         "floor": 0.0
     },
     "pixelated-frogs": {
-        "floor": 0.2
+        "floor": 0.09
     },
     "nado-530616365": {
         "floor": 0.23
+    },
+    "liquidity-book-token-766438199": {
+        "floor": 0.0
+    },
+    "meows-90771529": {
+        "floor": 0.0
+    },
+    "future-quanta-by-virtuals": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-545623888": {
+        "floor": 0.0
+    },
+    "super-novas-un-revealed": {
+        "floor": 2.26
+    },
+    "0xe891045643a3257078d8fb839c4cba5f0d2c7705": {
+        "floor": 0.0
+    },
+    "boredhustlers": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-345125399": {
+        "floor": 0.0
+    },
+    "novass": {
+        "floor": 0.255
+    },
+    "wrongs-725891560": {
+        "floor": 0.05
+    },
+    "liquidity-book-token-953295227": {
+        "floor": 0.0
+    },
+    "defunks-441": {
+        "floor": 0.0
+    },
+    "ninjanex-624978304": {
+        "floor": 0.0
+    },
+    "penguins-859292678": {
+        "floor": 0.0
+    },
+    "nado-500789539": {
+        "floor": 0.195
+    },
+    "loop-15-574240822": {
+        "floor": 1.0
+    },
+    "the-bandits-230098859": {
+        "floor": 0.0
+    },
+    "loop-14-405573840": {
+        "floor": 0.15
+    },
+    "vcixpex": {
+        "floor": 0.0
+    },
+    "the-bandits-636057258": {
+        "floor": 0.0
+    },
+    "0xb659615b734d59cd4c96eda11b2abc1c8c1ace50": {
+        "floor": 0.0
+    },
+    "loop-13-812260376": {
+        "floor": 0.0
+    },
+    "tesla-hood": {
+        "floor": 0.112
+    },
+    "loop-12-675372393": {
+        "floor": 0.4
+    },
+    "the-bandits-499315507": {
+        "floor": 8.0
+    },
+    "bigd-not-reveaied-yet": {
+        "floor": 0.232
+    },
+    "0xdeist-470283003": {
+        "floor": 0.0
+    },
+    "loop-11-695435004": {
+        "floor": 0.5
+    },
+    "pixelated-frogs-487257112": {
+        "floor": 0.000999999
+    },
+    "black-robin": {
+        "floor": 1.0
+    },
+    "loop-11-812910416": {
+        "floor": 0.0
+    },
+    "stacker-hood": {
+        "floor": 8.58e-05
+    },
+    "loop-10-149137973": {
+        "floor": 0.06
+    },
+    "xreggyt-871850502": {
+        "floor": 0.0
     }
 }
