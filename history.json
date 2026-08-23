@@ -17821,7 +17821,7 @@
         "floor": 0.0
     },
     "kong-fun": {
-        "floor": 1.0
+        "floor": 0.1
     },
     "0xaf51a69649679ea3846e75f468ac29850d537ec2": {
         "floor": 0.0
@@ -17833,7 +17833,7 @@
         "floor": 0.0
     },
     "raised-fist-317563991": {
-        "floor": 5.0
+        "floor": 0.5
     },
     "full-test-2": {
         "floor": 0.06
@@ -17951,5 +17951,74 @@
     },
     "0xnovas": {
         "floor": 0.0
+    },
+    "initiates-108964571": {
+        "floor": 0.0
+    },
+    "0x8793d8e0a70cb5f9668d2d1cc725f02048906495": {
+        "floor": 0.0
+    },
+    "ratbastards-825367020": {
+        "floor": 0.0
+    },
+    "kodansha": {
+        "floor": 8.0
+    },
+    "moto-fun": {
+        "floor": 0.0
+    },
+    "ant-brokers-151375627": {
+        "floor": 0.0
+    },
+    "mewbitz": {
+        "floor": 0.2
+    },
+    "nakayami-battosai-157655250": {
+        "floor": 0.4
+    },
+    "hoodlith-701177821": {
+        "floor": 0.0
+    },
+    "wasteland-926737719": {
+        "floor": 0.2
+    },
+    "gay-brokers-341845616": {
+        "floor": 0.0
+    },
+    "snool-887290902": {
+        "floor": 0.0
+    },
+    "0x3e77d790584e36b9614c1641fd3f622e9b0615a4": {
+        "floor": 0.0
+    },
+    "0x87d6f73c2dd5da4288b190ae3b35633c5e310fd2": {
+        "floor": 0.0
+    },
+    "kuma-freemint": {
+        "floor": 1.0
+    },
+    "robion-396950392": {
+        "floor": 0.0
+    },
+    "alpharekt": {
+        "floor": 0.06
+    },
+    "nubin-hood": {
+        "floor": 1.0
+    },
+    "chibi-143005638": {
+        "floor": 1.0
+    },
+    "mutant-monkeys-742534418": {
+        "floor": 0.09
+    },
+    "ratbastards-79204754": {
+        "floor": 1.0
+    },
+    "hermes-code": {
+        "floor": 0.0
+    },
+    "blokyz-176717126": {
+        "floor": 10.0
     }
 }
