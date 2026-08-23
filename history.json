@@ -17752,7 +17752,7 @@
         "floor": 0.05
     },
     "artificialinu": {
-        "floor": 7.7e-05
+        "floor": 6e-05
     },
     "pixel-dreamz-10923542": {
         "floor": 1.0
@@ -17764,10 +17764,10 @@
         "floor": 1.0
     },
     "unusual-memories-498228183": {
-        "floor": 0.0
+        "floor": 0.053
     },
     "catz-248594630": {
-        "floor": 0.4
+        "floor": 0.2
     },
     "kuma-646762792": {
         "floor": 0.0
@@ -17776,6 +17776,48 @@
         "floor": 0.0
     },
     "mendel-breeder-967612670": {
+        "floor": 0.0
+    },
+    "novas-944554267": {
+        "floor": 0.0
+    },
+    "novas-976344760": {
+        "floor": 0.0
+    },
+    "unusual-memories-nft-308602886": {
+        "floor": 0.0
+    },
+    "novas": {
+        "floor": 0.0
+    },
+    "we-zards-323060426": {
+        "floor": 2.0
+    },
+    "veqtrion-controlled-seadrop-lab-v1": {
+        "floor": 0.0
+    },
+    "error404-259204888": {
+        "floor": 2.0
+    },
+    "masks-of-luci-467606163": {
+        "floor": 0.0
+    },
+    "mint-rehearsal-disposable-318729005": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-3042242": {
+        "floor": 0.0
+    },
+    "black-cat-robin": {
+        "floor": 3.0
+    },
+    "the-merry-men-584629815": {
+        "floor": 0.0
+    },
+    "ancestral-warriors": {
+        "floor": 0.0
+    },
+    "marscoin-1000": {
         "floor": 0.0
     }
 }
