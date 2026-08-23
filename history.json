@@ -18181,16 +18181,16 @@
         "floor": 0.0
     },
     "weg-637065772": {
-        "floor": 0.0
+        "floor": 0.45
     },
     "weg-320700022": {
         "floor": 0.0
     },
     "weg-36125283": {
-        "floor": 0.0
+        "floor": 0.44
     },
     "weg-117221649": {
-        "floor": 0.0
+        "floor": 0.06
     },
     "weg-230136531": {
         "floor": 0.0
@@ -18199,13 +18199,13 @@
         "floor": 0.0
     },
     "gwe-354291503": {
-        "floor": 0.0
+        "floor": 0.48
     },
     "gwe-923532696": {
-        "floor": 0.0
+        "floor": 0.48
     },
     "gwe-479476451": {
-        "floor": 0.06
+        "floor": 0.05
     },
     "gwe-881093339": {
         "floor": 0.0
@@ -18238,7 +18238,7 @@
         "floor": 0.06
     },
     "rug-dev-nft": {
-        "floor": 0.21
+        "floor": 0.19
     },
     "bolds-115364932": {
         "floor": 0.48
@@ -18256,6 +18256,99 @@
         "floor": 1.0
     },
     "alfaclub": {
+        "floor": 0.0
+    },
+    "frostbyte-penguins": {
+        "floor": 0.0
+    },
+    "dfgdfg-543590299": {
+        "floor": 0.0
+    },
+    "st-332234426": {
+        "floor": 0.0
+    },
+    "0x87d41cc40f9c3719b7174baa18f7c1d6eabce98b": {
+        "floor": 0.0
+    },
+    "weg-780841171": {
+        "floor": 0.0
+    },
+    "stnks-3d": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-760881596": {
+        "floor": 0.0
+    },
+    "rh-ducks": {
+        "floor": 0.0
+    },
+    "basedbanners": {
+        "floor": 0.0
+    },
+    "based-banners-79627359": {
+        "floor": 0.0
+    },
+    "chainwalkers-441287779": {
+        "floor": 0.0
+    },
+    "cyber-409166801": {
+        "floor": 0.0
+    },
+    "metadata-915324086": {
+        "floor": 4.2969261856104e-05
+    },
+    "0xf52a905c6178d5c89f869ccd4afdd36bd0bdf09c": {
+        "floor": 0.0
+    },
+    "0x2cafef30f808c69e1568163a8c982c750baa426e": {
+        "floor": 0.0
+    },
+    "0xpamipokok-194530044": {
+        "floor": 0.0
+    },
+    "catgold-758445552": {
+        "floor": 0.0
+    },
+    "ringgo-test-830038028": {
+        "floor": 0.0
+    },
+    "ringgo-test-191408341": {
+        "floor": 0.0
+    },
+    "ringgo-test": {
+        "floor": 0.0
+    },
+    "0xfff70050b0ffc06c036c522d5b3c0c962d714898": {
+        "floor": 2.0928489944989e-05
+    },
+    "bad-bunny-301667373": {
+        "floor": 0.0
+    },
+    "hoodos": {
+        "floor": 0.0
+    },
+    "st-321383525": {
+        "floor": 0.0
+    },
+    "cyber-660171471": {
+        "floor": 0.0
+    },
+    "cyber-866434109": {
+        "floor": 0.0
+    },
+    "pixel-critters-581217312": {
+        "floor": 2.0974816335068e-05
+    },
+    "igniki-571004259": {
+        "floor": 0.0
+    },
+    "igniki-374421955": {
+        "floor": 0.0
+    },
+    "pixel-penguins-910929134": {
+        "floor": 0.00022
+    },
+    "cuddles-hood-602037528": {
         "floor": 0.0
     }
 }
