@@ -17791,7 +17791,7 @@
         "floor": 0.0
     },
     "we-zards-323060426": {
-        "floor": 2.0
+        "floor": 0.02
     },
     "veqtrion-controlled-seadrop-lab-v1": {
         "floor": 0.0
@@ -17818,6 +17818,138 @@
         "floor": 0.0
     },
     "marscoin-1000": {
+        "floor": 0.0
+    },
+    "kong-fun": {
+        "floor": 1.0
+    },
+    "0xaf51a69649679ea3846e75f468ac29850d537ec2": {
+        "floor": 0.0
+    },
+    "0xa43b6f8ff2c70308bfdd5b812d9564c7a42b8389": {
+        "floor": 0.0
+    },
+    "glue-positions-689771679": {
+        "floor": 0.0
+    },
+    "raised-fist-317563991": {
+        "floor": 5.0
+    },
+    "full-test-2": {
+        "floor": 0.06
+    },
+    "flockfall": {
+        "floor": 0.03
+    },
+    "mint-rehearsal-disposable-337473888": {
+        "floor": 0.0
+    },
+    "wrong-925070257": {
+        "floor": 0.1
+    },
+    "mint-rehearsal-disposable-743840221": {
+        "floor": 0.0
+    },
+    "chog-297984623": {
+        "floor": 1.98
+    },
+    "0x7c5ae2696478009bdfa3497063fd22fad8d6b3e1": {
+        "floor": 0.0
+    },
+    "andyprx": {
+        "floor": 0.0
+    },
+    "8bitpenguins-3d": {
+        "floor": 0.0
+    },
+    "0x2f3b1bb7903345e97daf7cce85dba15ac26a7d56": {
+        "floor": 2.0
+    },
+    "8bit-penguins-3d": {
+        "floor": 0.0
+    },
+    "ppopcatt": {
+        "floor": 0.0
+    },
+    "meltieseth": {
+        "floor": 0.0
+    },
+    "melties-517450585": {
+        "floor": 0.0
+    },
+    "0xc89135a275e6cd99da935f4c35d62972b630fbd7": {
+        "floor": 0.0
+    },
+    "michael-saylor-not-one-satoshi-decentral-eyes": {
+        "floor": 0.0
+    },
+    "chibi-92464706": {
+        "floor": 0.5
+    },
+    "znhhgzx": {
+        "floor": 0.0
+    },
+    "newyokers": {
+        "floor": 0.0
+    },
+    "full-test": {
+        "floor": 0.06
+    },
+    "conspiracy-narrative-nft": {
+        "floor": 0.13
+    },
+    "bitcoincat-rh": {
+        "floor": 0.0
+    },
+    "robinseed-lock-154348510": {
+        "floor": 0.0
+    },
+    "0x1778134ff4549c88827f0c5ea9f7c65a1631aed6": {
+        "floor": 2.0
+    },
+    "titans-991965746": {
+        "floor": 0.0
+    },
+    "0xcd23bc0e16eaf4da635e5b4a92e89f7bce8f47af": {
+        "floor": 0.06
+    },
+    "chainstreak-nft-659736585": {
+        "floor": 0.0
+    },
+    "claygoatz": {
+        "floor": 0.0
+    },
+    "darkhood-216878574": {
+        "floor": 0.1
+    },
+    "beer-on-robinhood-982301048": {
+        "floor": 0.0
+    },
+    "titans-849004761": {
+        "floor": 2.0
+    },
+    "beer-on-robinhood-860108722": {
+        "floor": 0.0
+    },
+    "railm": {
+        "floor": 3.0
+    },
+    "delay-test": {
+        "floor": 0.0
+    },
+    "hooddrachin": {
+        "floor": 1.0
+    },
+    "klawa_7way_zoomdd": {
+        "floor": 0.0
+    },
+    "hedge-lords-679759035": {
+        "floor": 0.45
+    },
+    "ughsss-629459327": {
+        "floor": 0.05
+    },
+    "0xnovas": {
         "floor": 0.0
     }
 }
