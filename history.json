@@ -19300,7 +19300,7 @@
         "floor": 0.0
     },
     "samurai-1-274755720": {
-        "floor": 0.0
+        "floor": 99.0
     },
     "ryugot": {
         "floor": 1.0
@@ -19397,5 +19397,80 @@
     },
     "liquidity-book-token-90031444": {
         "floor": 0.0
+    },
+    "neal-e-nft-is-in-the-name-880913358": {
+        "floor": 0.1
+    },
+    "pepe-world-449028069": {
+        "floor": 0.0
+    },
+    "peperepublic": {
+        "floor": 0.4
+    },
+    "neal-e-nft-is-in-the-name": {
+        "floor": 0.05
+    },
+    "dgdfgdfgdfghdfgh": {
+        "floor": 0.0
+    },
+    "a-dollar-dream": {
+        "floor": 0.99
+    },
+    "arena-rig-05": {
+        "floor": 0.0
+    },
+    "bored-hood-yacht-club-386545121": {
+        "floor": 0.0001
+    },
+    "caicat": {
+        "floor": 0.0
+    },
+    "inkzuma": {
+        "floor": 0.0
+    },
+    "givekudos-series-8-card-43-365397407": {
+        "floor": 0.0002
+    },
+    "dreamscale-saga": {
+        "floor": 1.0
+    },
+    "chaingreets-nft-513977812": {
+        "floor": 0.0
+    },
+    "0xe84b23241d79a79b96a3d240f1b46a74307fa1b4": {
+        "floor": 0.0
+    },
+    "hood-froge": {
+        "floor": 0.0
+    },
+    "mintables-badge": {
+        "floor": 0.0
+    },
+    "0x4dcc014b9e36a56dfbef5f5c62ad9cc27a153857": {
+        "floor": 0.0
+    },
+    "zuma-303212122": {
+        "floor": 0.0
+    },
+    "kenji-origins-": {
+        "floor": 0.015
+    },
+    "ryugami-": {
+        "floor": 0.032
+    },
+    "-parallel-universe-": {
+        "floor": 0.09
+    },
+    "the-experiment-": {
+        "floor": 0.19
+    },
+    "the-wild-": {
+        "floor": 0.145
+    },
+    "hood-brutes-": {
+        "floor": 0.00041
+    },
+    "booty-wars-": {
+        "floor": 0.124
     }
 }
