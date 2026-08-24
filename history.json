@@ -20887,7 +20887,7 @@
         "floor": 0.0
     },
     "rekt-tradors-372531449": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "lenteraaaaa-548309787": {
         "floor": 0.0
@@ -20908,7 +20908,7 @@
         "floor": 0.0
     },
     "blokyz-882521697": {
-        "floor": 0.0
+        "floor": 3e-05
     },
     "the-fonz-hood": {
         "floor": 0.0
@@ -20923,10 +20923,10 @@
         "floor": 0.011
     },
     "pixel-cats-hood": {
-        "floor": 0.0
+        "floor": 0.0003
     },
     "ink-robo-826155": {
-        "floor": 0.0
+        "floor": 1e-05
     },
     "clock-nft": {
         "floor": 0.0
@@ -21005,5 +21005,110 @@
     },
     "lineartrh": {
         "floor": 0.001
+    },
+    "try-xx": {
+        "floor": 0.0
+    },
+    "testbirdsc-545531941": {
+        "floor": 0.0
+    },
+    "fat-catz-716315398": {
+        "floor": 0.0
+    },
+    "ink-is-trash": {
+        "floor": 0.0
+    },
+    "fasd-223014264": {
+        "floor": 0.11
+    },
+    "pink-ape-position": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-994849983": {
+        "floor": 0.0
+    },
+    "robinmilios": {
+        "floor": 0.0
+    },
+    "0x66647358877c38ef8f5cb1c3ac51f06bbbb9cc11": {
+        "floor": 0.0
+    },
+    "gawswrldssa": {
+        "floor": 0.0
+    },
+    "the-joker-pepe": {
+        "floor": 0.0
+    },
+    "cyberleek-genesis-628354999": {
+        "floor": 0.11
+    },
+    "joker-pepe-165529393": {
+        "floor": 0.0
+    },
+    "the-pepe-royal": {
+        "floor": 0.1
+    },
+    "rat-protocol-position": {
+        "floor": 0.0
+    },
+    "the-doll-clubrobinhoods": {
+        "floor": 0.0521
+    },
+    "divergents-nft-638402712": {
+        "floor": 0.0
+    },
+    "0x2e682e51b0c5b6c02ed752068fe2a80166968308": {
+        "floor": 0.0
+    },
+    "0x5135d80b33c4b7c2d6b73d9709bfe540f27d46f2": {
+        "floor": 0.0
+    },
+    "rekttradooorhoods": {
+        "floor": 0.0
+    },
+    "the-doll-club-rh": {
+        "floor": 0.0
+    },
+    "0x4ba4be08d232981a01dc305d757bc8695496024f": {
+        "floor": 0.0
+    },
+    "rekt-tradooorahood": {
+        "floor": 1.0
+    },
+    "normies-nft-79497795": {
+        "floor": 0.6
+    },
+    "nasdanq-gnome": {
+        "floor": 0.09
+    },
+    "syndicat-cats-186624311": {
+        "floor": 0.0
+    },
+    "the-bandits-limited-edition-55091594": {
+        "floor": 0.05
+    },
+    "cornhood-genesis": {
+        "floor": 0.0
+    },
+    "the-doll-nft": {
+        "floor": 1.1
+    },
+    "yyyyyyyyyyyyyy-668167319": {
+        "floor": 0.0
+    },
+    "wos-stand": {
+        "floor": 0.0006
+    },
+    "cyberleek-genesis": {
+        "floor": 0.00016
+    },
+    "----the-doll-club-------------": {
+        "floor": 0.034
+    },
+    "-------the-doll-club----": {
+        "floor": 0.05
+    },
+    "-----------the-doll-club-------------": {
+        "floor": 0.1
     }
 }
