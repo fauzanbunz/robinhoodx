@@ -20305,7 +20305,7 @@
         "floor": 0.0
     },
     "ink-is-bad": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "atm-genesis-machines-v2": {
         "floor": 0.0
@@ -20314,7 +20314,7 @@
         "floor": 0.0
     },
     "hoodnace": {
-        "floor": 1.0
+        "floor": 0.0001
     },
     "3a-3a": {
         "floor": 0.0
@@ -20368,6 +20368,108 @@
         "floor": 0.0
     },
     "cryingcat-rh": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-314814282": {
+        "floor": 0.0
+    },
+    "0x8a23bcf6cae0d948ffc7c49ffc747fd6b9fdf854": {
+        "floor": 0.0
+    },
+    "dwatst-position-298503471": {
+        "floor": 0.0
+    },
+    "0x8bdf1bed3d363686f79a32652ef0c7d3d439ab18": {
+        "floor": 0.0
+    },
+    "spurdo-on-robinhood": {
+        "floor": 0.03
+    },
+    "retrospirits-186358138": {
+        "floor": 0.03
+    },
+    "testing-position": {
+        "floor": 0.0
+    },
+    "sdshjasdksajdkg": {
+        "floor": 0.0
+    },
+    "terminal-kids-nft": {
+        "floor": 0.0
+    },
+    "galaktic-gangnft": {
+        "floor": 0.04
+    },
+    "syndicat-cats-349051467": {
+        "floor": 0.0
+    },
+    "hedgehogs-nft-326206510": {
+        "floor": 0.04
+    },
+    "chaingreets-nft-742064020": {
+        "floor": 0.0
+    },
+    "retro-spirits": {
+        "floor": 0.9
+    },
+    "robinh00d-legends": {
+        "floor": 0.0
+    },
+    "pathfinders-ascension": {
+        "floor": 0.0
+    },
+    "0x8d7f6c919bc2daff0b26f96369348360972d9404": {
+        "floor": 0.002
+    },
+    "shadow-998937715": {
+        "floor": 0.0
+    },
+    "cannanip-33-118143446": {
+        "floor": 0.0
+    },
+    "the-royal-pepe-708004858": {
+        "floor": 0.0
+    },
+    "cannanip-33": {
+        "floor": 0.0
+    },
+    "quotrons404-nft": {
+        "floor": 453.0
+    },
+    "cohsify": {
+        "floor": 0.0
+    },
+    "future-virtualsapp-by-virtuals": {
+        "floor": 0.0
+    },
+    "studytest-883620083": {
+        "floor": 0.0
+    },
+    "much-fun": {
+        "floor": 0.0
+    },
+    "mavanoids-85883210": {
+        "floor": 0.003
+    },
+    "much-fun-formation-certificate": {
+        "floor": 0.0
+    },
+    "0x02d8e863171467bce8667e420bab8c331c8dc0a7": {
+        "floor": 0.0
+    },
+    "under-the-hood-617163434": {
+        "floor": 0.0031
+    },
+    "hood-squid": {
+        "floor": 0.09
+    },
+    "dwatst-position": {
+        "floor": 0.0
+    },
+    "crocklets-nft-365399773": {
+        "floor": 0.0
+    },
+    "miu-322134367": {
         "floor": 0.0
     }
 }
