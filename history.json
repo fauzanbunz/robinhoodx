@@ -19852,7 +19852,7 @@
         "floor": 0.0
     },
     "bootywars": {
-        "floor": 0.89
+        "floor": 0.3
     },
     "ink-lords-794147": {
         "floor": 0.5
@@ -19913,5 +19913,38 @@
     },
     "juan-the-horse-629540138": {
         "floor": 0.0
+    },
+    "stonkapeyc": {
+        "floor": 0.0
+    },
+    "baoli-nft-487436883": {
+        "floor": 0.2
+    },
+    "rh-bandits": {
+        "floor": 0.0
+    },
+    "onchain-banana-558708710": {
+        "floor": 0.0
+    },
+    "onchain-banana-613887348": {
+        "floor": 0.0
+    },
+    "robinhypos": {
+        "floor": 0.0
+    },
+    "breagqu": {
+        "floor": 0.0
+    },
+    "ouulala": {
+        "floor": 0.06
+    },
+    "nft-speed-mint-test-drop": {
+        "floor": 0.0
+    },
+    "testytesty": {
+        "floor": 0.0
+    },
+    "retiredna": {
+        "floor": 0.008
     }
 }
