@@ -21112,7 +21112,7 @@
         "floor": 0.1
     },
     "staticsouls-25324211": {
-        "floor": 0.1
+        "floor": 0.09
     },
     "testrobin": {
         "floor": 0.0
@@ -21148,7 +21148,7 @@
         "floor": 0.0
     },
     "fwair-nft": {
-        "floor": 1.0
+        "floor": 0.99
     },
     "somty-878988818": {
         "floor": 0.0
@@ -21184,7 +21184,7 @@
         "floor": 0.0
     },
     "kratzhoodies": {
-        "floor": 0.00055
+        "floor": 0.0004
     },
     "inc-toadz": {
         "floor": 0.15
@@ -21236,5 +21236,59 @@
     },
     "dejitaru-tsuka-position": {
         "floor": 0.0
+    },
+    "u-404-310421581": {
+        "floor": 0.0
+    },
+    "critter-bloc": {
+        "floor": 0.04
+    },
+    "0xaf5bba15fe076c5233486b3be1857af965a87e52-64780437": {
+        "floor": 0.0
+    },
+    "u-404": {
+        "floor": 0.0
+    },
+    "stackers-cards-400973026": {
+        "floor": 0.0
+    },
+    "rpg-genesis": {
+        "floor": 0.0152
+    },
+    "rabbithoodhq": {
+        "floor": 0.0
+    },
+    "xc-472189912": {
+        "floor": 100.0
+    },
+    "planet-gemhunt": {
+        "floor": 0.0
+    },
+    "duhgoods": {
+        "floor": 0.0
+    },
+    "revenants-25531510": {
+        "floor": 0.0
+    },
+    "nine-lives-810345215": {
+        "floor": 0.0
+    },
+    "rh-fwair-pfps-401125694": {
+        "floor": 0.0
+    },
+    "punks-hood-264765572": {
+        "floor": 0.5
+    },
+    "gods-plan-721352330": {
+        "floor": 0.0
+    },
+    "lerh": {
+        "floor": 0.0
+    },
+    "neobullius": {
+        "floor": 1.0
+    },
+    "onchain-foxys": {
+        "floor": 5.0
     }
 }
