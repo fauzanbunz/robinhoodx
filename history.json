@@ -19750,7 +19750,7 @@
         "floor": 0.0
     },
     "cosmicatz": {
-        "floor": 0.0
+        "floor": 0.00589999
     },
     "weird-nft-586613142": {
         "floor": 0.2
@@ -19936,7 +19936,7 @@
         "floor": 0.0
     },
     "ouulala": {
-        "floor": 0.06
+        "floor": 0.03
     },
     "nft-speed-mint-test-drop": {
         "floor": 0.0
@@ -19946,5 +19946,89 @@
     },
     "retiredna": {
         "floor": 0.008
+    },
+    "0x1937e71b4c17273da5fbf26df4c42bac9b0a2d11": {
+        "floor": 0.0
+    },
+    "testdesurl": {
+        "floor": 0.0
+    },
+    "inkeon-278819115": {
+        "floor": 0.0
+    },
+    "chillionaires-775287853": {
+        "floor": 0.3
+    },
+    "baoli-nft-300136996": {
+        "floor": 1.0
+    },
+    "inkeon": {
+        "floor": 0.0
+    },
+    "anita-nft-107469962": {
+        "floor": 0.4
+    },
+    "feral-hood-767408700": {
+        "floor": 0.02
+    },
+    "0xa2579611da8110b7eab61049b9e84ab480f3171e": {
+        "floor": 0.0
+    },
+    "tee-911139387": {
+        "floor": 0.0
+    },
+    "broke-dealers-775436529": {
+        "floor": 0.4
+    },
+    "tee-183473741": {
+        "floor": 0.0
+    },
+    "tee-438421249": {
+        "floor": 0.0
+    },
+    "tee-260428548": {
+        "floor": 0.0
+    },
+    "cannanip-cartoon-420": {
+        "floor": 0.007
+    },
+    "voidpawz4444": {
+        "floor": 0.0
+    },
+    "void-pawz-457020856": {
+        "floor": 0.0
+    },
+    "crabhood": {
+        "floor": 5.0
+    },
+    "tee-396088980": {
+        "floor": 0.0
+    },
+    "0xd3cdbddd0906032552fa3a4c9252a6a129db0ebd": {
+        "floor": 0.0
+    },
+    "robo-617142944": {
+        "floor": 0.0
+    },
+    "mining-position": {
+        "floor": 0.0
+    },
+    "inkapes-983311455": {
+        "floor": 0.0
+    },
+    "shaun-277609391": {
+        "floor": 0.0
+    },
+    "test-mint-tb": {
+        "floor": 0.0
+    },
+    "pixel-hoodies": {
+        "floor": 0.0
+    },
+    "0x297a606a0c81d096f83e79392bea2b4679f22f4d": {
+        "floor": 1.9
+    },
+    "nanos-beats": {
+        "floor": 0.0
     }
 }
