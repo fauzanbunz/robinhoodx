@@ -20239,10 +20239,10 @@
         "floor": 0.0
     },
     "johkers": {
-        "floor": 0.0
+        "floor": 4.053432345174e-05
     },
     "mutant-jimmy-nft": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "sketch-hood": {
         "floor": 0.0
@@ -20254,7 +20254,7 @@
         "floor": 0.0
     },
     "the-doll-club-nft-687597131": {
-        "floor": 0.0
+        "floor": 0.09
     },
     "crying-cat-nft": {
         "floor": 0.08
@@ -20284,9 +20284,90 @@
         "floor": 0.0
     },
     "hood-leons": {
-        "floor": 0.0001
+        "floor": 8.88e-05
     },
     "ybnvtsp": {
+        "floor": 0.0
+    },
+    "hoodchanbabies": {
+        "floor": 0.0
+    },
+    "hoodchan-girlfriends": {
+        "floor": 0.0
+    },
+    "hood-bears": {
+        "floor": 0.0
+    },
+    "stocked-fish-747120885": {
+        "floor": 0.0
+    },
+    "mr-sticker-223754711": {
+        "floor": 0.0
+    },
+    "ink-is-bad": {
+        "floor": 0.0
+    },
+    "atm-genesis-machines-v2": {
+        "floor": 0.0
+    },
+    "22-27": {
+        "floor": 0.0
+    },
+    "hoodnace": {
+        "floor": 1.0
+    },
+    "3a-3a": {
+        "floor": 0.0
+    },
+    "testaaaaaaass-127376229": {
+        "floor": 0.0
+    },
+    "0xf5668850b471009addfd6942bdc023af7b6278a2": {
+        "floor": 0.0
+    },
+    "quotron-84673105": {
+        "floor": 0.03
+    },
+    "ink-club-328303243": {
+        "floor": 0.0
+    },
+    "0x5e41977486e273fe26079047a237b0996f543482": {
+        "floor": 0.0
+    },
+    "the-doll-club-853429261": {
+        "floor": 0.0
+    },
+    "minnos-249839216": {
+        "floor": 0.0
+    },
+    "0xcc063c3b72575ffe4afb28d564f13b6f86ac9949": {
+        "floor": 0.0
+    },
+    "0x0e7569cff164375a16fc089a75124442a3a26c6a": {
+        "floor": 0.0
+    },
+    "testcike-562889260": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-709795025": {
+        "floor": 0.0
+    },
+    "bitminers-nft": {
+        "floor": 0.44
+    },
+    "testtrash": {
+        "floor": 0.02
+    },
+    "nekyonft": {
+        "floor": 0.0
+    },
+    "spring-test": {
+        "floor": 0.0
+    },
+    "cydo-622888872": {
+        "floor": 0.0
+    },
+    "cryingcat-rh": {
         "floor": 0.0
     }
 }
