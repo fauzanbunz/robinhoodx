@@ -21316,7 +21316,7 @@
         "floor": 0.0
     },
     "wardlings-718528641": {
-        "floor": 0.1
+        "floor": 0.09
     },
     "diablo-test": {
         "floor": 0.0
@@ -21340,7 +21340,7 @@
         "floor": 0.0
     },
     "chart-cat": {
-        "floor": 0.2
+        "floor": 0.1
     },
     "margielaa": {
         "floor": 10.0
@@ -21355,15 +21355,78 @@
         "floor": 0.0062
     },
     "robverse": {
-        "floor": 0.08
+        "floor": 0.05
     },
     "aza-453645788": {
         "floor": 0.0
     },
     "0x831a082b9cfe89fb61f737bc99a57dffcf5ca6be": {
-        "floor": 0.04
+        "floor": 0.02
     },
     "bunker-citizen-gtd-542380737": {
+        "floor": 0.0
+    },
+    "ill-974814837": {
+        "floor": 0.0
+    },
+    "lololoshka228": {
+        "floor": 0.0
+    },
+    "juicehedz": {
+        "floor": 0.05
+    },
+    "veq-v2": {
+        "floor": 0.0
+    },
+    "mixels-480085928": {
+        "floor": 0.09
+    },
+    "fwair-pfphh": {
+        "floor": 0.0
+    },
+    "0x8c41105e0e961e5deca1f2637a5b7619efb3e876": {
+        "floor": 0.0
+    },
+    "numa-421158847": {
+        "floor": 1.0
+    },
+    "luckystrike-21480856": {
+        "floor": 0.0
+    },
+    "future-paygent-by-virtuals-770170684": {
+        "floor": 0.0
+    },
+    "ghot-girls": {
+        "floor": 0.0
+    },
+    "nibblins-997176686": {
+        "floor": 0.2
+    },
+    "zillahood": {
+        "floor": 0.0
+    },
+    "0x3c10bfe352008ed56c10781d55659c469135ac9c": {
+        "floor": 0.0
+    },
+    "block-hood-punks-539386763": {
+        "floor": 0.0
+    },
+    "wosssss-dont-buy": {
+        "floor": 1e-05
+    },
+    "hood-doll-club": {
+        "floor": 0.1
+    },
+    "daily-stonkers": {
+        "floor": 0.0
+    },
+    "wos-os-studio": {
+        "floor": 0.0
+    },
+    "haven-charter": {
+        "floor": 0.0
+    },
+    "future-promis-by-virtuals": {
         "floor": 0.0
     }
 }
