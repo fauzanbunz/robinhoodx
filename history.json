@@ -21007,7 +21007,7 @@
         "floor": 0.001
     },
     "try-xx": {
-        "floor": 0.0
+        "floor": 1.3
     },
     "testbirdsc-545531941": {
         "floor": 0.0
@@ -21110,5 +21110,131 @@
     },
     "-----------the-doll-club-------------": {
         "floor": 0.1
+    },
+    "staticsouls-25324211": {
+        "floor": 0.1
+    },
+    "testrobin": {
+        "floor": 0.0
+    },
+    "mitsuri-802251686": {
+        "floor": 0.0
+    },
+    "test-dev-230441093": {
+        "floor": 0.0
+    },
+    "cyberleek-hood-673394877": {
+        "floor": 0.0
+    },
+    "bunker-citizen-gtd": {
+        "floor": 0.0
+    },
+    "doll-hood-club": {
+        "floor": 0.0
+    },
+    "borsacafetwitter": {
+        "floor": 0.18
+    },
+    "retro-spirits-323854269": {
+        "floor": 0.0
+    },
+    "nibblins-648969938": {
+        "floor": 0.09
+    },
+    "yototo-421909046": {
+        "floor": 0.0
+    },
+    "fuwa-limited-edition-405825682": {
+        "floor": 0.0
+    },
+    "fwair-nft": {
+        "floor": 1.0
+    },
+    "somty-878988818": {
+        "floor": 0.0
+    },
+    "loans-broker-strips-297004409": {
+        "floor": 0.0
+    },
+    "lupo-hood-822254962": {
+        "floor": 0.0
+    },
+    "pumptorobinhood": {
+        "floor": 0.39
+    },
+    "netnet-dunlaps": {
+        "floor": 0.0
+    },
+    "robinhood-ronin": {
+        "floor": 0.0
+    },
+    "cyberleekhood-genesis": {
+        "floor": 0.0
+    },
+    "bored-hood-yacht-club-824450758": {
+        "floor": 0.0
+    },
+    "degen-desk-rh": {
+        "floor": 0.0
+    },
+    "hahahaha-319047361": {
+        "floor": 0.0
+    },
+    "lupo-hood-997921787": {
+        "floor": 0.0
+    },
+    "kratzhoodies": {
+        "floor": 0.00055
+    },
+    "inc-toadz": {
+        "floor": 0.15
+    },
+    "clay-stonkz-limited-edition": {
+        "floor": 0.011
+    },
+    "cyberleek-genesis-hood": {
+        "floor": 0.0
+    },
+    "bored-hood-yacht-club-439891985": {
+        "floor": 0.2
+    },
+    "0x7ef505f33badf5fd367bd92b7f57ec2d0da8ebc8": {
+        "floor": 0.0
+    },
+    "0x78934c85d03d7a40379b9645dcc76e67f41453ae": {
+        "floor": 0.0
+    },
+    "lupo-hood-188961598": {
+        "floor": 0.0
+    },
+    "lupo-hood": {
+        "floor": 0.0
+    },
+    "traders-244536557": {
+        "floor": 0.0
+    },
+    "elo-pros": {
+        "floor": 0.0
+    },
+    "doge-brokers-440746585": {
+        "floor": 0.0
+    },
+    "the-athletes": {
+        "floor": 0.00033999
+    },
+    "posi-position": {
+        "floor": 0.0
+    },
+    "vanguard-502425947": {
+        "floor": 0.0
+    },
+    "hoodgoblins": {
+        "floor": 0.2
+    },
+    "gen-ape-position": {
+        "floor": 0.0
+    },
+    "dejitaru-tsuka-position": {
+        "floor": 0.0
     }
 }
