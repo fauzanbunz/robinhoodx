@@ -21385,7 +21385,7 @@
         "floor": 0.0
     },
     "0x8c41105e0e961e5deca1f2637a5b7619efb3e876": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "numa-421158847": {
         "floor": 1.0
@@ -21433,7 +21433,7 @@
         "floor": 0.0
     },
     "krakens-primates": {
-        "floor": 3e-05
+        "floor": 0.19
     },
     "staticsouls-nft": {
         "floor": 0.05
@@ -21469,7 +21469,7 @@
         "floor": 0.0
     },
     "hooded-73681540": {
-        "floor": 1.0
+        "floor": 0.2
     },
     "bucket-account-series-c": {
         "floor": 0.0
@@ -21497,5 +21497,62 @@
     },
     "cyberleek-nft": {
         "floor": 0.15
+    },
+    "the-metafox-hood": {
+        "floor": 0.0
+    },
+    "insomnus-317165910": {
+        "floor": 0.1
+    },
+    "metafox-robinhood": {
+        "floor": 0.0
+    },
+    "stonkcatsrh": {
+        "floor": 0.0
+    },
+    "roo-punks-324894937": {
+        "floor": 0.07
+    },
+    "scheduled-797527553": {
+        "floor": 0.0
+    },
+    "goodboy-409193473": {
+        "floor": 0.0
+    },
+    "4-bit-ink-833838570": {
+        "floor": 0.0
+    },
+    "tesst04": {
+        "floor": 0.0
+    },
+    "inkersnft-920869845": {
+        "floor": 0.0
+    },
+    "cashe-rekt": {
+        "floor": 0.0
+    },
+    "the-doll-hood": {
+        "floor": 0.0
+    },
+    "testers-608289201": {
+        "floor": 0.0
+    },
+    "hoddies": {
+        "floor": 0.0
+    },
+    "bunker-citizen-gtd-479080904": {
+        "floor": 0.0
+    },
+    "ddddd-818589102": {
+        "floor": 0.0
+    },
+    "hood-monkees": {
+        "floor": 0.0
+    },
+    "robin-arbibots": {
+        "floor": 0.04
+    },
+    "0xbe598e95b08057516910e11a03b3e79a29dcf30b": {
+        "floor": 10.0
     }
 }
