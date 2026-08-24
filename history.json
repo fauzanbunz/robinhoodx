@@ -21118,7 +21118,7 @@
         "floor": 0.0
     },
     "mitsuri-802251686": {
-        "floor": 0.0
+        "floor": 0.2
     },
     "test-dev-230441093": {
         "floor": 0.0
@@ -21259,7 +21259,7 @@
         "floor": 0.0
     },
     "xc-472189912": {
-        "floor": 100.0
+        "floor": 2.0
     },
     "planet-gemhunt": {
         "floor": 0.0
@@ -21290,5 +21290,80 @@
     },
     "onchain-foxys": {
         "floor": 5.0
+    },
+    "testdrop-870489049": {
+        "floor": 0.0
+    },
+    "tytytyty-552374953": {
+        "floor": 0.0
+    },
+    "-991497563": {
+        "floor": 0.0125
+    },
+    "diablo-cp": {
+        "floor": 0.0
+    },
+    "0xfaf7aceb62aa0b4f3358ef9bedc46d4722caece5": {
+        "floor": 0.0
+    },
+    "tales-of-blobs-77908694": {
+        "floor": 0.09
+    },
+    "future-backed-by-virtuals-428459590": {
+        "floor": 0.0
+    },
+    "hoodwinked-975511470": {
+        "floor": 0.0
+    },
+    "wardlings-718528641": {
+        "floor": 0.1
+    },
+    "diablo-test": {
+        "floor": 0.0
+    },
+    "0xd7ac6844e4f5fd792b42cb9cb867242d28310721": {
+        "floor": 0.0
+    },
+    "mct-220688825": {
+        "floor": 0.0
+    },
+    "0x9bb74409321551aa84ec596d3b50f9b61f0f4d1b": {
+        "floor": 0.0
+    },
+    "gods-plan-602865186": {
+        "floor": 0.0002499
+    },
+    "kgfl-839947487": {
+        "floor": 0.0
+    },
+    "test-rbi-nft": {
+        "floor": 0.0
+    },
+    "chart-cat": {
+        "floor": 0.2
+    },
+    "margielaa": {
+        "floor": 10.0
+    },
+    "aethera-labs": {
+        "floor": 0.0
+    },
+    "0x90b85c4fbfe7842cafb0fc2c69b44f2bc04dbf34": {
+        "floor": 0.0
+    },
+    "hooja-18": {
+        "floor": 0.0062
+    },
+    "robverse": {
+        "floor": 0.08
+    },
+    "aza-453645788": {
+        "floor": 0.0
+    },
+    "0x831a082b9cfe89fb61f737bc99a57dffcf5ca6be": {
+        "floor": 0.04
+    },
+    "bunker-citizen-gtd-542380737": {
+        "floor": 0.0
     }
 }
