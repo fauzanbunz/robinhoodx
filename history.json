@@ -19627,10 +19627,10 @@
         "floor": 0.0
     },
     "metafox-795760044": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "bitcoin-bullfrogs": {
-        "floor": 4.3e-05
+        "floor": 4.2221e-05
     },
     "angle-kupo": {
         "floor": 0.03
@@ -19684,6 +19684,123 @@
         "floor": 0.0
     },
     "mendel-breeder-389545617": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-deployer-170121549": {
+        "floor": 0.0
+    },
+    "grovo-brokers-767439054": {
+        "floor": 0.0
+    },
+    "novas-rh": {
+        "floor": 0.0
+    },
+    "fortune-foes-727066757": {
+        "floor": 1.0
+    },
+    "filtered-gangg": {
+        "floor": 0.0
+    },
+    "fewfwef-391203525": {
+        "floor": 0.0
+    },
+    "grovo-brokers-867064185": {
+        "floor": 0.2
+    },
+    "allow-rh": {
+        "floor": 0.0
+    },
+    "cosmicatz-688043532": {
+        "floor": 0.0
+    },
+    "nasdogs": {
+        "floor": 0.0
+    },
+    "dlmm-token-164358511": {
+        "floor": 0.0
+    },
+    "grail-courtyard-rollover-position-630912796": {
+        "floor": 0.0
+    },
+    "grail-courtyard-rollover-receipt-888340723": {
+        "floor": 0.0
+    },
+    "honorary-builder-bots-ai": {
+        "floor": 0.0
+    },
+    "0x9b967bb3bb9bd3ecc31f23f26f131a6bf43b574c": {
+        "floor": 0.0
+    },
+    "broadcasters-hood": {
+        "floor": 1.0
+    },
+    "zkcodex-nft-13938895": {
+        "floor": 0.0
+    },
+    "tesst02": {
+        "floor": 0.0
+    },
+    "cyka-bylatttttttttttttttttttt": {
+        "floor": 10.0
+    },
+    "juan-horse-13862065": {
+        "floor": 2.0
+    },
+    "chainstreak-nft-873675293": {
+        "floor": 0.0
+    },
+    "cosmicatz": {
+        "floor": 0.008
+    },
+    "weird-nft-586613142": {
+        "floor": 0.2
+    },
+    "kitty-clown-159152130": {
+        "floor": 0.5
+    },
+    "the-beanzy-brokers": {
+        "floor": 4.0
+    },
+    "robinhood-hypurr-342537228": {
+        "floor": 0.04
+    },
+    "the-cheez-485096418": {
+        "floor": 1.0
+    },
+    "inkbanditsodidir": {
+        "floor": 0.0
+    },
+    "cash-pudgy-penguins": {
+        "floor": 0.04
+    },
+    "kitty-clown-206154562": {
+        "floor": 0.0
+    },
+    "big-d-391117916": {
+        "floor": 0.0
+    },
+    "the-poo-society-348775612": {
+        "floor": 0.0
+    },
+    "owl-eth-341950029": {
+        "floor": 0.0
+    },
+    "bot-test-509267117": {
+        "floor": 0.39
+    },
+    "don-622600749": {
+        "floor": 1.0
+    },
+    "ink-stonkers": {
+        "floor": 0.0
+    },
+    "boi-robinhood": {
+        "floor": 0.02
+    },
+    "lockithood": {
+        "floor": 0.0
+    },
+    "bot-test-860302748": {
         "floor": 0.0
     }
 }
