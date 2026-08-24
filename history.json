@@ -21370,7 +21370,7 @@
         "floor": 0.0
     },
     "lololoshka228": {
-        "floor": 0.0
+        "floor": 0.0005994
     },
     "juicehedz": {
         "floor": 0.05
@@ -21397,7 +21397,7 @@
         "floor": 0.0
     },
     "ghot-girls": {
-        "floor": 0.0
+        "floor": 0.00012
     },
     "nibblins-997176686": {
         "floor": 0.2
@@ -21428,5 +21428,74 @@
     },
     "future-promis-by-virtuals": {
         "floor": 0.0
+    },
+    "testingsomething-686626952": {
+        "floor": 0.0
+    },
+    "krakens-primates": {
+        "floor": 3e-05
+    },
+    "staticsouls-nft": {
+        "floor": 0.05
+    },
+    "kraken-primate": {
+        "floor": 0.2
+    },
+    "secret-hoods-millionarie": {
+        "floor": 0.0001
+    },
+    "krakens-nfts": {
+        "floor": 0.1
+    },
+    "kittyzens-on-robinhood": {
+        "floor": 0.0
+    },
+    "crypto-ninja-nfts": {
+        "floor": 0.15
+    },
+    "mct-240163809": {
+        "floor": 0.0
+    },
+    "katchu-914830023": {
+        "floor": 0.2
+    },
+    "0x3e3f55e50fa66e30fe25e41d50d480e98c022e35": {
+        "floor": 0.0
+    },
+    "0xbf0e68830a7c2ea3b22c5981a1f3572e96f1013e": {
+        "floor": 0.0
+    },
+    "hohohoho-352735526": {
+        "floor": 0.0
+    },
+    "hooded-73681540": {
+        "floor": 1.0
+    },
+    "bucket-account-series-c": {
+        "floor": 0.0
+    },
+    "robo-hood-285195209": {
+        "floor": 2.0
+    },
+    "pixelhood-minis-nft-440194507": {
+        "floor": 0.0
+    },
+    "robin-rekt-ink": {
+        "floor": 0.15
+    },
+    "hood-rat-dumpster-nft-110314736": {
+        "floor": 0.5
+    },
+    "bambinowtf": {
+        "floor": 0.0003
+    },
+    "rwvwr": {
+        "floor": 0.0
+    },
+    "honzomomo-935754754": {
+        "floor": 0.2
+    },
+    "cyberleek-nft": {
+        "floor": 0.15
     }
 }
