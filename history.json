@@ -20626,7 +20626,7 @@
         "floor": 0.0
     },
     "robin-krakens": {
-        "floor": 0.1
+        "floor": 0.09
     },
     "0xf1248558c70e9003c049fb16e629e3bdd44ccead": {
         "floor": 0.0
@@ -20747,5 +20747,140 @@
     },
     "shellies-nfts-894354301": {
         "floor": 0.0
+    },
+    "snipr-809762374": {
+        "floor": 0.0
+    },
+    "future-overcall-by-virtuals-948992123": {
+        "floor": 0.0
+    },
+    "0x77d343a00902f2a5f252cc149ea950b7aa51dc0d": {
+        "floor": 0.0
+    },
+    "0xb029a3c3f1993ee0c817bb923ebb7387c6ea7939": {
+        "floor": 0.0
+    },
+    "stackers-cards": {
+        "floor": 0.0
+    },
+    "the-pharaohs": {
+        "floor": 0.0
+    },
+    "cult-cats-42116138": {
+        "floor": 0.99
+    },
+    "the-bandits-rh-620547630": {
+        "floor": 1.0
+    },
+    "robinblank-eth": {
+        "floor": 0.02
+    },
+    "hood-squids": {
+        "floor": 0.09
+    },
+    "0x0230eae8cbf2d42ddf46c32dfaca09bb115b2543": {
+        "floor": 0.0
+    },
+    "jcycoremi": {
+        "floor": 0.0
+    },
+    "black-rh": {
+        "floor": 0.0
+    },
+    "naives-987855322": {
+        "floor": 1.0
+    },
+    "rh-boyz": {
+        "floor": 0.0
+    },
+    "naives": {
+        "floor": 0.0
+    },
+    "0x5d2be128036e0a555ce08e3f472240dba7d1b23d": {
+        "floor": 0.0
+    },
+    "arkpia-pass-815018506": {
+        "floor": 0.03
+    },
+    "muchfun": {
+        "floor": 0.0
+    },
+    "much-fun-formation-certificate-430717748": {
+        "floor": 0.0
+    },
+    "0x48906ba069989afc414a48477d7bfbcf7b304894": {
+        "floor": 0.0
+    },
+    "0x46e764938feffe526c78852552307c40b81eefff": {
+        "floor": 0.11
+    },
+    "cachehoppers": {
+        "floor": 0.0
+    },
+    "bandit-clubs": {
+        "floor": 0.0
+    },
+    "bandits-the-unrevealed": {
+        "floor": 0.0
+    },
+    "sherwood-outlaws": {
+        "floor": 0.0
+    },
+    "bandits-998797054": {
+        "floor": 0.0042
+    },
+    "suits-883660148": {
+        "floor": 0.0
+    },
+    "rh-punks-105035031": {
+        "floor": 0.0
+    },
+    "hvjzrmz": {
+        "floor": 0.0
+    },
+    "robinhoodbored-ape-yacht-club": {
+        "floor": 0.1
+    },
+    "lockit-nft-34306928": {
+        "floor": 0.05
+    },
+    "cachegallerytoken-142390814": {
+        "floor": 0.0
+    },
+    "0x2a7affd7baf7c88fa8bf8b2dbdec5a94c0b8df0c": {
+        "floor": 0.0
+    },
+    "cacheplayertoken-449392242": {
+        "floor": 0.0
+    },
+    "cybercache-folder-871107908": {
+        "floor": 0.0
+    },
+    "stocked-fish-770913764": {
+        "floor": 0.05
+    },
+    "nft-relics": {
+        "floor": 0.0
+    },
+    "the-doll-club-452556819": {
+        "floor": 0.052
+    },
+    "chroma-flow": {
+        "floor": 0.0
+    },
+    "the-bandits-nft-731186930": {
+        "floor": 0.05
+    },
+    "ink-brokers-hood": {
+        "floor": 0.1
+    },
+    "urchin-frens": {
+        "floor": 0.0
+    },
+    "crocklets-nft-580343707": {
+        "floor": 1.0
+    },
+    "crockletsss": {
+        "floor": 0.11
     }
 }
