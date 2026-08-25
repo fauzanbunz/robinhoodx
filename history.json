@@ -23926,7 +23926,7 @@
         "floor": 0.0
     },
     "humanoid-punk": {
-        "floor": 0.0
+        "floor": 0.0002
     },
     "identiconpunks-200225236": {
         "floor": 0.1
@@ -23966,5 +23966,98 @@
     },
     "hippodrome-limited-edition": {
         "floor": 0.02
+    },
+    "werwer-794057698": {
+        "floor": 0.0
+    },
+    "bucketz-260934169": {
+        "floor": 0.0
+    },
+    "robin-cats-536466198": {
+        "floor": 0.2
+    },
+    "future-divine-degens-by-virtuals": {
+        "floor": 0.0
+    },
+    "test4-819062689": {
+        "floor": 0.0
+    },
+    "chibikai": {
+        "floor": 0.0
+    },
+    "cash-punks-hood": {
+        "floor": 0.0
+    },
+    "c-139759043": {
+        "floor": 0.0
+    },
+    "robin-roker": {
+        "floor": 0.3
+    },
+    "0x7c49fe5c6d934378d937ff1c80de5e38c6906122": {
+        "floor": 0.0
+    },
+    "pixeldonks-894754983": {
+        "floor": 0.0
+    },
+    "motion-565798286": {
+        "floor": 0.1
+    },
+    "clawcrabs-851716296": {
+        "floor": 0.0
+    },
+    "testt3-636588778": {
+        "floor": 0.0
+    },
+    "hood-angels-999": {
+        "floor": 0.0
+    },
+    "mad-dogz-960508479": {
+        "floor": 0.0
+    },
+    "lumina-637068093": {
+        "floor": 0.0
+    },
+    "project-3-277354282": {
+        "floor": 0.0
+    },
+    "hood-dolls-nft": {
+        "floor": 0.3
+    },
+    "firm-brokers-988576065": {
+        "floor": 0.07
+    },
+    "0x7efacce2d2708f53e7c9fc018c2e07fdb1aa7fa1": {
+        "floor": 1.0
+    },
+    "galactic-gang-embodied": {
+        "floor": 0.057
+    },
+    "therebelkin": {
+        "floor": 0.14
+    },
+    "sinjoh-proof-of-stake-position-481844661": {
+        "floor": 0.0
+    },
+    "future-cmns-by-virtuals": {
+        "floor": 0.0
+    },
+    "veq-b-v1": {
+        "floor": 0.0
+    },
+    "future-rols-by-virtuals": {
+        "floor": 0.0
+    },
+    "yuno-v2-position-195143502": {
+        "floor": 0.0
+    },
+    "yuno-v2-position-611735222": {
+        "floor": 0.0
+    },
+    "future-bondwell-by-virtuals-873211876": {
+        "floor": 0.0
+    },
+    "wenken": {
+        "floor": 0.0
     }
 }
