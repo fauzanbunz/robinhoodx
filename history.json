@@ -23701,13 +23701,13 @@
         "floor": 0.0
     },
     "cosmicatt": {
-        "floor": 0.0
+        "floor": 0.05
     },
     "bunny-hood-303396730": {
-        "floor": 0.0
+        "floor": 0.04
     },
     "wlfo-outiaws-limited-edition-943951031": {
-        "floor": 0.0
+        "floor": 0.05
     },
     "zpkdakt": {
         "floor": 0.0
@@ -23728,13 +23728,13 @@
         "floor": 0.1
     },
     "pxlomax": {
-        "floor": 0.3
+        "floor": 0.2
     },
     "robin-object-668886188": {
         "floor": 0.0
     },
     "ink-punks-301893074": {
-        "floor": 0.0
+        "floor": 0.00152
     },
     "retro-spirits-310915391": {
         "floor": 0.1
@@ -23746,7 +23746,7 @@
         "floor": 1.0
     },
     "hippodrome-hood": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "mr-stonkghtrh": {
         "floor": 0.0
@@ -23758,13 +23758,13 @@
         "floor": 0.0
     },
     "clayducks": {
-        "floor": 0.0
+        "floor": 5.9e-05
     },
     "desk-agents-422881761": {
         "floor": 0.0
     },
     "cosmicatz-946443645": {
-        "floor": 0.8
+        "floor": 0.6
     },
     "jghqvqk": {
         "floor": 0.0
@@ -23813,5 +23813,89 @@
     },
     "desk-agents-411666282": {
         "floor": 0.0
+    },
+    "future-chipher-by-virtuals": {
+        "floor": 0.0
+    },
+    "mintrack-servers-972543046": {
+        "floor": 0.0
+    },
+    "phera-concentrated-position-411712170": {
+        "floor": 0.0
+    },
+    "qvtx": {
+        "floor": 0.0
+    },
+    "0x343fe80293aaadb6ccf01c47e8c2acda0b387565": {
+        "floor": 0.0
+    },
+    "future-ergonia-by-virtuals": {
+        "floor": 0.0
+    },
+    "toadzers-club": {
+        "floor": 0.0078
+    },
+    "overdogs-128709592": {
+        "floor": 0.0
+    },
+    "future-caura-by-virtuals": {
+        "floor": 0.0
+    },
+    "asdhaskjasgsakjdgk": {
+        "floor": 0.0
+    },
+    "mintrack-servers-920128333": {
+        "floor": 0.0
+    },
+    "hoods-meme-creator-27499961": {
+        "floor": 0.0
+    },
+    "the-bandits-limited-edition-558355197": {
+        "floor": 0.01
+    },
+    "robinhood-test-832220926": {
+        "floor": 100.0
+    },
+    "future-glincker-by-virtuals": {
+        "floor": 0.0
+    },
+    "47-577256549": {
+        "floor": 0.18
+    },
+    "stock-city-584078360": {
+        "floor": 0.0
+    },
+    "future-swirl-army-by-virtuals": {
+        "floor": 0.0
+    },
+    "stock-city": {
+        "floor": 0.0
+    },
+    "cestfini": {
+        "floor": 0.6
+    },
+    "robbers-of-pons": {
+        "floor": 0.0
+    },
+    "button-presser-nft-107892112": {
+        "floor": 1.0
+    },
+    "0x67a7e11002d44d8bc50daf72a9f43140e1c73a58": {
+        "floor": 0.0
+    },
+    "foolies-240256186": {
+        "floor": 0.4
+    },
+    "x-615887121": {
+        "floor": 0.011
+    },
+    "test404-171462135": {
+        "floor": 0.0
+    },
+    "foolies-594034219": {
+        "floor": 0.0
+    },
+    "mellow-paws": {
+        "floor": 0.09
     }
 }
