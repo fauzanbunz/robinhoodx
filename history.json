@@ -21904,7 +21904,7 @@
         "floor": 0.0
     },
     "nostalgio-nft-653556964": {
-        "floor": 0.0
+        "floor": 0.5
     },
     "cash-pepe-148462886": {
         "floor": 0.1
@@ -21976,6 +21976,75 @@
         "floor": 0.0
     },
     "chaos-cats-hood": {
+        "floor": 0.0
+    },
+    "cash-cat-pixels-116363917": {
+        "floor": 1.0
+    },
+    "hedgehogs-nft-276013245": {
+        "floor": 0.0
+    },
+    "investoors": {
+        "floor": 0.0
+    },
+    "yellow-catz-rh": {
+        "floor": 0.0
+    },
+    "robin-hood-ape-412057284": {
+        "floor": 0.0
+    },
+    "kittenhood": {
+        "floor": 0.0
+    },
+    "0x5a0355b107d2253891b559f1b163a2c713d57bf0": {
+        "floor": 0.0
+    },
+    "bear-market-brokers": {
+        "floor": 0.5
+    },
+    "stratasyndicate-527055630": {
+        "floor": 0.0
+    },
+    "the-droids-825055773": {
+        "floor": 0.0
+    },
+    "test-dnt-mint": {
+        "floor": 0.09
+    },
+    "clay-stonkz_-932364409": {
+        "floor": 0.0
+    },
+    "wraith25": {
+        "floor": 0.0
+    },
+    "bullies-93386946": {
+        "floor": 4.016394924e-05
+    },
+    "wrockys-nft": {
+        "floor": 0.09
+    },
+    "the-doll-nft-289363231": {
+        "floor": 2.0
+    },
+    "punk-millionaries": {
+        "floor": 0.0
+    },
+    "robinhood-483839692": {
+        "floor": 0.0
+    },
+    "nibblin-": {
+        "floor": 0.0
+    },
+    "-fortune-foes--": {
+        "floor": 9.0
+    },
+    "-noir-broker--": {
+        "floor": 0.0
+    },
+    "rebelkin--": {
+        "floor": 0.0
+    },
+    "builder-bots-": {
         "floor": 0.0
     }
 }
