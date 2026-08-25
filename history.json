@@ -22900,7 +22900,7 @@
         "floor": 0.0
     },
     "button-presser-hoods": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "ntrpygenesis-413062394": {
         "floor": 0.0
@@ -23048,5 +23048,128 @@
     },
     "stockminers-nft": {
         "floor": 0.11
+    },
+    "toadzers-222309350": {
+        "floor": 0.0
+    },
+    "future-housd-by-virtuals": {
+        "floor": 0.0
+    },
+    "hoodgoblins-641020791": {
+        "floor": 0.03
+    },
+    "dinosaursrh": {
+        "floor": 0.0
+    },
+    "robin-mini-broker": {
+        "floor": 0.0
+    },
+    "0x3a7dce19447f9028c360592fdfdb3f27c50dae29": {
+        "floor": 0.0
+    },
+    "daddy-slimes-nft": {
+        "floor": 0.02
+    },
+    "pixelforge-810058544": {
+        "floor": 0.05
+    },
+    "mini-broker-hoods": {
+        "floor": 0.0
+    },
+    "future-piacentini-by-virtuals": {
+        "floor": 0.0
+    },
+    "junky-donuts-930272960": {
+        "floor": 0.0
+    },
+    "sinjoh-proof-of-stake-position-236429830": {
+        "floor": 0.0
+    },
+    "apeshood-778132463": {
+        "floor": 0.11
+    },
+    "motocat-hood-club": {
+        "floor": 15.01
+    },
+    "junky-donuts": {
+        "floor": 0.0
+    },
+    "wraith26": {
+        "floor": 0.0
+    },
+    "hoodapes-459095091": {
+        "floor": 0.0
+    },
+    "galaktic-gang-embodi": {
+        "floor": 0.02
+    },
+    "frongshood-873680401": {
+        "floor": 0.0
+    },
+    "stock-miner-409956324": {
+        "floor": 0.11
+    },
+    "0x0ef3cb684a97c60e18b4b34ed3d392d940280953": {
+        "floor": 9.01
+    },
+    "hhuy-629049678": {
+        "floor": 0.0
+    },
+    "rh-gm": {
+        "floor": 0.024
+    },
+    "sdolmoj": {
+        "floor": 0.0
+    },
+    "future-krx-ai-agent-by-virtuals": {
+        "floor": 0.0
+    },
+    "hedgehogs-fund": {
+        "floor": 0.0
+    },
+    "bigd-hood": {
+        "floor": 0.11
+    },
+    "frongs-nft-373758551": {
+        "floor": 0.0
+    },
+    "cash-chumps": {
+        "floor": 0.0001
+    },
+    "0x8acbcd3b78829ecfd65ed2b0ff9f3f1efb5e6157": {
+        "floor": 0.0
+    },
+    "pepe-vip-official": {
+        "floor": 0.0
+    },
+    "onchain-nodepunks": {
+        "floor": 8e-05
+    },
+    "0x6441513c29d4163affdce9711d0d81f6f710a337": {
+        "floor": 0.03
+    },
+    "crypto-gamez-hood": {
+        "floor": 0.5
+    },
+    "wrong-bird": {
+        "floor": 0.0
+    },
+    "ganglion-nociceptor": {
+        "floor": 0.0
+    },
+    "0xa0e1159fefadffaa92cc814cd727ec823c3481dd": {
+        "floor": 0.0
+    },
+    "ensione": {
+        "floor": 0.6
+    },
+    "devilroom": {
+        "floor": 0.0
+    },
+    "hood-punk": {
+        "floor": 0.11
+    },
+    "deadpepe": {
+        "floor": 0.0
     }
 }
