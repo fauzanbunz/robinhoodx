@@ -23983,7 +23983,7 @@
         "floor": 0.0
     },
     "chibikai": {
-        "floor": 0.4
+        "floor": 0.09
     },
     "cash-punks-hood": {
         "floor": 0.19
@@ -24070,7 +24070,7 @@
         "floor": 0.5
     },
     "robbers-of-pons-47175697": {
-        "floor": 0.0
+        "floor": 4.99
     },
     "yuno-v2-position-18376709": {
         "floor": 0.0
@@ -24121,6 +24121,84 @@
         "floor": 0.0
     },
     "play-bucketz": {
+        "floor": 0.0
+    },
+    "test8-856447769": {
+        "floor": 0.0
+    },
+    "future-pistachio-by-virtuals-244973908": {
+        "floor": 0.0
+    },
+    "rh-stickman": {
+        "floor": 0.0
+    },
+    "hoodgoblins-123324012": {
+        "floor": 0.0004
+    },
+    "future-pistacio-by-virtuals": {
+        "floor": 0.0
+    },
+    "cannanip-cards": {
+        "floor": 0.0
+    },
+    "hoodsnool": {
+        "floor": 1.0
+    },
+    "dlmm-token-867040334": {
+        "floor": 0.0
+    },
+    "dlmm-token-135222848": {
+        "floor": 0.0
+    },
+    "dlmm-token-619320591": {
+        "floor": 0.0
+    },
+    "future-exotic-by-virtuals": {
+        "floor": 0.0
+    },
+    "bapp-598442502": {
+        "floor": 0.5
+    },
+    "toadzers-easystyle": {
+        "floor": 0.03
+    },
+    "trench-caps-84686000": {
+        "floor": 0.02
+    },
+    "the-bibos-hood": {
+        "floor": 0.01
+    },
+    "mh-366684162": {
+        "floor": 0.0
+    },
+    "chica-977373951": {
+        "floor": 0.0
+    },
+    "jacon": {
+        "floor": 5.0
+    },
+    "0x373650010fa9ace7e7086caac874258caea1e758": {
+        "floor": 2.78811999e-05
+    },
+    "acospace-snapshot-737619760": {
+        "floor": 0.0
+    },
+    "acospace-snapshot-755675063": {
+        "floor": 0.0
+    },
+    "sheboshis-nfts": {
+        "floor": 0.02
+    },
+    "rh-4-chip-896250598": {
+        "floor": 0.0
+    },
+    "0x9203a0b8b3abcdb3bf50ab2298826c0c1a5332e5": {
+        "floor": 0.0
+    },
+    "hood-dolls-rose": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-209254290": {
         "floor": 0.0
     }
 }
