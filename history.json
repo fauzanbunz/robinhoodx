@@ -23716,7 +23716,7 @@
         "floor": 0.0
     },
     "robin-banditsx": {
-        "floor": 0.2
+        "floor": 0.19
     },
     "naughty-robots-through-the-pixel-looking-glass": {
         "floor": 0.0
@@ -23897,5 +23897,74 @@
     },
     "mellow-paws": {
         "floor": 0.09
+    },
+    "wenken-3": {
+        "floor": 0.0
+    },
+    "robin404-606114089": {
+        "floor": 0.0
+    },
+    "sdgsdjsdg": {
+        "floor": 0.0
+    },
+    "frogizens-717059367": {
+        "floor": 0.3
+    },
+    "bapp-104037360": {
+        "floor": 0.0
+    },
+    "loom-of-legends-783023910": {
+        "floor": 0.0
+    },
+    "bunnyhood-449467889": {
+        "floor": 0.1
+    },
+    "bankr-frame": {
+        "floor": 0.0
+    },
+    "inkersapeclub-220457120": {
+        "floor": 0.0
+    },
+    "humanoid-punk": {
+        "floor": 0.0
+    },
+    "identiconpunks-200225236": {
+        "floor": 0.1
+    },
+    "ghost-802140604": {
+        "floor": 0.0
+    },
+    "hoods-meme-creator-614790624": {
+        "floor": 0.0
+    },
+    "vulpine-society": {
+        "floor": 0.0
+    },
+    "kaijukaki-696536840": {
+        "floor": 0.0
+    },
+    "rhtest-224742786": {
+        "floor": 1.0
+    },
+    "robinhood-test-107520285": {
+        "floor": 0.0
+    },
+    "future-tuck-protocol-by-virtuals": {
+        "floor": 0.0
+    },
+    "stonkcatsrh-959498345": {
+        "floor": 0.0
+    },
+    "testr3-341428277": {
+        "floor": 0.0
+    },
+    "future-onion-by-virtuals": {
+        "floor": 0.0
+    },
+    "blackhood-978601434": {
+        "floor": 0.09
+    },
+    "hippodrome-limited-edition": {
+        "floor": 0.02
     }
 }
