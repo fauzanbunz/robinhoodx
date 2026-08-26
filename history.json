@@ -24961,7 +24961,7 @@
         "floor": 1.0
     },
     "robin-cowgirls": {
-        "floor": 0.0
+        "floor": 0.2
     },
     "chaingreets-nft-944267418": {
         "floor": 0.0
@@ -24970,10 +24970,10 @@
         "floor": 0.0
     },
     "inkersapeclub-48608673": {
-        "floor": 0.0
+        "floor": 100000000.0
     },
     "flop-delegates-622264939": {
-        "floor": 0.0
+        "floor": 100000000.0
     },
     "pixel-duckhood": {
         "floor": 0.0
@@ -24985,7 +24985,7 @@
         "floor": 0.0
     },
     "sample-drop-contract-2626": {
-        "floor": 1.1
+        "floor": 0.24
     },
     "hood-estates-nft-498939284": {
         "floor": 0.0
@@ -25003,7 +25003,7 @@
         "floor": 0.0
     },
     "test-collection-dont-mint-651610102": {
-        "floor": 0.0
+        "floor": 100000000.0
     },
     "test-for-myself-123": {
         "floor": 0.0
@@ -25063,6 +25063,96 @@
         "floor": 0.0
     },
     "street-cyclo-63112858": {
+        "floor": 0.0
+    },
+    "hedgehogs-nft-802044280": {
+        "floor": 0.0
+    },
+    "flurry-paw": {
+        "floor": 0.0
+    },
+    "0x3a9405d99a1b01d041b05801521f8ee4465b5afa": {
+        "floor": 0.0
+    },
+    "cannacats-nft-439274980": {
+        "floor": 0.1
+    },
+    "nftzworld-v2": {
+        "floor": 100000000.0
+    },
+    "thesunday-society": {
+        "floor": 100000000.0
+    },
+    "bored-skulls-nft": {
+        "floor": 0.0001
+    },
+    "flamingos-nft-302814154": {
+        "floor": 0.45
+    },
+    "sponshood-nft": {
+        "floor": 0.11
+    },
+    "nfts-33-45051578": {
+        "floor": 100000000.0
+    },
+    "mintlab-001": {
+        "floor": 0.0
+    },
+    "argonautsrh": {
+        "floor": 0.0
+    },
+    "rekt-tradooor-nft-167386767": {
+        "floor": 0.2
+    },
+    "dotkar": {
+        "floor": 0.0
+    },
+    "giga-positions-club-nft": {
+        "floor": 0.0
+    },
+    "punks-dna": {
+        "floor": 0.0
+    },
+    "specimen-347466394": {
+        "floor": 100000000.0
+    },
+    "8bit-bonsai-nft": {
+        "floor": 100.0
+    },
+    "doodadswtf-114242289": {
+        "floor": 100000000.0
+    },
+    "robin-boarding-pass": {
+        "floor": 0.09
+    },
+    "hedgehogs-nft-97785446": {
+        "floor": 100000000.0
+    },
+    "button-presser-nft-453697766": {
+        "floor": 100000000.0
+    },
+    "hoodbulls-nft": {
+        "floor": 100000000.0
+    },
+    "xfkhwoi-350668555": {
+        "floor": 0.0
+    },
+    "xfkhwoi": {
+        "floor": 0.0
+    },
+    "vnwfvsh": {
+        "floor": 0.0
+    },
+    "ryugaminft": {
+        "floor": 0.0
+    },
+    "fonz-nft-520714031": {
+        "floor": 0.0
+    },
+    "specimen-535912770": {
+        "floor": 10.0
+    },
+    "mutant-canines-560718056": {
         "floor": 0.0
     }
 }
