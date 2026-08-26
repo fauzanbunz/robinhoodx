@@ -24739,7 +24739,7 @@
         "floor": 0.0
     },
     "mfer-hood-": {
-        "floor": 0.0
+        "floor": 0.0052
     },
     "stock-miner-38521516": {
         "floor": 0.0
@@ -24757,7 +24757,7 @@
         "floor": 0.0
     },
     "meadow-art-87829278": {
-        "floor": 0.0
+        "floor": 500.0
     },
     "0xd48658a7536ac0f99491894bdb57820f7399fbfe": {
         "floor": 0.0
@@ -24769,7 +24769,7 @@
         "floor": 0.01
     },
     "progenituri": {
-        "floor": 0.1
+        "floor": 0.3
     },
     "the-bandits-nft-58000702": {
         "floor": 0.0
@@ -24848,5 +24848,110 @@
     },
     "clay-stonkz-limited-edition-439425834": {
         "floor": 0.011
+    },
+    "sherhook-hook-nft-216033576": {
+        "floor": 0.0
+    },
+    "friar-tucks": {
+        "floor": 0.0
+    },
+    "red-hood-pepe-nft-390878354": {
+        "floor": 0.0
+    },
+    "vanilla-seadrop-probe": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-818432758": {
+        "floor": 0.0
+    },
+    "ponsi-pyramids-649359800": {
+        "floor": 0.0
+    },
+    "hoodest": {
+        "floor": 0.0
+    },
+    "cyberpunk-dragons-club": {
+        "floor": 0.0
+    },
+    "outlaws404": {
+        "floor": 0.0
+    },
+    "jarvis-44516626": {
+        "floor": 0.0
+    },
+    "last-boot": {
+        "floor": 0.0
+    },
+    "goomiesnft": {
+        "floor": 0.0
+    },
+    "safemars-boarding-pass-269472925": {
+        "floor": 0.0
+    },
+    "cyberleek-genesis-nft-161410973": {
+        "floor": 0.0
+    },
+    "goblin2-852451850": {
+        "floor": 0.1
+    },
+    "hedgehog-74783169": {
+        "floor": 0.09
+    },
+    "walkdead": {
+        "floor": 0.0
+    },
+    "pantherpunkz-723369965": {
+        "floor": 0.0
+    },
+    "robinboops": {
+        "floor": 0.0
+    },
+    "capybara-936056849": {
+        "floor": 0.0
+    },
+    "0x5fad4aa6b87f4d8a4688db29283af1f23e354d68": {
+        "floor": 0.0
+    },
+    "hoodwinked-384276416": {
+        "floor": 0.0
+    },
+    "the-pepe-royal-939535880": {
+        "floor": 0.0
+    },
+    "kawaki-frogs": {
+        "floor": 0.0
+    },
+    "nekyo-": {
+        "floor": 0.0069
+    },
+    "nexvora-393650543": {
+        "floor": 0.0
+    },
+    "ughs-nft-660461509": {
+        "floor": 0.0
+    },
+    "crab-tideline": {
+        "floor": 0.0
+    },
+    "stock-miners-nft-89571993": {
+        "floor": 0.0
+    },
+    "smol-frend": {
+        "floor": 0.0029
+    },
+    "fishysticks": {
+        "floor": 0.0
+    },
+    "hood-bean": {
+        "floor": 0.0
+    },
+    "hookbrokers": {
+        "floor": 0.0
+    },
+    "mcbroker-s": {
+        "floor": 0.0044
+    },
+    "justbanners": {
+        "floor": 0.0
     }
 }
