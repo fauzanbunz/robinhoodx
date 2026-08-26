@@ -24598,7 +24598,7 @@
         "floor": 0.0
     },
     "rock-guardian-nft": {
-        "floor": 0.0
+        "floor": 2.2
     },
     "veggie-traders-nft": {
         "floor": 0.0
@@ -24713,5 +24713,140 @@
     },
     "boxhopium-machine": {
         "floor": 0.1
+    },
+    "doodads-nft-462477624": {
+        "floor": 12.0
+    },
+    "hookers": {
+        "floor": 0.0
+    },
+    "mcbroker-213352743": {
+        "floor": 0.0
+    },
+    "just-banners-463541593": {
+        "floor": 0.0
+    },
+    "just-banners-480048523": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-423209231": {
+        "floor": 0.0
+    },
+    "froghood-the-pool": {
+        "floor": 0.0
+    },
+    "veggietraders-nft": {
+        "floor": 0.0
+    },
+    "mfer-hood-": {
+        "floor": 0.0
+    },
+    "stock-miner-38521516": {
+        "floor": 0.0
+    },
+    "kfc-382578972": {
+        "floor": 0.0
+    },
+    "hood-potatoe": {
+        "floor": 0.0
+    },
+    "the-stock-miners": {
+        "floor": 0.0
+    },
+    "deviltrade": {
+        "floor": 0.0
+    },
+    "meadow-art-87829278": {
+        "floor": 0.0
+    },
+    "0xd48658a7536ac0f99491894bdb57820f7399fbfe": {
+        "floor": 0.0
+    },
+    "the-veggie-traders": {
+        "floor": 0.0
+    },
+    "2c-219292218": {
+        "floor": 0.01
+    },
+    "progenituri": {
+        "floor": 0.1
+    },
+    "the-bandits-nft-58000702": {
+        "floor": 0.0
+    },
+    "robinmapnft": {
+        "floor": 0.0
+    },
+    "lazy-hood": {
+        "floor": 0.0
+    },
+    "bun-mancers": {
+        "floor": 7.99999e-05
+    },
+    "desk-agents-176078392": {
+        "floor": 0.0
+    },
+    "desk-agents-784346905": {
+        "floor": 0.0
+    },
+    "sinjoh-proof-of-stake-position-692192420": {
+        "floor": 0.0
+    },
+    "onchain-banana-841505219": {
+        "floor": 0.0
+    },
+    "onchain-banana-782582859": {
+        "floor": 0.0
+    },
+    "floatiespoolchan": {
+        "floor": 0.0
+    },
+    "ninja-squad-298856095": {
+        "floor": 0.0
+    },
+    "dow-jones-700006743": {
+        "floor": 1.0
+    },
+    "puppnft": {
+        "floor": 0.0
+    },
+    "onchainized-753816559": {
+        "floor": 0.0
+    },
+    "0x13885012749a30c0bcbe3456169b74b00a55ca91": {
+        "floor": 6.0
+    },
+    "0x4e909b03f2ec0644a67ea8a9296e4def7ce56907": {
+        "floor": 0.1
+    },
+    "insiders-tepper-nft": {
+        "floor": 9.0
+    },
+    "0x7ceef7e8b81a1996fa8bb27dcb8429ca3b49b4ea": {
+        "floor": 0.0
+    },
+    "orlix-agent-881329789": {
+        "floor": 5.0
+    },
+    "runebrokers-nft-789805768": {
+        "floor": 0.00029999
+    },
+    "stock-anime": {
+        "floor": 0.0
+    },
+    "the-xraid-dao": {
+        "floor": 0.14
+    },
+    "cyberleekers-syndicate-454927598": {
+        "floor": 0.0
+    },
+    "rehearsal-brokers-255342094": {
+        "floor": 0.0
+    },
+    "hood-bears-973207620": {
+        "floor": 0.09
+    },
+    "clay-stonkz-limited-edition-439425834": {
+        "floor": 0.011
     }
 }
