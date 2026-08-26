@@ -24460,7 +24460,7 @@
         "floor": 0.09
     },
     "cashe-rekt-nft": {
-        "floor": 39.99
+        "floor": 20.0
     },
     "frogizens-300025294": {
         "floor": 140.0
@@ -24469,7 +24469,7 @@
         "floor": 0.5
     },
     "113321sa": {
-        "floor": 15.0
+        "floor": 14.99
     },
     "dlmm-token-94082146": {
         "floor": 0.0
@@ -24596,5 +24596,122 @@
     },
     "dlmm-token-297187846": {
         "floor": 0.0
+    },
+    "rock-guardian-nft": {
+        "floor": 0.0
+    },
+    "veggie-traders-nft": {
+        "floor": 0.0
+    },
+    "goat-streets-716552861": {
+        "floor": 0.0
+    },
+    "undeadlines-nft-225612130": {
+        "floor": 0.0
+    },
+    "the-doll-club-nft-576688466": {
+        "floor": 2.3
+    },
+    "slepy-moey": {
+        "floor": 0.0
+    },
+    "hopium-machine-289708332": {
+        "floor": 0.0
+    },
+    "hopium-machines-hood": {
+        "floor": 850.0
+    },
+    "bucketz-nft-988779287": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-873695244": {
+        "floor": 0.0
+    },
+    "cyberleekers-syndicate": {
+        "floor": 0.0
+    },
+    "sleepy-moeyy-nft-662660579": {
+        "floor": 1.6
+    },
+    "the-doll-nft-318390406": {
+        "floor": 0.0
+    },
+    "mintthisget1btc": {
+        "floor": 0.0
+    },
+    "unknown-nft-488363841": {
+        "floor": 0.0
+    },
+    "bull-mancer-nft": {
+        "floor": 0.0009999
+    },
+    "bucketz-118091906": {
+        "floor": 0.3
+    },
+    "peeep-nft-478380845": {
+        "floor": 0.05
+    },
+    "rhhoodwinked": {
+        "floor": 0.0
+    },
+    "primal-heads-824009191": {
+        "floor": 0.0
+    },
+    "goslo-rh": {
+        "floor": 0.0
+    },
+    "galaktic-gang-nft-722122227": {
+        "floor": 0.38
+    },
+    "dilop-cells": {
+        "floor": 0.0
+    },
+    "sleepy-moeyy-47947400": {
+        "floor": 0.07
+    },
+    "flop-delegate-keyprint-nft": {
+        "floor": 0.0
+    },
+    "alien-node-nft-319509897": {
+        "floor": 0.0
+    },
+    "p-k-o-844064887": {
+        "floor": 0.0
+    },
+    "dingus-nft": {
+        "floor": 0.07
+    },
+    "robinsardines": {
+        "floor": 5.0
+    },
+    "robin-bandit-95106128": {
+        "floor": 0.0
+    },
+    "gawswrld-nft-347067599": {
+        "floor": 50.0
+    },
+    "the-bloop-brokers": {
+        "floor": 0.0
+    },
+    "cache-flow-club": {
+        "floor": 0.33
+    },
+    "testing-c-00111": {
+        "floor": 0.0
+    },
+    "sleepy-moeyy-nft": {
+        "floor": 30.0
+    },
+    "cache-flow-nft-435698538": {
+        "floor": 60.0
+    },
+    "bloop-brokers-hood": {
+        "floor": 0.3
+    },
+    "firm-brokers-462836224": {
+        "floor": 0.15
+    },
+    "boxhopium-machine": {
+        "floor": 0.1
     }
 }
