@@ -28643,5 +28643,152 @@
     },
     "quantum-broker-rh": {
         "floor": 0.7
+    },
+    "wezards-rh": {
+        "floor": 0.0
+    },
+    "0x5006dd8aa19ff7c02921223a0c14786d4c91e4c2": {
+        "floor": 0.0
+    },
+    "email-nft-353724318": {
+        "floor": 0.0
+    },
+    "kaori-908037415": {
+        "floor": 0.0
+    },
+    "prism-option-position": {
+        "floor": 0.0
+    },
+    "robinhood-mayc": {
+        "floor": 0.0
+    },
+    "0x8bd5607ddc13f00f74a156ec349d3a9cf6dcd8c4": {
+        "floor": 0.0
+    },
+    "chillhop-cats": {
+        "floor": 0.0
+    },
+    "chibihood-6882644": {
+        "floor": 0.0
+    },
+    "lycan-brokers": {
+        "floor": 0.0
+    },
+    "glee-390435036": {
+        "floor": 0.0
+    },
+    "crazy-frog-ascension-v2": {
+        "floor": 0.0
+    },
+    "crazy-frog-relics-v2": {
+        "floor": 0.0
+    },
+    "robinhood-bayc": {
+        "floor": 0.0
+    },
+    "ukrainian-art-935816773": {
+        "floor": 0.0
+    },
+    "bitlings-hood": {
+        "floor": 0.0
+    },
+    "ukrainian-art-3787446": {
+        "floor": 0.0
+    },
+    "ukrainian-art-862633766": {
+        "floor": 0.0
+    },
+    "xclass": {
+        "floor": 0.0
+    },
+    "ukrainian-art-820025903": {
+        "floor": 0.0
+    },
+    "mechahood": {
+        "floor": 0.0
+    },
+    "broker-computer": {
+        "floor": 9.9999998e-05
+    },
+    "nnkvrka": {
+        "floor": 0.0
+    },
+    "greenrock-1845808": {
+        "floor": 0.0
+    },
+    "quantum-hood-725991906": {
+        "floor": 0.0
+    },
+    "quantum-nfts": {
+        "floor": 400.0
+    },
+    "hood-cats-854934425": {
+        "floor": 0.0
+    },
+    "max123-402636774": {
+        "floor": 0.0
+    },
+    "bakers-nft-583347725": {
+        "floor": 0.0
+    },
+    "codexconsoles": {
+        "floor": 0.0
+    },
+    "fu-bu-hei-392006688": {
+        "floor": 0.0
+    },
+    "fu-bu-hei": {
+        "floor": 0.0
+    },
+    "pepemfers-hood": {
+        "floor": 1.9
+    },
+    "squirtle-410711754": {
+        "floor": 0.0
+    },
+    "hyptrons-quotrons-hood": {
+        "floor": 0.0
+    },
+    "jacon-rh-735243518": {
+        "floor": 0.0
+    },
+    "takahood-809679670": {
+        "floor": 0.0
+    },
+    "quantums-rh": {
+        "floor": 1.8
+    },
+    "binary-cat-378096638": {
+        "floor": 0.0
+    },
+    "crazy-degen": {
+        "floor": 0.000199
+    },
+    "0xda48e1d850e0af4796f629e82e775b3bc0ed3ce6": {
+        "floor": 49.0
+    },
+    "originalbrokers": {
+        "floor": 0.0
+    },
+    "zns-badge-535421193": {
+        "floor": 0.0
+    },
+    "ff-734543454": {
+        "floor": 0.0
+    },
+    "bakers-rh": {
+        "floor": 0.03
+    },
+    "netnet-gear-nft": {
+        "floor": 13.0
+    },
+    "stoxa-stock-certificate-929838762": {
+        "floor": 0.0
+    },
+    "real-obscures": {
+        "floor": 0.0
+    },
+    "kinfolks-200426709": {
+        "floor": 3e-05
     }
 }
