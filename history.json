@@ -30887,5 +30887,155 @@
     },
     "loans-broker-ticket": {
         "floor": 0.0
+    },
+    "legacysystems": {
+        "floor": 0.0
+    },
+    "pdxx-563295886": {
+        "floor": 0.005
+    },
+    "1-robinhood": {
+        "floor": 0.0
+    },
+    "quotex-machines": {
+        "floor": 0.1
+    },
+    "hoardlings": {
+        "floor": 0.0
+    },
+    "robincat-417452500": {
+        "floor": 0.0002
+    },
+    "rds-657171132": {
+        "floor": 0.0
+    },
+    "the-bull-club-482279756": {
+        "floor": 0.0
+    },
+    "yield-fields-rh": {
+        "floor": 0.063
+    },
+    "future-mement-by-virtuals": {
+        "floor": 0.0
+    },
+    "treedotfamily": {
+        "floor": 5.4
+    },
+    "wasteland-57418263": {
+        "floor": 0.0
+    },
+    "duck-rh": {
+        "floor": 1.0
+    },
+    "the-bully-club-415911637": {
+        "floor": 0.5
+    },
+    "future-baum": {
+        "floor": 0.0
+    },
+    "quantum-kitchen": {
+        "floor": 0.0
+    },
+    "quotnix": {
+        "floor": 0.001
+    },
+    "shinkadao-735965742": {
+        "floor": 0.005
+    },
+    "landlord-title-deeds": {
+        "floor": 0.0
+    },
+    "u-404-729620375": {
+        "floor": 0.0
+    },
+    "pharaoh-broker": {
+        "floor": 0.0
+    },
+    "broker-machines": {
+        "floor": 0.0
+    },
+    "blue-whale-society": {
+        "floor": 0.0
+    },
+    "neo-genesis-2-138711891": {
+        "floor": 0.0
+    },
+    "pump-terminal": {
+        "floor": 0.00065
+    },
+    "u-404-170540028": {
+        "floor": 0.0
+    },
+    "pesky-penguins": {
+        "floor": 0.0
+    },
+    "spawner-printer-367113240": {
+        "floor": 0.0
+    },
+    "0x80fd265a5f5f9a608392df40b734975701392220-581694786": {
+        "floor": 0.0
+    },
+    "up-punks": {
+        "floor": 1000000.0
+    },
+    "startup-978056466": {
+        "floor": 0.0
+    },
+    "bad-ass-honey-badgers-872225222": {
+        "floor": 0.0
+    },
+    "bad-ass-honey-badgers-848790172": {
+        "floor": 0.0
+    },
+    "bad-ass-honey-badgers-187780815": {
+        "floor": 0.0
+    },
+    "spawner-printer": {
+        "floor": 0.0
+    },
+    "reserved-human-computers": {
+        "floor": 5e-05
+    },
+    "cyber-chronicles-380684727": {
+        "floor": 0.0
+    },
+    "dlmm-token-29059670": {
+        "floor": 0.0
+    },
+    "beyblades-fun": {
+        "floor": 0.0
+    },
+    "bitcellrh": {
+        "floor": 0.0
+    },
+    "bored-cat-yacht-club-686059611": {
+        "floor": 0.0
+    },
+    "0x5d3fcabc4fe74c67e6527e643536aeaba5679859": {
+        "floor": 0.0
+    },
+    "the-gang": {
+        "floor": 0.5
+    },
+    "orchard-tree": {
+        "floor": 0.0
+    },
+    "genesis-yorozu": {
+        "floor": 0.00039
+    },
+    "flaunch-revenue-streams-439519555": {
+        "floor": 0.0
+    },
+    "meta-pengus-340683516": {
+        "floor": 9e-05
+    },
+    "gsdx-non-performing-asset-series-i": {
+        "floor": 0.0
+    },
+    "satori-moneyprinter-329915224": {
+        "floor": 0.0
+    },
+    "satori-moneyprinter-116461164": {
+        "floor": 0.0
     }
 }
