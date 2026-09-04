@@ -32380,13 +32380,13 @@
         "floor": 0.0
     },
     "obsidian-cats": {
-        "floor": 0.0
+        "floor": 0.00011
     },
     "marine-brokers": {
         "floor": 0.0
     },
     "piggy-banks-457074242": {
-        "floor": 0.0
+        "floor": 0.0129
     },
     "uglyfriendsclub": {
         "floor": 0.0
@@ -32398,7 +32398,7 @@
         "floor": 0.0
     },
     "akuma-city": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "novale-factions-148442313": {
         "floor": 0.0
@@ -32504,5 +32504,128 @@
     },
     "wsgitems": {
         "floor": 0.0
+    },
+    "boymeetshood": {
+        "floor": 0.0
+    },
+    "arkada-collection-335005359": {
+        "floor": 0.0
+    },
+    "stonks-945185311": {
+        "floor": 0.0
+    },
+    "generation-zero": {
+        "floor": 0.0
+    },
+    "villa-onchain": {
+        "floor": 0.0
+    },
+    "0x8df50b5c65f0f51309570c8b8b743ccfe8797c78": {
+        "floor": 0.0
+    },
+    "qumlrws-437479118": {
+        "floor": 0.0
+    },
+    "bob-but-is-bob": {
+        "floor": 0.0
+    },
+    "aaaaa-183924559": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-703009742": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-166510283": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-126649186": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-571242768": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-20274297": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-238330819": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-769247042": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-153760700": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-952560711": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-825964323": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-119686637": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-850733038": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-75791930": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-231806266": {
+        "floor": 0.0
+    },
+    "pepti-cm-position-manager-687492333": {
+        "floor": 0.0
+    },
+    "primordial-alpha": {
+        "floor": 0.0
+    },
+    "0xdb71c8c3f2352c82ef475fb86cf2947b754497dc": {
+        "floor": 0.0
+    },
+    "piggy-banks-by-sinjoh": {
+        "floor": 0.0
+    },
+    "dlmm-token-864694005": {
+        "floor": 0.0
+    },
+    "printer-490087106": {
+        "floor": 0.000199
+    },
+    "pugs-on-hood": {
+        "floor": 0.0
+    },
+    "ponsboys": {
+        "floor": 2.0
+    },
+    "0x53a66b46bf5b46b8a1a4b98e534e0aa76e5b5b93": {
+        "floor": 0.0
+    },
+    "coinflip-medals-189600433": {
+        "floor": 0.0
+    },
+    "droolersnft": {
+        "floor": 0.0
+    },
+    "luckyblockonrh": {
+        "floor": 0.0
+    },
+    "the-race-890518931": {
+        "floor": 0.0
+    },
+    "pulserobotics-task-receipt-224544908": {
+        "floor": 0.0
+    },
+    "marine-onchain": {
+        "floor": 0.006
+    },
+    "bone-brokers": {
+        "floor": 0.0
+    },
+    "voryn-64381391": {
+        "floor": 0.0
+    },
+    "bored-kitties": {
+        "floor": 0.000238
     }
 }
