@@ -32380,13 +32380,13 @@
         "floor": 0.0
     },
     "obsidian-cats": {
-        "floor": 0.00011
+        "floor": 0.0001164
     },
     "marine-brokers": {
         "floor": 0.0
     },
     "piggy-banks-457074242": {
-        "floor": 0.0129
+        "floor": 0.0299
     },
     "uglyfriendsclub": {
         "floor": 0.0
@@ -32398,7 +32398,7 @@
         "floor": 0.0
     },
     "akuma-city": {
-        "floor": 0.0001
+        "floor": 9.5e-05
     },
     "novale-factions-148442313": {
         "floor": 0.0
@@ -32518,7 +32518,7 @@
         "floor": 0.0
     },
     "villa-onchain": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "0x8df50b5c65f0f51309570c8b8b743ccfe8797c78": {
         "floor": 0.0
@@ -32590,13 +32590,13 @@
         "floor": 0.0
     },
     "printer-490087106": {
-        "floor": 0.000199
+        "floor": 0.0001
     },
     "pugs-on-hood": {
-        "floor": 0.0
+        "floor": 0.001
     },
     "ponsboys": {
-        "floor": 2.0
+        "floor": 0.06
     },
     "0x53a66b46bf5b46b8a1a4b98e534e0aa76e5b5b93": {
         "floor": 0.0
@@ -32626,6 +32626,45 @@
         "floor": 0.0
     },
     "bored-kitties": {
-        "floor": 0.000238
+        "floor": 0.26
+    },
+    "entity-941624002": {
+        "floor": 0.0
+    },
+    "ponsatori-4663": {
+        "floor": 0.0
+    },
+    "knighthoods": {
+        "floor": 0.0
+    },
+    "entity-961411148": {
+        "floor": 0.0
+    },
+    "goblinversexyz": {
+        "floor": 0.0
+    },
+    "nuke-launch-code-278058517": {
+        "floor": 0.0
+    },
+    "punk_not_dead-690150266": {
+        "floor": 0.0
+    },
+    "punk_not_dead": {
+        "floor": 0.0
+    },
+    "25-years-9-11": {
+        "floor": 0.0
+    },
+    "bulls-vs-bears-units-952148786": {
+        "floor": 0.0
+    },
+    "badtest": {
+        "floor": 0.0
+    },
+    "claybear": {
+        "floor": 0.0
+    },
+    "lbonrobin": {
+        "floor": 5.0
     }
 }
