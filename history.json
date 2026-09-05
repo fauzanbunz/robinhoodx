@@ -33343,7 +33343,7 @@
         "floor": 0.0
     },
     "dragon-genesis-177811162": {
-        "floor": 0.00024999
+        "floor": 0.00022
     },
     "deep-runners": {
         "floor": 0.0
@@ -33367,18 +33367,99 @@
         "floor": 0.0
     },
     "punk-computers-rh": {
-        "floor": 4.0
+        "floor": 0.19
     },
     "curbstone-brokers": {
-        "floor": 0.000395
+        "floor": 0.0003999
     },
     "nosignal-600823432": {
-        "floor": 0.0
+        "floor": 0.99
     },
     "entityrecovered": {
         "floor": 0.8
     },
     "gridlockfit": {
+        "floor": 0.0
+    },
+    "0x9a46fd9d2cdbc0b409265bf572d1e8e4fbf22a00": {
+        "floor": 0.0
+    },
+    "hypnotoad-877284484": {
+        "floor": 0.0
+    },
+    "testonproduction": {
+        "floor": 0.0
+    },
+    "robinhoots-261828731": {
+        "floor": 0.0
+    },
+    "right-click-and-mint-as": {
+        "floor": 0.0
+    },
+    "discotecca": {
+        "floor": 0.0
+    },
+    "the-public-office": {
+        "floor": 0.0
+    },
+    "0x4ac5c107865f0f0f9d6b93f8f4ee27763032f3fe": {
+        "floor": 0.0
+    },
+    "tristans": {
+        "floor": 0.0
+    },
+    "vesper-test": {
+        "floor": 0.0
+    },
+    "always-human-songs": {
+        "floor": 0.0
+    },
+    "vespertest": {
+        "floor": 0.0
+    },
+    "zecbit-genesis-shielded-935733714": {
+        "floor": 0.0
+    },
+    "v2-production-smoke": {
+        "floor": 0.0
+    },
+    "0xaf84a6a57093107bf78ba2118e6d47da57815186": {
+        "floor": 0.0
+    },
+    "heart-dound": {
+        "floor": 0.0
+    },
+    "mistreach-warrior": {
+        "floor": 0.0
+    },
+    "0x159e0a09e118a71011092898f7a24be76e112b17": {
+        "floor": 0.0
+    },
+    "hood-genesis-627458592": {
+        "floor": 0.0
+    },
+    "slow-738869616": {
+        "floor": 0.0
+    },
+    "thesyndicate-": {
+        "floor": 0.0
+    },
+    "marginmob": {
+        "floor": 0.0
+    },
+    "umbrella-founding-shareholder-certificate": {
+        "floor": 0.0
+    },
+    "assquatch": {
+        "floor": 0.0
+    },
+    "cthulhu-cuties": {
+        "floor": 8.99e-05
+    },
+    "0xd9f44fdaa2becd4888029f9b96919ab3bdeb87f6": {
+        "floor": 0.0
+    },
+    "frost-mysterybox": {
         "floor": 0.0
     }
 }
