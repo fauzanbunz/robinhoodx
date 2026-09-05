@@ -33208,7 +33208,7 @@
         "floor": 0.0
     },
     "dog-officers": {
-        "floor": 0.0
+        "floor": 9.8e-05
     },
     "twelve-pass": {
         "floor": 0.0
@@ -33226,6 +33226,84 @@
         "floor": 0.0
     },
     "flockfall-genesis": {
+        "floor": 0.0
+    },
+    "pixelcatworks": {
+        "floor": 0.0
+    },
+    "share-fee-rights-879974896": {
+        "floor": 0.0
+    },
+    "floorboard-position-927405869": {
+        "floor": 0.0
+    },
+    "astrobrokers-552292942": {
+        "floor": 0.0
+    },
+    "pixelings-298678258": {
+        "floor": 0.0
+    },
+    "printer-exe-371175708": {
+        "floor": 0.0
+    },
+    "agnttest-969386193": {
+        "floor": 0.0
+    },
+    "mousse-183523683": {
+        "floor": 0.0
+    },
+    "boner-card-398726251": {
+        "floor": 0.0
+    },
+    "agnttest-737188687": {
+        "floor": 0.0
+    },
+    "agnttest-732716577": {
+        "floor": 0.0
+    },
+    "dutchboard-position-227233543": {
+        "floor": 0.0
+    },
+    "swapboard-position-39693962": {
+        "floor": 0.0
+    },
+    "consensus-225226994": {
+        "floor": 0.0
+    },
+    "pulserobotics-task-receipt-811570001": {
+        "floor": 0.0
+    },
+    "miners-machine": {
+        "floor": 0.0
+    },
+    "jensens-basement-gpus": {
+        "floor": 0.0
+    },
+    "btc69k-genesis-miners": {
+        "floor": 0.0
+    },
+    "asa-awsan-sultan-art": {
+        "floor": 0.0
+    },
+    "margin-mob": {
+        "floor": 0.0
+    },
+    "0x32fb3db7dd1c8a42daa63ad6662641889156ef57": {
+        "floor": 0.0
+    },
+    "gridlock-961002220": {
+        "floor": 0.0
+    },
+    "0xfd9d8aa79e3fb66ffe36aa468a2f71681f336b56": {
+        "floor": 0.01
+    },
+    "the-factory-producer": {
+        "floor": 0.0
+    },
+    "gg-398972957": {
+        "floor": 0.0
+    },
+    "pump-tower-cosmetics": {
         "floor": 0.0
     }
 }
