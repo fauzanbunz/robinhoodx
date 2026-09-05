@@ -33238,7 +33238,7 @@
         "floor": 0.0
     },
     "astrobrokers-552292942": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "pixelings-298678258": {
         "floor": 0.0
@@ -33250,7 +33250,7 @@
         "floor": 0.0
     },
     "mousse-183523683": {
-        "floor": 0.0
+        "floor": 2.4e-05
     },
     "boner-card-398726251": {
         "floor": 0.0
@@ -33304,6 +33304,81 @@
         "floor": 0.0
     },
     "pump-tower-cosmetics": {
+        "floor": 0.0
+    },
+    "onchainharvest": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-275626176": {
+        "floor": 0.0
+    },
+    "test-collection-742316960": {
+        "floor": 0.0
+    },
+    "0x25c66baec485b1b6474f4c79818dfe22731f8100": {
+        "floor": 0.0
+    },
+    "genesis-bank-charter": {
+        "floor": 0.0
+    },
+    "mfers-quotrons": {
+        "floor": 0.0
+    },
+    "commonersnft": {
+        "floor": 0.0
+    },
+    "srzxqse": {
+        "floor": 0.0
+    },
+    "arcane-observatory": {
+        "floor": 0.0
+    },
+    "ducky-351680939": {
+        "floor": 0.000101
+    },
+    "stonks-miner": {
+        "floor": 0.0
+    },
+    "0xef91e1626eaa2c0aa441a1c16830474c2588a3a9": {
+        "floor": 0.0
+    },
+    "dragon-genesis-177811162": {
+        "floor": 0.00024999
+    },
+    "deep-runners": {
+        "floor": 0.0
+    },
+    "voxelrh": {
+        "floor": 0.0
+    },
+    "robinhoots-694433575": {
+        "floor": 0.0
+    },
+    "canborsa": {
+        "floor": 0.0
+    },
+    "ward-kings": {
+        "floor": 0.0
+    },
+    "stormmchasers-studio-canary-no-value": {
+        "floor": 0.0
+    },
+    "microtrons": {
+        "floor": 0.0
+    },
+    "punk-computers-rh": {
+        "floor": 4.0
+    },
+    "curbstone-brokers": {
+        "floor": 0.000395
+    },
+    "nosignal-600823432": {
+        "floor": 0.0
+    },
+    "entityrecovered": {
+        "floor": 0.8
+    },
+    "gridlockfit": {
         "floor": 0.0
     }
 }
