@@ -34120,10 +34120,10 @@
         "floor": 0.0
     },
     "rh-birds": {
-        "floor": 0.0
+        "floor": 9.999999998e-05
     },
     "wallbrokers-3429088": {
-        "floor": 1.4
+        "floor": 0.19
     },
     "seaguy-art-collection": {
         "floor": 0.0
@@ -34138,7 +34138,7 @@
         "floor": 0.0
     },
     "byte-bots": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "ponspaw": {
         "floor": 0.0073
@@ -34237,6 +34237,114 @@
         "floor": 3.75e-05
     },
     "maxextractors": {
+        "floor": 0.0
+    },
+    "popcorn-punks-979790613": {
+        "floor": 0.0
+    },
+    "popcorn-punks-330730924": {
+        "floor": 0.0
+    },
+    "yf-rehearshal": {
+        "floor": 0.0
+    },
+    "popcorn-punks": {
+        "floor": 0.0
+    },
+    "lionix": {
+        "floor": 0.0
+    },
+    "sculptia": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-625306661": {
+        "floor": 0.0
+    },
+    "marketpacks-series-1-551953135": {
+        "floor": 0.0
+    },
+    "the-duck-732180444": {
+        "floor": 0.0
+    },
+    "moss-enchanted": {
+        "floor": 0.3
+    },
+    "engine-works-machine-201430123": {
+        "floor": 0.0
+    },
+    "skull-heads-10k": {
+        "floor": 0.0
+    },
+    "pilaoguaa": {
+        "floor": 0.0
+    },
+    "0xeb0fa333317c8fed9841b6778deba43e2fecb8c7": {
+        "floor": 0.0
+    },
+    "0x9014c44aaefe6463330ab42358b2e4b240046136-915728112": {
+        "floor": 0.0
+    },
+    "crew-420886802": {
+        "floor": 0.0
+    },
+    "dead-terminals": {
+        "floor": 0.0
+    },
+    "0x868fdf52063eee7844ee37852e8bcb67b995e7e4": {
+        "floor": 0.0
+    },
+    "bunnyhoodxyz": {
+        "floor": 0.0
+    },
+    "robinhood-broker-machines": {
+        "floor": 0.0003
+    },
+    "rh-frog": {
+        "floor": 0.0002
+    },
+    "mesmophoria": {
+        "floor": 0.003
+    },
+    "moon-rockets": {
+        "floor": 0.0
+    },
+    "internet-pengs": {
+        "floor": 0.0
+    },
+    "ponssperm": {
+        "floor": 0.6
+    },
+    "original-yetis": {
+        "floor": 0.00014999999999
+    },
+    "tormentati": {
+        "floor": 10.0
+    },
+    "engine-works-machine-389267907": {
+        "floor": 0.0
+    },
+    "bright-brokers": {
+        "floor": 0.0
+    },
+    "top-wear": {
+        "floor": 6e-05
+    },
+    "etch-message": {
+        "floor": 0.0
+    },
+    "hoobots": {
+        "floor": 7e-05
+    },
+    "dlmm-token-357301699": {
+        "floor": 0.0
+    },
+    "0x82a71edd4744f643f52f71ed4c62bb8f7d1ba24c": {
+        "floor": 0.0
+    },
+    "koong": {
+        "floor": 0.0
+    },
+    "dead-pixels-labs": {
         "floor": 0.0
     }
 }
