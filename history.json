@@ -33385,7 +33385,7 @@
         "floor": 0.0
     },
     "hypnotoad-877284484": {
-        "floor": 0.0
+        "floor": 0.11
     },
     "testonproduction": {
         "floor": 0.0
@@ -33406,7 +33406,7 @@
         "floor": 0.0
     },
     "tristans": {
-        "floor": 0.0
+        "floor": 4.4
     },
     "vesper-test": {
         "floor": 0.0
@@ -33454,12 +33454,75 @@
         "floor": 0.0
     },
     "cthulhu-cuties": {
-        "floor": 8.99e-05
+        "floor": 0.00027299
     },
     "0xd9f44fdaa2becd4888029f9b96919ab3bdeb87f6": {
         "floor": 0.0
     },
     "frost-mysterybox": {
+        "floor": 0.0
+    },
+    "minters-instant-basket-389454455": {
+        "floor": 0.0
+    },
+    "0x2cec492314c9fd44470ec49e11b08784e444766f": {
+        "floor": 0.0
+    },
+    "onchain-harvest-665510780": {
+        "floor": 0.0
+    },
+    "soulera": {
+        "floor": 0.0
+    },
+    "onchain-harvest-208992340": {
+        "floor": 0.09
+    },
+    "nomaimai-974436139": {
+        "floor": 0.0
+    },
+    "nobodyhoodme": {
+        "floor": 0.0
+    },
+    "rekt-seiyans": {
+        "floor": 0.0
+    },
+    "the-plumber-714389463": {
+        "floor": 0.0
+    },
+    "0x24efbdaeba5f258ea167c80aa8ffd13d130e8c6c": {
+        "floor": 0.0
+    },
+    "v2-metadata-smoke": {
+        "floor": 0.0
+    },
+    "xilla": {
+        "floor": 0.0
+    },
+    "otomated": {
+        "floor": 1.0
+    },
+    "vespertest-nft": {
+        "floor": 0.0
+    },
+    "headhunt-operator-987647136": {
+        "floor": 0.0
+    },
+    "headhunt-operator": {
+        "floor": 0.0
+    },
+    "retro-archive": {
+        "floor": 0.0
+    },
+    "retro-archive-pack": {
+        "floor": 100.0
+    },
+    "dlmm-token-374967150": {
+        "floor": 0.0
+    },
+    "put-me-down": {
+        "floor": 0.0
+    },
+    "always-human-songs-test": {
         "floor": 0.0
     }
 }
