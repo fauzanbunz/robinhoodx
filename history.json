@@ -33835,7 +33835,7 @@
         "floor": 0.0
     },
     "hood-looney": {
-        "floor": 0.0
+        "floor": 0.0025499
     },
     "sperm-brokers": {
         "floor": 0.01
@@ -34096,6 +34096,147 @@
         "floor": 0.0
     },
     "sponsor-pigs": {
+        "floor": 0.0
+    },
+    "robin-knights": {
+        "floor": 0.0
+    },
+    "beepee": {
+        "floor": 0.0
+    },
+    "stock-wizards": {
+        "floor": 0.0
+    },
+    "0x34f473a32be349caa368304320eb18d3758a0a08": {
+        "floor": 0.0
+    },
+    "ashlooom-nodes": {
+        "floor": 0.0
+    },
+    "0x127a1b66edf7d184ac6e79d726deb676a89e3df6": {
+        "floor": 0.0
+    },
+    "0xceba23557511e6e2371e48dbd2eb4dcecb2c1c2f": {
+        "floor": 0.0
+    },
+    "rh-birds": {
+        "floor": 0.0
+    },
+    "wallbrokers-3429088": {
+        "floor": 1.4
+    },
+    "seaguy-art-collection": {
+        "floor": 0.0
+    },
+    "0x7add6cb8c9360ef2af68d963101a5620aa0f5c24": {
+        "floor": 0.0
+    },
+    "roamz-718629931": {
+        "floor": 0.0
+    },
+    "roamz": {
+        "floor": 0.0
+    },
+    "byte-bots": {
+        "floor": 0.0
+    },
+    "ponspaw": {
+        "floor": 0.0073
+    },
+    "scrub-wallaby": {
+        "floor": 0.0
+    },
+    "bone-brokers-715845582": {
+        "floor": 0.0
+    },
+    "0x559468d73fabb0efa3725292c036f2930193dd63": {
+        "floor": 0.0
+    },
+    "personaee": {
+        "floor": 9.7999e-05
+    },
+    "elitebrokersnft": {
+        "floor": 0.0
+    },
+    "furnadsnfts-204186186": {
+        "floor": 0.01
+    },
+    "arkada-collection-417983237": {
+        "floor": 0.0
+    },
+    "broker-catss": {
+        "floor": 0.3
+    },
+    "engine-works-machine-380862491": {
+        "floor": 0.0
+    },
+    "chomp-hood": {
+        "floor": 7.0
+    },
+    "uukheav": {
+        "floor": 0.0
+    },
+    "wallbrokers": {
+        "floor": 0.0
+    },
+    "builders-781200655": {
+        "floor": 0.0
+    },
+    "broker-cats-546290182": {
+        "floor": 0.0
+    },
+    "breakers-743523682": {
+        "floor": 0.04
+    },
+    "marketpacks-series-1": {
+        "floor": 0.0
+    },
+    "ponsbuns": {
+        "floor": 9e-05
+    },
+    "broker-cats-990790792": {
+        "floor": 0.0
+    },
+    "vanguard-troups": {
+        "floor": 0.0
+    },
+    "lowkeycats": {
+        "floor": 0.0
+    },
+    "old-bitcoin-224169796": {
+        "floor": 0.0
+    },
+    "neonreef-80649475": {
+        "floor": 0.09
+    },
+    "0xb8031508e162721522b833633c93e35f38f13193": {
+        "floor": 0.0
+    },
+    "stonkvenue-plots": {
+        "floor": 0.0
+    },
+    "smol-board-505706164": {
+        "floor": 0.0
+    },
+    "overload-components-192770029": {
+        "floor": 0.0
+    },
+    "0xce16c15e5d4d11fd66228ad0b8cb1472a6080e3b": {
+        "floor": 0.0
+    },
+    "chife-breakers": {
+        "floor": 0.0
+    },
+    "amazon-boxes-rwa": {
+        "floor": 0.0
+    },
+    "pokecard-milestone-cards": {
+        "floor": 0.0
+    },
+    "0x3dcefca0ef6562b3e2bb736b14f9b391bd1ed864": {
+        "floor": 3.75e-05
+    },
+    "maxextractors": {
         "floor": 0.0
     }
 }
