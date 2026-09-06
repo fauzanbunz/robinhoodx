@@ -34267,7 +34267,7 @@
         "floor": 0.0
     },
     "moss-enchanted": {
-        "floor": 0.3
+        "floor": 4.0
     },
     "engine-works-machine-201430123": {
         "floor": 0.0
@@ -34345,6 +34345,117 @@
         "floor": 0.0
     },
     "dead-pixels-labs": {
+        "floor": 0.0
+    },
+    "cats-quotrons": {
+        "floor": 0.0
+    },
+    "wfwxfqafz": {
+        "floor": 0.0
+    },
+    "critters-215171516": {
+        "floor": 0.0
+    },
+    "dead-terminals-120179531": {
+        "floor": 0.0
+    },
+    "cold-shoulders": {
+        "floor": 0.0
+    },
+    "terma-deployment": {
+        "floor": 0.0
+    },
+    "0x27df27025199e2ee1423dc508789f013b80d70a3": {
+        "floor": 0.0
+    },
+    "arton-416068219": {
+        "floor": 0.0
+    },
+    "yuno-v2-position-675445028": {
+        "floor": 0.0
+    },
+    "vibemarket-v2-1-seo-proof": {
+        "floor": 0.0
+    },
+    "0x6309d86b9ade1551ae50c5eec0e0b540fbb05c93": {
+        "floor": 0.0
+    },
+    "maid-marian-open-order": {
+        "floor": 0.0
+    },
+    "etedgs": {
+        "floor": 0.0
+    },
+    "bulls-vs-bears-units-651968555": {
+        "floor": 0.0
+    },
+    "stone-gods-958690001": {
+        "floor": 0.0004
+    },
+    "polcans": {
+        "floor": 0.0001
+    },
+    "suitsbrokers": {
+        "floor": 0.0
+    },
+    "bitmons-708440435": {
+        "floor": 0.0002
+    },
+    "112-doge-experiment-genesis": {
+        "floor": 0.001
+    },
+    "auria-466374430": {
+        "floor": 0.0
+    },
+    "0x434dc721e62c428998715bb932805652dcebbef5": {
+        "floor": 0.0
+    },
+    "magic-internet-beans": {
+        "floor": 0.0
+    },
+    "robble-canvas-test": {
+        "floor": 0.0
+    },
+    "repliks": {
+        "floor": 16.5
+    },
+    "gridwafer": {
+        "floor": 0.0
+    },
+    "0xf107bd50248eea8ff3e812789931a5254ec83a83": {
+        "floor": 0.0
+    },
+    "hoof-frenzy": {
+        "floor": 0.0
+    },
+    "0x182006db193fb896f6c06225346df4ff1982e18b": {
+        "floor": 0.0
+    },
+    "0x0e82b8eeaed0dc78421fb01a2fe47e4ea5a414f5": {
+        "floor": 0.0
+    },
+    "dudes-craft-genesis": {
+        "floor": 0.0
+    },
+    "bear-syndicate-217702874": {
+        "floor": 0.002
+    },
+    "rh-gpu-986725954": {
+        "floor": 8e-05
+    },
+    "rh-gpu-859594997": {
+        "floor": 0.0
+    },
+    "cookie-jar-206943818": {
+        "floor": 0.0
+    },
+    "cookie-bros-330264773": {
+        "floor": 0.0
+    },
+    "rh-gpu": {
+        "floor": 0.0
+    },
+    "hoodfuzz": {
         "floor": 0.0
     }
 }
