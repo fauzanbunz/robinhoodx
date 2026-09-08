@@ -35065,7 +35065,7 @@
         "floor": 0.2
     },
     "bjj-wagies": {
-        "floor": 1.0
+        "floor": 0.0
     },
     "0x624ae2d4cab94ae9005b8bd5925d187b6f677e31": {
         "floor": 0.0
@@ -35098,7 +35098,7 @@
         "floor": 0.0
     },
     "rhc-miners": {
-        "floor": 0.0547
+        "floor": 0.013
     },
     "ladderrehearsal-869133892": {
         "floor": 0.0
@@ -35195,5 +35195,107 @@
     },
     "artificial-pepe-859738122": {
         "floor": 9.599999e-05
+    },
+    "future-n1-by-virtuals": {
+        "floor": 0.0
+    },
+    "uwu-milady": {
+        "floor": 0.0
+    },
+    "soccle-position": {
+        "floor": 0.0
+    },
+    "flowfield-fragments-94780442": {
+        "floor": 0.0
+    },
+    "kleowls": {
+        "floor": 0.0
+    },
+    "nekogirl-225495296": {
+        "floor": 0.0
+    },
+    "nekogirl-747867218": {
+        "floor": 0.0
+    },
+    "0x9c9598a6673f9d561f518be6b3714b2b5498a8ff": {
+        "floor": 0.0
+    },
+    "evotoadz-46183190": {
+        "floor": 0.0
+    },
+    "0x4c6bf0ae84984b2504aa4ae55189a6b2ccf46d4c": {
+        "floor": 50.0
+    },
+    "projectmotion": {
+        "floor": 0.0
+    },
+    "ggtest": {
+        "floor": 0.0
+    },
+    "allohood": {
+        "floor": 0.0
+    },
+    "0xd4566db42fabe3d9cb96ea28fe3422602bc47e1a": {
+        "floor": 0.0
+    },
+    "kagemi-416709432": {
+        "floor": 0.0
+    },
+    "pokedrop-cards": {
+        "floor": 0.0
+    },
+    "evotoadz": {
+        "floor": 0.0
+    },
+    "123-223749953": {
+        "floor": 0.0
+    },
+    "blobz-517370809": {
+        "floor": 0.0
+    },
+    "0x88a5f039660a6dac8cf0b973ef7c2de3dd1a8cd4": {
+        "floor": 0.0
+    },
+    "thezorpians": {
+        "floor": 0.0
+    },
+    "panefloor": {
+        "floor": 0.0
+    },
+    "plinth-position": {
+        "floor": 0.0
+    },
+    "bullabear": {
+        "floor": 0.0
+    },
+    "immortals-321955685": {
+        "floor": 4.0
+    },
+    "wobblins-624326842": {
+        "floor": 0.0
+    },
+    "ponsgrass-tools": {
+        "floor": 0.0
+    },
+    "graveyard-mafia": {
+        "floor": 0.0
+    },
+    "clay-ducks": {
+        "floor": 0.2
+    },
+    "pons-name-service-4435143": {
+        "floor": 0.0
+    },
+    "b-c-1-92606038l": {
+        "floor": 0.0
+    },
+    "insidershq": {
+        "floor": 0.0
+    },
+    "st-hojak": {
+        "floor": 0.11
+    },
+    "sdwewes": {
+        "floor": 0.88
     }
 }
