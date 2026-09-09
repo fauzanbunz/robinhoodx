@@ -36754,7 +36754,7 @@
         "floor": 0.0
     },
     "farmhood-lands": {
-        "floor": 0.0
+        "floor": 0.1199
     },
     "cameras-604943512": {
         "floor": 0.0
@@ -36898,6 +36898,141 @@
         "floor": 0.0
     },
     "robinsingularity": {
+        "floor": 0.0
+    },
+    "emerge-land": {
+        "floor": 0.0
+    },
+    "0xa312a493be519dbd5d041b9faedd73127215b82a": {
+        "floor": 0.0
+    },
+    "stepper-chips": {
+        "floor": 0.0
+    },
+    "tidebound-whales": {
+        "floor": 0.0
+    },
+    "0x94e5e618c267579427615094754b756ad23c6f5a": {
+        "floor": 0.0
+    },
+    "mishapes": {
+        "floor": 0.0
+    },
+    "0x19a9eb5f7a13b8d1f0f7be51304dfe278d6789e0": {
+        "floor": 0.0
+    },
+    "rigthings": {
+        "floor": 0.0
+    },
+    "woodfarmers": {
+        "floor": 0.0
+    },
+    "nftmachine-canary-only-not-apple-guys-890677977": {
+        "floor": 0.0
+    },
+    "nftmachine-canary-only-not-apple-guys": {
+        "floor": 0.0
+    },
+    "talon-finance": {
+        "floor": 0.0
+    },
+    "stockcats": {
+        "floor": 0.0
+    },
+    "grvekeeper": {
+        "floor": 0.0
+    },
+    "0x9bf9b6bc97533997cb359b8706dcd5f18aa471ff": {
+        "floor": 0.0
+    },
+    "pupinhoodnfts": {
+        "floor": 0.0
+    },
+    "byteboy": {
+        "floor": 0.0
+    },
+    "encrypted-md": {
+        "floor": 0.0
+    },
+    "baton-818784567": {
+        "floor": 0.0
+    },
+    "pixel-bikes-1111": {
+        "floor": 0.0
+    },
+    "0x8a2da1d3c8741133b2d054d6af524df55d4f04d2-536953192": {
+        "floor": 0.0
+    },
+    "0x9fbc4b1e121e2295dbf5523ce8e2bf1f5c8c673c": {
+        "floor": 0.0
+    },
+    "pupinhood-479143454": {
+        "floor": 0.0
+    },
+    "0x699b51b9729b7ad2220881dae32fd2d46479d020": {
+        "floor": 0.0
+    },
+    "hood-avatars-676258543": {
+        "floor": 0.0
+    },
+    "0x094066489b9e81dbaf7aefe9df78604820ffbd9d": {
+        "floor": 0.0
+    },
+    "last-man-standing-825471941": {
+        "floor": 0.0
+    },
+    "laptronsrh": {
+        "floor": 0.0
+    },
+    "laptrons": {
+        "floor": 0.0
+    },
+    "robin-flames": {
+        "floor": 0.0
+    },
+    "catchback-450884931": {
+        "floor": 0.0
+    },
+    "overload-components-910403111": {
+        "floor": 0.0
+    },
+    "bitmaidsofficial": {
+        "floor": 0.0
+    },
+    "sighhoodt-genesis": {
+        "floor": 0.1
+    },
+    "robin-the-rob": {
+        "floor": 0.0
+    },
+    "the-house-bags": {
+        "floor": 10.0
+    },
+    "laptoppixelart-21929177": {
+        "floor": 0.0
+    },
+    "onchain-laptop": {
+        "floor": 0.3
+    },
+    "laptoppixelart": {
+        "floor": 0.0
+    },
+    "belzocat": {
+        "floor": 0.0
+    },
+    "0x5a49f60251241852d607bac30fdd1c94c3cbb37e": {
+        "floor": 0.0
+    },
+    "quotron-strategy-268703320": {
+        "floor": 0.00014998999999
+    },
+    "0x5dbb452aaa49bd1699f555ae65a9139e7747753d": {
+        "floor": 0.0
+    },
+    "etherbubu-robin": {
+        "floor": 0.03
+    },
+    "arcade-heroes": {
         "floor": 0.0
     }
 }
