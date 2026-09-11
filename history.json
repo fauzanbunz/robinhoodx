@@ -38665,7 +38665,7 @@
         "floor": 0.0
     },
     "observevalue-cross-edition": {
-        "floor": 0.0
+        "floor": 0.09
     },
     "vested-equity": {
         "floor": 0.0
@@ -38674,10 +38674,10 @@
         "floor": 0.0
     },
     "studioarcade": {
-        "floor": 0.0
+        "floor": 0.000179
     },
     "arcwar-835060276": {
-        "floor": 0.00046
+        "floor": 0.0004
     },
     "test-junks": {
         "floor": 1.0
@@ -38686,13 +38686,13 @@
         "floor": 0.0
     },
     "hashmolecules": {
-        "floor": 0.129
+        "floor": 0.02
     },
     "4pieces": {
         "floor": 0.0
     },
     "hashcats-rh": {
-        "floor": 0.11
+        "floor": 0.05
     },
     "fly-shop-first-flight": {
         "floor": 0.0
@@ -38813,5 +38813,116 @@
     },
     "0x3f17eece14e0d6e54e1dcec73e7d2d56a6f441b0": {
         "floor": 0.0
+    },
+    "popstar-cats": {
+        "floor": 0.0
+    },
+    "robintest-d": {
+        "floor": 0.0
+    },
+    "mounty-bounty-721138027": {
+        "floor": 0.0
+    },
+    "yield-fields-194668501": {
+        "floor": 1.0
+    },
+    "hashdogs-504301361": {
+        "floor": 0.0
+    },
+    "wandering-spirit-617065143": {
+        "floor": 0.0
+    },
+    "future-financial-datasets-by-virtuals": {
+        "floor": 0.0
+    },
+    "warmup-nft-753591015": {
+        "floor": 0.0
+    },
+    "flynft-176903150": {
+        "floor": 0.0
+    },
+    "rehearsal-season-two": {
+        "floor": 0.0
+    },
+    "rehearsal-genesis": {
+        "floor": 0.0
+    },
+    "future-arbital-by-virtuals": {
+        "floor": 0.0
+    },
+    "cloud-cadets": {
+        "floor": 0.0
+    },
+    "deadbit-401395404": {
+        "floor": 0.0005
+    },
+    "pepe-wagies": {
+        "floor": 0.5
+    },
+    "spot-planches-24127622": {
+        "floor": 0.0
+    },
+    "0xcfa2b0e6553cb9f7f7e666e42f37fb308d68d5d1": {
+        "floor": 0.0
+    },
+    "spot-planches": {
+        "floor": 0.0
+    },
+    "0x49612a9117d6f4fabfdc765e8037b65fa03f5d62": {
+        "floor": 0.0
+    },
+    "hanginghoodmonkeys": {
+        "floor": 0.0
+    },
+    "mosaics-331341653": {
+        "floor": 0.0
+    },
+    "future-heron-protocol-by-virtuals": {
+        "floor": 0.0
+    },
+    "nftzworld-robin-flat-earth": {
+        "floor": 0.0
+    },
+    "hoodcards-series-1": {
+        "floor": 0.0
+    },
+    "hype-bots-4695293": {
+        "floor": 0.14
+    },
+    "muncherhood": {
+        "floor": 0.0
+    },
+    "0xedab6b0d24c569a0ce9ae580d80ec161d1ee145f": {
+        "floor": 0.0
+    },
+    "golden-box-hood": {
+        "floor": 0.0
+    },
+    "vbnb-168725720": {
+        "floor": 0.0
+    },
+    "hype-bots-nft": {
+        "floor": 0.08
+    },
+    "straycars-nft": {
+        "floor": 0.25
+    },
+    "hashcats-official": {
+        "floor": 0.0
+    },
+    "zec-punks-rh": {
+        "floor": 1.0
+    },
+    "hoodhashcats": {
+        "floor": 200.0
+    },
+    "hood-cats-rh": {
+        "floor": 0.25
+    },
+    "nftzworld-seek": {
+        "floor": 0.0
+    },
+    "hash-catss-nft": {
+        "floor": 0.1
     }
 }
