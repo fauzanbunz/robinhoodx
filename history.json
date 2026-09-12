@@ -38815,7 +38815,7 @@
         "floor": 0.0
     },
     "popstar-cats": {
-        "floor": 0.0
+        "floor": 0.25
     },
     "robintest-d": {
         "floor": 0.0
@@ -38854,10 +38854,10 @@
         "floor": 0.0
     },
     "deadbit-401395404": {
-        "floor": 0.0005
+        "floor": 0.000173
     },
     "pepe-wagies": {
-        "floor": 0.5
+        "floor": 4.0
     },
     "spot-planches-24127622": {
         "floor": 0.0
@@ -38924,5 +38924,113 @@
     },
     "hash-catss-nft": {
         "floor": 0.1
+    },
+    "final-test-707275797": {
+        "floor": 0.0
+    },
+    "pinguino-brokers": {
+        "floor": 0.0
+    },
+    "bullseye-brokers": {
+        "floor": 0.0
+    },
+    "0xfeacbf7d2b1997f9bd214448522f410b2e799e92": {
+        "floor": 0.0
+    },
+    "bankrbot-nft": {
+        "floor": 0.0
+    },
+    "hashfrogs-105214536": {
+        "floor": 0.0
+    },
+    "cash-computers": {
+        "floor": 0.000949
+    },
+    "pixel-farmers-398531355": {
+        "floor": 0.0
+    },
+    "pixel-farmers-871971625": {
+        "floor": 0.0
+    },
+    "pixel-farmers-437926852": {
+        "floor": 0.0
+    },
+    "cloud-cadets-": {
+        "floor": 0.0
+    },
+    "0x83e1a2d90373352183804234c425336c5083d68a": {
+        "floor": 0.0
+    },
+    "nombles": {
+        "floor": 0.0
+    },
+    "vig-avatars": {
+        "floor": 0.0
+    },
+    "baby-ape-robinhood-klub": {
+        "floor": 0.0
+    },
+    "catsu-rh": {
+        "floor": 0.0
+    },
+    "glitchbox-263333632": {
+        "floor": 0.5
+    },
+    "awhood": {
+        "floor": 0.0
+    },
+    "topaz-cl-position-766863289": {
+        "floor": 0.0
+    },
+    "arrowynd": {
+        "floor": 0.0
+    },
+    "pons-hashcats": {
+        "floor": 3.0
+    },
+    "argonauts2": {
+        "floor": 0.0
+    },
+    "argonauts-2-0": {
+        "floor": 0.0
+    },
+    "forged-rig-141863050": {
+        "floor": 0.0
+    },
+    "pilao-5848755": {
+        "floor": 0.0
+    },
+    "hashdogs-nft": {
+        "floor": 0.0981
+    },
+    "alter-ego-996722263": {
+        "floor": 0.0
+    },
+    "hood-babes": {
+        "floor": 0.15
+    },
+    "gooddeeds-823600277": {
+        "floor": 0.0
+    },
+    "larpco-inc": {
+        "floor": 0.0
+    },
+    "raccoonsyndicate": {
+        "floor": 0.0
+    },
+    "0x669fbfc73af2a58e212ac9c055514adac2dcb387": {
+        "floor": 0.0
+    },
+    "0x731e61011b40e560d6721a68a4458675c1f5b9d5": {
+        "floor": 0.0
+    },
+    "hoodins": {
+        "floor": 0.99
+    },
+    "dados-de-la-muerte": {
+        "floor": 0.0
+    },
+    "robintest-1": {
+        "floor": 0.0
     }
 }
