@@ -39511,7 +39511,7 @@
         "floor": 0.0
     },
     "hashbroker-rh": {
-        "floor": 15.5
+        "floor": 0.0
     },
     "nftzworld-hood-flash": {
         "floor": 0.0
@@ -40451,5 +40451,152 @@
     },
     "hood-genesis-366073642": {
         "floor": 0.0
+    },
+    "ronin-hash": {
+        "floor": 0.0
+    },
+    "tiger-hood-membership-300921894": {
+        "floor": 0.0
+    },
+    "glue-positions-176068084": {
+        "floor": 0.0
+    },
+    "tiger-hood-membership": {
+        "floor": 0.0
+    },
+    "bytemine": {
+        "floor": 0.0
+    },
+    "shillstone-characters": {
+        "floor": 0.0
+    },
+    "minersencryption": {
+        "floor": 0.0
+    },
+    "borrowed-minds": {
+        "floor": 0.0
+    },
+    "turn-around-482375674": {
+        "floor": 0.0
+    },
+    "turn-around-720449461": {
+        "floor": 6e-05
+    },
+    "hooddoge": {
+        "floor": 0.0
+    },
+    "fnft-apes": {
+        "floor": 5.0
+    },
+    "kongz-the-emerald-heist": {
+        "floor": 0.0
+    },
+    "plotters-529488983": {
+        "floor": 0.0
+    },
+    "cubebros-777588590": {
+        "floor": 0.0
+    },
+    "hashpixels": {
+        "floor": 0.0
+    },
+    "miningmachine": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-21959989": {
+        "floor": 0.0
+    },
+    "bio-names": {
+        "floor": 0.0
+    },
+    "0xf228b186aac0161eedcba0247ebe7c7a5bb7b541": {
+        "floor": 0.0
+    },
+    "vineyard-plots": {
+        "floor": 0.0
+    },
+    "old-hash-brokers": {
+        "floor": 6.8e-05
+    },
+    "oligarchs-relaunch": {
+        "floor": 0.0
+    },
+    "sender-skulls": {
+        "floor": 9.99e-05
+    },
+    "future-starcap-by-virtuals": {
+        "floor": 0.0
+    },
+    "golemians-49766068": {
+        "floor": 0.0
+    },
+    "vonks": {
+        "floor": 0.0
+    },
+    "miner-potato-725709154": {
+        "floor": 0.0
+    },
+    "hashgoblinsrhh": {
+        "floor": 0.0
+    },
+    "robin-meanies-672081633": {
+        "floor": 0.0
+    },
+    "miner-potato-829753078": {
+        "floor": 0.0
+    },
+    "osseum": {
+        "floor": 0.0
+    },
+    "hashgoblinsrh": {
+        "floor": 0.0
+    },
+    "orctraders": {
+        "floor": 0.0
+    },
+    "wealthx": {
+        "floor": 10.0
+    },
+    "gold-digger-126984398": {
+        "floor": 0.05
+    },
+    "rarebroker": {
+        "floor": 0.0
+    },
+    "linux-2-0": {
+        "floor": 0.0
+    },
+    "penpehood": {
+        "floor": 0.04
+    },
+    "survivor-pass": {
+        "floor": 0.0
+    },
+    "prspct-488648648": {
+        "floor": 0.0
+    },
+    "pepens-235589070": {
+        "floor": 0.07
+    },
+    "ixodes": {
+        "floor": 0.0
+    },
+    "0x9000a5f82fcd5430223944f804e51e98d004cee4-716218159": {
+        "floor": 0.0
+    },
+    "stocksalesman-10724840": {
+        "floor": 0.05
+    },
+    "fun-badge": {
+        "floor": 0.0
+    },
+    "sealed-bags": {
+        "floor": 0.0
+    },
+    "squat-town": {
+        "floor": 0.0
+    },
+    "myself-386337966": {
+        "floor": 1e-05
     }
 }
