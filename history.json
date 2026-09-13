@@ -39850,7 +39850,7 @@
         "floor": 0.0
     },
     "inoova": {
-        "floor": 0.0024
+        "floor": 0.0
     },
     "bagholdersrh": {
         "floor": 10.0
@@ -40303,6 +40303,153 @@
         "floor": 0.0
     },
     "grid-boxes-64074112": {
+        "floor": 0.0
+    },
+    "hoodhammi": {
+        "floor": 0.0
+    },
+    "glrtch-genesis-rh": {
+        "floor": 0.0
+    },
+    "puffs-153768808": {
+        "floor": 0.0
+    },
+    "dtf-detf-bond": {
+        "floor": 0.0
+    },
+    "0xd9d1c4d0370ebbd90772466b6d926ea7c1a8c37f": {
+        "floor": 0.0
+    },
+    "frog-hash": {
+        "floor": 0.0
+    },
+    "dreamy-doodles": {
+        "floor": 0.0
+    },
+    "yieldgrid-": {
+        "floor": 0.049
+    },
+    "miner-potato": {
+        "floor": 0.0
+    },
+    "the-vs-machinery": {
+        "floor": 0.0
+    },
+    "headhunt-operator-295379971": {
+        "floor": 0.0
+    },
+    "headhunt-operator-504047441": {
+        "floor": 0.0
+    },
+    "future-hexcomb-by-virtuals": {
+        "floor": 0.0
+    },
+    "parallel-universe-x-866875530": {
+        "floor": 0.0177
+    },
+    "testik-960256060": {
+        "floor": 0.0
+    },
+    "testik-306640525": {
+        "floor": 0.0
+    },
+    "hashrigs": {
+        "floor": 0.0
+    },
+    "testik-80337600": {
+        "floor": 0.0
+    },
+    "mitsuri-": {
+        "floor": 0.6
+    },
+    "future-mars-by-virtuals-287460647": {
+        "floor": 0.0
+    },
+    "testnft-766352471": {
+        "floor": 0.0
+    },
+    "a-single-phetta": {
+        "floor": 0.0
+    },
+    "crackheadz-nft": {
+        "floor": 0.05
+    },
+    "future-chinaperps-by-virtuals": {
+        "floor": 0.0
+    },
+    "rareminers": {
+        "floor": 0.0
+    },
+    "grand-theft-ape-727811423": {
+        "floor": 1.0
+    },
+    "supaya-nft-rh": {
+        "floor": 0.0
+    },
+    "future-innate-by-virtuals-629803325": {
+        "floor": 0.0
+    },
+    "machcore-machines-321801639": {
+        "floor": 0.03
+    },
+    "flynode": {
+        "floor": 0.0
+    },
+    "cache-pcs-185641937": {
+        "floor": 0.0
+    },
+    "cache-pcs": {
+        "floor": 0.0
+    },
+    "hood-shap": {
+        "floor": 0.0
+    },
+    "hash-block": {
+        "floor": 0.15
+    },
+    "future-hyde-by-virtuals-314612660": {
+        "floor": 0.0
+    },
+    "daging-robin": {
+        "floor": 0.0
+    },
+    "ape-4444": {
+        "floor": 0.0
+    },
+    "future-sbsecurity-by-virtuals-435220257": {
+        "floor": 0.0
+    },
+    "slippy-club": {
+        "floor": 0.037
+    },
+    "toad-broker-471986023": {
+        "floor": 0.0
+    },
+    "talon-finance-276230082": {
+        "floor": 0.0
+    },
+    "grit-hood": {
+        "floor": 0.0
+    },
+    "the-hood-collection": {
+        "floor": 0.0
+    },
+    "crystal-lattice-389761649": {
+        "floor": 0.0
+    },
+    "0x27d9977043b684eae8907897d779a971232e09e0": {
+        "floor": 0.0
+    },
+    "0x806c7549075e467f014235714e23130f1ce73fd3": {
+        "floor": 0.0
+    },
+    "0x5a14bfd8f698c776f3b489235c3070f01997245f": {
+        "floor": 0.0
+    },
+    "future-vaultleap-by-virtuals": {
+        "floor": 0.0
+    },
+    "hood-genesis-366073642": {
         "floor": 0.0
     }
 }
