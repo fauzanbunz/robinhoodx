@@ -39511,7 +39511,7 @@
         "floor": 0.0
     },
     "hashbroker-rh": {
-        "floor": 0.0
+        "floor": 50.0
     },
     "nftzworld-hood-flash": {
         "floor": 0.0
@@ -40598,5 +40598,125 @@
     },
     "myself-386337966": {
         "floor": 1e-05
+    },
+    "strategy-546444329": {
+        "floor": 0.0
+    },
+    "strategy-971424281": {
+        "floor": 0.0
+    },
+    "purple-kumara-161317227": {
+        "floor": 0.0
+    },
+    "merlinos": {
+        "floor": 0.0
+    },
+    "dinotopia-fossil-shares": {
+        "floor": 0.0
+    },
+    "ipt-605588131": {
+        "floor": 0.0
+    },
+    "chronotrons": {
+        "floor": 0.0
+    },
+    "voidborn-nft": {
+        "floor": 0.0
+    },
+    "mago-478762360": {
+        "floor": 0.0
+    },
+    "undead-dissidents": {
+        "floor": 0.0
+    },
+    "warroom-commander-182208419": {
+        "floor": 0.0
+    },
+    "wagmi-gpus": {
+        "floor": 7.899999999e-05
+    },
+    "office-space-employee": {
+        "floor": 0.0
+    },
+    "flyrooms-servants": {
+        "floor": 0.0
+    },
+    "knights-462323420": {
+        "floor": 0.0
+    },
+    "ghosts-944164507": {
+        "floor": 0.0
+    },
+    "0xdce82a93565897ae747e0b8457c65dc06db4bf30": {
+        "floor": 0.0
+    },
+    "zombies-680533942": {
+        "floor": 0.0
+    },
+    "watchers-168960276": {
+        "floor": 0.0
+    },
+    "wobin-hood": {
+        "floor": 0.0
+    },
+    "zombee-146231887": {
+        "floor": 0.1
+    },
+    "ixodes-196133560": {
+        "floor": 0.5
+    },
+    "custom-103644796": {
+        "floor": 0.0
+    },
+    "shillstone-characters-417731343": {
+        "floor": 0.0
+    },
+    "realowlforge": {
+        "floor": 0.0
+    },
+    "0xf4b76c1427aaba0e45fc4c5c7a1377bb76953e35": {
+        "floor": 0.0
+    },
+    "watchers-824447405": {
+        "floor": 0.0
+    },
+    "knights-989620025": {
+        "floor": 0.0
+    },
+    "zombies-510642929": {
+        "floor": 0.0
+    },
+    "ghosts-737157971": {
+        "floor": 0.0
+    },
+    "moontage": {
+        "floor": 0.39
+    },
+    "broker-machines-106323977": {
+        "floor": 0.19
+    },
+    "ronin-hash-694860227": {
+        "floor": 0.99
+    },
+    "0x815ea91f2ab80401682bcb97d7de8e447b40998f": {
+        "floor": 0.0
+    },
+    "skellykuntz-": {
+        "floor": 0.0
+    },
+    "keanu-cheese": {
+        "floor": 0.0
+    },
+    "pixel-cosmos": {
+        "floor": 0.0
+    },
+    "vineyard-plots-862596184": {
+        "floor": 150.0
+    },
+    "0xf30bb5d52516b25ff45137152bcd789b6de48f40": {
+        "floor": 0.0
+    },
+    "test-0066": {
+        "floor": 0.0
     }
 }
