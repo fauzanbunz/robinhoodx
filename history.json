@@ -39886,7 +39886,7 @@
         "floor": 0.0
     },
     "redink-ape": {
-        "floor": 0.0
+        "floor": 1e-05
     },
     "0x72411a68c12062aa7c5585d5defeede42256d6ef": {
         "floor": 0.0
@@ -40010,5 +40010,152 @@
     },
     "memecoin-option-932622852": {
         "floor": 0.0
+    },
+    "waifu-token-712959727": {
+        "floor": 0.0
+    },
+    "hashcats-official-nft": {
+        "floor": 0.0
+    },
+    "rare-friends-genesis-147360497": {
+        "floor": 0.0
+    },
+    "verun-genesis-pass": {
+        "floor": 0.0
+    },
+    "goal-hoodz": {
+        "floor": 5.0
+    },
+    "nftbot-test-drop-807732199": {
+        "floor": 0.0
+    },
+    "survivor-pass-staging-295091311": {
+        "floor": 0.0
+    },
+    "warroom-commander-703440460": {
+        "floor": 0.0
+    },
+    "not-from-here-356231755": {
+        "floor": 10.0
+    },
+    "warroom-commander": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-68768403": {
+        "floor": 0.0
+    },
+    "hashfrogs-819219429": {
+        "floor": 0.0016
+    },
+    "the-sket": {
+        "floor": 27.5
+    },
+    "arkada-collection-128109922": {
+        "floor": 0.0
+    },
+    "dlmm-token-426400526": {
+        "floor": 0.0
+    },
+    "hashfrogs-339600872": {
+        "floor": 0.0
+    },
+    "hood-yacht-club": {
+        "floor": 0.0
+    },
+    "hood-forge": {
+        "floor": 0.0
+    },
+    "fun-card": {
+        "floor": 0.0
+    },
+    "didig-robin": {
+        "floor": 0.0
+    },
+    "natural-village-nyc": {
+        "floor": 0.0
+    },
+    "future-tawaland-by-virtuals": {
+        "floor": 0.0
+    },
+    "the-unfinished-662855132": {
+        "floor": 0.0
+    },
+    "lyview-918921584": {
+        "floor": 0.0
+    },
+    "royal-mechanica_": {
+        "floor": 0.1
+    },
+    "zkcodex-nft-deployer-594743424": {
+        "floor": 0.0
+    },
+    "hoodmints-e2e": {
+        "floor": 0.0
+    },
+    "venue-probe-charter": {
+        "floor": 0.0
+    },
+    "pepemfers-nft-186015937": {
+        "floor": 1.0
+    },
+    "stockmon-capsules": {
+        "floor": 0.0
+    },
+    "hoodminers-rh-": {
+        "floor": 0.0
+    },
+    "0xb1029b8376038bf2a2c6fc2b7e97d2b0fcd51cca": {
+        "floor": 0.0
+    },
+    "mutant-hood-wives": {
+        "floor": 0.0
+    },
+    "spiderlings-genesis": {
+        "floor": 9.9e-05
+    },
+    "the-last-235": {
+        "floor": 0.0
+    },
+    "future-chiprat-by-virtuals": {
+        "floor": 0.0
+    },
+    "shady-cricket-gang": {
+        "floor": 0.0
+    },
+    "pixel-slots-machines": {
+        "floor": 0.000198999
+    },
+    "quotrons-cats": {
+        "floor": 0.0
+    },
+    "test-nft-496893819": {
+        "floor": 0.0
+    },
+    "microhashers": {
+        "floor": 0.0015
+    },
+    "claymates-340542760": {
+        "floor": 0.1
+    },
+    "brinkz": {
+        "floor": 10.0
+    },
+    "ineed-premium-pass": {
+        "floor": 0.0
+    },
+    "micro-hashers": {
+        "floor": 0.0
+    },
+    "voxel-infinity": {
+        "floor": 0.0
+    },
+    "hybridpunks": {
+        "floor": 0.0
+    },
+    "teteteadawada": {
+        "floor": 0.0
+    },
+    "z-bear": {
+        "floor": 0.08
     }
 }
