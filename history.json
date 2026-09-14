@@ -40609,7 +40609,7 @@
         "floor": 0.0
     },
     "merlinos": {
-        "floor": 0.0
+        "floor": 0.4
     },
     "dinotopia-fossil-shares": {
         "floor": 0.0
@@ -40633,7 +40633,7 @@
         "floor": 0.0
     },
     "wagmi-gpus": {
-        "floor": 7.899999999e-05
+        "floor": 3.2369131453316e-05
     },
     "office-space-employee": {
         "floor": 0.0
@@ -40717,6 +40717,93 @@
         "floor": 0.0
     },
     "test-0066": {
+        "floor": 0.0
+    },
+    "thimble": {
+        "floor": 0.0
+    },
+    "ganghood": {
+        "floor": 0.0
+    },
+    "quarry-rehearsal": {
+        "floor": 0.0
+    },
+    "milady-684045934": {
+        "floor": 0.0
+    },
+    "orctraders-506004291": {
+        "floor": 0.39
+    },
+    "the-standard-reserve-150798754": {
+        "floor": 15.0
+    },
+    "the-standard-reserve-896561568": {
+        "floor": 0.0
+    },
+    "merlinos-nft": {
+        "floor": 0.4
+    },
+    "the-lost-bone-armada-282348237": {
+        "floor": 0.0
+    },
+    "quotrons-gear-nft": {
+        "floor": 0.0
+    },
+    "cash-hashcats": {
+        "floor": 0.14
+    },
+    "0x0a4df841b1b69ba10ded400039dffdf4d83aba17": {
+        "floor": 0.0
+    },
+    "0x184e5f3ec05f7fccbcd5aa488ddae7a6441de859": {
+        "floor": 0.0
+    },
+    "project-mars-rh": {
+        "floor": 0.25
+    },
+    "the-lost-bone-armada": {
+        "floor": 0.0
+    },
+    "future-cleardotfun-by-virtuals": {
+        "floor": 0.0
+    },
+    "block14": {
+        "floor": 0.0
+    },
+    "test-curve-735032249": {
+        "floor": 0.0
+    },
+    "0x7cb11a7fb03561accc5cab02ae3fc5f900c2efc1": {
+        "floor": 0.0
+    },
+    "clip-test": {
+        "floor": 0.0
+    },
+    "pebble-651368346": {
+        "floor": 0.0
+    },
+    "monkii-companions": {
+        "floor": 0.0
+    },
+    "0x6e0daf165190cd060cab7e8c1ca2390e5bb798a2": {
+        "floor": 0.0
+    },
+    "purple-kumara-72964662": {
+        "floor": 0.0
+    },
+    "merlinosfsdasfdsa": {
+        "floor": 0.0
+    },
+    "knights-nightshades": {
+        "floor": 0.0
+    },
+    "nightshades-ghosts": {
+        "floor": 0.0
+    },
+    "nightshades-zombies": {
+        "floor": 0.0
+    },
+    "nightshades-watchers": {
         "floor": 0.0
     }
 }
