@@ -40720,10 +40720,10 @@
         "floor": 0.0
     },
     "thimble": {
-        "floor": 0.0
+        "floor": 0.001
     },
     "ganghood": {
-        "floor": 0.0
+        "floor": 0.49
     },
     "quarry-rehearsal": {
         "floor": 0.0
@@ -40804,6 +40804,144 @@
         "floor": 0.0
     },
     "nightshades-watchers": {
+        "floor": 0.0
+    },
+    "robo-miners_rm": {
+        "floor": 0.0
+    },
+    "boymeetshoods": {
+        "floor": 0.0
+    },
+    "quadro-958156036": {
+        "floor": 0.0
+    },
+    "stonk-harvest-885454832": {
+        "floor": 1.0
+    },
+    "hash-miner-404": {
+        "floor": 0.0
+    },
+    "kyetnlj": {
+        "floor": 0.0
+    },
+    "durag-society-486880828": {
+        "floor": 0.033
+    },
+    "arc-block-295054992": {
+        "floor": 0.1
+    },
+    "hashrabbit-113334716": {
+        "floor": 0.0
+    },
+    "robin-frens-art": {
+        "floor": 0.0
+    },
+    "hashrabbit-365541172": {
+        "floor": 0.0
+    },
+    "congrobot-robin": {
+        "floor": 0.9
+    },
+    "irregular-heads-club": {
+        "floor": 0.0
+    },
+    "0x175c1b995e8f10f2f068ba1a1830149e1f6aa977": {
+        "floor": 0.0
+    },
+    "catonchain-738248013": {
+        "floor": 1.0
+    },
+    "mirrimals": {
+        "floor": 0.0
+    },
+    "hashrabbit": {
+        "floor": 0.0
+    },
+    "standard-charter-783575022": {
+        "floor": 0.0
+    },
+    "future-test-428367772": {
+        "floor": 0.0
+    },
+    "0x2959bae2ad704c2d7aa936d8c1211cdb87c9ee03": {
+        "floor": 0.0
+    },
+    "clay-factory-rh-395248157": {
+        "floor": 0.45
+    },
+    "pixel-vault-rh": {
+        "floor": 0.0
+    },
+    "robo-miners": {
+        "floor": 0.0017
+    },
+    "synapse-plots": {
+        "floor": 0.0
+    },
+    "panda-z": {
+        "floor": 0.0
+    },
+    "alien-terminals-853157270": {
+        "floor": 9.898e-05
+    },
+    "standard-charter-797053682": {
+        "floor": 0.0
+    },
+    "wolfhood": {
+        "floor": 0.0
+    },
+    "alien-terminals": {
+        "floor": 0.0
+    },
+    "pixelix": {
+        "floor": 0.000149
+    },
+    "dlmm-token-896311515": {
+        "floor": 0.0
+    },
+    "hashcatss-125386274": {
+        "floor": 0.0
+    },
+    "hashcat-465949535": {
+        "floor": 0.0
+    },
+    "beauty-of-nature-641197806": {
+        "floor": 0.8
+    },
+    "catonchain": {
+        "floor": 0.0
+    },
+    "dokkaebi-42654420": {
+        "floor": 0.0
+    },
+    "farm-valley-items": {
+        "floor": 0.0
+    },
+    "wenser-682450277": {
+        "floor": 0.0
+    },
+    "0xe5f4a634bf96d653d7034d08801b5da977bc2e47": {
+        "floor": 0.0
+    },
+    "farm-valley-packs": {
+        "floor": 0.0
+    },
+    "sparkles-747272178": {
+        "floor": 0.2
+    },
+    "the-garden-trophies": {
+        "floor": 0.0
+    },
+    "aurasea-129283014": {
+        "floor": 0.01
+    },
+    "0xc71d128273a22115416c5c2af1e278af36aad319": {
+        "floor": 0.0
+    },
+    "zaddr": {
+        "floor": 0.0
+    },
+    "hashbots-351922809": {
         "floor": 0.0
     }
 }
