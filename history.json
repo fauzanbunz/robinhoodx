@@ -42148,7 +42148,7 @@
         "floor": 0.0
     },
     "the-goblinz-rh": {
-        "floor": 0.1
+        "floor": 9.99e-05
     },
     "alphaisonline": {
         "floor": 0.0
@@ -42289,6 +42289,129 @@
         "floor": 0.0
     },
     "1234455": {
+        "floor": 0.0
+    },
+    "0xd7159c15e8e876133f37a4fe6d730e27747112a1": {
+        "floor": 0.0
+    },
+    "tststs-183060901": {
+        "floor": 0.0
+    },
+    "dlmm-token-552658345": {
+        "floor": 0.0
+    },
+    "test-mint-5-964737691": {
+        "floor": 0.0
+    },
+    "0x134893423e9c878d5aa2ab03bc5ff14fce045d69": {
+        "floor": 0.0
+    },
+    "testing-rp": {
+        "floor": 0.0
+    },
+    "neo-716288727": {
+        "floor": 0.0
+    },
+    "makeitfree": {
+        "floor": 0.0
+    },
+    "motion-rips-rehearsal": {
+        "floor": 0.0
+    },
+    "rh-machiness": {
+        "floor": 0.015
+    },
+    "low-effort-fake-punk": {
+        "floor": 0.15
+    },
+    "bike-thysons": {
+        "floor": 0.0
+    },
+    "hoodlets-nft-323928327": {
+        "floor": 1.25
+    },
+    "rh-timing-test-001": {
+        "floor": 0.0
+    },
+    "arcades-rh": {
+        "floor": 0.15
+    },
+    "thechip1s-nft": {
+        "floor": 1116.0
+    },
+    "rare-enemy-genesis": {
+        "floor": 0.0
+    },
+    "deadwax": {
+        "floor": 0.0
+    },
+    "qbahnrn": {
+        "floor": 0.0
+    },
+    "copybot-test-nft-195082619": {
+        "floor": 0.0
+    },
+    "legend-986549272": {
+        "floor": 0.0
+    },
+    "tamar-of-tirm": {
+        "floor": 0.0
+    },
+    "onerub-genesis": {
+        "floor": 0.0
+    },
+    "magzines": {
+        "floor": 0.0
+    },
+    "fu-gui-bi-ren": {
+        "floor": 0.0
+    },
+    "test-0066-121912178": {
+        "floor": 0.0
+    },
+    "chilipunks": {
+        "floor": 0.0
+    },
+    "crypto-internet-club": {
+        "floor": 0.0
+    },
+    "test-006-716169884": {
+        "floor": 0.0
+    },
+    "chadmadahmed": {
+        "floor": 0.0
+    },
+    "tariq-art-collection": {
+        "floor": 0.0
+    },
+    "tesst-829213286": {
+        "floor": 0.0
+    },
+    "sabio-400888362": {
+        "floor": 0.0
+    },
+    "sabio": {
+        "floor": 0.0
+    },
+    "0x60676f7a22a444e3cd24676700a0f7e8e4c16be8": {
+        "floor": 0.0
+    },
+    "888888-699341810": {
+        "floor": 0.0
+    },
+    "dlmm-token-7933478": {
+        "floor": 0.0
+    },
+    "title-32944044": {
+        "floor": 0.0
+    },
+    "layered-legends-821549518": {
+        "floor": 0.0
+    },
+    "stonk-punk": {
+        "floor": 0.0
+    },
+    "first-furrow": {
         "floor": 0.0
     }
 }
