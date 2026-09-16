@@ -42140,5 +42140,155 @@
     },
     "hoods-wif": {
         "floor": 0.5
+    },
+    "robble": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-200855862": {
+        "floor": 0.0
+    },
+    "the-goblinz-rh": {
+        "floor": 0.1
+    },
+    "alphaisonline": {
+        "floor": 0.0
+    },
+    "tako-tako-tako-511330294": {
+        "floor": 0.1
+    },
+    "fdere": {
+        "floor": 0.0
+    },
+    "0xc91a04072f39a5c1c36b89ae0b30fac48e7dd886": {
+        "floor": 0.0
+    },
+    "fuzzies-560861512": {
+        "floor": 0.02
+    },
+    "nftzworld-bikkuri-33": {
+        "floor": 0.0
+    },
+    "rare-brother-genesis": {
+        "floor": 0.0
+    },
+    "glue-positions-268750646": {
+        "floor": 0.0
+    },
+    "rare-team-genesis": {
+        "floor": 0.0
+    },
+    "whitecollars-159854688": {
+        "floor": 0.0
+    },
+    "brixes-239581051": {
+        "floor": 0.03
+    },
+    "ajiyah": {
+        "floor": 0.0
+    },
+    "mosh-slipstream-positions-962105706": {
+        "floor": 0.0
+    },
+    "hashdogs-miner": {
+        "floor": 0.0437
+    },
+    "hashgpu-945775052": {
+        "floor": 0.02
+    },
+    "rare-galaga-genesis": {
+        "floor": 0.1
+    },
+    "0xeca7e46dad52536132b36fea2673100154d8c844": {
+        "floor": 0.0
+    },
+    "royalmechanica-rh": {
+        "floor": 0.0
+    },
+    "0xb2b98dddd323031790ff3a7a8376be822ff05b97": {
+        "floor": 0.0
+    },
+    "hashrats-222147424": {
+        "floor": 0.0
+    },
+    "0x433d0ed26d3ae9f690c2c5e801fe0e16478a32d9": {
+        "floor": 0.0
+    },
+    "phoenix-test-3-final-test": {
+        "floor": 0.0
+    },
+    "chibi-hoodz": {
+        "floor": 0.2
+    },
+    "robble-studio-qa-dawn-100": {
+        "floor": 0.0
+    },
+    "mixershoodz": {
+        "floor": 1e+16
+    },
+    "staccs-robinhood-homecoming-collection": {
+        "floor": 0.0
+    },
+    "the-reservoir-613024030": {
+        "floor": 0.0
+    },
+    "yield-farm-nft": {
+        "floor": 0.0002
+    },
+    "gayfriendsgenesis": {
+        "floor": 3.999999999e-05
+    },
+    "0xcd27937698e14bccf77ab41adbf6a90aa9afa80c": {
+        "floor": 0.0
+    },
+    "0x03d42e92b1b78d2ea0fee900572544e95e8f5e93": {
+        "floor": 0.0
+    },
+    "zbros": {
+        "floor": 0.0
+    },
+    "0x7086db330323f7ef00ef2dc1b7ccea85a5826350": {
+        "floor": 0.09
+    },
+    "flyblocks": {
+        "floor": 0.0
+    },
+    "robin-bones": {
+        "floor": 0.0
+    },
+    "0x4c5a7cf2c4298e5f47ce22796dc7184b4b973911": {
+        "floor": 0.0
+    },
+    "rare-ugly-genesis-rug-xd": {
+        "floor": 11.0
+    },
+    "rare-ugly-genesis": {
+        "floor": 0.0
+    },
+    "hoodie-cat-club-721051895": {
+        "floor": 0.0
+    },
+    "simpli-462697673": {
+        "floor": 0.15
+    },
+    "piggybanks-rh": {
+        "floor": 0.1
+    },
+    "drop-bots": {
+        "floor": 0.0
+    },
+    "punked-46201609": {
+        "floor": 0.0
+    },
+    "robillios-rh": {
+        "floor": 0.1
+    },
+    "purrninati": {
+        "floor": 0.0
+    },
+    "cowl-cats": {
+        "floor": 0.0
+    },
+    "1234455": {
+        "floor": 0.0
     }
 }
