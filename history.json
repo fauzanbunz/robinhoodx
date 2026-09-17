@@ -43550,5 +43550,155 @@
     },
     "money-laundering": {
         "floor": 0.1
+    },
+    "muse-street-creator-fees": {
+        "floor": 0.0
+    },
+    "janitor-585550943": {
+        "floor": 0.0
+    },
+    "janitor-931430346": {
+        "floor": 0.0
+    },
+    "collider-membership-527912349": {
+        "floor": 0.0
+    },
+    "trench-factor-membership": {
+        "floor": 0.0
+    },
+    "0xbd955d6693969ff988f57db05a64f645f8deb8f3": {
+        "floor": 0.0
+    },
+    "0x752533e77f5f6ef87b72b51eb453b631eb0fbafa-857675585": {
+        "floor": 0.0
+    },
+    "0x656794e3608e179088155499f4c25baaf9f19a59-39666930": {
+        "floor": 0.0
+    },
+    "0x60ab775bfe06c063aea7095bdb2bf2d8e66f152b-28432640": {
+        "floor": 0.0
+    },
+    "0x785cd3f74e86e4495c178b5ffcd047c57e699270-201849511": {
+        "floor": 0.0
+    },
+    "0x2a548e83e106c6dda42076042755ca1e2f15adce-163858081": {
+        "floor": 0.0
+    },
+    "0x71d8aeb80ee9baeaa56eadc4d4956b1a11e2a0e1-978752137": {
+        "floor": 0.0
+    },
+    "robin-hollow": {
+        "floor": 0.0
+    },
+    "keytest": {
+        "floor": 0.0
+    },
+    "aliceptayaya": {
+        "floor": 0.0
+    },
+    "robobibib": {
+        "floor": 0.0
+    },
+    "bug-991313459": {
+        "floor": 0.0
+    },
+    "bug-705419232": {
+        "floor": 0.0
+    },
+    "demons-preview": {
+        "floor": 0.0
+    },
+    "hood-punk-guys": {
+        "floor": 0.1
+    },
+    "memecoin-option-426358559": {
+        "floor": 0.0
+    },
+    "memecoin-option-short-425640292": {
+        "floor": 0.0
+    },
+    "artgonauts": {
+        "floor": 9e-05
+    },
+    "husks-50683955": {
+        "floor": 0.0
+    },
+    "rare-people-genesis-134127475": {
+        "floor": 0.0
+    },
+    "robinhoodians": {
+        "floor": 0.1
+    },
+    "0x5102702f6ac331edb61b3e43b9d628fd52948511": {
+        "floor": 0.0
+    },
+    "hypercars-625025812": {
+        "floor": 0.0
+    },
+    "hypercars-845414647": {
+        "floor": 0.0
+    },
+    "hypercars-9744751": {
+        "floor": 0.0
+    },
+    "quantum-gpu": {
+        "floor": 0.0
+    },
+    "delisted-ghosts": {
+        "floor": 100.0
+    },
+    "robinhood-inscription": {
+        "floor": 1.999999999e-05
+    },
+    "plotters-779367741": {
+        "floor": 0.0
+    },
+    "hypercarsrh": {
+        "floor": 0.0454
+    },
+    "nftzworld-skeet": {
+        "floor": 0.0
+    },
+    "trump-circles": {
+        "floor": 0.0
+    },
+    "vividgeneration": {
+        "floor": 0.0
+    },
+    "early-men-origins": {
+        "floor": 0.0
+    },
+    "tektronik": {
+        "floor": 0.08
+    },
+    "fudarake-cards-698166668": {
+        "floor": 0.0
+    },
+    "0xaf6e21b478c87e4a749d8fa28ec6cf55412d85db": {
+        "floor": 0.0
+    },
+    "upepecash": {
+        "floor": 0.0
+    },
+    "0x87719abfb897c0e743a913c06951b23164eb590d": {
+        "floor": 0.0
+    },
+    "0xc45fb6a684ed67cc92870fae220e95c9f315020a": {
+        "floor": 0.0
+    },
+    "0x6e1c114d1281fb54c83b95657f063aa377260d72": {
+        "floor": 0.0
+    },
+    "0xfd265528a4550cbac5f40ba9b5f4c2215f6d5561": {
+        "floor": 0.0
+    },
+    "0x5720b3355230b09b96a6d110f30029b7b01b91a0": {
+        "floor": 0.0
+    },
+    "grass-option-auto-renewable-token": {
+        "floor": 0.0
+    },
+    "iip-7963184": {
+        "floor": 0.0
     }
 }
