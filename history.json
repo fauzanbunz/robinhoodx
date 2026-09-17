@@ -43588,7 +43588,7 @@
         "floor": 0.0
     },
     "robin-hollow": {
-        "floor": 0.0
+        "floor": 0.13
     },
     "keytest": {
         "floor": 0.0
@@ -43699,6 +43699,99 @@
         "floor": 0.0
     },
     "iip-7963184": {
+        "floor": 0.0
+    },
+    "antares_lab-nft": {
+        "floor": 0.0
+    },
+    "0x6189f55d4cd66a6bafe416300def135c32169dd7": {
+        "floor": 0.0
+    },
+    "rare-strangers": {
+        "floor": 0.0
+    },
+    "super-hoodrare": {
+        "floor": 0.01
+    },
+    "keep-dancing": {
+        "floor": 0.0
+    },
+    "rose-garden-t3": {
+        "floor": 1.0
+    },
+    "rose-garden-test": {
+        "floor": 0.0
+    },
+    "bug-711248861": {
+        "floor": 0.0
+    },
+    "hash-machines": {
+        "floor": 0.0
+    },
+    "flores-nft-223442258": {
+        "floor": 4e-05
+    },
+    "pajeet-791473791": {
+        "floor": 0.03
+    },
+    "mynfteeee": {
+        "floor": 0.0
+    },
+    "hash-friends-627598405": {
+        "floor": 0.0
+    },
+    "pajeet-543902198": {
+        "floor": 0.0
+    },
+    "future-allow-by-virtuals": {
+        "floor": 0.0
+    },
+    "shiny-pack": {
+        "floor": 0.0
+    },
+    "minimal-b-nw": {
+        "floor": 100.0
+    },
+    "0x508a6e7aeb528dbd396bcedeefcb21990d9bf767": {
+        "floor": 0.0
+    },
+    "madjacket-rh": {
+        "floor": 0.0
+    },
+    "empty-hands-668115546": {
+        "floor": 0.0
+    },
+    "graffiti-151644944": {
+        "floor": 0.0
+    },
+    "au-301345412": {
+        "floor": 0.0
+    },
+    "0x520f11c2ce54afe864078ec012ad61a150983eee": {
+        "floor": 0.0
+    },
+    "robinhood-434008770": {
+        "floor": 2.5
+    },
+    "brightpool-order-958366425": {
+        "floor": 0.0
+    },
+    "abx-robinhood-mainnet-acceptance": {
+        "floor": 0.0
+    },
+    "future-woodpad-fun-by-virtuals": {
+        "floor": 0.0
+    },
+    "robinhood-name-service-140697048": {
+        "floor": 0.0
+    },
+    "minimal-b-n-w": {
+        "floor": 0.0
+    },
+    "tendiemon": {
+        "floor": 0.0
+    },
+    "testtoooosss": {
         "floor": 0.0
     }
 }
