@@ -42895,7 +42895,7 @@
         "floor": 0.0
     },
     "feed-burnie-60325467": {
-        "floor": 0.0
+        "floor": 30.0
     },
     "aurex-racks-850126062": {
         "floor": 0.0
@@ -42916,7 +42916,7 @@
         "floor": 0.0
     },
     "pig-brokers": {
-        "floor": 0.0
+        "floor": 0.00731
     },
     "vantheon-603974498": {
         "floor": 0.0
@@ -43006,6 +43006,102 @@
         "floor": 0.0
     },
     "timing-lab-1-test-only": {
+        "floor": 0.0
+    },
+    "test-collection-690438374": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-234222840": {
+        "floor": 0.0
+    },
+    "collider-membership": {
+        "floor": 0.0
+    },
+    "justtesting-721862350": {
+        "floor": 0.0
+    },
+    "the-golem-keys": {
+        "floor": 0.0
+    },
+    "nftzworld-lone": {
+        "floor": 0.0
+    },
+    "0x48fc0ffc052fac9c4eca586028ad39d8f21da276": {
+        "floor": 0.0
+    },
+    "memoidh": {
+        "floor": 0.0
+    },
+    "offf1-status-2100376987676106773": {
+        "floor": 0.0
+    },
+    "rekt-tradooorm": {
+        "floor": 1.0
+    },
+    "migo-boss-nft": {
+        "floor": 0.0
+    },
+    "pig-brokers-hood": {
+        "floor": 0.0021
+    },
+    "dlmm-token-157484726": {
+        "floor": 0.0
+    },
+    "0xbde18862bc7ff0b72dd0a47ae2b746a53a800b4d": {
+        "floor": 0.0
+    },
+    "0x350b2bc9c5a2e625b27487d71e8e9ce58f56aeae": {
+        "floor": 0.0
+    },
+    "nftfactory-shared-1155-434705002": {
+        "floor": 0.0
+    },
+    "nftfactory-shared-721-531571828": {
+        "floor": 0.0
+    },
+    "shadowborn-612863339": {
+        "floor": 0.000179
+    },
+    "techk": {
+        "floor": 0.0
+    },
+    "0xd1fbdc7cb7728c38b712f8d509ccfb0adde6135c": {
+        "floor": 0.0
+    },
+    "pixel-harvest-121727404": {
+        "floor": 0.0
+    },
+    "terminal-pets-763678502": {
+        "floor": 0.0
+    },
+    "ekubove33positions": {
+        "floor": 1.0
+    },
+    "skull-king-phoenix-revival-523799709": {
+        "floor": 0.04
+    },
+    "rh-mint-nft-": {
+        "floor": 0.19
+    },
+    "rh-mint-nft": {
+        "floor": 0.0
+    },
+    "size-positions-772715299": {
+        "floor": 0.0
+    },
+    "nftzworld-hunters": {
+        "floor": 0.0
+    },
+    "vitaeon-560596874": {
+        "floor": 0.0
+    },
+    "migo-boss-nft-186020267": {
+        "floor": 0.0
+    },
+    "skull-king-phoenix-revival-527176879": {
+        "floor": 0.0
+    },
+    "protectors-168332894": {
         "floor": 0.0
     }
 }
