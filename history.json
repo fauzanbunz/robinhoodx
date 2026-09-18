@@ -44078,5 +44078,155 @@
     },
     "0x3a63ac821d8072f0b34b4188a8651840234ff722": {
         "floor": 0.0
+    },
+    "fuel-stake": {
+        "floor": 0.0
+    },
+    "robin-bankroll-position-658147774": {
+        "floor": 0.0
+    },
+    "zaddr-971419567": {
+        "floor": 0.2
+    },
+    "3333-672056785": {
+        "floor": 0.0
+    },
+    "yield-fields-rh-118266434": {
+        "floor": 0.2
+    },
+    "zns-badge-62127099": {
+        "floor": 0.0
+    },
+    "ovine-genesis-266728471": {
+        "floor": 0.0
+    },
+    "kucing-pelangi": {
+        "floor": 0.0
+    },
+    "222-479476371": {
+        "floor": 0.0
+    },
+    "yield-fields---------": {
+        "floor": 2e-05
+    },
+    "trumpdump-839360744": {
+        "floor": 0.0
+    },
+    "-8195": {
+        "floor": 0.0055
+    },
+    "brrr-cm-position-manager-504111768": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-359485624": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-92067565": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-760392500": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-393197301": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-330345525": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-733015509": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-735573045": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-498918942": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-367865634": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-439703166": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-295809811": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-361527577": {
+        "floor": 0.0
+    },
+    "0x04c68fd36a8dcd3de31b1c075109fe5e36003228": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-981117947": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-90380925": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-792053534": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-1068994": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-753115334": {
+        "floor": 0.0
+    },
+    "0xd647e5ef32b435ffbd1df570974753560210b5b5": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-156310316": {
+        "floor": 0.0
+    },
+    "0x2155224fd7bcd03b322117de2b5b9d9aa1b5c2f9": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-681302402": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-999230792": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-411897777": {
+        "floor": 0.0
+    },
+    "0x7efa6757d07a16f9afca2c1693761d6513885bf0": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-228207896": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-151619932": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-704995373": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-428836763": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-394961411": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-13255633": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-391145196": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-680954660": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-694374743": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-354073874": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-275155648": {
+        "floor": 0.0
+    },
+    "brrr-cm-position-manager-682611939": {
+        "floor": 0.0
     }
 }
