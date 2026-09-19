@@ -44563,7 +44563,7 @@
         "floor": 0.0
     },
     "bitbots-377199255": {
-        "floor": 1.0
+        "floor": 0.25
     },
     "dark-bocca": {
         "floor": 0.0
@@ -44621,5 +44621,101 @@
     },
     "clickhood-658940538": {
         "floor": 10.7
+    },
+    "sho-392257271": {
+        "floor": 0.0
+    },
+    "kryvon-871087579": {
+        "floor": 0.0
+    },
+    "bitbots-drones-447716669": {
+        "floor": 0.0
+    },
+    "goya-pepes": {
+        "floor": 3.0
+    },
+    "zkcodex-nft-688066032": {
+        "floor": 0.0
+    },
+    "test-test-test-260082724": {
+        "floor": 0.0
+    },
+    "deneme-590195821": {
+        "floor": 0.001
+    },
+    "skull-warriors": {
+        "floor": 0.1
+    },
+    "scoops": {
+        "floor": 0.0
+    },
+    "kryvon-635047163": {
+        "floor": 0.0
+    },
+    "fomoater-351746392": {
+        "floor": 0.025
+    },
+    "motion-rips-rehearsal-v4": {
+        "floor": 0.0
+    },
+    "motion-rips": {
+        "floor": 0.0
+    },
+    "tst-769740905": {
+        "floor": 0.0
+    },
+    "bundler-test": {
+        "floor": 0.0
+    },
+    "bobble-gtd-mint-token": {
+        "floor": 0.0
+    },
+    "0x9f6a615ceb093432399f31a16194b84d2eb82c65": {
+        "floor": 0.0
+    },
+    "ponfoot": {
+        "floor": 0.0015
+    },
+    "arcmystics": {
+        "floor": 0.0
+    },
+    "the-98s-laptop": {
+        "floor": 0.9
+    },
+    "loxley-arrows": {
+        "floor": 0.0
+    },
+    "trick-or-treatoors": {
+        "floor": 0.0
+    },
+    "dlmm-token-239871635": {
+        "floor": 0.0
+    },
+    "dlmm-token-728472353": {
+        "floor": 0.0
+    },
+    "robinhood-szn": {
+        "floor": 9.99e-05
+    },
+    "cat-3-556021466": {
+        "floor": 0.0
+    },
+    "mainnettest4-arrows": {
+        "floor": 0.0
+    },
+    "cat-2-471242901": {
+        "floor": 0.0
+    },
+    "assqto": {
+        "floor": 0.00015
+    },
+    "mainnettest3-arrows": {
+        "floor": 0.0
+    },
+    "wenlambo-507823819": {
+        "floor": 0.0
+    },
+    "interns": {
+        "floor": 0.28
     }
 }
