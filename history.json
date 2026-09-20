@@ -45319,13 +45319,13 @@
         "floor": 0.1
     },
     "ccff00-cat": {
-        "floor": 0.0
+        "floor": 0.00028999
     },
     "robinrottenz": {
         "floor": 0.0
     },
     "osman-ertugrul-legacy": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "the-firm-executive-editions-241357536": {
         "floor": 0.0
@@ -45352,16 +45352,16 @@
         "floor": 0.0
     },
     "d3nobodies": {
-        "floor": 0.000123569444444445
+        "floor": 0.000139382899812891
     },
     "rh-knights": {
-        "floor": 0.0
+        "floor": 7e-05
     },
     "gorillas-385222560": {
         "floor": 8e-05
     },
     "clippy-brokers-279446597": {
-        "floor": 0.5
+        "floor": 0.1
     },
     "dndaliens-nft": {
         "floor": 0.08
@@ -45376,10 +45376,10 @@
         "floor": 0.0
     },
     "eclipse-souls-33212094n": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "lukas-599924059": {
-        "floor": 0.0
+        "floor": 3.0
     },
     "v5-rehearsal": {
         "floor": 0.0
@@ -45466,6 +45466,87 @@
         "floor": 0.0
     },
     "0x09ecacf3328c2c578b5ef7bd7dcf2b1784f4ac09": {
+        "floor": 0.0
+    },
+    "hootang-clan-628568397": {
+        "floor": 0.0
+    },
+    "anatomi-151009150": {
+        "floor": 0.0
+    },
+    "0xc91100920ce7b3e1145ef8212b5b0f2030933c86": {
+        "floor": 0.0
+    },
+    "dino-bits-rh": {
+        "floor": 1.0
+    },
+    "raret-937970245": {
+        "floor": 0.0
+    },
+    "robinopo": {
+        "floor": 0.0
+    },
+    "test-collection-9682276": {
+        "floor": 0.0
+    },
+    "omnigods-oe-robinhood": {
+        "floor": 0.0
+    },
+    "omnigods-locked-liquidity-562413170": {
+        "floor": 0.0
+    },
+    "peepees-229546325": {
+        "floor": 0.0
+    },
+    "the-vault-891177562": {
+        "floor": 1.4
+    },
+    "inucult": {
+        "floor": 0.0
+    },
+    "clog-ticker-labels": {
+        "floor": 0.0
+    },
+    "0xf07c398df6c4174fd4608c6c4b582a870fcde765": {
+        "floor": 0.0
+    },
+    "0x96330b00f11d65f902fffdbf86cd40914080fee4": {
+        "floor": 0.0
+    },
+    "cleopatra-gold": {
+        "floor": 0.0
+    },
+    "0x3e1696ca565edb26ee834ab7eaa9698aee2fb80f-385031990": {
+        "floor": 0.0
+    },
+    "bloke": {
+        "floor": 0.0
+    },
+    "fuel-stake-548994272": {
+        "floor": 0.0
+    },
+    "ghost-46810074": {
+        "floor": 0.0
+    },
+    "omnigods-robinhood": {
+        "floor": 0.0
+    },
+    "omnigods-locked-liquidity-768862772": {
+        "floor": 0.0
+    },
+    "staccpad-lp-630774540": {
+        "floor": 0.0
+    },
+    "talon-finance-722998353": {
+        "floor": 0.0
+    },
+    "holdingtime": {
+        "floor": 0.0
+    },
+    "peepeesize-752784793": {
+        "floor": 0.0
+    },
+    "rehearsalt0-476717538": {
         "floor": 0.0
     }
 }
