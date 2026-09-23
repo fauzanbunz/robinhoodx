@@ -47719,7 +47719,7 @@
         "floor": 0.0
     },
     "gpu2017": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "hq-224066580": {
         "floor": 0.0
@@ -47728,7 +47728,7 @@
         "floor": 0.0
     },
     "bike-tyson-nft": {
-        "floor": 0.0
+        "floor": 0.00079
     },
     "seedtraits": {
         "floor": 0.0
@@ -47737,7 +47737,7 @@
         "floor": 0.0
     },
     "gold-796140037": {
-        "floor": 0.0
+        "floor": 4e-05
     },
     "hasan-87185934": {
         "floor": 0.0
@@ -47761,13 +47761,13 @@
         "floor": 0.0
     },
     "ccff00-punks": {
-        "floor": 0.0
+        "floor": 7e-05
     },
     "darwin-villagers-844573178": {
         "floor": 0.0
     },
     "rhpugz": {
-        "floor": 0.0
+        "floor": 0.0004
     },
     "mlm-273233087": {
         "floor": 0.0
@@ -47791,7 +47791,7 @@
         "floor": 0.0
     },
     "akai-603329922": {
-        "floor": 4e-05
+        "floor": 8e-05
     },
     "vampsonchain": {
         "floor": 0.0
@@ -47867,5 +47867,83 @@
     },
     "bakka-bot-36676266": {
         "floor": 1.0
+    },
+    "stockminer-cosmetics-752108777": {
+        "floor": 0.0
+    },
+    "stockminer-rigs-145079934": {
+        "floor": 0.0
+    },
+    "jackbutcher-x-money": {
+        "floor": 0.0
+    },
+    "punkii": {
+        "floor": 0.5
+    },
+    "jeanphil-nft-472232779": {
+        "floor": 0.0068
+    },
+    "tilt-agent": {
+        "floor": 0.0
+    },
+    "complete-trial-no-value123": {
+        "floor": 0.0
+    },
+    "fanta-pack": {
+        "floor": 0.0
+    },
+    "future-ariwa-by-virtuals": {
+        "floor": 0.0
+    },
+    "0xa93b41c30cb3b422fa75d2f4d4b0a9d7e6ab7fab": {
+        "floor": 0.0
+    },
+    "clog-tickers": {
+        "floor": 0.0
+    },
+    "0x86484603c8d69b0a8eccd4c42036ae9dd61b385f": {
+        "floor": 0.0
+    },
+    "hood-szn": {
+        "floor": 0.003
+    },
+    "onchain-pixel-art-": {
+        "floor": 0.0
+    },
+    "tmnlt": {
+        "floor": 0.0
+    },
+    "0x7e0a672c6363f4b02b4492e616df3d30afafdea0": {
+        "floor": 0.0
+    },
+    "0x0e146ef1aebb4312281c6449ef4a4fc37bd0cb0f": {
+        "floor": 0.0
+    },
+    "0x94227ff0ff135757f13e04508e289039b1f3b9c1": {
+        "floor": 0.0
+    },
+    "coral-boi": {
+        "floor": 0.0025
+    },
+    "feauto": {
+        "floor": 0.0
+    },
+    "time-travel-radio": {
+        "floor": 0.0
+    },
+    "bakka-bot-937160919": {
+        "floor": 0.0
+    },
+    "first-block-104297232": {
+        "floor": 0.0
+    },
+    "bellends-308142948": {
+        "floor": 0.0
+    },
+    "antartica-on-rh": {
+        "floor": 0.1
+    },
+    "angryfishrh": {
+        "floor": 4.455e-05
     }
 }
