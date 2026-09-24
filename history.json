@@ -49238,5 +49238,155 @@
     },
     "0xde4ab78e0084117ff259cbc402a5ed1460851e8c": {
         "floor": 0.0001
+    },
+    "test-mint-251761533": {
+        "floor": 0.0
+    },
+    "lilbuds-329453484": {
+        "floor": 0.0
+    },
+    "nullheads-457302304": {
+        "floor": 6.0
+    },
+    "vibe-market-630406623": {
+        "floor": 0.0
+    },
+    "zootopia-579591503": {
+        "floor": 0.0
+    },
+    "dickminers": {
+        "floor": 0.0
+    },
+    "cobie-740298168": {
+        "floor": 0.0
+    },
+    "0x1a4c1638d63cada460cd00a000c05be62eb735f3": {
+        "floor": 0.22
+    },
+    "dripsnoods-pass": {
+        "floor": 0.0
+    },
+    "fooms-genesis": {
+        "floor": 0.088
+    },
+    "gradus-87735714": {
+        "floor": 0.06
+    },
+    "nftzworld-nft-shot": {
+        "floor": 0.0
+    },
+    "cinder-tooth": {
+        "floor": 0.002
+    },
+    "continuum-season-1-70781667": {
+        "floor": 0.0
+    },
+    "raina-id-720181558": {
+        "floor": 0.0
+    },
+    "pump-doggies": {
+        "floor": 0.001
+    },
+    "stonko-fee-key": {
+        "floor": 0.0
+    },
+    "ccff00-bugs": {
+        "floor": 0.0
+    },
+    "stone-165671111": {
+        "floor": 0.0
+    },
+    "rips-genesis-allocation-card": {
+        "floor": 0.0
+    },
+    "raina-id-511431490": {
+        "floor": 0.0
+    },
+    "stone-920521553": {
+        "floor": 0.0
+    },
+    "slipppy": {
+        "floor": 1.0
+    },
+    "patrickworldnft": {
+        "floor": 0.0005
+    },
+    "0xa62f9528a63024f02b83c18956c29743fd142fef": {
+        "floor": 0.0
+    },
+    "pigeoncrew": {
+        "floor": 0.09
+    },
+    "0xb2c7129c8188d7c6d6836216d47cc000036938d5": {
+        "floor": 0.1
+    },
+    "tooms-fomo": {
+        "floor": 0.0
+    },
+    "hood-lords-254054404": {
+        "floor": 8.9999e-05
+    },
+    "nomo-enchanted-nft-cards": {
+        "floor": 0.0
+    },
+    "candlelords": {
+        "floor": 2.49
+    },
+    "rveil-901323340": {
+        "floor": 0.0
+    },
+    "fooliesnft": {
+        "floor": 0.0
+    },
+    "brokerfarm---": {
+        "floor": 1.0
+    },
+    "nftzworld-pixel-art-pad-xl": {
+        "floor": 0.0
+    },
+    "mzpuamf": {
+        "floor": 0.0
+    },
+    "slippy-snake": {
+        "floor": 0.00019
+    },
+    "ore-lings": {
+        "floor": 4e-05
+    },
+    "0x8b39fd34255d72fff2ea3e79fb62ad22bc9c41f8": {
+        "floor": 0.0
+    },
+    "raina-id": {
+        "floor": 0.0
+    },
+    "fooms-fomo": {
+        "floor": 25.0
+    },
+    "zns-badge-435815163": {
+        "floor": 0.0
+    },
+    "cubesonchain": {
+        "floor": 0.05
+    },
+    "archood-56301184": {
+        "floor": 0.0
+    },
+    "0x90be3d93700bdf19294f9b8ecf30b91e1d0339d2": {
+        "floor": 0.0
+    },
+    "0x2a16d5ba4bceaa6ee12bbab167fca84ea5e89a42": {
+        "floor": 0.0
+    },
+    "0x600f7eaae9d91f1c97e1639d67ba59f6350e9323": {
+        "floor": 0.0
+    },
+    "0xdf33bf30a868bde4abb6666024598c97ae197081": {
+        "floor": 0.0
+    },
+    "rveil-287979762": {
+        "floor": 0.0
+    },
+    "oddfacess": {
+        "floor": 0.0
     }
 }
