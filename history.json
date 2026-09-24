@@ -48544,19 +48544,19 @@
         "floor": 0.0
     },
     "bitbots-370329909": {
-        "floor": 0.0
+        "floor": 5e-05
     },
     "venum-club": {
-        "floor": 0.0
+        "floor": 3e-05
     },
     "test200-332592236": {
-        "floor": 0.01
+        "floor": 0.0001
     },
     "pixel-crocs-462012197": {
-        "floor": 5.5e-05
+        "floor": 3.7263238697128e-05
     },
     "strata-borg": {
-        "floor": 0.0
+        "floor": 5e-05
     },
     "halo-nodes-broker": {
         "floor": 0.1
@@ -48580,13 +48580,13 @@
         "floor": 0.01
     },
     "null-crew": {
-        "floor": 0.0005499
+        "floor": 0.00019
     },
     "punk-credits": {
         "floor": 3.89e-05
     },
     "duck-wagies": {
-        "floor": 0.002
+        "floor": 0.0004
     },
     "little-lives-test-92165011": {
         "floor": 0.0
@@ -48689,5 +48689,104 @@
     },
     "squawkers-973029537": {
         "floor": 2.0
+    },
+    "primapes-432830744": {
+        "floor": 0.01
+    },
+    "quarry-50951330": {
+        "floor": 0.0
+    },
+    "perch-crate": {
+        "floor": 0.0
+    },
+    "perch-115334970": {
+        "floor": 0.0
+    },
+    "click-and-saves": {
+        "floor": 0.04
+    },
+    "0x40572ddfacf5da481f90c5dad9306434683c6e7f": {
+        "floor": 0.0
+    },
+    "rogf": {
+        "floor": 0.0
+    },
+    "terminl": {
+        "floor": 0.0
+    },
+    "etaswap-video": {
+        "floor": 0.0
+    },
+    "lovely-dad": {
+        "floor": 0.0001
+    },
+    "numbered-test-collection": {
+        "floor": 0.0
+    },
+    "create-an-editi-595299492": {
+        "floor": 0.0
+    },
+    "sad-72155763": {
+        "floor": 0.0
+    },
+    "lostpixels_rh-806621209": {
+        "floor": 0.05
+    },
+    "pookie-punk": {
+        "floor": 0.0002
+    },
+    "forged-rig-650481141": {
+        "floor": 0.0
+    },
+    "evolving-receivers": {
+        "floor": 0.0
+    },
+    "genesis-halo-nodes-894693710": {
+        "floor": 0.12
+    },
+    "grokbots": {
+        "floor": 0.49
+    },
+    "halo-nodes-722598419": {
+        "floor": 0.178
+    },
+    "macledger-paint": {
+        "floor": 0.0
+    },
+    "shoplots": {
+        "floor": 0.00034
+    },
+    "floydies-art": {
+        "floor": 0.28
+    },
+    "nftzworld-pixel-art-pad-panthera-leo": {
+        "floor": 0.0
+    },
+    "spearkatz-raffle": {
+        "floor": 0.0
+    },
+    "neck-ice": {
+        "floor": 15.0
+    },
+    "the-plank-press": {
+        "floor": 0.0
+    },
+    "wawaw2": {
+        "floor": 0.0
+    },
+    "testeeer": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-319318931": {
+        "floor": 0.0
+    },
+    "ishowspeed-572719550": {
+        "floor": 9.8e-05
+    },
+    "halo-nodes-broker-216338476": {
+        "floor": 0.0001
+    },
+    "meowgents": {
+        "floor": 0.0
     }
 }
