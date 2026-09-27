@@ -50890,7 +50890,7 @@
         "floor": 0.0
     },
     "rhmaxis": {
-        "floor": 0.0
+        "floor": 4.99e-06
     },
     "pandaboteditions": {
         "floor": 0.0
@@ -51034,6 +51034,144 @@
         "floor": 0.0
     },
     "0x527c773cbaa5d4bd2d28096894ca70fcebe281c9": {
+        "floor": 0.0
+    },
+    "smiling-cj": {
+        "floor": 0.0
+    },
+    "bytebeasts-795757066": {
+        "floor": 0.0
+    },
+    "stray-cucks": {
+        "floor": 0.0
+    },
+    "nock-agent-id": {
+        "floor": 0.0
+    },
+    "solpol": {
+        "floor": 0.0
+    },
+    "apepack-755904616": {
+        "floor": 0.0
+    },
+    "moon-rollers-": {
+        "floor": 0.0
+    },
+    "opensailors-first-light-open-edition": {
+        "floor": 1.0
+    },
+    "blode-runner": {
+        "floor": 0.0
+    },
+    "fomostuffed": {
+        "floor": 0.0
+    },
+    "0x08984ef829c964c4469202f288c6fcb613035f5f": {
+        "floor": 9.99
+    },
+    "0x6e4859a8e354b529f29045bcd744c6f5451ebaa6": {
+        "floor": 0.0
+    },
+    "bytebeasts-robinhood-genesis": {
+        "floor": 0.0
+    },
+    "wojunk-broke-rh": {
+        "floor": 0.0
+    },
+    "arise-362938670": {
+        "floor": 0.0
+    },
+    "0x21920622587661748492868a00cefc5406a32a38": {
+        "floor": 0.0
+    },
+    "the-duck-hoood": {
+        "floor": 0.27
+    },
+    "chapri-hood": {
+        "floor": 0.15
+    },
+    "heritage-hood": {
+        "floor": 0.09
+    },
+    "gamer-consoles-collection": {
+        "floor": 0.0
+    },
+    "contract-you": {
+        "floor": 0.0
+    },
+    "disir": {
+        "floor": 0.03
+    },
+    "sach-329125894": {
+        "floor": 4.5e-05
+    },
+    "ape-pack-creator-nft": {
+        "floor": 0.0
+    },
+    "0xf28a21013795f368c3a70ad5b72a0ae4f5c6c16b": {
+        "floor": 0.0
+    },
+    "boomies-397516951": {
+        "floor": 0.0
+    },
+    "the-fomiesstonks-hood": {
+        "floor": 0.03
+    },
+    "good-morning-353589038": {
+        "floor": 0.0
+    },
+    "smdvd": {
+        "floor": 0.0
+    },
+    "dequant-protocol": {
+        "floor": 7.5999e-05
+    },
+    "bob-in-the-hood-nft": {
+        "floor": 0.08
+    },
+    "0xaef89552ef61842a2f4fcd23ae1e222ed3f6bc88": {
+        "floor": 0.0
+    },
+    "kovo-75092717": {
+        "floor": 0.0
+    },
+    "catshu": {
+        "floor": 0.0
+    },
+    "bytebeasts-genesis-drop": {
+        "floor": 0.0
+    },
+    "ultrabreezecollectibles": {
+        "floor": 0.0
+    },
+    "ultrabreezeassets": {
+        "floor": 0.0
+    },
+    "hotdogrise": {
+        "floor": 0.0
+    },
+    "rumble-kingdom": {
+        "floor": 0.0015
+    },
+    "troenpass": {
+        "floor": 0.0
+    },
+    "0xd3a8a8ddf1ae2ee1e3e3467def19035cde07ce5d": {
+        "floor": 0.05
+    },
+    "sm-donkey": {
+        "floor": 0.003
+    },
+    "troenassets": {
+        "floor": 0.0
+    },
+    "0xd269a607c8043633316d58a5f61b02b22059994e": {
+        "floor": 0.0
+    },
+    "mintsteaditems": {
+        "floor": 0.0
+    },
+    "cloveralpacabadges": {
         "floor": 0.0
     }
 }
