@@ -51043,7 +51043,7 @@
         "floor": 0.0
     },
     "stray-cucks": {
-        "floor": 0.0
+        "floor": 0.000367
     },
     "nock-agent-id": {
         "floor": 0.0
@@ -51055,10 +51055,10 @@
         "floor": 0.0
     },
     "moon-rollers-": {
-        "floor": 0.0
+        "floor": 0.00041
     },
     "opensailors-first-light-open-edition": {
-        "floor": 1.0
+        "floor": 0.21
     },
     "blode-runner": {
         "floor": 0.0
@@ -51172,6 +51172,129 @@
         "floor": 0.0
     },
     "cloveralpacabadges": {
+        "floor": 0.0
+    },
+    "mrbonez-884125051": {
+        "floor": 0.0
+    },
+    "covewooditems": {
+        "floor": 0.0
+    },
+    "sherwood-archers": {
+        "floor": 0.0
+    },
+    "galactic-dreams-777090808": {
+        "floor": 0.0
+    },
+    "hoodsrh": {
+        "floor": 0.0
+    },
+    "for-daddythunder": {
+        "floor": 0.0
+    },
+    "wqwq-214837721": {
+        "floor": 0.0
+    },
+    "3d-jigglettes": {
+        "floor": 0.94
+    },
+    "giwa-marets-tiles": {
+        "floor": 9.94
+    },
+    "swaguu-jets": {
+        "floor": 0.0
+    },
+    "kfold": {
+        "floor": 0.0
+    },
+    "atlas-card-probe": {
+        "floor": 0.0
+    },
+    "robinbird-312321464": {
+        "floor": 0.0
+    },
+    "hoodbitz-58716435": {
+        "floor": 0.0
+    },
+    "lmgbmjw": {
+        "floor": 0.0
+    },
+    "duckhood-923487013": {
+        "floor": 0.16
+    },
+    "peperp-cosmetics": {
+        "floor": 0.0
+    },
+    "hood-street-alpha": {
+        "floor": 0.0003
+    },
+    "trap-daddy": {
+        "floor": 9.98
+    },
+    "dinosoar": {
+        "floor": 0.0
+    },
+    "muse-251969036": {
+        "floor": 0.0
+    },
+    "lilbuds-260733622": {
+        "floor": 9.99
+    },
+    "treump-891383371": {
+        "floor": 0.0
+    },
+    "0x8791aefd822383a502f65c0f1fcbaaf1fd9c6d89": {
+        "floor": 0.0
+    },
+    "folks-hood": {
+        "floor": 9.97
+    },
+    "soggytrinketbadges": {
+        "floor": 0.0
+    },
+    "project-mars-spaceships-nft": {
+        "floor": 9.98
+    },
+    "pepe-tower-cosmetics": {
+        "floor": 0.0
+    },
+    "fluffber-----": {
+        "floor": 0.0033
+    },
+    "hash-dogs-": {
+        "floor": 0.0003
+    },
+    "treump-54952154": {
+        "floor": 0.0
+    },
+    "everybody-loves-robinhood": {
+        "floor": 0.0
+    },
+    "0x4c9adc56864989e02c115792fe7b8fd868936ea5": {
+        "floor": 0.0
+    },
+    "robinhood-domain": {
+        "floor": 1.0
+    },
+    "primate-legends-182303058": {
+        "floor": 0.19
+    },
+    "0x3b90df763ba785da9aafa7905c3aa1ceb361ccb0": {
+        "floor": 0.0
+    },
+    "the-carriers": {
+        "floor": 0.0
+    },
+    "mrc-chicken-coop": {
+        "floor": 0.0
+    },
+    "0x80c208999ac4aee6896d0d553b5adce2040e13c2": {
+        "floor": 0.0
+    },
+    "dogs-hood": {
+        "floor": 0.0
+    },
+    "duckhoodd": {
         "floor": 0.0
     }
 }
