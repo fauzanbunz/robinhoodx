@@ -52894,7 +52894,7 @@
         "floor": 0.0
     },
     "devil-hoods": {
-        "floor": 0.0
+        "floor": 0.000255
     },
     "oseapunks": {
         "floor": 0.0
@@ -53038,6 +53038,147 @@
         "floor": 0.25
     },
     "murps": {
+        "floor": 0.0
+    },
+    "the-hoodsters": {
+        "floor": 0.0055
+    },
+    "head-punk-rh": {
+        "floor": 0.05
+    },
+    "mintdesk-latency-test": {
+        "floor": 0.0
+    },
+    "mr-bonez-259182680": {
+        "floor": 0.99
+    },
+    "first-beings": {
+        "floor": 0.0
+    },
+    "credits-monkey": {
+        "floor": 0.0
+    },
+    "th3-l4ndsc4p3s-nft": {
+        "floor": 0.99
+    },
+    "astradots-408697410": {
+        "floor": 0.0
+    },
+    "pc-genesis": {
+        "floor": 10.0
+    },
+    "weir-ladder": {
+        "floor": 0.0
+    },
+    "neonfaces-157827237": {
+        "floor": 32.79
+    },
+    "wifzi": {
+        "floor": 0.0
+    },
+    "hood-504599465": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-237924096": {
+        "floor": 0.0
+    },
+    "hootang-clan-355042288": {
+        "floor": 0.03
+    },
+    "sparkzilla-573836078": {
+        "floor": 0.0
+    },
+    "peddles-test-curve-361864507": {
+        "floor": 0.0
+    },
+    "peddles-test-art-722073366": {
+        "floor": 0.0
+    },
+    "0x3cb945cf63e9b285e6d6141bca34a6d071d8d605": {
+        "floor": 0.05
+    },
+    "ai-pets": {
+        "floor": 0.0
+    },
+    "bxl12x": {
+        "floor": 0.99
+    },
+    "vraxy": {
+        "floor": 0.0
+    },
+    "effi-331901652": {
+        "floor": 0.0
+    },
+    "faahh-geng": {
+        "floor": 0.0
+    },
+    "into-the-orbit": {
+        "floor": 0.0
+    },
+    "test-bot-825564077": {
+        "floor": 0.0
+    },
+    "yoake-comics": {
+        "floor": 0.0
+    },
+    "lofu-mancers": {
+        "floor": 5.0
+    },
+    "the-last-block-615924901": {
+        "floor": 0.15
+    },
+    "nullform-00000": {
+        "floor": 0.0
+    },
+    "testburn-365512810": {
+        "floor": 0.0
+    },
+    "phoenix-test-5": {
+        "floor": 10.0
+    },
+    "tessa-launchpad": {
+        "floor": 9.86
+    },
+    "0xe94c92fe13eea6cfc4b1bbbd38f06f51a566dd55": {
+        "floor": 0.0
+    },
+    "vrax": {
+        "floor": 4e-05
+    },
+    "memescape-heroes": {
+        "floor": 0.0
+    },
+    "mr-robinjimmy": {
+        "floor": 0.01
+    },
+    "apocryphaz": {
+        "floor": 0.0
+    },
+    "robinhood-ape-club-449348279": {
+        "floor": 0.0
+    },
+    "harbor-lights-853491993": {
+        "floor": 0.0
+    },
+    "friendracers-300330066": {
+        "floor": 0.35
+    },
+    "es-33146300": {
+        "floor": 0.0
+    },
+    "sports-207917924": {
+        "floor": 0.0
+    },
+    "0xf0326a5fe20eed05ee84f95c47fae6f68a85a255": {
+        "floor": 0.0
+    },
+    "hash-chameleons": {
+        "floor": 0.5
+    },
+    "phoenix-test-final": {
+        "floor": 0.0
+    },
+    "super-inu": {
         "floor": 0.0
     }
 }
