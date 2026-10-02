@@ -54070,7 +54070,7 @@
         "floor": 0.0
     },
     "kerews": {
-        "floor": 10.0
+        "floor": 9.99
     },
     "merry-123741228": {
         "floor": 10.0
@@ -54218,5 +54218,146 @@
     },
     "stnkrbot": {
         "floor": 0.01
+    },
+    "nyx-hood": {
+        "floor": 0.09
+    },
+    "weird-catz-549894582": {
+        "floor": 0.0
+    },
+    "deciph3r": {
+        "floor": 9.49
+    },
+    "yield-fields-deeds-791154870": {
+        "floor": 0.0
+    },
+    "yield-fields-resources-724001477": {
+        "floor": 0.0
+    },
+    "hood-engineers": {
+        "floor": 0.0
+    },
+    "secondpop": {
+        "floor": 0.0
+    },
+    "nubs-fun": {
+        "floor": 1.0
+    },
+    "tnttntnt": {
+        "floor": 0.0
+    },
+    "roomies-906892243": {
+        "floor": 1.5
+    },
+    "eq-228049572": {
+        "floor": 0.0
+    },
+    "peng-bastard": {
+        "floor": 5.6e-05
+    },
+    "little-guys-rh": {
+        "floor": 0.0
+    },
+    "future-starkware-by-virtuals": {
+        "floor": 0.0
+    },
+    "mosaic-mews": {
+        "floor": 0.42
+    },
+    "floor-keeper-live-test": {
+        "floor": 0.0
+    },
+    "fomofunks": {
+        "floor": 0.01
+    },
+    "0xe5fccb08e33c22cc1a7f2e4a2d42ff1e6c96f84e": {
+        "floor": 0.0
+    },
+    "catapult-trade-201300808": {
+        "floor": 0.0
+    },
+    "snurps-mystery-box": {
+        "floor": 0.02
+    },
+    "bugz-clubs": {
+        "floor": 0.01
+    },
+    "demooo": {
+        "floor": 1.99
+    },
+    "hoodpoker": {
+        "floor": 0.0
+    },
+    "royal-bone-dynasty": {
+        "floor": 100.0
+    },
+    "clickihood-brooms-868824760": {
+        "floor": 0.0
+    },
+    "ponny-681919385": {
+        "floor": 0.29
+    },
+    "froggbog": {
+        "floor": 9.96
+    },
+    "ruxxless": {
+        "floor": 0.07
+    },
+    "yield-fields-796249630": {
+        "floor": 0.00039996
+    },
+    "0x0fae0300033a6c841336516d93424c77b4cc1e37-81115497": {
+        "floor": 0.0
+    },
+    "surew": {
+        "floor": 9.98
+    },
+    "pixies-691351475": {
+        "floor": 0.48
+    },
+    "0x6c3c1f5e29d92c5295493a5b85ec719a2febad2c": {
+        "floor": 0.06
+    },
+    "demonics-318851764": {
+        "floor": 0.04
+    },
+    "0xf3f2d8c3aeae931c627119430576a795a8db5f03": {
+        "floor": 0.0
+    },
+    "wmix-world-mix": {
+        "floor": 0.0
+    },
+    "eagle-239548845": {
+        "floor": 0.0
+    },
+    "sdfsdfsdf-528999515": {
+        "floor": 2.91
+    },
+    "anzacreate-pass": {
+        "floor": 0.06
+    },
+    "chare-punk": {
+        "floor": 0.02
+    },
+    "catcatcat-997802343": {
+        "floor": 0.09
+    },
+    "sknots-mr-brco": {
+        "floor": 0.28
+    },
+    "hooded-genesis-heroes": {
+        "floor": 0.0
+    },
+    "stornks-genesis": {
+        "floor": 4.46
+    },
+    "brily": {
+        "floor": 9.99
+    },
+    "skellies-153747635": {
+        "floor": 0.001199999999
+    },
+    "wulfstest": {
+        "floor": 0.0
     }
 }
