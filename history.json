@@ -55420,7 +55420,7 @@
         "floor": 0.0
     },
     "reticles": {
-        "floor": 8.88
+        "floor": 0.88
     },
     "fliplab2": {
         "floor": 0.0
@@ -55429,7 +55429,7 @@
         "floor": 0.0
     },
     "0x26b0050c02e562f77deb898d5c71d102563f112c": {
-        "floor": 0.0
+        "floor": 0.0002
     },
     "fliplab1": {
         "floor": 0.0
@@ -55559,5 +55559,113 @@
     },
     "schrodinals-724112227": {
         "floor": 0.07
+    },
+    "cc00ff": {
+        "floor": 0.0
+    },
+    "00ccff": {
+        "floor": 0.0
+    },
+    "moskin-182135196": {
+        "floor": 0.0
+    },
+    "ffcc00": {
+        "floor": 0.0
+    },
+    "pixel-cats-on-drugs": {
+        "floor": 0.0
+    },
+    "00ffcc": {
+        "floor": 0.0
+    },
+    "after-hours-loot": {
+        "floor": 0.0
+    },
+    "fund-locked-positions-204303013": {
+        "floor": 0.0
+    },
+    "steakhood-189246674": {
+        "floor": 0.0
+    },
+    "fund-locked-positions": {
+        "floor": 0.0
+    },
+    "aurora-collectibles": {
+        "floor": 0.0
+    },
+    "0x3d464f281ad76914f9fa56506be3337e2cf0001e": {
+        "floor": 0.0
+    },
+    "0xf81df1cc769cad126c096d8c5ff181038effc380": {
+        "floor": 0.0
+    },
+    "normiezzs-hood": {
+        "floor": 0.0
+    },
+    "ccff00-worlds": {
+        "floor": 0.0003
+    },
+    "bunny-gang-hood": {
+        "floor": 0.51
+    },
+    "trenchstrokerz": {
+        "floor": 0.0
+    },
+    "0xc578cdba7627c1788abb7bdc512c71ba38bf0bca": {
+        "floor": 6.493e-05
+    },
+    "bomb-boyz-334753014": {
+        "floor": 0.0
+    },
+    "clay-stonkzz": {
+        "floor": 0.09
+    },
+    "madznfts": {
+        "floor": 0.0
+    },
+    "defaultcheck": {
+        "floor": 0.0
+    },
+    "magichood-237864227": {
+        "floor": 0.01
+    },
+    "stickhoode": {
+        "floor": 0.001
+    },
+    "0xf8c674a89e2a0807cda5c7670b508bc445373156": {
+        "floor": 0.0
+    },
+    "0x99a246e05f7b99828528d38d2d0f2185ae65bc88": {
+        "floor": 0.0
+    },
+    "0xc60f4b30cb69bffa904d15fe1faf897fbb6aa1a9": {
+        "floor": 0.0
+    },
+    "0x7d99f023d6a497d96a3a5eb4964e200eddf27a87": {
+        "floor": 0.0
+    },
+    "hood-agents-498901495": {
+        "floor": 0.0
+    },
+    "classy-girls": {
+        "floor": 0.5
+    },
+    "zth-test": {
+        "floor": 0.0
+    },
+    "zth-traits-test": {
+        "floor": 0.01
+    },
+    "hood-founder": {
+        "floor": 7.98e-06
+    },
+    "fliplab4": {
+        "floor": 0.0
+    },
+    "andreesens": {
+        "floor": 0.0
+    },
+    "hoodmns": {
+        "floor": 0.01
     }
 }
