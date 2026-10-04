@@ -56086,13 +56086,13 @@
         "floor": 0.04
     },
     "brodies-687552615": {
-        "floor": 0.0
+        "floor": 0.03
     },
     "robinlings": {
         "floor": 0.0
     },
     "fomies-768323293": {
-        "floor": 0.98
+        "floor": 0.09
     },
     "clapcat2": {
         "floor": 0.0
@@ -56104,7 +56104,7 @@
         "floor": 0.11
     },
     "synk-gen": {
-        "floor": 0.0
+        "floor": 9.882e-05
     },
     "kufu-master": {
         "floor": 0.003
@@ -56146,7 +56146,7 @@
         "floor": 0.5
     },
     "blacktide-bounty-chests": {
-        "floor": 3.99e-05
+        "floor": 3e-05
     },
     "sortes-14950059": {
         "floor": 0.0
@@ -56234,5 +56234,83 @@
     },
     "muse-demons-861181261": {
         "floor": 10.0
+    },
+    "wildhood-exclusive-pass": {
+        "floor": 0.0
+    },
+    "hollowfall-kin-tiers": {
+        "floor": 0.0
+    },
+    "zth-academy-129055446": {
+        "floor": 10.0
+    },
+    "pepes-earn-imd": {
+        "floor": 0.0
+    },
+    "project-sphere": {
+        "floor": 0.02
+    },
+    "monsterra-482963127": {
+        "floor": 2.999e-05
+    },
+    "0x8cc2c66c5935339a3857f67a328e0b1de8607d45": {
+        "floor": 0.0
+    },
+    "unihunt-": {
+        "floor": 0.0
+    },
+    "monsterwheels-racing": {
+        "floor": 0.0
+    },
+    "xcash-440200722": {
+        "floor": 0.0
+    },
+    "archaus-items-635766323": {
+        "floor": 0.0
+    },
+    "giftlings": {
+        "floor": 0.0
+    },
+    "fcfs-test-04": {
+        "floor": 10.0
+    },
+    "coperate-brokers": {
+        "floor": 0.0002
+    },
+    "ccc3-741540144": {
+        "floor": 0.0
+    },
+    "king-nft-663925959": {
+        "floor": 0.0
+    },
+    "yield-fields-seeds": {
+        "floor": 0.0223
+    },
+    "trenchersio": {
+        "floor": 0.0
+    },
+    "kaito-loots": {
+        "floor": 0.0
+    },
+    "cunning-fox": {
+        "floor": 0.0
+    },
+    "labs-quantum-eyes": {
+        "floor": 0.0
+    },
+    "hood-agents-509450696": {
+        "floor": 0.0
+    },
+    "blox-cards": {
+        "floor": 126.0
+    },
+    "blokyz-on-rh": {
+        "floor": 9.999e-05
+    },
+    "aaaah-": {
+        "floor": 0.000146
+    },
+    "zipzzap": {
+        "floor": 0.0
     }
 }
