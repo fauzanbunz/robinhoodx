@@ -55567,13 +55567,13 @@
         "floor": 0.0
     },
     "moskin-182135196": {
-        "floor": 0.0
+        "floor": 7.999e-05
     },
     "ffcc00": {
         "floor": 0.0
     },
     "pixel-cats-on-drugs": {
-        "floor": 0.0
+        "floor": 0.010799999996
     },
     "00ffcc": {
         "floor": 0.0
@@ -55667,5 +55667,122 @@
     },
     "hoodmns": {
         "floor": 0.01
+    },
+    "unknown-ugly-pixel": {
+        "floor": 0.0
+    },
+    "stock-pocks": {
+        "floor": 9.99
+    },
+    "just-crocing": {
+        "floor": 0.0
+    },
+    "bunnywtf": {
+        "floor": 0.0
+    },
+    "max-pain-and-frens-rh": {
+        "floor": 0.07499997
+    },
+    "ukyrnbt": {
+        "floor": 0.0
+    },
+    "block_lab-30978376": {
+        "floor": 1.56
+    },
+    "otto-hood": {
+        "floor": 9.98
+    },
+    "mineduck-404383804": {
+        "floor": 0.0
+    },
+    "abushalab": {
+        "floor": 4.61e-05
+    },
+    "mineduck-256864075": {
+        "floor": 0.0
+    },
+    "hero-child": {
+        "floor": 0.0
+    },
+    "we-will-cope": {
+        "floor": 0.0
+    },
+    "mouse-912590719": {
+        "floor": 0.0
+    },
+    "cuda-bums-704395090": {
+        "floor": 0.01
+    },
+    "market-pass-950804048": {
+        "floor": 0.0
+    },
+    "hash-birds": {
+        "floor": 0.00020999
+    },
+    "dotts-hod": {
+        "floor": 0.0
+    },
+    "the-outlaw-armory": {
+        "floor": 0.0
+    },
+    "smart-intelligence": {
+        "floor": 0.0
+    },
+    "pixel-parade-943267781": {
+        "floor": 0.0
+    },
+    "radtest-2": {
+        "floor": 0.0
+    },
+    "0x1a305dcca962a2548d7de2ea2e027ea8d5204560": {
+        "floor": 0.0
+    },
+    "hoodstation": {
+        "floor": 0.0
+    },
+    "bit-bots": {
+        "floor": 0.07
+    },
+    "mine-punks": {
+        "floor": 0.0
+    },
+    "test-items-581031173": {
+        "floor": 0.0
+    },
+    "0x772ce026be79c9f09978031a5d972844a40cabbd": {
+        "floor": 0.0
+    },
+    "kozo-91591043": {
+        "floor": 0.0
+    },
+    "retro-heroes1": {
+        "floor": 0.86
+    },
+    "hasan-225410933": {
+        "floor": 0.0
+    },
+    "claudiapfp": {
+        "floor": 0.0001
+    },
+    "zoko-705416930": {
+        "floor": 0.0
+    },
+    "fcfs-test-01": {
+        "floor": 0.0
+    },
+    "ltd-mints": {
+        "floor": 0.0
+    },
+    "after-hours-loot-49228014": {
+        "floor": 0.0
+    },
+    "ffcc00-365522377": {
+        "floor": 0.0
+    },
+    "ff00cc": {
+        "floor": 0.0
+    },
+    "blokhaus": {
+        "floor": 0.0014997
     }
 }
