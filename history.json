@@ -56245,13 +56245,13 @@
         "floor": 10.0
     },
     "pepes-earn-imd": {
-        "floor": 0.0
+        "floor": 60.0
     },
     "project-sphere": {
-        "floor": 0.02
+        "floor": 0.01
     },
     "monsterra-482963127": {
-        "floor": 2.999e-05
+        "floor": 2.948e-05
     },
     "0x8cc2c66c5935339a3857f67a328e0b1de8607d45": {
         "floor": 0.0
@@ -56284,7 +56284,7 @@
         "floor": 0.0
     },
     "yield-fields-seeds": {
-        "floor": 0.0223
+        "floor": 0.0249
     },
     "trenchersio": {
         "floor": 0.0
@@ -56312,5 +56312,74 @@
     },
     "zipzzap": {
         "floor": 0.0
+    },
+    "0x86c8587624b76e90d9beae12e133a0ec943254b2": {
+        "floor": 0.0
+    },
+    "popt-v2-spy-lp-on-spy-usdg-30bps": {
+        "floor": 0.0
+    },
+    "ov-534378153": {
+        "floor": 10.0
+    },
+    "sherwood-expeditions-gear-and-pets-926164329": {
+        "floor": 0.0
+    },
+    "project-mars-23414744": {
+        "floor": 0.0
+    },
+    "non-bond-150852731": {
+        "floor": 0.0
+    },
+    "0xb5f81908d652332850dffccd898d7e0e0d70467f": {
+        "floor": 0.0
+    },
+    "0xd93c252aab9b506d29e233ee44b4a323cee4fffe": {
+        "floor": 0.0
+    },
+    "0x31a5951213525f7b098cfd94ca13c9ff707d6add": {
+        "floor": 0.0
+    },
+    "2v2v2v2": {
+        "floor": 0.0
+    },
+    "the-damned-reborn-601248115": {
+        "floor": 0.48
+    },
+    "pebble-trial": {
+        "floor": 0.0
+    },
+    "sherwood-expeditions-gear-and-pets": {
+        "floor": 0.0
+    },
+    "sherwood-expeditions-heroes": {
+        "floor": 0.0
+    },
+    "muse-402329247": {
+        "floor": 0.0
+    },
+    "fc0fc0": {
+        "floor": 0.00022
+    },
+    "vaultopia-strategy-297101572": {
+        "floor": 0.0
+    },
+    "yield-fields-seeds-nft": {
+        "floor": 0.00199
+    },
+    "non-bond": {
+        "floor": 0.0
+    },
+    "beauty-of-the-nature-462801912": {
+        "floor": 0.0
+    },
+    "beauty-of-the-nature-677449534": {
+        "floor": 0.0
+    },
+    "dippies-hood": {
+        "floor": 0.16
+    },
+    "stupid-736546024": {
+        "floor": 0.15
     }
 }
