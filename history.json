@@ -57133,16 +57133,16 @@
         "floor": 0.0
     },
     "concordian-brokers": {
-        "floor": 0.0
+        "floor": 3.0
     },
     "juicehedz-999860012": {
         "floor": 0.025
     },
     "voxel-infinity-": {
-        "floor": 0.0
+        "floor": 6.524892e-05
     },
     "cube-head-23678876": {
-        "floor": 0.0
+        "floor": 0.0002
     },
     "monkey-502369786": {
         "floor": 0.00019997
@@ -57151,16 +57151,16 @@
         "floor": 0.0
     },
     "lock-cube": {
-        "floor": 0.0
+        "floor": 0.19
     },
     "yield-fields-453527657": {
         "floor": 0.01
     },
     "bishop-p": {
-        "floor": 0.0
+        "floor": 0.0002
     },
     "robinhood-military-rm": {
-        "floor": 0.0
+        "floor": 0.5
     },
     "monke-lord-484029566": {
         "floor": 0.00039999
@@ -57169,7 +57169,7 @@
         "floor": 0.0
     },
     "the-bufos-476061203": {
-        "floor": 5.95e-05
+        "floor": 4.9005e-05
     },
     "laced-apes": {
         "floor": 1.9
@@ -57281,5 +57281,122 @@
     },
     "ordinals-on-hood": {
         "floor": 8e-06
+    },
+    "terminal-near": {
+        "floor": 0.0
+    },
+    "0x564b875d27fa7fcee0e74cba625dd3cf584fbdea": {
+        "floor": 0.0
+    },
+    "wolves-of-thewalstreet": {
+        "floor": 0.0034
+    },
+    "breezeee": {
+        "floor": 0.0
+    },
+    "ccff00-spheres-310032974": {
+        "floor": 0.0
+    },
+    "0xccde91b12c9dbab5ab26f0ec9bc04ad47a0e313a": {
+        "floor": 0.0
+    },
+    "harbor-guild-7270": {
+        "floor": 0.0
+    },
+    "drop-test-720077195": {
+        "floor": 0.0
+    },
+    "drop-test-219969026": {
+        "floor": 0.0
+    },
+    "zoko-142737506": {
+        "floor": 0.0
+    },
+    "kozo-461140070": {
+        "floor": 0.0
+    },
+    "0x8035d69c0639fe1905668c0130f8d37bc64a8be6": {
+        "floor": 0.0
+    },
+    "0x7ad675ad92aea61da2ea55b91c62eb38b2140d05": {
+        "floor": 0.0
+    },
+    "plik": {
+        "floor": 9.97
+    },
+    "ascii-dog-606196575": {
+        "floor": 1.52
+    },
+    "last-light-607961766": {
+        "floor": 0.0
+    },
+    "0x9c929533fbad061d0514793c696eedffb11a3fc9": {
+        "floor": 0.0
+    },
+    "stingvestors-493443170": {
+        "floor": 0.0
+    },
+    "stingvestors": {
+        "floor": 0.0
+    },
+    "ultronics": {
+        "floor": 0.0
+    },
+    "hive-desks-996353202": {
+        "floor": 0.0
+    },
+    "hive-desks-100198464": {
+        "floor": 0.0
+    },
+    "peat-pavilion-4554": {
+        "floor": 0.0
+    },
+    "circleapes": {
+        "floor": 0.001042
+    },
+    "noir-brokers-machines": {
+        "floor": 0.0
+    },
+    "knock-you-have-a-message": {
+        "floor": 0.0
+    },
+    "b-frog": {
+        "floor": 0.0
+    },
+    "tickerfolk-": {
+        "floor": 0.17
+    },
+    "0xcdc87d42df72f4b241e2ba962a41d95f90827fdd": {
+        "floor": 0.1
+    },
+    "holder-loop-pieces": {
+        "floor": 0.0
+    },
+    "overclock-city": {
+        "floor": 5.589e-05
+    },
+    "test-tide": {
+        "floor": 0.0
+    },
+    "brain-work-906628163": {
+        "floor": 0.54
+    },
+    "0x9e5c64bb2e2bdbbab57f5316c7713da988739c9b": {
+        "floor": 0.0
+    },
+    "addicted-725574150": {
+        "floor": 0.2
+    },
+    "zama-hood": {
+        "floor": 0.02
+    },
+    "sherwood-chibis": {
+        "floor": 0.015
+    },
+    "pulse-cities-145712243": {
+        "floor": 0.13
+    },
+    "kokomoji-": {
+        "floor": 0.13
     }
 }
