@@ -57706,10 +57706,10 @@
         "floor": 0.0
     },
     "gorilla-paws-mine": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "rhub": {
-        "floor": 0.17
+        "floor": 2e-05
     },
     "bro-695865980": {
         "floor": 0.0
@@ -57727,7 +57727,7 @@
         "floor": 0.0
     },
     "proof-of-blood": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "the-hidden-legend": {
         "floor": 2e-05
@@ -57845,5 +57845,131 @@
     },
     "stoxa-sbt": {
         "floor": 0.0
+    },
+    "jean-phil-special-nft-editions": {
+        "floor": 0.0
+    },
+    "0x9e64d26d2ca45d1a3342eca50686ac59c1ed454d": {
+        "floor": 0.0
+    },
+    "0x7ae82c023d947b9c7ed4badb073dfcbf327282d2": {
+        "floor": 0.0
+    },
+    "heroes-of-valdir-nft": {
+        "floor": 0.001
+    },
+    "0x73ec42ff10b24fa94ebcd0737ee31faa7952a0da": {
+        "floor": 0.0
+    },
+    "prtscnhood": {
+        "floor": 10.0
+    },
+    "robinhoodmuse": {
+        "floor": 0.0
+    },
+    "claus-on-the-hood": {
+        "floor": 0.0
+    },
+    "brbr-857351435": {
+        "floor": 0.0
+    },
+    "robinguardians": {
+        "floor": 0.0
+    },
+    "mfersgif-917370910": {
+        "floor": 0.12
+    },
+    "noahai-660865294": {
+        "floor": 0.79
+    },
+    "hollows-nft-491714637": {
+        "floor": 0.1
+    },
+    "roblynz": {
+        "floor": 0.01
+    },
+    "seiyans-459915756": {
+        "floor": 0.01
+    },
+    "heartwood-tree": {
+        "floor": 0.0
+    },
+    "robin-forest": {
+        "floor": 1.95
+    },
+    "zoko-643346995": {
+        "floor": 0.0
+    },
+    "zoko-949608092": {
+        "floor": 0.0
+    },
+    "workers-420474834": {
+        "floor": 0.0
+    },
+    "axo-cards": {
+        "floor": 0.0
+    },
+    "0xe0c11daa5f8874d0dc9ac5b8eb7aaf10a00e4aba": {
+        "floor": 9.99
+    },
+    "artificial-cat-inu-sbt": {
+        "floor": 0.0
+    },
+    "yield-fields-seeds-pack": {
+        "floor": 0.0
+    },
+    "visions-of-lambro": {
+        "floor": 0.0
+    },
+    "quill-genesis": {
+        "floor": 0.18
+    },
+    "kenzo-jian-san-252250667": {
+        "floor": 0.0
+    },
+    "unihunt-963267687": {
+        "floor": 0.0
+    },
+    "spark-wizards-560723123": {
+        "floor": 0.0
+    },
+    "zero-to-hero-academy-traits": {
+        "floor": 0.0
+    },
+    "zero-to-hero-academy": {
+        "floor": 0.0
+    },
+    "gloom-waifus": {
+        "floor": 0.000198
+    },
+    "123456786543": {
+        "floor": 1.2
+    },
+    "spark-wizards-828185825": {
+        "floor": 0.0
+    },
+    "seeker-net-test": {
+        "floor": 10.0
+    },
+    "kenzo-jian-san": {
+        "floor": 0.0
+    },
+    "wild-catz": {
+        "floor": 9.9859e-05
+    },
+    "0xba871ce77b250e5844fa11eb06b0ddf40fb534ba": {
+        "floor": 0.0
+    },
+    "catz-hood": {
+        "floor": 9.98e-06
+    },
+    "under-cover": {
+        "floor": 1.0
+    },
+    "central-processing-unit-cpu": {
+        "floor": 0.55
+    },
+    "xeno-cradle-430913623": {
+        "floor": 1.95
     }
 }
