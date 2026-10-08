@@ -57862,7 +57862,7 @@
         "floor": 0.0
     },
     "prtscnhood": {
-        "floor": 10.0
+        "floor": 9.99
     },
     "robinhoodmuse": {
         "floor": 0.0
@@ -57971,5 +57971,131 @@
     },
     "xeno-cradle-430913623": {
         "floor": 1.95
+    },
+    "market-ghosts": {
+        "floor": 0.0
+    },
+    "stonk-robbers": {
+        "floor": 0.0
+    },
+    "tipsy-parrots": {
+        "floor": 0.0
+    },
+    "0x97b46a0d07f78341a5fb453dde8260cb0982447a": {
+        "floor": 0.0
+    },
+    "degens-casino-760821570": {
+        "floor": 0.0
+    },
+    "bankr-punks-937194777": {
+        "floor": 0.0
+    },
+    "blacktide-stormbound-fleet": {
+        "floor": 0.0
+    },
+    "spam-test-two-410882018": {
+        "floor": 0.0
+    },
+    "stoxa": {
+        "floor": 0.25
+    },
+    "0x1651ab7ccbea3d2cbc35cea48f6ac2dbe4ae7bde": {
+        "floor": 0.0
+    },
+    "pixel-chibi-crew": {
+        "floor": 0.0
+    },
+    "rh-ethernals": {
+        "floor": 9.995e-05
+    },
+    "pixel-chibi-crewd": {
+        "floor": 0.0
+    },
+    "jadebound-779139500": {
+        "floor": 0.19
+    },
+    "777-mutated-cats": {
+        "floor": 0.0003
+    },
+    "hoodpals-bunny": {
+        "floor": 0.0
+    },
+    "ink-tide": {
+        "floor": 0.0
+    },
+    "crypto-floor-traders": {
+        "floor": 0.0
+    },
+    "peepee-188852132": {
+        "floor": 0.0
+    },
+    "rhdoges": {
+        "floor": 0.0
+    },
+    "authorized-avatars-for-aasa-857308628": {
+        "floor": 0.0
+    },
+    "authorized-avatars-for-aasa-205793508": {
+        "floor": 0.0
+    },
+    "authorized-avatars-for-aasa": {
+        "floor": 0.0
+    },
+    "nftzworld-bonkit": {
+        "floor": 0.0
+    },
+    "crypto-bankrs": {
+        "floor": 0.0
+    },
+    "gokickrocks": {
+        "floor": 0.0
+    },
+    "wasteland-relic-2": {
+        "floor": 10.0
+    },
+    "hood-8liens-v2": {
+        "floor": 0.0
+    },
+    "htownnft": {
+        "floor": 0.08
+    },
+    "jcnxxwc": {
+        "floor": 0.0
+    },
+    "hood-8liens": {
+        "floor": 0.0
+    },
+    "subsquibtions": {
+        "floor": 0.0
+    },
+    "bankr-og-bots": {
+        "floor": 0.0
+    },
+    "imdworkers": {
+        "floor": 2.7
+    },
+    "hood-turtles": {
+        "floor": 5.3
+    },
+    "the-rebelkin-rh": {
+        "floor": 0.052
+    },
+    "odd-dreams-594538836": {
+        "floor": 0.0
+    },
+    "b-frog-855941942": {
+        "floor": 0.0
+    },
+    "test-potato-313597792": {
+        "floor": 0.0
+    },
+    "phoenix-wizards": {
+        "floor": 25000.0
+    },
+    "nami-cl-positions-319908163": {
+        "floor": 0.0
+    },
+    "0xd4f61d8477e3288a1e83a17bc97e1e004273fb7f": {
+        "floor": 0.0
     }
 }
