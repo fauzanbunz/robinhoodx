@@ -59446,10 +59446,10 @@
         "floor": 0.067
     },
     "dancing-bear": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "oasis-dragons": {
-        "floor": 0.00029999
+        "floor": 2.0
     },
     "pfc-championship-belts-462921520": {
         "floor": 0.0
@@ -59464,13 +59464,13 @@
         "floor": 0.0
     },
     "beastside": {
-        "floor": 0.0
+        "floor": 0.02
     },
     "greekgods-448914035": {
         "floor": 0.0
     },
     "the-rubens-908851542": {
-        "floor": 0.2
+        "floor": 0.09
     },
     "gulpy-evolution-cards": {
         "floor": 0.0
@@ -59579,5 +59579,101 @@
     },
     "claymo-401534487": {
         "floor": 0.03
+    },
+    "paper-752060412": {
+        "floor": 0.0
+    },
+    "0x62d156af2efa76ef5b9a529b9f55d05da615d49b": {
+        "floor": 0.0
+    },
+    "cinemoons": {
+        "floor": 0.0
+    },
+    "furrbit-525479624": {
+        "floor": 0.0
+    },
+    "pact-proof": {
+        "floor": 0.0
+    },
+    "prickly-prospectors": {
+        "floor": 0.0
+    },
+    "tide-stream-ticket": {
+        "floor": 0.0
+    },
+    "hammer-bond-certificate": {
+        "floor": 0.0
+    },
+    "usd-853723967": {
+        "floor": 0.04
+    },
+    "vyra-475394423": {
+        "floor": 0.0
+    },
+    "vyra-424535027": {
+        "floor": 0.0
+    },
+    "stash-421457551": {
+        "floor": 5.18019e-05
+    },
+    "megaa-909000868": {
+        "floor": 0.0
+    },
+    "paws-534711649": {
+        "floor": 1.998e-05
+    },
+    "souls-club-681443896": {
+        "floor": 1.59294e-05
+    },
+    "vyra-939000462": {
+        "floor": 0.0
+    },
+    "sullenteen-townies": {
+        "floor": 0.0
+    },
+    "abstrakt-abstrakt": {
+        "floor": 0.0
+    },
+    "after-market-club": {
+        "floor": 0.0
+    },
+    "vyra-401158563": {
+        "floor": 0.0
+    },
+    "0xa5f6dbf9670f719ddf341a222f7caddf4ca32b24": {
+        "floor": 0.0
+    },
+    "mad-crystal": {
+        "floor": 0.04
+    },
+    "sheeps-undead": {
+        "floor": 0.11
+    },
+    "apex-guardians": {
+        "floor": 0.2
+    },
+    "street-hood-piggy-gang-95735734": {
+        "floor": 0.0
+    },
+    "street-hood-piggy-gang": {
+        "floor": 0.0
+    },
+    "0xc6bb7720a39b071957b6582e6b9b83dd109cd6cc-971238939": {
+        "floor": 0.0
+    },
+    "zam-ninjas": {
+        "floor": 0.08
+    },
+    "petix-expeditions": {
+        "floor": 0.0
+    },
+    "0xc544c139fb7594ad0dc04d9c70dede773421bbbb": {
+        "floor": 0.0
+    },
+    "tryblobsi": {
+        "floor": 0.012
+    },
+    "voyager-the-last-message": {
+        "floor": 0.0
     }
 }
