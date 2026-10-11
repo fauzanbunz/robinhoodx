@@ -59605,7 +59605,7 @@
         "floor": 0.0
     },
     "usd-853723967": {
-        "floor": 0.04
+        "floor": 9.9987e-06
     },
     "vyra-475394423": {
         "floor": 0.0
@@ -59614,16 +59614,16 @@
         "floor": 0.0
     },
     "stash-421457551": {
-        "floor": 5.18019e-05
+        "floor": 1.99487e-05
     },
     "megaa-909000868": {
         "floor": 0.0
     },
     "paws-534711649": {
-        "floor": 1.998e-05
+        "floor": 1.996e-05
     },
     "souls-club-681443896": {
-        "floor": 1.59294e-05
+        "floor": 1.59194e-05
     },
     "vyra-939000462": {
         "floor": 0.0
@@ -59647,7 +59647,7 @@
         "floor": 0.04
     },
     "sheeps-undead": {
-        "floor": 0.11
+        "floor": 0.1
     },
     "apex-guardians": {
         "floor": 0.2
@@ -59674,6 +59674,72 @@
         "floor": 0.012
     },
     "voyager-the-last-message": {
+        "floor": 0.0
+    },
+    "offbody-492638696": {
+        "floor": 9.97
+    },
+    "quest-key": {
+        "floor": 10.0
+    },
+    "meltcore": {
+        "floor": 0.0
+    },
+    "xreign-439225412": {
+        "floor": 10.0
+    },
+    "embervale-535413331": {
+        "floor": 9.93
+    },
+    "raceone": {
+        "floor": 0.0
+    },
+    "billy-debilly": {
+        "floor": 0.0
+    },
+    "os-bot-race": {
+        "floor": 0.0
+    },
+    "future-omarchy-by-virtuals": {
+        "floor": 0.0
+    },
+    "orbit-atlas": {
+        "floor": 0.0
+    },
+    "green-arrow-258487443": {
+        "floor": 0.002
+    },
+    "goodies-997235310": {
+        "floor": 0.000187057618467312
+    },
+    "axo-pack-cards-cosmic-330242281": {
+        "floor": 0.0
+    },
+    "axo-pack-cards-cosmic": {
+        "floor": 0.0
+    },
+    "vyra-26937585": {
+        "floor": 0.0
+    },
+    "hoojafun": {
+        "floor": 0.13
+    },
+    "vyra-275587207": {
+        "floor": 0.0
+    },
+    "calcium-cult": {
+        "floor": 0.01
+    },
+    "jelly-krazers": {
+        "floor": 0.0005
+    },
+    "vyra-254361416": {
+        "floor": 0.0
+    },
+    "0x8b2ea6c660eb50d340e726b41525418997ac9d58": {
+        "floor": 0.0
+    },
+    "trench-chimps": {
         "floor": 0.0
     }
 }
