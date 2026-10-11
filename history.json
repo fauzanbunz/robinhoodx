@@ -59677,10 +59677,10 @@
         "floor": 0.0
     },
     "offbody-492638696": {
-        "floor": 9.97
+        "floor": 9.95
     },
     "quest-key": {
-        "floor": 10.0
+        "floor": 9.95
     },
     "meltcore": {
         "floor": 0.0
@@ -59707,10 +59707,10 @@
         "floor": 0.0
     },
     "green-arrow-258487443": {
-        "floor": 0.002
+        "floor": 0.001
     },
     "goodies-997235310": {
-        "floor": 0.000187057618467312
+        "floor": 0.000176111034581191
     },
     "axo-pack-cards-cosmic-330242281": {
         "floor": 0.0
@@ -59740,6 +59740,114 @@
         "floor": 0.0
     },
     "trench-chimps": {
+        "floor": 0.0
+    },
+    "gpu-vault": {
+        "floor": 0.0
+    },
+    "workbench-free-mint-test-739383498": {
+        "floor": 0.0
+    },
+    "robin-frens-988035744": {
+        "floor": 0.0
+    },
+    "egi18-weekly-drops": {
+        "floor": 0.0
+    },
+    "cat-gpu-sbt": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-407031041": {
+        "floor": 0.0
+    },
+    "pixel-agents-780676695": {
+        "floor": 0.97
+    },
+    "ice-cold-cruggys": {
+        "floor": 0.0
+    },
+    "pixel-duckies-393208690": {
+        "floor": 0.0
+    },
+    "pixel-agents-180543983": {
+        "floor": 0.69
+    },
+    "minehood-521732134": {
+        "floor": 0.0
+    },
+    "cruggy-test-run-2": {
+        "floor": 0.0
+    },
+    "embervale-911721318": {
+        "floor": 0.0
+    },
+    "mining-brokers": {
+        "floor": 0.0
+    },
+    "knrcfjq": {
+        "floor": 0.0
+    },
+    "clay-snacks": {
+        "floor": 0.0033
+    },
+    "0x1f0a2fb44342c3dc43e7461e820c6d025b1f17ef": {
+        "floor": 0.0
+    },
+    "axo-pack-cards-v8": {
+        "floor": 0.0
+    },
+    "portable-rock": {
+        "floor": 0.0
+    },
+    "os-rh": {
+        "floor": 0.0
+    },
+    "pixian-relics": {
+        "floor": 0.0
+    },
+    "chromaform": {
+        "floor": 0.01
+    },
+    "ponfoot-621791366": {
+        "floor": 0.3
+    },
+    "lil-street-minis": {
+        "floor": 0.000149
+    },
+    "0x30b1c32bc3276d7c624d42718ead98aae4397c53": {
+        "floor": 0.0
+    },
+    "moohype-brokers": {
+        "floor": 0.0002
+    },
+    "0xf007efcf3da1ff06372370beed032087248fa8b2": {
+        "floor": 0.0
+    },
+    "trackside-518731402": {
+        "floor": 9.95
+    },
+    "stash-apes-777489821": {
+        "floor": 0.06
+    },
+    "paws-653924139": {
+        "floor": 10.0
+    },
+    "0xb7089275ee1fea687a0a98dc0744e791b1309397": {
+        "floor": 0.0
+    },
+    "voting-escrow-nami-928086428": {
+        "floor": 0.0
+    },
+    "kings-piece": {
+        "floor": 0.011
+    },
+    "monkeylegionhq": {
+        "floor": 0.0
+    },
+    "theirspace-identity-483709535": {
+        "floor": 0.0
+    },
+    "ripped-one-vault": {
         "floor": 0.0
     }
 }
