@@ -60844,7 +60844,7 @@
         "floor": 0.0
     },
     "hood-rocks-": {
-        "floor": 0.0
+        "floor": 9.996e-05
     },
     "seeker-net_nfts": {
         "floor": 0.98
@@ -61175,5 +61175,152 @@
     },
     "overdub-tracks": {
         "floor": 0.0
+    },
+    "rwa-id-636853180": {
+        "floor": 0.0
+    },
+    "computer-681721235": {
+        "floor": 0.0
+    },
+    "suit-girl": {
+        "floor": 0.29
+    },
+    "0xab553c254ce5f02ab3746666a66010420bcbd56c": {
+        "floor": 0.025
+    },
+    "degenscape-legends": {
+        "floor": 0.0
+    },
+    "wordl-game": {
+        "floor": 0.0
+    },
+    "legends-492053732": {
+        "floor": 0.0
+    },
+    "lives-532332638": {
+        "floor": 0.0
+    },
+    "minds-dot-games": {
+        "floor": 0.0
+    },
+    "skull-punks-749403180": {
+        "floor": 0.0
+    },
+    "ascii-dogs-873451142": {
+        "floor": 0.0
+    },
+    "0x358c825e6c889b1d56251a70c1ad39f6591ec6e4": {
+        "floor": 0.0
+    },
+    "robin-kingdom-hero-571440032": {
+        "floor": 0.0
+    },
+    "jelly-gum": {
+        "floor": 0.01
+    },
+    "yield-acres-miner-993326413": {
+        "floor": 0.0
+    },
+    "wordl": {
+        "floor": 0.0
+    },
+    "cyberthrone-genesis-262101084": {
+        "floor": 0.2
+    },
+    "yield-field-deeds-legendary": {
+        "floor": 0.2
+    },
+    "hazels-603191924": {
+        "floor": 0.0
+    },
+    "yield-field-deeds-limited-edition-483389370": {
+        "floor": 0.1
+    },
+    "cutes-419963974": {
+        "floor": 0.05
+    },
+    "0x220a0b901bd3015ba8e366a686d749b402543075": {
+        "floor": 0.0
+    },
+    "we-rise-as-on3-955537743": {
+        "floor": 0.0
+    },
+    "we-rise-as-on3-853482655": {
+        "floor": 0.0
+    },
+    "tta-101848887": {
+        "floor": 5.97e-06
+    },
+    "battletoken-882045722": {
+        "floor": 10.0
+    },
+    "ikydesu-pfp": {
+        "floor": 0.0
+    },
+    "we-rise-as-on3": {
+        "floor": 0.0
+    },
+    "hoody-planet": {
+        "floor": 0.02
+    },
+    "zam-ninjas-518770956": {
+        "floor": 0.0
+    },
+    "we-rise-344311151": {
+        "floor": 0.0
+    },
+    "rwa-id-189364808": {
+        "floor": 0.0
+    },
+    "0x4c308403398215bae41e5907f705fa8a13ccbe06": {
+        "floor": 0.04
+    },
+    "kmhass": {
+        "floor": 0.0
+    },
+    "ginger-mafia": {
+        "floor": 0.04
+    },
+    "yield-fields-limited-edition-863139704": {
+        "floor": 0.0
+    },
+    "l2-warz": {
+        "floor": 0.0
+    },
+    "we-rise": {
+        "floor": 10.0
+    },
+    "immortal-domain": {
+        "floor": 0.0
+    },
+    "kmhaa": {
+        "floor": 0.0
+    },
+    "aragorn03": {
+        "floor": 0.0
+    },
+    "xyz0": {
+        "floor": 0.0
+    },
+    "hoodilas-40770192": {
+        "floor": 0.2
+    },
+    "hoodilas": {
+        "floor": 0.0
+    },
+    "blackout-district": {
+        "floor": 5.346e-05
+    },
+    "vaultlings": {
+        "floor": 0.0
+    },
+    "cyber-shinobi": {
+        "floor": 0.0
+    },
+    "malachite-offcuts": {
+        "floor": 0.0
+    },
+    "hoodape-902785419": {
+        "floor": 0.15
     }
 }
