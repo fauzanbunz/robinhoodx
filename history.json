@@ -61180,10 +61180,10 @@
         "floor": 0.0
     },
     "computer-681721235": {
-        "floor": 0.0
+        "floor": 0.05
     },
     "suit-girl": {
-        "floor": 0.29
+        "floor": 0.002
     },
     "0xab553c254ce5f02ab3746666a66010420bcbd56c": {
         "floor": 0.025
@@ -61192,7 +61192,7 @@
         "floor": 0.0
     },
     "wordl-game": {
-        "floor": 0.0
+        "floor": 0.00013
     },
     "legends-492053732": {
         "floor": 0.0
@@ -61204,7 +61204,7 @@
         "floor": 0.0
     },
     "skull-punks-749403180": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "ascii-dogs-873451142": {
         "floor": 0.0
@@ -61322,5 +61322,110 @@
     },
     "hoodape-902785419": {
         "floor": 0.15
+    },
+    "fries-664601108": {
+        "floor": 0.0
+    },
+    "legends-563741377": {
+        "floor": 0.0
+    },
+    "lives-670967357": {
+        "floor": 0.0
+    },
+    "monochrome-511304112": {
+        "floor": 0.04
+    },
+    "lives-269939579": {
+        "floor": 0.0
+    },
+    "dogepacks": {
+        "floor": 0.0
+    },
+    "robin-syndicate": {
+        "floor": 0.09
+    },
+    "-211148845": {
+        "floor": 0.0
+    },
+    "rektobear-nft": {
+        "floor": 0.00049999
+    },
+    "-762501673": {
+        "floor": 1.0
+    },
+    "zero-to-hero-academy-clubs": {
+        "floor": 3.99e-06
+    },
+    "ccff00-circle-rh": {
+        "floor": 0.00099999
+    },
+    "ronks-city-clubs": {
+        "floor": 10.0
+    },
+    "rhstarhood": {
+        "floor": 0.001
+    },
+    "tier-lab-2": {
+        "floor": 0.99
+    },
+    "tiny-birds-548189615": {
+        "floor": 0.0
+    },
+    "yield-field-deed-clubs": {
+        "floor": 9.99
+    },
+    "abstract-workers-nft-609737770": {
+        "floor": 1.99005e-05
+    },
+    "robinyield": {
+        "floor": 0.0
+    },
+    "robinb": {
+        "floor": 0.0
+    },
+    "vaultlingse": {
+        "floor": 0.0
+    },
+    "tst-748729490": {
+        "floor": 1.09
+    },
+    "grit-request-ticket": {
+        "floor": 0.0
+    },
+    "astrokidofficial": {
+        "floor": 0.0
+    },
+    "0xf080e84e264f0cefc2dc46df14d2b67db35de966": {
+        "floor": 0.001
+    },
+    "flamiverse": {
+        "floor": 0.01
+    },
+    "synchronized-mindz-genesis-the-original-88": {
+        "floor": 0.0
+    },
+    "zero-to-hero-academy-legendary": {
+        "floor": 0.025
+    },
+    "yanka-mo": {
+        "floor": 0.1
+    },
+    "turret-world": {
+        "floor": 0.0
+    },
+    "zero-to-hero-academy-limited-edition": {
+        "floor": 0.011
+    },
+    "tier-lab": {
+        "floor": 0.0
+    },
+    "cyber-relicsnft": {
+        "floor": 0.0
+    },
+    "ghosts-378": {
+        "floor": 0.0
+    },
+    "billionaire-child": {
+        "floor": 0.001
     }
 }
