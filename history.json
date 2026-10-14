@@ -61687,10 +61687,10 @@
         "floor": 0.0
     },
     "hoodomorph": {
-        "floor": 0.11
+        "floor": 0.01
     },
     "neomonroe": {
-        "floor": 9.99
+        "floor": 9.98
     },
     "notdoodles-122312104": {
         "floor": 0.0
@@ -61705,19 +61705,19 @@
         "floor": 0.0
     },
     "pixhooduin": {
-        "floor": 0.2
+        "floor": 0.16
     },
     "chain-soldiers": {
         "floor": 0.000122
     },
     "tickertapes-symbols": {
-        "floor": 4e-05
+        "floor": 6.965e-05
     },
     "demonics-638685096": {
         "floor": 0.0
     },
     "veil-confluence": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "nikki-mon": {
         "floor": 0.0
@@ -61732,10 +61732,10 @@
         "floor": 0.0
     },
     "mindgamesai-83119560": {
-        "floor": 1.997e-05
+        "floor": 4.129185703933e-06
     },
     "hood-meow-3": {
-        "floor": 0.0
+        "floor": 5e-05
     },
     "future-repoken": {
         "floor": 0.0
@@ -61747,7 +61747,7 @@
         "floor": 0.5
     },
     "the-odd-gentlemen": {
-        "floor": 0.0
+        "floor": 20.0
     },
     "blox-490274949": {
         "floor": 4.0788e-06
@@ -61765,7 +61765,7 @@
         "floor": 0.0
     },
     "trader-pc": {
-        "floor": 1.997e-05
+        "floor": 1.996e-05
     },
     "eerer-735577644": {
         "floor": 0.0
@@ -61829,5 +61829,71 @@
     },
     "robin-hoodblockz": {
         "floor": 0.01
+    },
+    "tide-glass-120286362": {
+        "floor": 0.0
+    },
+    "onlyhoodpixel": {
+        "floor": 0.03
+    },
+    "computersrh-326743182": {
+        "floor": 0.0
+    },
+    "rh-crocs": {
+        "floor": 0.0001
+    },
+    "dummies-world": {
+        "floor": 0.04
+    },
+    "aqarpun": {
+        "floor": 2.0
+    },
+    "hood-mouse-152725087": {
+        "floor": 0.0
+    },
+    "uniquedots-479976189": {
+        "floor": 1.0
+    },
+    "zkcodex-nft-97266388": {
+        "floor": 0.0
+    },
+    "tuff-wizards": {
+        "floor": 8.3e-05
+    },
+    "hood-mouse": {
+        "floor": 0.1
+    },
+    "after-hours-collective": {
+        "floor": 0.0
+    },
+    "0xb6bfd990f058bb57b78b9572a15cbf37f5e27fe8": {
+        "floor": 0.0
+    },
+    "smile-out": {
+        "floor": 0.1
+    },
+    "0xcf43fd5554d69feeb98d7a981270f713f7bebc8b": {
+        "floor": 0.31
+    },
+    "the-last-smile-601295110": {
+        "floor": 0.0
+    },
+    "testxeno": {
+        "floor": 0.0
+    },
+    "future-instabox-by-virtuals": {
+        "floor": 0.0
+    },
+    "roobin-hood-840973907": {
+        "floor": 0.01
+    },
+    "yakuzi-paws-357298748": {
+        "floor": 0.18
+    },
+    "one-survivor-cosmetics": {
+        "floor": 0.0
+    },
+    "yield-hood": {
+        "floor": 5e-05
     }
 }
