@@ -61834,16 +61834,16 @@
         "floor": 0.0
     },
     "onlyhoodpixel": {
-        "floor": 0.03
+        "floor": 0.04
     },
     "computersrh-326743182": {
         "floor": 0.0
     },
     "rh-crocs": {
-        "floor": 0.0001
+        "floor": 7.959e-05
     },
     "dummies-world": {
-        "floor": 0.04
+        "floor": 0.01
     },
     "aqarpun": {
         "floor": 2.0
@@ -61858,10 +61858,10 @@
         "floor": 0.0
     },
     "tuff-wizards": {
-        "floor": 8.3e-05
+        "floor": 0.99
     },
     "hood-mouse": {
-        "floor": 0.1
+        "floor": 0.08
     },
     "after-hours-collective": {
         "floor": 0.0
@@ -61895,5 +61895,107 @@
     },
     "yield-hood": {
         "floor": 5e-05
+    },
+    "quantums-87": {
+        "floor": 0.0
+    },
+    "block_lab-rh": {
+        "floor": 0.19
+    },
+    "w-i-p-e-z": {
+        "floor": 0.04
+    },
+    "ignis-elite-phase-rh": {
+        "floor": 10.0
+    },
+    "mr-penguins-24934752": {
+        "floor": 0.0005
+    },
+    "moodpig": {
+        "floor": 0.0
+    },
+    "moonpig-894880749": {
+        "floor": 0.0
+    },
+    "deeds-yield-field": {
+        "floor": 9.99
+    },
+    "wifoutlaw-nft": {
+        "floor": 0.002
+    },
+    "the-ape_society": {
+        "floor": 0.09
+    },
+    "hoodblock-nft-106456027": {
+        "floor": 1.65173e-05
+    },
+    "333matter": {
+        "floor": 0.0
+    },
+    "bloo-family-107951546": {
+        "floor": 10.0
+    },
+    "ascii-punks-rh": {
+        "floor": 0.0
+    },
+    "goat-gang-rh-512584925": {
+        "floor": 1.65004e-05
+    },
+    "vault-street-966350265": {
+        "floor": 14.88
+    },
+    "shinnobi-catz": {
+        "floor": 0.0
+    },
+    "0xdca5d35f1984f1b5aede385c060b6a5340940147": {
+        "floor": 10.0
+    },
+    "yield-fields-848633920": {
+        "floor": 0.001
+    },
+    "0x938e5df52ccfe95ecb68468b3da4cd91f303a7e5": {
+        "floor": 0.0
+    },
+    "0x47a03fa045b1cec100179507946087cfd4a98ca8": {
+        "floor": 0.0
+    },
+    "rhmachines-hood": {
+        "floor": 0.09
+    },
+    "bored-traders-467176600": {
+        "floor": 0.01
+    },
+    "rh-machinenft": {
+        "floor": 8.2449e-06
+    },
+    "rektobear-rh": {
+        "floor": 0.01
+    },
+    "hood-survivors-nft-755648098": {
+        "floor": 0.00099999
+    },
+    "sifi-agent": {
+        "floor": 0.01
+    },
+    "dlmm-token-267363687": {
+        "floor": 0.0
+    },
+    "dlmm-token-852681167": {
+        "floor": 0.0
+    },
+    "dlmm-token-154903095": {
+        "floor": 0.0
+    },
+    "dlmm-token-278175628": {
+        "floor": 0.0
+    },
+    "dlmm-token-930664093": {
+        "floor": 0.0
+    },
+    "0x3f28c216b1800694ee54ecd94d32011a35dc47c9": {
+        "floor": 0.0
+    },
+    "computersrh-nft": {
+        "floor": 0.0
     }
 }
