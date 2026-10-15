@@ -62296,13 +62296,13 @@
         "floor": 0.0
     },
     "chickens-hood": {
-        "floor": 0.001
+        "floor": 0.00099999
     },
     "chickens-rh-850694685": {
-        "floor": 0.001
+        "floor": 0.00019896
     },
     "mfers-club-516142878": {
-        "floor": 0.00019995
+        "floor": 0.00019992
     },
     "imd-retro-wall-note-714563320": {
         "floor": 0.0
@@ -62311,7 +62311,7 @@
         "floor": 0.0
     },
     "angels-premium-edition": {
-        "floor": 0.0005
+        "floor": 0.000396
     },
     "future-dolaagent-by-virtuals": {
         "floor": 0.0
@@ -62332,7 +62332,7 @@
         "floor": 0.0
     },
     "mythics-nft-40144731": {
-        "floor": 0.18
+        "floor": 0.17
     },
     "silly-774656950": {
         "floor": 0.0
@@ -62444,5 +62444,116 @@
     },
     "nocturnal-by-derech-rh-557158607": {
         "floor": 2.04966e-05
+    },
+    "0xaf15311c14ce94d232fb7664d89a5dcac946e6d2": {
+        "floor": 0.0
+    },
+    "0x28e50632e69ca22d534efdf2da42a1f2bb2a0feb": {
+        "floor": 0.19
+    },
+    "scarecrow-448109478": {
+        "floor": 0.0
+    },
+    "makakitos": {
+        "floor": 0.0
+    },
+    "tortoise-rh-303792327": {
+        "floor": 0.9
+    },
+    "tortoise-rh": {
+        "floor": 0.0
+    },
+    "0xb1036e170650dfb3e819d4d07562aa51f1eb0133": {
+        "floor": 0.0
+    },
+    "derek-mercer-gang": {
+        "floor": 0.0
+    },
+    "0x83e6f85d396f316f1de9b127d363e3699e73cbd1": {
+        "floor": 0.01
+    },
+    "black-card-holders": {
+        "floor": 0.02
+    },
+    "robincat-930809472": {
+        "floor": 0.0
+    },
+    "the-realm-of-ravenguard-land": {
+        "floor": 0.0
+    },
+    "cyberequity-the-l2-breach": {
+        "floor": 1.0
+    },
+    "imd-retro-wall-note-16450470": {
+        "floor": 0.0
+    },
+    "levee-dlmm-position-130236064": {
+        "floor": 0.0
+    },
+    "sad-217784449": {
+        "floor": 0.07
+    },
+    "candle-souls": {
+        "floor": 0.04
+    },
+    "robin-cards": {
+        "floor": 1.2204200685876e-05
+    },
+    "toy-legends-568501659": {
+        "floor": 0.25
+    },
+    "toy-legends-729251953": {
+        "floor": 0.0
+    },
+    "terra-genesis": {
+        "floor": 0.0
+    },
+    "imd-retro-wall-note-386250558": {
+        "floor": 0.0
+    },
+    "future-realm-by-virtuals": {
+        "floor": 0.0
+    },
+    "keysnfts": {
+        "floor": 0.16
+    },
+    "gobz-org": {
+        "floor": 5.8e-05
+    },
+    "testschiz": {
+        "floor": 0.0
+    },
+    "robincards": {
+        "floor": 0.0
+    },
+    "0xbffb15ca19963a51f08cc0a9849503a169b71413": {
+        "floor": 0.0
+    },
+    "cropz": {
+        "floor": 0.0
+    },
+    "mojo-yield-packs": {
+        "floor": 0.01
+    },
+    "red-heights-land": {
+        "floor": 0.0
+    },
+    "imd-retro-wall-note-758083979": {
+        "floor": 0.0
+    },
+    "brodies-green-131048966": {
+        "floor": 0.01
+    },
+    "misfit-frens": {
+        "floor": 9.8703e-06
+    },
+    "brodies-green": {
+        "floor": 0.0
+    },
+    "hatch-s2": {
+        "floor": 2e-05
+    },
+    "imd-retro-wall-note-520800600": {
+        "floor": 0.0
     }
 }
