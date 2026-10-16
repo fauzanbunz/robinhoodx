@@ -62557,10 +62557,10 @@
         "floor": 0.0
     },
     "gon-legend": {
-        "floor": 0.0
+        "floor": 0.008
     },
     "computerrh": {
-        "floor": 0.0
+        "floor": 9.79
     },
     "salatas": {
         "floor": 0.0
@@ -62626,6 +62626,144 @@
         "floor": 0.0
     },
     "scarecrow-801144274": {
+        "floor": 0.0
+    },
+    "biboo-streethood": {
+        "floor": 0.0
+    },
+    "the-squad-780234952": {
+        "floor": 12.0
+    },
+    "parallel-tcg-22247930": {
+        "floor": 25.0
+    },
+    "rarecodexfriends": {
+        "floor": 0.0
+    },
+    "floor-feeders-test": {
+        "floor": 0.0
+    },
+    "future-shrift": {
+        "floor": 0.0
+    },
+    "real-hood-people-48075917": {
+        "floor": 0.0
+    },
+    "smart-cases": {
+        "floor": 0.0
+    },
+    "imd-retro-wall-note-271585522": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-493700738": {
+        "floor": 0.0
+    },
+    "0x3e11c21809fb774563b5dc5329c5d93073d8c768-883640271": {
+        "floor": 0.0
+    },
+    "dwarves-369352579": {
+        "floor": 1.98901e-05
+    },
+    "0xe3ed3ac4ac7b1bfc1201541e3344f010aff26976": {
+        "floor": 0.0
+    },
+    "noctrive-122227152": {
+        "floor": 0.015
+    },
+    "tripwire-policy": {
+        "floor": 0.0
+    },
+    "tty-737335997": {
+        "floor": 0.0
+    },
+    "ishtrfp": {
+        "floor": 0.0
+    },
+    "clay-stonkz-limited-edition-414303623": {
+        "floor": 0.0
+    },
+    "testingv3": {
+        "floor": 0.0
+    },
+    "tactical-hud-collection": {
+        "floor": 1.85
+    },
+    "fairmark": {
+        "floor": 0.0
+    },
+    "tokyo-futuro-mercenary-398107501": {
+        "floor": 0.0
+    },
+    "tokyo-futuro-portal-disk-783467565": {
+        "floor": 0.0
+    },
+    "tokyo-futuro-black-market-crate-953202521": {
+        "floor": 0.0
+    },
+    "abstractworker-nft": {
+        "floor": 0.00099499
+    },
+    "bakeru-rh": {
+        "floor": 0.169
+    },
+    "aurelia-descendants": {
+        "floor": 0.0
+    },
+    "haunted-hooters": {
+        "floor": 0.0
+    },
+    "the-squad-rh": {
+        "floor": 0.041
+    },
+    "nataxs": {
+        "floor": 0.0
+    },
+    "zombie-hood": {
+        "floor": 0.001
+    },
+    "crypto-cakes": {
+        "floor": 0.0
+    },
+    "minds-dot-games-limited-edition": {
+        "floor": 0.011
+    },
+    "cats-on-rugs": {
+        "floor": 0.0076
+    },
+    "swol-mfer-rh": {
+        "floor": 9.8
+    },
+    "0xa50caa46f683f965c7057a3a042f22f70cfeb721": {
+        "floor": 0.0
+    },
+    "0x03d901967a94fb8656621cd66583962b452332e0": {
+        "floor": 9.8
+    },
+    "0xe4c49d24b8e0b65da08bfa1a83c057738535e55a": {
+        "floor": 0.0
+    },
+    "0x3aa76c9620a5e7144409462cae4d16e95dbbae79": {
+        "floor": 0.0
+    },
+    "embervale_": {
+        "floor": 0.02
+    },
+    "yield-village-472335062": {
+        "floor": 8.98
+    },
+    "future-doin-trade-by-virtuals": {
+        "floor": 0.0
+    },
+    "bakerup": {
+        "floor": 19.98
+    },
+    "rhcomputers-449269636": {
+        "floor": 9.94
+    },
+    "axii-777559558": {
+        "floor": 2.95
+    },
+    "axxx-598370557": {
         "floor": 0.0
     }
 }
