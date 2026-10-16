@@ -62449,7 +62449,7 @@
         "floor": 0.0
     },
     "0x28e50632e69ca22d534efdf2da42a1f2bb2a0feb": {
-        "floor": 0.19
+        "floor": 0.17
     },
     "scarecrow-448109478": {
         "floor": 0.0
@@ -62458,7 +62458,7 @@
         "floor": 0.0
     },
     "tortoise-rh-303792327": {
-        "floor": 0.9
+        "floor": 0.12
     },
     "tortoise-rh": {
         "floor": 0.0
@@ -62473,7 +62473,7 @@
         "floor": 0.01
     },
     "black-card-holders": {
-        "floor": 0.02
+        "floor": 0.01
     },
     "robincat-930809472": {
         "floor": 0.0
@@ -62497,10 +62497,10 @@
         "floor": 0.04
     },
     "robin-cards": {
-        "floor": 1.2204200685876e-05
+        "floor": 1.220410069e-05
     },
     "toy-legends-568501659": {
-        "floor": 0.25
+        "floor": 0.01
     },
     "toy-legends-729251953": {
         "floor": 0.0
@@ -62518,7 +62518,7 @@
         "floor": 0.16
     },
     "gobz-org": {
-        "floor": 5.8e-05
+        "floor": 1.22956e-05
     },
     "testschiz": {
         "floor": 0.0
@@ -62554,6 +62554,78 @@
         "floor": 2e-05
     },
     "imd-retro-wall-note-520800600": {
+        "floor": 0.0
+    },
+    "gon-legend": {
+        "floor": 0.0
+    },
+    "computerrh": {
+        "floor": 0.0
+    },
+    "salatas": {
+        "floor": 0.0
+    },
+    "the-jean-degen-phil-treasury-134392693": {
+        "floor": 0.0
+    },
+    "8000d": {
+        "floor": 0.0
+    },
+    "wild-cat-robinhood": {
+        "floor": 0.0
+    },
+    "h00dexe-nft": {
+        "floor": 0.0
+    },
+    "retro-wheels": {
+        "floor": 0.0
+    },
+    "statepro": {
+        "floor": 0.0
+    },
+    "pixelmuse-girls": {
+        "floor": 9.989e-05
+    },
+    "computersrh-nft-619499773": {
+        "floor": 0.00089998
+    },
+    "zkcodex-nft-753247385": {
+        "floor": 0.0
+    },
+    "0x563f57ee427f0e5ddafcf1300cdd7fbff5510a86": {
+        "floor": 0.00099999
+    },
+    "computers-rh-388983557": {
+        "floor": 4.98
+    },
+    "imd-retro-wall-note-155200375": {
+        "floor": 0.0
+    },
+    "agents-hoood": {
+        "floor": 4.9551e-06
+    },
+    "void-hoodies-925332167": {
+        "floor": 0.0
+    },
+    "ethmojipunks-": {
+        "floor": 0.0
+    },
+    "racetest": {
+        "floor": 0.0
+    },
+    "boys-in-hood": {
+        "floor": 5.96004e-05
+    },
+    "sixss": {
+        "floor": 10.0
+    },
+    "hoodlums-boys": {
+        "floor": 8.99e-06
+    },
+    "unknown-society-438624782": {
+        "floor": 0.0
+    },
+    "scarecrow-801144274": {
         "floor": 0.0
     }
 }
