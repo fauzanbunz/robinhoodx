@@ -63925,7 +63925,7 @@
         "floor": 0.0
     },
     "rankz-collection-766305327": {
-        "floor": 0.46
+        "floor": 0.42
     },
     "0xbe6c5ba0f0fad068d929082c31cff3553774f5b6": {
         "floor": 0.0
@@ -63949,10 +63949,10 @@
         "floor": 0.03
     },
     "freedivers-depth-club": {
-        "floor": 0.44
+        "floor": 1.0
     },
     "blackout-district-fuses": {
-        "floor": 4.09158538569e-05
+        "floor": 2.388e-05
     },
     "bluefrens-nft-383470267": {
         "floor": 0.17
@@ -63976,7 +63976,7 @@
         "floor": 4.1274e-06
     },
     "conso-668262486": {
-        "floor": 9.996e-05
+        "floor": 9.995e-05
     },
     "minehood-204615678": {
         "floor": 0.0
@@ -64012,6 +64012,48 @@
         "floor": 0.0
     },
     "zk-skulls-": {
+        "floor": 0.0
+    },
+    "ultronics-stockmaster": {
+        "floor": 0.0
+    },
+    "musebook-premier-league-banners": {
+        "floor": 0.0
+    },
+    "vault-street-nft": {
+        "floor": 9.89901e-05
+    },
+    "skulls-rh": {
+        "floor": 0.0
+    },
+    "future-hookscribe-by-virtuals": {
+        "floor": 0.0
+    },
+    "vaelorn-629": {
+        "floor": 0.00849998
+    },
+    "zkskulls-robin": {
+        "floor": 0.0
+    },
+    "0x2da9bf889da3bfdff558b09a91dacd7eb93a7695": {
+        "floor": 4.99
+    },
+    "floor-feeders": {
+        "floor": 0.0
+    },
+    "0x069139d314322a55014e943c7f375f30b6aa5265": {
+        "floor": 0.0
+    },
+    "0x819da458b27f790cebc6e3693469cdf83c956519": {
+        "floor": 0.0
+    },
+    "vault-street-rh": {
+        "floor": 0.0423
+    },
+    "0x97a187307a47f1f5c5bea35c840a2c9ceab18795": {
+        "floor": 0.0
+    },
+    "0x8c976a194626ceab5208174232c20bffa6cfa465": {
         "floor": 0.0
     }
 }
