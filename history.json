@@ -63748,13 +63748,13 @@
         "floor": 0.0
     },
     "1-1-land-land": {
-        "floor": 0.0
+        "floor": 15.0
     },
     "fireworks-91944025": {
-        "floor": 0.00199999
+        "floor": 9.996e-05
     },
     "0xa7c05bb07628a63f24ab382a08de8b41c1592334": {
-        "floor": 0.00019999
+        "floor": 0.0004
     },
     "never-die-nft": {
         "floor": 0.0
@@ -63763,7 +63763,7 @@
         "floor": 0.0
     },
     "dolphinos": {
-        "floor": 2.0796852188452e-05
+        "floor": 1.6555777448961e-05
     },
     "demonics-rh-552341357": {
         "floor": 9.99
@@ -63889,6 +63889,129 @@
         "floor": 0.001
     },
     "fern-veil": {
+        "floor": 0.0
+    },
+    "0x351715946265233d735f05424a97a9f147c87a43": {
+        "floor": 0.0
+    },
+    "0x085aa36186c1ebed618e5530cae4c04260cd3e3c": {
+        "floor": 0.0
+    },
+    "0xe7e64e5f98ae34eceab75dc0fd25a391b1481dfd": {
+        "floor": 0.0
+    },
+    "0x07beafa0b96e68fd8db15b4cafc0644e98452596": {
+        "floor": 0.0
+    },
+    "0x9e6b9abac11e83dd5eae2c69c2beac6e950a96ae": {
+        "floor": 0.0
+    },
+    "0xda6f6791a97c85c6f009c92198c8e05a9f670b90": {
+        "floor": 0.0
+    },
+    "0x3db02399c9ee2fbb114f21917dffaee878fa4634": {
+        "floor": 0.0
+    },
+    "robinhood-genesis-outlaws": {
+        "floor": 0.0
+    },
+    "0x5d9934e3a3d95bdc72e2139d795dca630e893e95": {
+        "floor": 0.0
+    },
+    "0x6381a69ca7c79584bb2915e46d720a2bc2ccca13": {
+        "floor": 0.0
+    },
+    "zkskulls-rh": {
+        "floor": 0.0
+    },
+    "rankz-collection-766305327": {
+        "floor": 0.46
+    },
+    "0xbe6c5ba0f0fad068d929082c31cff3553774f5b6": {
+        "floor": 0.0
+    },
+    "0xab81cd68f1e9d272c05dd90de7792e6ec1db67b3": {
+        "floor": 0.0
+    },
+    "0xafd522c622b6e641d562fe23d944bc17a6e3783a": {
+        "floor": 0.0
+    },
+    "0xfac56d0ce7239e484167a53879dd069fc7759fe4": {
+        "floor": 0.0
+    },
+    "0xa88a7ab31ef3b2088754c0c9af8628808f97f2e0": {
+        "floor": 0.0
+    },
+    "0x7761bdee927a06f135a9244e74a682a273d4e80e": {
+        "floor": 0.0
+    },
+    "cropz-genesis-nft": {
+        "floor": 0.03
+    },
+    "freedivers-depth-club": {
+        "floor": 0.44
+    },
+    "blackout-district-fuses": {
+        "floor": 4.09158538569e-05
+    },
+    "bluefrens-nft-383470267": {
+        "floor": 0.17
+    },
+    "0x06adff66b6188ef2f6c9de73a49aabc81d2e668a": {
+        "floor": 0.0
+    },
+    "broodz-nfts": {
+        "floor": 0.0
+    },
+    "zth-academy-803902984": {
+        "floor": 0.000499999
+    },
+    "0x2a373c8f0711942d5ef872c12c27f76a6b2e1295": {
+        "floor": 0.0
+    },
+    "black-hastag000000": {
+        "floor": 0.0
+    },
+    "clownline": {
+        "floor": 4.1274e-06
+    },
+    "conso-668262486": {
+        "floor": 9.996e-05
+    },
+    "minehood-204615678": {
+        "floor": 0.0
+    },
+    "0xe1099c3a471b214c02f876549b3d95e6f7041905": {
+        "floor": 0.0
+    },
+    "hoons-431036209": {
+        "floor": 0.03
+    },
+    "embervale----": {
+        "floor": 0.0197
+    },
+    "miserry-bots": {
+        "floor": 0.01
+    },
+    "yield-eagles": {
+        "floor": 0.01
+    },
+    "fuzzy-clouds": {
+        "floor": 0.0
+    },
+    "slasherznft": {
+        "floor": 0.0
+    },
+    "slasherz-master-scroll": {
+        "floor": 0.0
+    },
+    "underscore-hood": {
+        "floor": 5.93201e-05
+    },
+    "future-metric-by-virtuals": {
+        "floor": 0.0
+    },
+    "zk-skulls-": {
         "floor": 0.0
     }
 }
