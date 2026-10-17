@@ -63391,7 +63391,7 @@
         "floor": 0.0
     },
     "absturds-nft": {
-        "floor": 0.0
+        "floor": 10.0
     },
     "absturd-badges": {
         "floor": 0.0
@@ -63406,7 +63406,7 @@
         "floor": 10.0
     },
     "assettes": {
-        "floor": 0.0
+        "floor": 7.0
     },
     "cybercrew-gen02-rh-502993066": {
         "floor": 10.0
@@ -63479,5 +63479,116 @@
     },
     "zany-apes": {
         "floor": 0.0011
+    },
+    "future-longbow-signal": {
+        "floor": 0.0
+    },
+    "rh-bike": {
+        "floor": 0.00439999
+    },
+    "future-paxos-labs-by-virtuals": {
+        "floor": 0.0
+    },
+    "future-botanary-os": {
+        "floor": 0.0
+    },
+    "dripster-843745877": {
+        "floor": 0.0
+    },
+    "tape-106419888": {
+        "floor": 0.0
+    },
+    "yieldvillage": {
+        "floor": 0.0
+    },
+    "p-i-r-a-t-e-s": {
+        "floor": 0.00038998
+    },
+    "dripster-872528767": {
+        "floor": 0.0
+    },
+    "tape-837823772": {
+        "floor": 0.0
+    },
+    "penhood": {
+        "floor": 0.005
+    },
+    "robinbugs": {
+        "floor": 0.0
+    },
+    "warbow-vein-picks": {
+        "floor": 0.0
+    },
+    "rage-baiter": {
+        "floor": 0.0
+    },
+    "i-am-out-sticky": {
+        "floor": 7.499e-05
+    },
+    "celestial-necropolis": {
+        "floor": 0.00059998
+    },
+    "offbody-759528818": {
+        "floor": 0.0
+    },
+    "laycon": {
+        "floor": 0.0
+    },
+    "roadster-582769474": {
+        "floor": 0.01
+    },
+    "dragon-balls-962578383": {
+        "floor": 0.0
+    },
+    "carbonized-credit": {
+        "floor": 0.0
+    },
+    "credl": {
+        "floor": 0.0
+    },
+    "token-farm-ai": {
+        "floor": 4.597e-05
+    },
+    "everyday-birthday": {
+        "floor": 0.0001286503
+    },
+    "the-mutual-fun-907760855": {
+        "floor": 0.42
+    },
+    "olzy-artifacts": {
+        "floor": 0.0
+    },
+    "cahspig": {
+        "floor": 49.99
+    },
+    "fuzzy-clouds-test": {
+        "floor": 0.0
+    },
+    "altpunks_nft": {
+        "floor": 10.0
+    },
+    "the-musegod": {
+        "floor": 10.0
+    },
+    "dlmm-token-625190964": {
+        "floor": 0.0
+    },
+    "noctrive-72516360": {
+        "floor": 0.0045
+    },
+    "dlmm-token-666728329": {
+        "floor": 0.0
+    },
+    "the-rich-ape-robin": {
+        "floor": 0.00549999
+    },
+    "acidverse-avatars": {
+        "floor": 0.0
+    },
+    "cabal--": {
+        "floor": 0.192
+    },
+    "lofi-mancers-510352283": {
+        "floor": 0.99
     }
 }
