@@ -63211,7 +63211,7 @@
         "floor": 0.0
     },
     "anoche": {
-        "floor": 0.03
+        "floor": 0.04
     },
     "fortex-621380579": {
         "floor": 0.0
@@ -63220,7 +63220,7 @@
         "floor": 0.0
     },
     "mini-herodg": {
-        "floor": 0.48
+        "floor": 0.47
     },
     "0x82ec2ea862dcbb76bc241de16dc58d37420af800": {
         "floor": 0.18
@@ -63241,7 +63241,7 @@
         "floor": 0.0
     },
     "blox-miners-broke": {
-        "floor": 0.17
+        "floor": 0.14
     },
     "robinhoodspeedtest": {
         "floor": 0.0
@@ -63256,7 +63256,7 @@
         "floor": 0.0
     },
     "boredtraders-hood": {
-        "floor": 0.13
+        "floor": 0.09
     },
     "jkbjkkj": {
         "floor": 0.0
@@ -63286,7 +63286,7 @@
         "floor": 0.07
     },
     "cask-etchers": {
-        "floor": 5.0
+        "floor": 28.0
     },
     "yield-fields-216477313": {
         "floor": 4.97
@@ -63319,6 +63319,75 @@
         "floor": 0.0
     },
     "mineversenft-701755702": {
+        "floor": 0.0
+    },
+    "hai-ku": {
+        "floor": 0.0
+    },
+    "hey-robin": {
+        "floor": 0.0
+    },
+    "robigotchi-884871331": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-195413715": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-596591390": {
+        "floor": 0.0
+    },
+    "parklife-hood": {
+        "floor": 0.04
+    },
+    "overload-beta-gas-turbine": {
+        "floor": 0.18
+    },
+    "vvv-season-1-234760755": {
+        "floor": 1.6536476366274e-05
+    },
+    "0xc4136016e3cf80733685a05805aeca0ae735ef0d": {
+        "floor": 9.89
+    },
+    "namehhh": {
+        "floor": 0.0
+    },
+    "chainstreak-nft-872900407": {
+        "floor": 0.0
+    },
+    "doomsday-punks": {
+        "floor": 0.0
+    },
+    "octo-village-land": {
+        "floor": 0.0
+    },
+    "hjao": {
+        "floor": 9.98
+    },
+    "logan-hl": {
+        "floor": 0.23
+    },
+    "robintoys": {
+        "floor": 4.0923e-06
+    },
+    "reefers-nft": {
+        "floor": 0.00099999
+    },
+    "ai-fafo-clocks": {
+        "floor": 0.0
+    },
+    "story-engine-732119986": {
+        "floor": 0.17
+    },
+    "testcollectionsz": {
+        "floor": 0.08
+    },
+    "spy-inc-schematics-untradable-rh": {
+        "floor": 10.0
+    },
+    "frosties-227167563": {
+        "floor": 0.018
+    },
+    "vote-escrowed-fuel": {
         "floor": 0.0
     }
 }
