@@ -63322,10 +63322,10 @@
         "floor": 0.0
     },
     "hai-ku": {
-        "floor": 0.0
+        "floor": 9.426e-05
     },
     "hey-robin": {
-        "floor": 0.0
+        "floor": 0.0199
     },
     "robigotchi-884871331": {
         "floor": 0.0
@@ -63337,16 +63337,16 @@
         "floor": 0.0
     },
     "parklife-hood": {
-        "floor": 0.04
+        "floor": 0.02
     },
     "overload-beta-gas-turbine": {
-        "floor": 0.18
+        "floor": 0.17
     },
     "vvv-season-1-234760755": {
-        "floor": 1.6536476366274e-05
+        "floor": 4.1144e-06
     },
     "0xc4136016e3cf80733685a05805aeca0ae735ef0d": {
-        "floor": 9.89
+        "floor": 9.77
     },
     "namehhh": {
         "floor": 0.0
@@ -63361,25 +63361,25 @@
         "floor": 0.0
     },
     "hjao": {
-        "floor": 9.98
+        "floor": 9.97
     },
     "logan-hl": {
-        "floor": 0.23
+        "floor": 0.2
     },
     "robintoys": {
         "floor": 4.0923e-06
     },
     "reefers-nft": {
-        "floor": 0.00099999
+        "floor": 0.00099997
     },
     "ai-fafo-clocks": {
         "floor": 0.0
     },
     "story-engine-732119986": {
-        "floor": 0.17
+        "floor": 0.14
     },
     "testcollectionsz": {
-        "floor": 0.08
+        "floor": 0.06
     },
     "spy-inc-schematics-untradable-rh": {
         "floor": 10.0
@@ -63389,5 +63389,95 @@
     },
     "vote-escrowed-fuel": {
         "floor": 0.0
+    },
+    "absturds-nft": {
+        "floor": 0.0
+    },
+    "absturd-badges": {
+        "floor": 0.0
+    },
+    "xqxbuhs": {
+        "floor": 0.0
+    },
+    "weirdjpegs": {
+        "floor": 0.0
+    },
+    "0x8a788fd779b0daab41120ccd05f9b95034091346": {
+        "floor": 10.0
+    },
+    "assettes": {
+        "floor": 0.0
+    },
+    "cybercrew-gen02-rh-502993066": {
+        "floor": 10.0
+    },
+    "printers-hood": {
+        "floor": 9.89
+    },
+    "ethmojipunks-nft": {
+        "floor": 12.58
+    },
+    "dlmm-token-206325531": {
+        "floor": 0.0
+    },
+    "yield-field-rh-791181984": {
+        "floor": 10.0
+    },
+    "idols100x-22270587": {
+        "floor": 0.0
+    },
+    "sknots-go-down-129272694": {
+        "floor": 0.0
+    },
+    "copycatdex-copy-link": {
+        "floor": 0.0
+    },
+    "top-floor-fun--": {
+        "floor": 0.05
+    },
+    "cyberthrone-243963433": {
+        "floor": 0.1
+    },
+    "rh-orangs-nft-7958408": {
+        "floor": 9.999e-05
+    },
+    "peeble-hood-410308618": {
+        "floor": 99.0
+    },
+    "mr-penguinss": {
+        "floor": 0.00209999
+    },
+    "robinpunkss": {
+        "floor": 0.03799999
+    },
+    "mr-penguins-nft": {
+        "floor": 0.00499999
+    },
+    "wafer-circuit": {
+        "floor": 0.0
+    },
+    "wafer-transistors": {
+        "floor": 0.0
+    },
+    "sagaforge-genesis": {
+        "floor": 0.0
+    },
+    "dlmm-token-349129124": {
+        "floor": 0.0
+    },
+    "overclocked-455393696": {
+        "floor": 0.0
+    },
+    "overclocked-901627774": {
+        "floor": 0.0
+    },
+    "ascension-stones": {
+        "floor": 0.0
+    },
+    "obrivo-early-agents": {
+        "floor": 0.0
+    },
+    "zany-apes": {
+        "floor": 0.0011
     }
 }
