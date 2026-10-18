@@ -64514,5 +64514,149 @@
     },
     "unpaid": {
         "floor": 0.01
+    },
+    "formfc-beta": {
+        "floor": 0.0
+    },
+    "0xb71a61ad4d31f3f5616636617521600b5e542aed": {
+        "floor": 0.0
+    },
+    "0x79c402e15460ff3809f95d551e058ef02ea08a15": {
+        "floor": 0.0
+    },
+    "stingvestors-852676912": {
+        "floor": 0.0
+    },
+    "stingvestors-476166016": {
+        "floor": 0.0
+    },
+    "hive-desks-456750625": {
+        "floor": 0.0
+    },
+    "hive-desks-679516650": {
+        "floor": 0.0
+    },
+    "degenerateart": {
+        "floor": 0.0
+    },
+    "slippy-club-limited-edition-410160226": {
+        "floor": 0.0
+    },
+    "moonwhister-club": {
+        "floor": 1.1
+    },
+    "movienft-531992139": {
+        "floor": 0.0
+    },
+    "copycatdex-copy-link-398506320": {
+        "floor": 0.0
+    },
+    "0x531b8985a00214730cda630a3a5a5702b508430c": {
+        "floor": 0.0
+    },
+    "the-unnamed-22142223": {
+        "floor": 0.06
+    },
+    "0x70324cd055e56fad288ffd9140f7da81d195eeb5": {
+        "floor": 0.00499997
+    },
+    "conso-870486835": {
+        "floor": 4.28253603e-06
+    },
+    "dragon--egg": {
+        "floor": 0.0
+    },
+    "the-testars": {
+        "floor": 0.0
+    },
+    "fillout-circuits-538326284": {
+        "floor": 0.0
+    },
+    "0xebd55b50d5aa458491b96ccf395acc5a8688fd45": {
+        "floor": 0.0
+    },
+    "robin-pixel-warriors": {
+        "floor": 1.0
+    },
+    "future-marketrushapp-by-virtuals": {
+        "floor": 0.0
+    },
+    "novapier-creator-nft": {
+        "floor": 0.0
+    },
+    "0x9e06628251bc0f6f0138d6d14fc27800478acc10": {
+        "floor": 0.0008
+    },
+    "the-unnamed-932848021": {
+        "floor": 0.06
+    },
+    "kit-china": {
+        "floor": 4.98e-06
+    },
+    "the-unnamed": {
+        "floor": 0.05
+    },
+    "grq-the-movie": {
+        "floor": 0.0
+    },
+    "test-collection-14-298745438": {
+        "floor": 0.0
+    },
+    "catana-guardians": {
+        "floor": 6.4189109675652e-05
+    },
+    "fillout-circuits-746787510": {
+        "floor": 0.0
+    },
+    "0xc340da04b23fab457063e79dd7431297ca1d85b4": {
+        "floor": 0.0
+    },
+    "fillout-circuits-330181928": {
+        "floor": 0.0
+    },
+    "0x27c7e1d888caab16347c6cc2845c2b1ae067dc51": {
+        "floor": 0.0
+    },
+    "legion-x-601147109": {
+        "floor": 0.0001
+    },
+    "future-comnexx-by-virtuals": {
+        "floor": 0.0
+    },
+    "slamjunkiez": {
+        "floor": 0.0
+    },
+    "future-robin-bot-by-virtuals": {
+        "floor": 0.0
+    },
+    "fillout-circuits-534460256": {
+        "floor": 0.0
+    },
+    "crimson-drakes": {
+        "floor": 0.05
+    },
+    "future-oriro-app": {
+        "floor": 0.0
+    },
+    "moonwhisker-club": {
+        "floor": 0.0
+    },
+    "0x3c9a90776ea892d72dfdf50a267a75ccd6102738": {
+        "floor": 0.0
+    },
+    "fillout-circuits-730989387": {
+        "floor": 0.0
+    },
+    "0x47f7efac01dd53421cdcad5c7662afd997edcc4d": {
+        "floor": 0.0
+    },
+    "asdasqweqw": {
+        "floor": 0.0
+    },
+    "pixelcat-94076931": {
+        "floor": 1.991e-05
+    },
+    "graffibots": {
+        "floor": 0.0
     }
 }
