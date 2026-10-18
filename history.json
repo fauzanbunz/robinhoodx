@@ -64021,7 +64021,7 @@
         "floor": 0.0
     },
     "vault-street-nft": {
-        "floor": 9.89901e-05
+        "floor": 4.122e-06
     },
     "skulls-rh": {
         "floor": 0.0
@@ -64030,7 +64030,7 @@
         "floor": 0.0
     },
     "vaelorn-629": {
-        "floor": 0.00849998
+        "floor": 0.00849996
     },
     "zkskulls-robin": {
         "floor": 0.0
@@ -64054,6 +64054,63 @@
         "floor": 0.0
     },
     "0x8c976a194626ceab5208174232c20bffa6cfa465": {
+        "floor": 0.0
+    },
+    "pooop-nft": {
+        "floor": 0.0
+    },
+    "slduhbd": {
+        "floor": 0.0
+    },
+    "planet-of-rengas": {
+        "floor": 0.0
+    },
+    "s-e-a-l-s": {
+        "floor": 0.00034949
+    },
+    "hood-unknown": {
+        "floor": 0.0049499701
+    },
+    "gobpoke": {
+        "floor": 0.0
+    },
+    "hastag-ccff00": {
+        "floor": 0.00494997
+    },
+    "shellbound": {
+        "floor": 0.0
+    },
+    "spider-cluster-swarm-781346001": {
+        "floor": 0.0
+    },
+    "spider-cluster-swarm": {
+        "floor": 0.0
+    },
+    "yield-field-deeds-vi": {
+        "floor": 0.02
+    },
+    "yield-field-deeds-v": {
+        "floor": 10.0
+    },
+    "yield-field-deeds-lv": {
+        "floor": 10.0
+    },
+    "yield-field-deeds-lll": {
+        "floor": 0.01
+    },
+    "yiel-field-deeds-ll": {
+        "floor": 10.0
+    },
+    "nod-75658823": {
+        "floor": 0.0
+    },
+    "0x17dca3fdecfe30da84fd3d02141484827221c91d": {
+        "floor": 0.0
+    },
+    "doombot-swarm": {
+        "floor": 0.0
+    },
+    "ultronicsstockmaster": {
         "floor": 0.0
     }
 }
