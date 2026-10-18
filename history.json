@@ -64555,10 +64555,10 @@
         "floor": 0.0
     },
     "the-unnamed-22142223": {
-        "floor": 0.06
+        "floor": 0.05
     },
     "0x70324cd055e56fad288ffd9140f7da81d195eeb5": {
-        "floor": 0.00499997
+        "floor": 0.00049997
     },
     "conso-870486835": {
         "floor": 4.28253603e-06
@@ -64576,7 +64576,7 @@
         "floor": 0.0
     },
     "robin-pixel-warriors": {
-        "floor": 1.0
+        "floor": 0.5
     },
     "future-marketrushapp-by-virtuals": {
         "floor": 0.0
@@ -64585,7 +64585,7 @@
         "floor": 0.0
     },
     "0x9e06628251bc0f6f0138d6d14fc27800478acc10": {
-        "floor": 0.0008
+        "floor": 5.8705e-05
     },
     "the-unnamed-932848021": {
         "floor": 0.06
@@ -64603,7 +64603,7 @@
         "floor": 0.0
     },
     "catana-guardians": {
-        "floor": 6.4189109675652e-05
+        "floor": 6.369102211e-05
     },
     "fillout-circuits-746787510": {
         "floor": 0.0
@@ -64657,6 +64657,45 @@
         "floor": 1.991e-05
     },
     "graffibots": {
+        "floor": 0.0
+    },
+    "yieldtopia-farm": {
+        "floor": 0.0
+    },
+    "migo-boss": {
+        "floor": 0.01
+    },
+    "frokfers": {
+        "floor": 0.0
+    },
+    "street1punks": {
+        "floor": 3.95702e-05
+    },
+    "asym-357306296": {
+        "floor": 0.0
+    },
+    "lost-effigies": {
+        "floor": 0.0
+    },
+    "bunny-brokers-690091594": {
+        "floor": 0.5
+    },
+    "robin-rabbits-386788881": {
+        "floor": 0.44
+    },
+    "aestrodom-pass-828034327": {
+        "floor": 0.0
+    },
+    "neon-ape-warriors": {
+        "floor": 0.0
+    },
+    "aestrodom-pass": {
+        "floor": 0.0
+    },
+    "scrapraccoons-first-50": {
+        "floor": 0.0
+    },
+    "sting-vestors": {
         "floor": 0.0
     }
 }
