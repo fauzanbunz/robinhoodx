@@ -64558,7 +64558,7 @@
         "floor": 0.05
     },
     "0x70324cd055e56fad288ffd9140f7da81d195eeb5": {
-        "floor": 0.00049997
+        "floor": 0.0004899312
     },
     "conso-870486835": {
         "floor": 4.28253603e-06
@@ -64576,7 +64576,7 @@
         "floor": 0.0
     },
     "robin-pixel-warriors": {
-        "floor": 0.5
+        "floor": 0.49
     },
     "future-marketrushapp-by-virtuals": {
         "floor": 0.0
@@ -64585,7 +64585,7 @@
         "floor": 0.0
     },
     "0x9e06628251bc0f6f0138d6d14fc27800478acc10": {
-        "floor": 5.8705e-05
+        "floor": 3.98e-05
     },
     "the-unnamed-932848021": {
         "floor": 0.06
@@ -64687,7 +64687,7 @@
         "floor": 0.0
     },
     "neon-ape-warriors": {
-        "floor": 0.0
+        "floor": 0.05
     },
     "aestrodom-pass": {
         "floor": 0.0
@@ -64697,5 +64697,47 @@
     },
     "sting-vestors": {
         "floor": 0.0
+    },
+    "taitaitai-495656732": {
+        "floor": 0.0
+    },
+    "fortune-favors-the-bold-208321568": {
+        "floor": 0.0
+    },
+    "starchoadz-nft": {
+        "floor": 0.00105
+    },
+    "hoodling-924078257": {
+        "floor": 0.0001
+    },
+    "recall-310129746": {
+        "floor": 0.0
+    },
+    "founding-charter-the-standard-reserve": {
+        "floor": 0.5
+    },
+    "0x050b43c5e4a6f7b2cf3b916464b2d675623288f4": {
+        "floor": 0.0
+    },
+    "future-useagentbot-by-virtuals": {
+        "floor": 0.0
+    },
+    "pink-is-punk": {
+        "floor": 0.00095
+    },
+    "sandcastle-metric-position": {
+        "floor": 0.0
+    },
+    "shipped-deeds": {
+        "floor": 0.0
+    },
+    "shipped-records": {
+        "floor": 0.0
+    },
+    "linear-punks-pfp": {
+        "floor": 0.001
+    },
+    "the-unnamed-613395656": {
+        "floor": 0.01
     }
 }
