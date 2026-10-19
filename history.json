@@ -64708,7 +64708,7 @@
         "floor": 0.00105
     },
     "hoodling-924078257": {
-        "floor": 0.0001
+        "floor": 3.32096e-05
     },
     "recall-310129746": {
         "floor": 0.0
@@ -64739,5 +64739,149 @@
     },
     "the-unnamed-613395656": {
         "floor": 0.01
+    },
+    "assault-rifles-788358006": {
+        "floor": 0.0
+    },
+    "0xbf68388a01956f027248057ba5f9874a174842ae": {
+        "floor": 0.0
+    },
+    "oshi-labs-21753604": {
+        "floor": 0.0
+    },
+    "flushies": {
+        "floor": 0.0137
+    },
+    "water-world": {
+        "floor": 0.0
+    },
+    "fly-drawn-334757049": {
+        "floor": 0.0
+    },
+    "fly-drawn-162382949": {
+        "floor": 0.0
+    },
+    "wobbleheads-996060603": {
+        "floor": 0.024
+    },
+    "yieldtopia": {
+        "floor": 0.057
+    },
+    "sherwood-havens-923291308": {
+        "floor": 0.0
+    },
+    "moneymomos": {
+        "floor": 0.01
+    },
+    "robin-specters": {
+        "floor": 4.1052e-06
+    },
+    "fly-drawn": {
+        "floor": 0.0
+    },
+    "the-bufos-465926321": {
+        "floor": 0.037
+    },
+    "jadebound---": {
+        "floor": 0.0198
+    },
+    "plumage-319596369": {
+        "floor": 0.0
+    },
+    "squirrelnauts": {
+        "floor": 0.18
+    },
+    "xqphyyc": {
+        "floor": 0.0
+    },
+    "vault-street-996793882": {
+        "floor": 0.052
+    },
+    "cooperate-pig": {
+        "floor": 0.0
+    },
+    "crypto-cars-780695873": {
+        "floor": 0.0198
+    },
+    "0xe2039933f4fd1e868f4c1b80991bc997613261d7": {
+        "floor": 0.00497499
+    },
+    "khdg-995094038": {
+        "floor": 5.99
+    },
+    "obscura-18": {
+        "floor": 0.00099999
+    },
+    "voxelnft": {
+        "floor": 0.0
+    },
+    "swolmfersrh": {
+        "floor": 0.002969
+    },
+    "robin-sphere": {
+        "floor": 8.3e-05
+    },
+    "gates-722086150": {
+        "floor": 0.0
+    },
+    "degen-skulls-253640895": {
+        "floor": 5.99
+    },
+    "0x1208e2fabaa7f431d06d186d6e7e588c396938c0": {
+        "floor": 0.0
+    },
+    "gates-items": {
+        "floor": 0.0
+    },
+    "cropz-genesis-hood": {
+        "floor": 0.00329999
+    },
+    "provider-911739494": {
+        "floor": 0.0
+    },
+    "rh-computers-696669479": {
+        "floor": 10.0
+    },
+    "ccff00-cubes-nft": {
+        "floor": 5.99
+    },
+    "rb-hoper": {
+        "floor": 5.97
+    },
+    "robinsphere-522478987": {
+        "floor": 0.0
+    },
+    "robinsphere": {
+        "floor": 0.0
+    },
+    "codex-boxes": {
+        "floor": 0.0
+    },
+    "drop-test-7732": {
+        "floor": 0.0
+    },
+    "foxen-329920493": {
+        "floor": 0.0
+    },
+    "drop-test-7731": {
+        "floor": 0.0
+    },
+    "robboys-903323745": {
+        "floor": 0.0
+    },
+    "urban-bear-society": {
+        "floor": 3.70777e-05
+    },
+    "hushpuppies-600442981": {
+        "floor": 0.0
+    },
+    "foxen-150718307": {
+        "floor": 0.0
+    },
+    "0xee54d379d7d2925495f305d5cd5bf0f5b3bd42db": {
+        "floor": 0.000181537623672506
+    },
+    "roguecats": {
+        "floor": 0.0
     }
 }
