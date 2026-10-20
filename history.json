@@ -65590,7 +65590,7 @@
         "floor": 0.0
     },
     "chromanfts": {
-        "floor": 0.0
+        "floor": 4.0311e-06
     },
     "mini-book-a-shares": {
         "floor": 0.0
@@ -65602,7 +65602,7 @@
         "floor": 0.0
     },
     "stonkpub-waifus": {
-        "floor": 0.05
+        "floor": 4.893325504e-05
     },
     "0x0a8b6f2f59d397e694d949fb822c643c6b3976e4": {
         "floor": 0.0
@@ -65623,7 +65623,7 @@
         "floor": 0.0
     },
     "0xcbf7800306567ea1323a64276ff7050c59cd5467": {
-        "floor": 0.04
+        "floor": 0.01
     },
     "future-voxel-robot-by-virtuals": {
         "floor": 0.0
@@ -65644,10 +65644,10 @@
         "floor": 12.0
     },
     "0x99a58fb0e75f06be5caa2172648b6fcef88123c4": {
-        "floor": 0.0
+        "floor": 9.997e-05
     },
     "astro-bots": {
-        "floor": 9.92e-06
+        "floor": 9.91e-06
     },
     "codex-hood-615962963": {
         "floor": 0.0
@@ -65684,5 +65684,62 @@
     },
     "0xb6e0fe508e1e36cb267d219dac7c065da7db7068": {
         "floor": 0.0
+    },
+    "faerie-baes": {
+        "floor": 0.00039999
+    },
+    "liquidity-book-token-591390970": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-996770205": {
+        "floor": 0.0
+    },
+    "liquidity-book-token-658367153": {
+        "floor": 0.0
+    },
+    "pixel-rock-heads": {
+        "floor": 2.03572e-05
+    },
+    "overcall-channels-rh": {
+        "floor": 0.01
+    },
+    "leap-of-faith-229637793": {
+        "floor": 0.0
+    },
+    "0x47e8c7fae5f55ee1447a73c15b9d9b165b6cd772": {
+        "floor": 0.0
+    },
+    "redpixel-20741748": {
+        "floor": 0.0
+    },
+    "philkins": {
+        "floor": 0.0
+    },
+    "cloudlings-739388319": {
+        "floor": 0.01
+    },
+    "hoodosaurs": {
+        "floor": 0.0
+    },
+    "clonks-853023885": {
+        "floor": 4.99e-05
+    },
+    "sharkzukiii": {
+        "floor": 0.16
+    },
+    "tokenize-fun-operator-259449547": {
+        "floor": 0.0
+    },
+    "tokenize-fun-operator-319992943": {
+        "floor": 0.0
+    },
+    "0x5668f09a202e3cd6ca677ff712775ec12032b12f": {
+        "floor": 8.0
+    },
+    "0xd3d974ab5275cd519797bcd8344d0495453eb099": {
+        "floor": 0.0
+    },
+    "kilowagies": {
+        "floor": 0.3
     }
 }
