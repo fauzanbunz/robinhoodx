@@ -65230,7 +65230,7 @@
         "floor": 0.0
     },
     "cash-whiskers": {
-        "floor": 0.000199
+        "floor": 0.00019602
     },
     "cyber-elves-syndicate": {
         "floor": 0.000208071077
@@ -65261,5 +65261,92 @@
     },
     "pixel-cyber-folk": {
         "floor": 2e-05
+    },
+    "stash-hood-26840870": {
+        "floor": 0.0
+    },
+    "0x69b880bac2ad3e0225e9c465ea0876ba4773ae10": {
+        "floor": 0.0
+    },
+    "0xb5f8e5ce505e42db09a5a323e6d7e318140e01b4": {
+        "floor": 0.0
+    },
+    "stash-hood": {
+        "floor": 10.0
+    },
+    "slasherz-hood": {
+        "floor": 10.0
+    },
+    "stones-genesis-nft": {
+        "floor": 10.0
+    },
+    "organon-nft": {
+        "floor": 55.0
+    },
+    "hushpuppy-398761562": {
+        "floor": 0.0
+    },
+    "factory-111": {
+        "floor": 0.0
+    },
+    "mood-ring-674157612": {
+        "floor": 0.0
+    },
+    "0x58b9111db2b93e8d453e240f682b1c9ca606c586": {
+        "floor": 0.0
+    },
+    "0x51c5fc6457205ad295162f85bf8ebc47a5fd3c15": {
+        "floor": 0.0
+    },
+    "grimveil-647176843": {
+        "floor": 0.07
+    },
+    "the-gloomy-cats": {
+        "floor": 0.0
+    },
+    "0x99a5f3145f4f5ffb3d40cc2183de7248c9cd125c": {
+        "floor": 0.0
+    },
+    "nuclear-punks-hood": {
+        "floor": 0.01
+    },
+    "cannacats-v2-nft-244318924": {
+        "floor": 0.07
+    },
+    "scrap-society": {
+        "floor": 0.0
+    },
+    "this-life-is-beautiful-viberh": {
+        "floor": 0.0
+    },
+    "0xf44515ceaf14edb64240e0a79bc1ecd72864edc1": {
+        "floor": 0.02
+    },
+    "pixel-paws-society": {
+        "floor": 7.9e-05
+    },
+    "wif-qutlaws": {
+        "floor": 24.96
+    },
+    "89892": {
+        "floor": 0.0
+    },
+    "robinwifhat-984103614": {
+        "floor": 0.00499998
+    },
+    "pixel-quest-legends": {
+        "floor": 3.3350564458303e-05
+    },
+    "crypto-cars-garage": {
+        "floor": 0.0
+    },
+    "overcall-channels": {
+        "floor": 1500.0
+    },
+    "0x6477094091bbb26eedee0ec3303476a4cb10c56f": {
+        "floor": 0.0
+    },
+    "organon-825308706": {
+        "floor": 8.88
     }
 }
