@@ -65461,7 +65461,7 @@
         "floor": 0.0
     },
     "lugardio-mancers": {
-        "floor": 0.5
+        "floor": 0.13
     },
     "0x47eb03f3398eec3ac35d71ba14fc5a3833e37d57": {
         "floor": 0.0
@@ -65581,6 +65581,108 @@
         "floor": 0.47
     },
     "future-computable-by-virtuals": {
+        "floor": 0.0
+    },
+    "orbrush-planets": {
+        "floor": 0.0
+    },
+    "testinghkr": {
+        "floor": 0.0
+    },
+    "chromanfts": {
+        "floor": 0.0
+    },
+    "mini-book-a-shares": {
+        "floor": 0.0
+    },
+    "future-tracoor-agent-by-virtuals": {
+        "floor": 0.0
+    },
+    "lil-trenchers-by-trenchtown": {
+        "floor": 0.0
+    },
+    "stonkpub-waifus": {
+        "floor": 0.05
+    },
+    "0x0a8b6f2f59d397e694d949fb822c643c6b3976e4": {
+        "floor": 0.0
+    },
+    "strap-hood-nft-978884284": {
+        "floor": 0.03
+    },
+    "studio-test-4663": {
+        "floor": 0.0
+    },
+    "rehearsal-items-267623147": {
+        "floor": 0.0
+    },
+    "rehearsal-position-515283643": {
+        "floor": 0.0
+    },
+    "rehearsal-pass-680596864": {
+        "floor": 0.0
+    },
+    "0xcbf7800306567ea1323a64276ff7050c59cd5467": {
+        "floor": 0.04
+    },
+    "future-voxel-robot-by-virtuals": {
+        "floor": 0.0
+    },
+    "shipped-ledger": {
+        "floor": 0.0
+    },
+    "moths-specimens": {
+        "floor": 0.0
+    },
+    "future-oordao": {
+        "floor": 0.0
+    },
+    "socialfarm": {
+        "floor": 0.00016
+    },
+    "waveform-club": {
+        "floor": 12.0
+    },
+    "0x99a58fb0e75f06be5caa2172648b6fcef88123c4": {
+        "floor": 0.0
+    },
+    "astro-bots": {
+        "floor": 9.92e-06
+    },
+    "codex-hood-615962963": {
+        "floor": 0.0
+    },
+    "boymeetshood-held-staked": {
+        "floor": 0.0
+    },
+    "read-ladder": {
+        "floor": 0.0
+    },
+    "robinauts": {
+        "floor": 4.3e-05
+    },
+    "mysterious-satoshi": {
+        "floor": 0.0
+    },
+    "0x9a1a38c88fd52957c3c498c55ad535db6c35d3da": {
+        "floor": 0.0
+    },
+    "0xf7441b4589aaaef78cc1fcef449a9a0a5bc03c6e": {
+        "floor": 0.0
+    },
+    "0xfd9fc4149cd3b7b2bc3474f0bf0d2028b3b65ff5": {
+        "floor": 0.0
+    },
+    "0xeeda4fdefc8b3ad892e21a60a854eabf12f6cf59": {
+        "floor": 0.0
+    },
+    "0xa019811b39546e13e97e18b013587c1caab82e59": {
+        "floor": 0.0
+    },
+    "skull-bros-official": {
+        "floor": 0.0
+    },
+    "0xb6e0fe508e1e36cb267d219dac7c065da7db7068": {
         "floor": 0.0
     }
 }
