@@ -65698,7 +65698,7 @@
         "floor": 0.0
     },
     "pixel-rock-heads": {
-        "floor": 2.03572e-05
+        "floor": 1.63289e-05
     },
     "overcall-channels-rh": {
         "floor": 0.01
@@ -65716,16 +65716,16 @@
         "floor": 0.0
     },
     "cloudlings-739388319": {
-        "floor": 0.01
+        "floor": 0.03
     },
     "hoodosaurs": {
         "floor": 0.0
     },
     "clonks-853023885": {
-        "floor": 4.99e-05
+        "floor": 4.9401e-05
     },
     "sharkzukiii": {
-        "floor": 0.16
+        "floor": 0.08
     },
     "tokenize-fun-operator-259449547": {
         "floor": 0.0
@@ -65741,5 +65741,95 @@
     },
     "kilowagies": {
         "floor": 0.3
+    },
+    "0x65dbffe78416f7cc33be275c6092e4ba6201a2ab": {
+        "floor": 0.0
+    },
+    "pixel-swol-chads": {
+        "floor": 0.00099998
+    },
+    "robull": {
+        "floor": 0.0
+    },
+    "0xa8ed13a91686ef99b5aab14659b0fbb33d77b963": {
+        "floor": 0.0
+    },
+    "omni-strike-force": {
+        "floor": 0.00015899
+    },
+    "kobebyrantmamba": {
+        "floor": 0.0
+    },
+    "pixel-foxes-333298148": {
+        "floor": 0.98
+    },
+    "loan-meme": {
+        "floor": 1.38
+    },
+    "robinhood-billionaire-machines-genesis": {
+        "floor": 0.0
+    },
+    "pixlings-347787499": {
+        "floor": 0.0
+    },
+    "zzz1-ticket": {
+        "floor": 0.0
+    },
+    "name-pro-010": {
+        "floor": 0.0
+    },
+    "pulfen": {
+        "floor": 0.0
+    },
+    "the-organon": {
+        "floor": 0.01
+    },
+    "cute-aoi-friends": {
+        "floor": 0.00089999
+    },
+    "scroll-apes": {
+        "floor": 0.0
+    },
+    "samurai-clan": {
+        "floor": 1.6284e-05
+    },
+    "zk9-226852785": {
+        "floor": 0.0
+    },
+    "pixel-katty-club": {
+        "floor": 1.62796e-05
+    },
+    "boomernft": {
+        "floor": 9e-05
+    },
+    "candle-birds-migration-pass": {
+        "floor": 0.0
+    },
+    "agent-alpha_": {
+        "floor": 0.01
+    },
+    "pepunks-461563327": {
+        "floor": 2.03489e-05
+    },
+    "minehood-399558351": {
+        "floor": 0.02
+    },
+    "frame-probe-774201894": {
+        "floor": 0.0
+    },
+    "pixel-fortress-988208353": {
+        "floor": 0.00099999
+    },
+    "0xa8dcc72afac987c8df5ba780549f77d8c897898f": {
+        "floor": 0.00039999
+    },
+    "exit-liquidity-liquidation-methods-818998642": {
+        "floor": 0.0
+    },
+    "minehood-472524418": {
+        "floor": 20000.0
+    },
+    "theunknownsrh": {
+        "floor": 0.0002
     }
 }
