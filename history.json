@@ -66088,7 +66088,7 @@
         "floor": 0.0
     },
     "0x5234089107e5a0ee18b3d129edbf14921ebcdf30": {
-        "floor": 0.0
+        "floor": 4.9401e-05
     },
     "future-savana-ecosystem-by-virtuals": {
         "floor": 0.0
@@ -66097,13 +66097,13 @@
         "floor": 0.0
     },
     "tiny-pixel-bones": {
-        "floor": 7.995e-05
+        "floor": 4.90799e-05
     },
     "catsi-sbt": {
         "floor": 0.0
     },
     "panda-syndicatee": {
-        "floor": 0.09
+        "floor": 0.03
     },
     "hoodvibes": {
         "floor": 0.0
@@ -66112,7 +66112,7 @@
         "floor": 0.0
     },
     "astro-ballers": {
-        "floor": 8.999e-05
+        "floor": 6.4786e-05
     },
     "the-morf-club": {
         "floor": 0.00499998
@@ -66236,5 +66236,125 @@
     },
     "youshet-nft-806581781": {
         "floor": 4.33903e-05
+    },
+    "future-token-launch-test-in-prod": {
+        "floor": 0.0
+    },
+    "kungfu-panda-236108216": {
+        "floor": 0.0
+    },
+    "return-erc20-note": {
+        "floor": 0.0
+    },
+    "hooded-waifus-216992428": {
+        "floor": 0.0
+    },
+    "authority-keys-391187710": {
+        "floor": 0.0
+    },
+    "authority-keys": {
+        "floor": 0.0
+    },
+    "rumplebitskin": {
+        "floor": 0.0
+    },
+    "bounce-house-kids": {
+        "floor": 0.0
+    },
+    "platform-check-444093401": {
+        "floor": 0.0
+    },
+    "progress-receipt": {
+        "floor": 0.0
+    },
+    "0x9f5b317d86e34d16772c8c768139ae2a682231bd": {
+        "floor": 0.04
+    },
+    "bag-headz-949827447": {
+        "floor": 0.04
+    },
+    "pixelbot-legends": {
+        "floor": 0.03
+    },
+    "yoodle-teens": {
+        "floor": 0.0
+    },
+    "claude-is-a-loser": {
+        "floor": 0.0
+    },
+    "hedge-585741530": {
+        "floor": 0.49
+    },
+    "pagemarkets-images-791783078": {
+        "floor": 0.0
+    },
+    "god-is-the-greatest-146149705": {
+        "floor": 1e-11
+    },
+    "pagemarkets-images": {
+        "floor": 0.0
+    },
+    "0x4d56d3fffc8929ab6806009a2c891f9667ef78f3": {
+        "floor": 0.0
+    },
+    "tiny-pixel-legends": {
+        "floor": 8.63006e-05
+    },
+    "future-botanary-financial-os-by-virtuals-259330157": {
+        "floor": 0.0
+    },
+    "wrapped-staked-metadex-positions-45912299": {
+        "floor": 0.0
+    },
+    "wrapped-metadex-positions-785472357": {
+        "floor": 0.0
+    },
+    "wrapped-staked-metadex-cl-positions-695572440": {
+        "floor": 0.0
+    },
+    "arcadia-staked-metadex03-cl-positions-81875108": {
+        "floor": 0.0
+    },
+    "arcadia-wrapped-metadex03-positions-227808664": {
+        "floor": 0.0
+    },
+    "arcadia-staked-metadex03-positions-801323032": {
+        "floor": 0.0
+    },
+    "the-pixel-turds": {
+        "floor": 5.819e-05
+    },
+    "swag-clout": {
+        "floor": 7.993e-05
+    },
+    "brat-diane": {
+        "floor": 9.99e-05
+    },
+    "giga-chad-society": {
+        "floor": 1.59908e-05
+    },
+    "robin-weapons": {
+        "floor": 0.0
+    },
+    "0xf00848d6a9a281bff075ebe05c831edf3efb320c": {
+        "floor": 0.0001502196
+    },
+    "3d-voxel": {
+        "floor": 0.0
+    },
+    "fake-m3mories-pendant-792700251": {
+        "floor": 0.0
+    },
+    "fake-m3mories-pass-924124161": {
+        "floor": 0.0
+    },
+    "mind-dehood": {
+        "floor": 0.01
+    },
+    "vibeloween": {
+        "floor": 0.0
+    },
+    "genesis-key-voxel-": {
+        "floor": 9.7e-05
     }
 }
