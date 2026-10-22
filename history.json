@@ -66758,5 +66758,149 @@
     },
     "blackout-district-citizens": {
         "floor": 0.01
+    },
+    "0x2205c67869635b95b955cfeb2047f5a9d709138b": {
+        "floor": 0.0
+    },
+    "farmingseason": {
+        "floor": 0.0
+    },
+    "0x43c9974865386d631df4a8d38359a712f08d838f": {
+        "floor": 0.0
+    },
+    "xreign-units-693868410": {
+        "floor": 0.1
+    },
+    "imblue-714509694": {
+        "floor": 0.0
+    },
+    "rockersnfts": {
+        "floor": 0.0
+    },
+    "bursar-patron-441374277": {
+        "floor": 0.0
+    },
+    "raidlords": {
+        "floor": 0.053
+    },
+    "fund-locked-positions-428955311": {
+        "floor": 0.0
+    },
+    "thegloomycats": {
+        "floor": 0.0
+    },
+    "testtesttestflu": {
+        "floor": 0.0
+    },
+    "vault-street-694194737": {
+        "floor": 0.0
+    },
+    "bursar-patron": {
+        "floor": 0.0
+    },
+    "0x06a62d9d13ef7080a9582feb11fb68a67ae260b5": {
+        "floor": 0.0
+    },
+    "hot-buns-14679491": {
+        "floor": 0.0
+    },
+    "bearly-pixel": {
+        "floor": 0.0003
+    },
+    "hot-buns-163624522": {
+        "floor": 0.0
+    },
+    "future-coinflip-game-by-virtuals-697323445": {
+        "floor": 0.0
+    },
+    "future-itsovercall-by-virtuals": {
+        "floor": 0.0
+    },
+    "future-coinflip-by-virtuals-833491813": {
+        "floor": 0.0
+    },
+    "future-click-coin-by-virtuals": {
+        "floor": 0.0
+    },
+    "0x124c8206ee8429712657fe1f84c0dba1a2a9d4b4": {
+        "floor": 0.0
+    },
+    "0xa86f0da96b1fb50e1a0aa220dab4700626c89a99": {
+        "floor": 0.0
+    },
+    "rh-eggs-society": {
+        "floor": 1.62705e-05
+    },
+    "blue-origin-316431654": {
+        "floor": 78.0
+    },
+    "space-cowboy-663620531": {
+        "floor": 0.0
+    },
+    "buff-jezos": {
+        "floor": 50.0
+    },
+    "startup-grind": {
+        "floor": 72.0
+    },
+    "future-coinflip-game-637057623": {
+        "floor": 0.0
+    },
+    "district49-mint-test": {
+        "floor": 1.5
+    },
+    "fuzzy-751598296": {
+        "floor": 2.09479e-05
+    },
+    "apein-332264766": {
+        "floor": 0.0
+    },
+    "g-e-i-s-h-a": {
+        "floor": 8.349e-06
+    },
+    "bramble-thickets-372029923": {
+        "floor": 0.0
+    },
+    "bramble-seeds-389806243": {
+        "floor": 0.0
+    },
+    "future-sunrun-game-by-virtuals": {
+        "floor": 0.0
+    },
+    "ccff00-on-rugs": {
+        "floor": 0.17
+    },
+    "motion-140251920": {
+        "floor": 0.0
+    },
+    "bramble-thickets": {
+        "floor": 0.0
+    },
+    "bramble-seeds": {
+        "floor": 0.0
+    },
+    "bounce-bura": {
+        "floor": 0.01
+    },
+    "the-olymphus": {
+        "floor": 0.005
+    },
+    "gen-zero-rh": {
+        "floor": 2.09976e-05
+    },
+    "future-flip-coin-by-virtuals": {
+        "floor": 0.0
+    },
+    "future-coinflip-game-by-virtuals-953194276": {
+        "floor": 0.0
+    },
+    "stronghold-opensea-rehearsal-not-official-404507368": {
+        "floor": 0.0
+    },
+    "c-o-w-s-h-o-o-d": {
+        "floor": 8.346e-06
+    },
+    "aoham": {
+        "floor": 0.04
     }
 }
