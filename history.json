@@ -67216,19 +67216,19 @@
         "floor": 0.0
     },
     "influence-family": {
-        "floor": 0.00015
+        "floor": 0.00011931
     },
     "henlo-friend": {
         "floor": 0.0
     },
     "hoodrhinos": {
-        "floor": 0.08
+        "floor": 0.04
     },
     "lil-monster-522730844": {
         "floor": 0.0
     },
     "influence-286090447": {
-        "floor": 0.003
+        "floor": 0.2
     },
     "liquidity-book-token-262684252": {
         "floor": 0.0
@@ -67240,10 +67240,10 @@
         "floor": 0.0
     },
     "stray-society-120203750": {
-        "floor": 2.0771192848062e-05
+        "floor": 0.03
     },
     "fhog": {
-        "floor": 8.3e-05
+        "floor": 6.929999e-05
     },
     "vangrid-agents-210955102": {
         "floor": 0.0
@@ -67252,16 +67252,16 @@
         "floor": 0.0
     },
     "minly-hood": {
-        "floor": 0.01
+        "floor": 0.04
     },
     "xreign-units-nft-197011379": {
-        "floor": 3.996e-05
+        "floor": 2.90609e-05
     },
     "ape-hood-nft-6786352": {
-        "floor": 0.00199997
+        "floor": 0.0001169652
     },
     "robot-mages-nft": {
-        "floor": 7.75803e-05
+        "floor": 5.81727e-05
     },
     "secondary-for-you-son": {
         "floor": 0.0
@@ -67270,19 +67270,19 @@
         "floor": 0.0
     },
     "stronghold-dwarves-rehearsal-15m-20261023": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "rh-dogs-on-drugs": {
-        "floor": 0.0
+        "floor": 0.000495
     },
     "forever-pass": {
         "floor": 0.0
     },
     "digital-dragons-3452408": {
-        "floor": 0.0008
+        "floor": 0.0003
     },
     "anthood-288170152": {
-        "floor": 0.0
+        "floor": 5e-05
     },
     "solveai-access-pass-7934323": {
         "floor": 0.0
@@ -67291,7 +67291,7 @@
         "floor": 0.0
     },
     "two-men-touch-tips": {
-        "floor": 0.05
+        "floor": 6969.0
     },
     "solveai-access-pass": {
         "floor": 0.0
@@ -67334,5 +67334,71 @@
     },
     "zumi-shoes-hood": {
         "floor": 0.01
+    },
+    "test-roach-7-nft": {
+        "floor": 0.0
+    },
+    "chiffys": {
+        "floor": 0.0
+    },
+    "estuary-553661661": {
+        "floor": 0.0
+    },
+    "influence-965141025": {
+        "floor": 0.000208322917187473
+    },
+    "oral69": {
+        "floor": 0.0
+    },
+    "rendered-hardware-laptops": {
+        "floor": 0.0
+    },
+    "stronghold-opensea-rehearsal-not-official-893944618": {
+        "floor": 0.0
+    },
+    "bibihood-agent-rh": {
+        "floor": 0.0
+    },
+    "portal-vault-position-272240976": {
+        "floor": 0.0
+    },
+    "portal-vault-position-423641198": {
+        "floor": 0.0
+    },
+    "0x797c2bb58c9c3daa4a920387e9994ba464a31b21": {
+        "floor": 0.0
+    },
+    "messi-messi": {
+        "floor": 0.0
+    },
+    "mintegra-relic-532364174": {
+        "floor": 0.0
+    },
+    "cascade-254522955": {
+        "floor": 0.0
+    },
+    "wipes-487650250": {
+        "floor": 0.2
+    },
+    "vramlings": {
+        "floor": 0.0
+    },
+    "designer-ccff00": {
+        "floor": 0.0
+    },
+    "gary-857071196": {
+        "floor": 0.0
+    },
+    "0x27a4b5e5cf796a1fbded68e228f5da1df8bcc82b": {
+        "floor": 0.0
+    },
+    "vibe-dollars": {
+        "floor": 0.0
+    },
+    "omnihub-faucet-pass-979732734": {
+        "floor": 0.0
+    },
+    "galadriel03-579028661": {
+        "floor": 0.0
     }
 }
