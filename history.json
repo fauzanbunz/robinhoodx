@@ -66790,7 +66790,7 @@
         "floor": 0.0
     },
     "testtesttestflu": {
-        "floor": 0.0
+        "floor": 0.1
     },
     "vault-street-694194737": {
         "floor": 0.0
@@ -66805,7 +66805,7 @@
         "floor": 0.0
     },
     "bearly-pixel": {
-        "floor": 0.0003
+        "floor": 0.00028
     },
     "hot-buns-163624522": {
         "floor": 0.0
@@ -66829,7 +66829,7 @@
         "floor": 0.0
     },
     "rh-eggs-society": {
-        "floor": 1.62705e-05
+        "floor": 1.25361e-05
     },
     "blue-origin-316431654": {
         "floor": 78.0
@@ -66901,6 +66901,75 @@
         "floor": 8.346e-06
     },
     "aoham": {
+        "floor": 0.04
+    },
+    "0x28a18c44540fa49b3b489e391e8a27459de12290": {
+        "floor": 0.0
+    },
+    "kickflip-motors-415067760": {
+        "floor": 0.0
+    },
+    "0x4578be79e6905ed8b7e406f965823d5252858db8": {
+        "floor": 0.0
+    },
+    "robigotchi-79254989": {
+        "floor": 0.0
+    },
+    "moods-rh": {
+        "floor": 0.21
+    },
+    "seeker-mantels": {
+        "floor": 0.0
+    },
+    "clawd-mascot-hood": {
+        "floor": 0.05
+    },
+    "dario-altman": {
+        "floor": 0.0
+    },
+    "wodlr-alien-origins": {
+        "floor": 0.0
+    },
+    "the-hardest-fight": {
+        "floor": 0.0
+    },
+    "cosmic-980062872": {
+        "floor": 0.0
+    },
+    "1-800-555-pepe": {
+        "floor": 10.0
+    },
+    "test-collectible-11310574": {
+        "floor": 0.0
+    },
+    "galaxy-cats-927927440": {
+        "floor": 0.0
+    },
+    "pixel-plebs-game": {
+        "floor": 0.001
+    },
+    "hoo2": {
+        "floor": 0.0
+    },
+    "mind-punks": {
+        "floor": 0.0
+    },
+    "thegloomycats-425752071": {
+        "floor": 6.93
+    },
+    "0x3dcbafc13ab179a2eace406a3822b6715171c84f": {
+        "floor": 9.8
+    },
+    "0x3c4ce7cdc6227b980a6cadb175c60ae6698ac17e": {
+        "floor": 0.0
+    },
+    "sopranos-intelligence-tier-list": {
+        "floor": 0.01
+    },
+    "chainstreak-nft-292645166": {
+        "floor": 0.0
+    },
+    "glitch-sovereigns": {
         "floor": 0.04
     }
 }
