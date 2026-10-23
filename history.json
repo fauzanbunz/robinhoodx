@@ -66904,13 +66904,13 @@
         "floor": 0.04
     },
     "0x28a18c44540fa49b3b489e391e8a27459de12290": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "kickflip-motors-415067760": {
         "floor": 0.0
     },
     "0x4578be79e6905ed8b7e406f965823d5252858db8": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "robigotchi-79254989": {
         "floor": 0.0
@@ -66943,7 +66943,7 @@
         "floor": 0.0
     },
     "galaxy-cats-927927440": {
-        "floor": 0.0
+        "floor": 0.34
     },
     "pixel-plebs-game": {
         "floor": 0.001
@@ -66955,10 +66955,10 @@
         "floor": 0.0
     },
     "thegloomycats-425752071": {
-        "floor": 6.93
+        "floor": 6.87
     },
     "0x3dcbafc13ab179a2eace406a3822b6715171c84f": {
-        "floor": 9.8
+        "floor": 9.75
     },
     "0x3c4ce7cdc6227b980a6cadb175c60ae6698ac17e": {
         "floor": 0.0
@@ -66971,5 +66971,92 @@
     },
     "glitch-sovereigns": {
         "floor": 0.04
+    },
+    "agentic-cat-84498931": {
+        "floor": 0.0
+    },
+    "credgy": {
+        "floor": 0.0
+    },
+    "0xb3bea2b19b48874956555bd1d0a761c3640a0ca4": {
+        "floor": 9.85
+    },
+    "future-coinflip-by-virtuals-833320959": {
+        "floor": 0.0
+    },
+    "hoodwolves-832161997": {
+        "floor": 0.0
+    },
+    "cozygolem": {
+        "floor": 10.0
+    },
+    "cardpass-732103535": {
+        "floor": 0.0
+    },
+    "saviors-slash": {
+        "floor": 0.02
+    },
+    "swarmx-agents-798020652": {
+        "floor": 5.0
+    },
+    "0xf361f14e3846a920af38ffde66007aeaf4b78b0c": {
+        "floor": 0.0
+    },
+    "anon-cabal": {
+        "floor": 0.0
+    },
+    "thegloomycats-874684192": {
+        "floor": 0.0
+    },
+    "build-a-crew-rh": {
+        "floor": 10.0
+    },
+    "swarmx-agents": {
+        "floor": 2.99
+    },
+    "agentic-cat-960444769": {
+        "floor": 0.0
+    },
+    "robin-cats-the-vault": {
+        "floor": 10.0
+    },
+    "hallowheads": {
+        "floor": 0.0
+    },
+    "agentic-cat": {
+        "floor": 0.0
+    },
+    "ribkfym": {
+        "floor": 0.0
+    },
+    "a-dream-791228490": {
+        "floor": 0.0
+    },
+    "0xfde46eef7a1510ac4a899a4e97b2e9e737f74583": {
+        "floor": 0.0
+    },
+    "moods-303241721": {
+        "floor": 0.0
+    },
+    "-358760552": {
+        "floor": 0.05
+    },
+    "balance-50912859": {
+        "floor": 0.026
+    },
+    "future-itsovercall-by-virtuals-625301184": {
+        "floor": 0.0
+    },
+    "rogue-ai-agents": {
+        "floor": 0.0
+    },
+    "robinhood-don-pepe": {
+        "floor": 0.0
+    },
+    "gain-ten-lose-fifteen": {
+        "floor": 0.0
+    },
+    "pairpad": {
+        "floor": 0.0
     }
 }
