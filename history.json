@@ -67075,19 +67075,19 @@
         "floor": 0.01
     },
     "loopers-hood": {
-        "floor": 0.45
+        "floor": 0.18
     },
     "0xe1df5e735fa4be36c27db0d8b5f920176867ab87": {
-        "floor": 0.00499999
+        "floor": 0.0001173242
     },
     "chaingreets-nft-479533593": {
         "floor": 0.0
     },
     "xreign-units-nft": {
-        "floor": 10.0
+        "floor": 0.01
     },
     "thegloomycats-nft": {
-        "floor": 0.9
+        "floor": 0.85
     },
     "the-ascendants-866412254": {
         "floor": 4.1698027057849e-05
@@ -67208,5 +67208,131 @@
     },
     "agentic-cat-531294495": {
         "floor": 0.0
+    },
+    "el-luchador-hood": {
+        "floor": 0.0
+    },
+    "0xb2db42d19d5f5b774942ffdad09d40f24b9f33cd": {
+        "floor": 0.0
+    },
+    "influence-family": {
+        "floor": 0.00015
+    },
+    "henlo-friend": {
+        "floor": 0.0
+    },
+    "hoodrhinos": {
+        "floor": 0.08
+    },
+    "lil-monster-522730844": {
+        "floor": 0.0
+    },
+    "influence-286090447": {
+        "floor": 0.003
+    },
+    "liquidity-book-token-262684252": {
+        "floor": 0.0
+    },
+    "sasta-bech-dya": {
+        "floor": 0.0
+    },
+    "mintegra-relic": {
+        "floor": 0.0
+    },
+    "stray-society-120203750": {
+        "floor": 2.0771192848062e-05
+    },
+    "fhog": {
+        "floor": 8.3e-05
+    },
+    "vangrid-agents-210955102": {
+        "floor": 0.0
+    },
+    "would-be-a-shame": {
+        "floor": 0.0
+    },
+    "minly-hood": {
+        "floor": 0.01
+    },
+    "xreign-units-nft-197011379": {
+        "floor": 3.996e-05
+    },
+    "ape-hood-nft-6786352": {
+        "floor": 0.00199997
+    },
+    "robot-mages-nft": {
+        "floor": 7.75803e-05
+    },
+    "secondary-for-you-son": {
+        "floor": 0.0
+    },
+    "robinvaultnft": {
+        "floor": 0.0
+    },
+    "stronghold-dwarves-rehearsal-15m-20261023": {
+        "floor": 0.0
+    },
+    "rh-dogs-on-drugs": {
+        "floor": 0.0
+    },
+    "forever-pass": {
+        "floor": 0.0
+    },
+    "digital-dragons-3452408": {
+        "floor": 0.0008
+    },
+    "anthood-288170152": {
+        "floor": 0.0
+    },
+    "solveai-access-pass-7934323": {
+        "floor": 0.0
+    },
+    "fcfs-drop": {
+        "floor": 0.0
+    },
+    "two-men-touch-tips": {
+        "floor": 0.05
+    },
+    "solveai-access-pass": {
+        "floor": 0.0
+    },
+    "payphone-242945657": {
+        "floor": 0.0
+    },
+    "3d-invisible-mane": {
+        "floor": 0.01
+    },
+    "apetarde": {
+        "floor": 0.04
+    },
+    "rbh-heroes": {
+        "floor": 0.0055
+    },
+    "toadex-v3-positions-nft-v1": {
+        "floor": 0.0
+    },
+    "0x846f9859b3a403c924d392889e5dd95dc9d8000c": {
+        "floor": 0.0
+    },
+    "blooomshire": {
+        "floor": 0.01
+    },
+    "flushiesrh": {
+        "floor": 0.0
+    },
+    "robot-me": {
+        "floor": 0.00079994
+    },
+    "non-fungible-credential-895308316": {
+        "floor": 0.0
+    },
+    "0x16289e914bced46f31d32f44492f161eb05062cd": {
+        "floor": 0.0
+    },
+    "hens-cornerstones": {
+        "floor": 0.0
+    },
+    "zumi-shoes-hood": {
+        "floor": 0.01
     }
 }
