@@ -67345,7 +67345,7 @@
         "floor": 0.0
     },
     "influence-965141025": {
-        "floor": 0.000156242187890604
+        "floor": 8.700736838158e-05
     },
     "oral69": {
         "floor": 0.0
@@ -67405,13 +67405,13 @@
         "floor": 0.0
     },
     "neonlimet": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "legion-5-7274841": {
         "floor": 0.0
     },
     "gojo-946457115": {
-        "floor": 0.5
+        "floor": 0.03
     },
     "sheikha-dheela-edition-219870977": {
         "floor": 0.0
@@ -67420,13 +67420,13 @@
         "floor": 0.0
     },
     "halo-nodes-nft-129993144": {
-        "floor": 0.5
+        "floor": 0.29
     },
     "evory": {
         "floor": 0.0
     },
     "zombie-robinhood-punk": {
-        "floor": 1.94e-05
+        "floor": 1.09125e-05
     },
     "222-lahori-edition": {
         "floor": 0.0
@@ -67447,12 +67447,84 @@
         "floor": 0.0
     },
     "mozhurh": {
-        "floor": 0.5
+        "floor": 0.3
     },
     "mining-systems-operators": {
-        "floor": 2.8e-05
+        "floor": 2.475e-05
     },
     "stronghold-dwarves-rehearsal-next-20261023": {
+        "floor": 1.0
+    },
+    "pharaoh-god-mob-rh": {
+        "floor": 10.0
+    },
+    "orchard-plots-281779383": {
         "floor": 0.0
+    },
+    "orchard-plots": {
+        "floor": 0.0
+    },
+    "arixenz-432160176": {
+        "floor": 0.0
+    },
+    "arixenz": {
+        "floor": 0.0
+    },
+    "giga-legends-rh": {
+        "floor": 0.072
+    },
+    "testdrop-556022241": {
+        "floor": 0.0
+    },
+    "monrecces": {
+        "floor": 0.02
+    },
+    "sniper-elite-486683229": {
+        "floor": 0.0
+    },
+    "pixel-ghosts-437658315": {
+        "floor": 0.0
+    },
+    "replica-783072882": {
+        "floor": 0.0
+    },
+    "rektguy-tradooor": {
+        "floor": 25.0
+    },
+    "monkey-hood-nft-482891853": {
+        "floor": 5.99
+    },
+    "vectrbot": {
+        "floor": 0.0
+    },
+    "cash-grab-nft-886969677": {
+        "floor": 5.99
+    },
+    "agenticpenguin": {
+        "floor": 0.0
+    },
+    "the-tera-raiders": {
+        "floor": 0.016
+    },
+    "handsomechaps": {
+        "floor": 0.0
+    },
+    "pixel-agents-762355538": {
+        "floor": 0.05
+    },
+    "0x9d30fa1a0041319da7d399df2c9d0618b072f4e0": {
+        "floor": 0.0
+    },
+    "9999-529503518": {
+        "floor": 0.0
+    },
+    "baby-pixel": {
+        "floor": 0.04
+    },
+    "0xc0f8a33dce15422aff1b796840ce115430035b5f": {
+        "floor": 0.0
+    },
+    "888frens": {
+        "floor": 0.0025
     }
 }
