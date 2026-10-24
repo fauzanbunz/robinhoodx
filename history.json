@@ -67456,7 +67456,7 @@
         "floor": 1.0
     },
     "pharaoh-god-mob-rh": {
-        "floor": 10.0
+        "floor": 0.49
     },
     "orchard-plots-281779383": {
         "floor": 0.0
@@ -67526,5 +67526,116 @@
     },
     "888frens": {
         "floor": 0.0025
+    },
+    "ithinkitsart-883476119": {
+        "floor": 0.0
+    },
+    "pixel-plebs-game-nft": {
+        "floor": 0.0
+    },
+    "minters-pack-receipt": {
+        "floor": 0.0
+    },
+    "senba-cranes": {
+        "floor": 0.0
+    },
+    "senba-sheets": {
+        "floor": 0.0
+    },
+    "outcowl": {
+        "floor": 0.0
+    },
+    "embervale-919520244": {
+        "floor": 0.007227
+    },
+    "shattered-sleepers": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-795151939": {
+        "floor": 0.0
+    },
+    "soulsclubs": {
+        "floor": 0.0
+    },
+    "founder-packs-test": {
+        "floor": 0.0
+    },
+    "dripster-999203444": {
+        "floor": 0.0
+    },
+    "tape-721160539": {
+        "floor": 0.0
+    },
+    "monkhaos": {
+        "floor": 0.29
+    },
+    "settl-invoice-nft-413733708": {
+        "floor": 0.0
+    },
+    "sf-657345592": {
+        "floor": 0.0
+    },
+    "xwanted": {
+        "floor": 0.0
+    },
+    "future-caretaker-by-virtuals": {
+        "floor": 0.0
+    },
+    "0xb72da7dc381b72380ec1bfb9c876ca67127fadbd": {
+        "floor": 0.0
+    },
+    "cloverbots": {
+        "floor": 0.05
+    },
+    "magic-stone-robinhood": {
+        "floor": 0.0
+    },
+    "0x056f569743da912da0f2d5e70964d9405a98d1f0": {
+        "floor": 0.0
+    },
+    "broodz-857864946": {
+        "floor": 0.00499997
+    },
+    "rh-baby-bulls": {
+        "floor": 0.00046
+    },
+    "3ws-forge": {
+        "floor": 0.0
+    },
+    "hoodogden": {
+        "floor": 0.0
+    },
+    "snothood": {
+        "floor": 0.3
+    },
+    "0xf9fc0f9b37b150c1d92325c4a4f616b5030ae82a": {
+        "floor": 5.99
+    },
+    "fomo-onchain-test-775151361": {
+        "floor": 0.0
+    },
+    "fomo-onchain-test": {
+        "floor": 0.0
+    },
+    "0x763d0f31de2f82e8fe8a334bd35e0728dcfc4611": {
+        "floor": 0.0
+    },
+    "rare-buggy": {
+        "floor": 0.0
+    },
+    "eurrlgr": {
+        "floor": 0.0
+    },
+    "hyper-kidz-nft": {
+        "floor": 9.95
+    },
+    "0x8789c535bb4ed6b6ad201508154ab5a83b0cd47e-875708056": {
+        "floor": 0.0
+    },
+    "mech-matrix": {
+        "floor": 0.0
+    },
+    "giga-legends-": {
+        "floor": 0.072
     }
 }
