@@ -67216,13 +67216,13 @@
         "floor": 0.0
     },
     "influence-family": {
-        "floor": 0.00011931
+        "floor": 0.00011811
     },
     "henlo-friend": {
         "floor": 0.0
     },
     "hoodrhinos": {
-        "floor": 0.04
+        "floor": 0.03
     },
     "lil-monster-522730844": {
         "floor": 0.0
@@ -67345,7 +67345,7 @@
         "floor": 0.0
     },
     "influence-965141025": {
-        "floor": 0.000208322917187473
+        "floor": 0.000156242187890604
     },
     "oral69": {
         "floor": 0.0
@@ -67357,7 +67357,7 @@
         "floor": 0.0
     },
     "bibihood-agent-rh": {
-        "floor": 0.0
+        "floor": 0.001
     },
     "portal-vault-position-272240976": {
         "floor": 0.0
@@ -67378,7 +67378,7 @@
         "floor": 0.0
     },
     "wipes-487650250": {
-        "floor": 0.2
+        "floor": 0.19
     },
     "vramlings": {
         "floor": 0.0
@@ -67399,6 +67399,60 @@
         "floor": 0.0
     },
     "galadriel03-579028661": {
+        "floor": 0.0
+    },
+    "badam": {
+        "floor": 0.0
+    },
+    "neonlimet": {
+        "floor": 0.0
+    },
+    "legion-5-7274841": {
+        "floor": 0.0
+    },
+    "gojo-946457115": {
+        "floor": 0.5
+    },
+    "sheikha-dheela-edition-219870977": {
+        "floor": 0.0
+    },
+    "sheikha-dheela-edition": {
+        "floor": 0.0
+    },
+    "halo-nodes-nft-129993144": {
+        "floor": 0.5
+    },
+    "evory": {
+        "floor": 0.0
+    },
+    "zombie-robinhood-punk": {
+        "floor": 1.94e-05
+    },
+    "222-lahori-edition": {
+        "floor": 0.0
+    },
+    "0x7e4916b77880f9cf1d6fb086eb56d8a4ec8b13b9": {
+        "floor": 0.0
+    },
+    "cactusguys": {
+        "floor": 0.0
+    },
+    "ossen-money": {
+        "floor": 0.0
+    },
+    "test-roach-8-nft": {
+        "floor": 0.0
+    },
+    "111-806451036": {
+        "floor": 0.0
+    },
+    "mozhurh": {
+        "floor": 0.5
+    },
+    "mining-systems-operators": {
+        "floor": 2.8e-05
+    },
+    "stronghold-dwarves-rehearsal-next-20261023": {
         "floor": 0.0
     }
 }
