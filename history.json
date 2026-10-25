@@ -68299,7 +68299,7 @@
         "floor": 0.0
     },
     "robtown-rh": {
-        "floor": 0.0
+        "floor": 6.73425e-05
     },
     "broken-pixel-333506190": {
         "floor": 0.0
@@ -68308,13 +68308,13 @@
         "floor": 0.0
     },
     "santa-early": {
-        "floor": 0.0
+        "floor": 0.02
     },
     "cardboxs": {
-        "floor": 0.05
+        "floor": 0.01
     },
     "hood-soulmates": {
-        "floor": 0.0004257
+        "floor": 0.00495
     },
     "ccff00-sphincter": {
         "floor": 0.0
@@ -68341,7 +68341,7 @@
         "floor": 0.0
     },
     "smolpix": {
-        "floor": 2.14108e-05
+        "floor": 1.69477e-05
     },
     "0xea22b79593140a528c798b5112b6be59b0d8fb20": {
         "floor": 0.0
@@ -68350,7 +68350,7 @@
         "floor": 0.0
     },
     "moonpetal-grove": {
-        "floor": 0.09
+        "floor": 0.07
     },
     "0xec1cb305eb9381bd116cd27e78206da965b6405c": {
         "floor": 0.0
@@ -68362,10 +68362,10 @@
         "floor": 0.75
     },
     "vault-street-nft-796351198": {
-        "floor": 4.999e-05
+        "floor": 3.5257e-05
     },
     "gecko-plenger-rh": {
-        "floor": 7.977e-05
+        "floor": 4.70547e-05
     },
     "pixel-plebs-123403262": {
         "floor": 8.886e-05
@@ -68416,6 +68416,87 @@
         "floor": 4.282398485743e-06
     },
     "0xa72d4098f77e78b26e6df10a6d7ee64a755a9171": {
+        "floor": 0.0
+    },
+    "bitsigil": {
+        "floor": 0.0
+    },
+    "emojees-410729519": {
+        "floor": 4.79759e-05
+    },
+    "snorkelhood": {
+        "floor": 0.0
+    },
+    "rob-town-439774783": {
+        "floor": 0.47
+    },
+    "arcade-machine-173749958": {
+        "floor": 0.0
+    },
+    "oddwicked": {
+        "floor": 0.02
+    },
+    "swolchads-300001731": {
+        "floor": 1.6939e-05
+    },
+    "royal-bone-dynasty-434870667": {
+        "floor": 0.0
+    },
+    "floor-feeders-2": {
+        "floor": 1.0
+    },
+    "theregulars": {
+        "floor": 0.1
+    },
+    "future-offset-by-virtuals": {
+        "floor": 0.0
+    },
+    "down-bad-bears-641488210": {
+        "floor": 0.0
+    },
+    "sprite-626739097": {
+        "floor": 0.1
+    },
+    "stronghold-dwarves": {
+        "floor": 0.0
+    },
+    "future-auto-by-virtuals": {
+        "floor": 0.0
+    },
+    "cluster-gpu": {
+        "floor": 0.0
+    },
+    "the-bot-league": {
+        "floor": 0.0055
+    },
+    "delete-this-232893318": {
+        "floor": 0.0
+    },
+    "rob-town-443456223": {
+        "floor": 9.999e-05
+    },
+    "future-hexrobo-by-virtuals": {
+        "floor": 0.0
+    },
+    "0x6d32a38cc2c81ea7996b08aff55e0ccafd4ff4f3": {
+        "floor": 0.28
+    },
+    "farmfi-693845494": {
+        "floor": 7.69688e-05
+    },
+    "rob-town-453350276": {
+        "floor": 0.37
+    },
+    "hood-lady-skulls": {
+        "floor": 0.0
+    },
+    "fluffy-pot-333284771": {
+        "floor": 0.011
+    },
+    "robinhoodsaudis": {
+        "floor": 0.01
+    },
+    "brokxel": {
         "floor": 0.0
     }
 }
