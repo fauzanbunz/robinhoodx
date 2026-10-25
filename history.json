@@ -68233,10 +68233,10 @@
         "floor": 0.0
     },
     "dota-heroes-pixel-battlegrounds": {
-        "floor": 0.0
+        "floor": 2.9e-05
     },
     "snocro": {
-        "floor": 0.41
+        "floor": 0.04
     },
     "chaingreets-nft-31036137": {
         "floor": 0.0
@@ -68254,13 +68254,13 @@
         "floor": 25.0
     },
     "exrodot-hood": {
-        "floor": 0.97
+        "floor": 0.95
     },
     "hood-army": {
         "floor": 0.0
     },
     "squash-pirate": {
-        "floor": 0.37
+        "floor": 0.03
     },
     "0x450aeb35908d600cf897e2e16dceca1b6ff68a0f": {
         "floor": 0.028
@@ -68296,6 +68296,126 @@
         "floor": 0.00049999
     },
     "rayville-hills-land": {
+        "floor": 0.0
+    },
+    "robtown-rh": {
+        "floor": 0.0
+    },
+    "broken-pixel-333506190": {
+        "floor": 0.0
+    },
+    "trick-or-treaters-964110512": {
+        "floor": 0.0
+    },
+    "santa-early": {
+        "floor": 0.0
+    },
+    "cardboxs": {
+        "floor": 0.05
+    },
+    "hood-soulmates": {
+        "floor": 0.0004257
+    },
+    "ccff00-sphincter": {
+        "floor": 0.0
+    },
+    "once-more-552258565": {
+        "floor": 0.0
+    },
+    "carpettest": {
+        "floor": 0.0
+    },
+    "adriana-896029937": {
+        "floor": 0.0
+    },
+    "genesis-hatchlings": {
+        "floor": 0.0
+    },
+    "dotfomo-337987573": {
+        "floor": 0.0
+    },
+    "pumplienz": {
+        "floor": 0.0
+    },
+    "sheikha-testing-voucher": {
+        "floor": 0.0
+    },
+    "smolpix": {
+        "floor": 2.14108e-05
+    },
+    "0xea22b79593140a528c798b5112b6be59b0d8fb20": {
+        "floor": 0.0
+    },
+    "dotfomo": {
+        "floor": 0.0
+    },
+    "moonpetal-grove": {
+        "floor": 0.09
+    },
+    "0xec1cb305eb9381bd116cd27e78206da965b6405c": {
+        "floor": 0.0
+    },
+    "rhmintix": {
+        "floor": 0.44
+    },
+    "mintix": {
+        "floor": 0.75
+    },
+    "vault-street-nft-796351198": {
+        "floor": 4.999e-05
+    },
+    "gecko-plenger-rh": {
+        "floor": 7.977e-05
+    },
+    "pixel-plebs-123403262": {
+        "floor": 8.886e-05
+    },
+    "runner-genesis": {
+        "floor": 0.0
+    },
+    "rawrsaurs-5": {
+        "floor": 0.0
+    },
+    "deathnauts": {
+        "floor": 0.0
+    },
+    "farming-season-v1": {
+        "floor": 0.00249998
+    },
+    "0xc7b291917b94545318fc361dd5e8f0cc93fb2b68": {
+        "floor": 0.0
+    },
+    "0xbabynut-nft": {
+        "floor": 0.01
+    },
+    "screeners": {
+        "floor": 4.5e-05
+    },
+    "0xfe8cd108cc815dcdeaa414a7f60fcf55e40f4c1b": {
+        "floor": 0.0055
+    },
+    "wander-forest": {
+        "floor": 0.09
+    },
+    "rawrsaurs5": {
+        "floor": 0.0
+    },
+    "rawrsaurs": {
+        "floor": 0.0
+    },
+    "cityland-deeds": {
+        "floor": 0.0
+    },
+    "baudet-du-poitou-pixel": {
+        "floor": 0.0
+    },
+    "baudet-du-poitou": {
+        "floor": 0.07
+    },
+    "inkbit-press-cards": {
+        "floor": 4.282398485743e-06
+    },
+    "0xa72d4098f77e78b26e6df10a6d7ee64a755a9171": {
         "floor": 0.0
     }
 }
