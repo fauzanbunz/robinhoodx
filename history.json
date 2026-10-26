@@ -68515,7 +68515,7 @@
         "floor": 0.0
     },
     "botwatchers": {
-        "floor": 0.000176900275705552
+        "floor": 0.000135598
     },
     "shaikha-flexing": {
         "floor": 0.0
@@ -68587,10 +68587,10 @@
         "floor": 1.0
     },
     "farming-season-nft": {
-        "floor": 0.14
+        "floor": 0.11
     },
     "hood-pixel-punks": {
-        "floor": 0.26
+        "floor": 0.01
     },
     "dfghjj-462669267": {
         "floor": 0.0
@@ -68614,7 +68614,7 @@
         "floor": 0.0
     },
     "pink-is-punks-nft": {
-        "floor": 0.00499999
+        "floor": 2.98848e-05
     },
     "0x0847005312cd416d53d805a52407274437f8fd31": {
         "floor": 0.0
@@ -68644,9 +68644,63 @@
         "floor": 0.0
     },
     "floor-feeders-nft": {
-        "floor": 0.49
+        "floor": 0.47
     },
     "soulbones-732686089": {
         "floor": 0.0
+    },
+    "crypto-heroes-885198218": {
+        "floor": 0.0
+    },
+    "offbody-limited-edition": {
+        "floor": 20.0
+    },
+    "rift-relics-74209313": {
+        "floor": 0.0
+    },
+    "the-rebate-pad": {
+        "floor": 0.0055
+    },
+    "0x16601052c4b738fd5f43c79060dd60a9a5e0b26c": {
+        "floor": 0.0
+    },
+    "vectr-limited-edition": {
+        "floor": 10.0
+    },
+    "peacock-801529062": {
+        "floor": 0.0
+    },
+    "pixel-frogs-553168637": {
+        "floor": 4.041e-05
+    },
+    "the-lycans": {
+        "floor": 1.2884052120285e-05
+    },
+    "0xfd497a2e6b790579156632de081802906a5cea25": {
+        "floor": 0.0
+    },
+    "liona-116314053": {
+        "floor": 5.99
+    },
+    "rift-cards": {
+        "floor": 1.5
+    },
+    "moggs": {
+        "floor": 0.0
+    },
+    "gta6onchain": {
+        "floor": 0.0
+    },
+    "raid-lords": {
+        "floor": 10.0
+    },
+    "hashline": {
+        "floor": 0.0
+    },
+    "pawsworldcollection": {
+        "floor": 0.0
+    },
+    "squeek-925148174": {
+        "floor": 10.0
     }
 }
