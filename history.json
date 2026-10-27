@@ -69355,7 +69355,7 @@
         "floor": 0.0
     },
     "hoodrunner-": {
-        "floor": 0.0
+        "floor": 0.07
     },
     "catchbackcards": {
         "floor": 0.0
@@ -69364,7 +69364,7 @@
         "floor": 0.016
     },
     "ensv3": {
-        "floor": 5e-05
+        "floor": 9.9e-06
     },
     "erororororor": {
         "floor": 0.0
@@ -69373,19 +69373,19 @@
         "floor": 0.08
     },
     "monkey-punks-751873311": {
-        "floor": 9.998e-05
+        "floor": 9.996e-05
     },
     "drugged-cult-cats": {
         "floor": 0.0
     },
     "moonpaw-pals": {
-        "floor": 0.2
+        "floor": 0.05
     },
     "hoodora": {
         "floor": 0.015
     },
     "arklis-nft-759694298": {
-        "floor": 0.00399999
+        "floor": 0.00399998
     },
     "option-positions-632313965": {
         "floor": 0.0
@@ -69497,5 +69497,104 @@
     },
     "neon-nomads-413483400": {
         "floor": 0.02
+    },
+    "vaultlings-legendary": {
+        "floor": 0.05
+    },
+    "evmpeg-708557879": {
+        "floor": 0.0
+    },
+    "nothing-backed-by-belief-nfts": {
+        "floor": 4e-05
+    },
+    "patients-404": {
+        "floor": 0.0
+    },
+    "0xeac4a42226aefb6b71b5a48b61146b1632df2caa-881107865": {
+        "floor": 0.0
+    },
+    "jarlings": {
+        "floor": 0.0
+    },
+    "jarlings-lab-supplies": {
+        "floor": 0.0
+    },
+    "vaultlings-limited-edition-283580231": {
+        "floor": 0.025
+    },
+    "pickrush-gear": {
+        "floor": 0.0
+    },
+    "zeropegs-158302842": {
+        "floor": 0.0
+    },
+    "lumina-souls": {
+        "floor": 0.0
+    },
+    "odd-eggs-307961298": {
+        "floor": 0.0
+    },
+    "robieggz-nft": {
+        "floor": 0.0
+    },
+    "lost-pixel-city-generations-battles-686729943": {
+        "floor": 0.0
+    },
+    "lost-pixel-city-generations-battles": {
+        "floor": 0.0
+    },
+    "t-mobile_nft-863432958": {
+        "floor": 0.0
+    },
+    "slippy-club-legendary-88727630": {
+        "floor": 0.03
+    },
+    "socket-proof-golem": {
+        "floor": 0.0
+    },
+    "moonpaw-babies": {
+        "floor": 0.0
+    },
+    "0x439944da71c47a275b2352c9d93cf0362d47f4c6": {
+        "floor": 0.0
+    },
+    "ninja-glass": {
+        "floor": 0.12
+    },
+    "0xd9d019a5890e88fea2c5f622b58cbcf6ae346597": {
+        "floor": 0.0
+    },
+    "rise-of-the-blockchain": {
+        "floor": 0.00015
+    },
+    "zeropegs-264429983": {
+        "floor": 0.0
+    },
+    "0x48f183397c34b04ca821efc3665528ce5892ffb7": {
+        "floor": 0.0
+    },
+    "dlmm-token-885422439": {
+        "floor": 0.0
+    },
+    "the-supavengers": {
+        "floor": 0.005
+    },
+    "agenticbroker": {
+        "floor": 0.0
+    },
+    "future-montra-by-virtuals": {
+        "floor": 0.0
+    },
+    "robins-895454250": {
+        "floor": 0.0
+    },
+    "neon-crown-pixel-edition": {
+        "floor": 0.03
+    },
+    "future-walrus-by-virtuals": {
+        "floor": 0.0
+    },
+    "agenticpanda": {
+        "floor": 0.0
     }
 }
