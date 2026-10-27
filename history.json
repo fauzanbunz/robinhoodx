@@ -69004,7 +69004,7 @@
         "floor": 2.98899e-05
     },
     "farmfi-": {
-        "floor": 0.0
+        "floor": 10.0
     },
     "0x5450a81b656696b37469c68402c6948acef21bb2": {
         "floor": 0.0
@@ -69031,7 +69031,7 @@
         "floor": 0.0
     },
     "vaultlings-rh": {
-        "floor": 0.1
+        "floor": 0.09
     },
     "spooky-run-skins": {
         "floor": 0.0
@@ -69083,5 +69083,125 @@
     },
     "joshua-858122954": {
         "floor": 1.9e-05
+    },
+    "influencer-family-nft": {
+        "floor": 0.0
+    },
+    "0xb32f3ac9ea21daafead4bb439f411d7a9f86048d": {
+        "floor": 0.0
+    },
+    "the-glossy-divas": {
+        "floor": 0.0
+    },
+    "legendary-of-valdir": {
+        "floor": 0.0
+    },
+    "vote-escrowed-fables-rh": {
+        "floor": 0.0
+    },
+    "kimchi-hood": {
+        "floor": 0.0
+    },
+    "calamity-cosmetics-nft": {
+        "floor": 2.0
+    },
+    "zero-to-hero-nft-923906610": {
+        "floor": 1.2
+    },
+    "tmf-mutual-fun": {
+        "floor": 0.055
+    },
+    "forever-founding-member-pass": {
+        "floor": 0.005
+    },
+    "hood-pixel-mona-lisa": {
+        "floor": 0.0
+    },
+    "brokers-donkey": {
+        "floor": 0.0
+    },
+    "the-mutual-fun-limited-edition-190582279": {
+        "floor": 0.05
+    },
+    "wkczxwg": {
+        "floor": 0.0
+    },
+    "onchaintcg-membership-pass_": {
+        "floor": 0.05
+    },
+    "raidlords-350557938": {
+        "floor": 0.023
+    },
+    "pixel-plebs-genesis": {
+        "floor": 0.0705
+    },
+    "surfboard-limited-edition-735120649": {
+        "floor": 0.03
+    },
+    "zombdons": {
+        "floor": 0.0
+    },
+    "monitor-399271688": {
+        "floor": 0.0
+    },
+    "moneymomosog": {
+        "floor": 0.0
+    },
+    "fishesrh-": {
+        "floor": 0.0189
+    },
+    "hood-mecha-miners": {
+        "floor": 0.09
+    },
+    "tmf-pass-limited-edition": {
+        "floor": 0.05
+    },
+    "robot-dog-543229552": {
+        "floor": 0.0
+    },
+    "the-mutual-fun-limited-edition": {
+        "floor": 0.05
+    },
+    "gaggle-farm-gosling": {
+        "floor": 0.0
+    },
+    "gaggle-farm-goose": {
+        "floor": 0.0
+    },
+    "0xf59154b3586647efbbea674d8777a2250197b326": {
+        "floor": 0.0
+    },
+    "gn-test-163029182": {
+        "floor": 0.0
+    },
+    "phone-wala-fail": {
+        "floor": 0.0
+    },
+    "lastone-155348954": {
+        "floor": 0.0
+    },
+    "phone-pr-chlya-diya": {
+        "floor": 0.0
+    },
+    "son-161754224": {
+        "floor": 0.0
+    },
+    "world-of-garu-collectibles": {
+        "floor": 0.0
+    },
+    "0x10d833a0128ba49ed3ac271e33a6f86555750ef0": {
+        "floor": 0.0
+    },
+    "fomo-rockets": {
+        "floor": 0.0
+    },
+    "0xc9d9b62562b58dce34a7b15841976b0f4fed1b6d": {
+        "floor": 0.0
+    },
+    "pickrush-genesis-shovel": {
+        "floor": 0.0
+    },
+    "quotrons-limited-editions": {
+        "floor": 0.44
     }
 }
