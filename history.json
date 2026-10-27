@@ -68908,13 +68908,13 @@
         "floor": 0.0
     },
     "test400rh": {
-        "floor": 1e-07
+        "floor": 0.002
     },
     "the-try-381365526": {
         "floor": 0.0
     },
     "the-mutual-fun-nft": {
-        "floor": 0.00199
+        "floor": 2.4229206423388e-05
     },
     "pixel-agents-287426573": {
         "floor": 0.0
@@ -69002,5 +69002,86 @@
     },
     "mallow-mischief": {
         "floor": 2.98899e-05
+    },
+    "farmfi-": {
+        "floor": 0.0
+    },
+    "0x5450a81b656696b37469c68402c6948acef21bb2": {
+        "floor": 0.0
+    },
+    "balqalq": {
+        "floor": 0.002
+    },
+    "testflutest": {
+        "floor": 0.0
+    },
+    "v2-306334890": {
+        "floor": 0.0
+    },
+    "astral-id": {
+        "floor": 0.0
+    },
+    "0x09debfce3090232661cef34094ba416d6d4a7deb": {
+        "floor": 0.0
+    },
+    "0xea45bc0b7e0735e287ff36b7efce4dd10075a86a": {
+        "floor": 0.0
+    },
+    "0xc4ae4f27d73ef98ca02ae738f27bcbb8be48a600": {
+        "floor": 0.0
+    },
+    "vaultlings-rh": {
+        "floor": 0.1
+    },
+    "spooky-run-skins": {
+        "floor": 0.0
+    },
+    "royaleaglerh-808841010": {
+        "floor": 4.999e-05
+    },
+    "the-mutual-fun-rh": {
+        "floor": 2.9431269965801e-05
+    },
+    "0x916e5499cea4e9f5d86792ef07fb434700a88b2c": {
+        "floor": 0.0
+    },
+    "arcade-machine-507274325": {
+        "floor": 0.0
+    },
+    "dlmm-token-48187439": {
+        "floor": 0.0
+    },
+    "the-try-199619789": {
+        "floor": 0.0
+    },
+    "dlmm-token-582367255": {
+        "floor": 0.0
+    },
+    "sob-nft": {
+        "floor": 0.0
+    },
+    "oseen-rh": {
+        "floor": 0.0
+    },
+    "ttpro-receipt-938604486": {
+        "floor": 0.0
+    },
+    "tsoi-receipt-724512748": {
+        "floor": 0.0
+    },
+    "tifx-receipt-960441241": {
+        "floor": 0.0
+    },
+    "world-of-robinhood": {
+        "floor": 0.03
+    },
+    "cool-punks-40332756": {
+        "floor": 0.0
+    },
+    "yami-robinhood": {
+        "floor": 0.0
+    },
+    "joshua-858122954": {
+        "floor": 1.9e-05
     }
 }
