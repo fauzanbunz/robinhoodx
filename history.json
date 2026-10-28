@@ -69505,10 +69505,10 @@
         "floor": 0.0
     },
     "nothing-backed-by-belief-nfts": {
-        "floor": 4e-05
+        "floor": 3.761e-05
     },
     "patients-404": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "0xeac4a42226aefb6b71b5a48b61146b1632df2caa-881107865": {
         "floor": 0.0
@@ -69596,5 +69596,119 @@
     },
     "agenticpanda": {
         "floor": 0.0
+    },
+    "inkbit-brokers": {
+        "floor": 0.0
+    },
+    "bitdesk-desks-951535413": {
+        "floor": 0.0
+    },
+    "mech-matrix-584072237": {
+        "floor": 0.0
+    },
+    "qixwoik": {
+        "floor": 0.0
+    },
+    "oxus-trail": {
+        "floor": 0.06
+    },
+    "factor-fight-cards": {
+        "floor": 0.0
+    },
+    "north-rayville-land": {
+        "floor": 0.0
+    },
+    "rinj": {
+        "floor": 0.0
+    },
+    "qtcwallet": {
+        "floor": 0.0
+    },
+    "project-hoodmon": {
+        "floor": 0.0
+    },
+    "hoodbitz-club": {
+        "floor": 8.99
+    },
+    "pixel0computer": {
+        "floor": 0.49
+    },
+    "185-48755754": {
+        "floor": 0.0
+    },
+    "3-803694798": {
+        "floor": 0.0
+    },
+    "owen-395409231": {
+        "floor": 0.06
+    },
+    "2-436646694": {
+        "floor": 0.0
+    },
+    "pixel1computer": {
+        "floor": 0.05
+    },
+    "farmers-rh": {
+        "floor": 0.0
+    },
+    "genesis-farm": {
+        "floor": 0.0
+    },
+    "arkada-collection-488648742": {
+        "floor": 0.0
+    },
+    "fishesrh-765096536": {
+        "floor": 2.2319e-05
+    },
+    "1-922095145": {
+        "floor": 0.5
+    },
+    "bullish-on-robinhood-chain": {
+        "floor": 0.018
+    },
+    "hidden-jade": {
+        "floor": 0.00499998
+    },
+    "agents-md-737589100": {
+        "floor": 0.00024
+    },
+    "vaultlings-legendary-46218858": {
+        "floor": 0.025
+    },
+    "slippy-club-limited-edition-358610178": {
+        "floor": 0.0
+    },
+    "slippy-club-legendary-572158274": {
+        "floor": 0.0
+    },
+    "love-birds1": {
+        "floor": 0.0
+    },
+    "broker-linear-punks": {
+        "floor": 0.15
+    },
+    "freedz-by-freedzdeployer": {
+        "floor": 0.28
+    },
+    "rh-cocks-broker": {
+        "floor": 0.072
+    },
+    "jejej-335442174": {
+        "floor": 0.0
+    },
+    "bitdesk-desks": {
+        "floor": 0.0
+    },
+    "blackhole-544866207": {
+        "floor": 0.0
+    },
+    "0x7762d4d0c9691861e36ec574869e711708d33580": {
+        "floor": 0.0
+    },
+    "jade-inside": {
+        "floor": 2.05715e-05
+    },
+    "fuwa-legendary": {
+        "floor": 0.011
     }
 }
