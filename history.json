@@ -69841,13 +69841,13 @@
         "floor": 0.01
     },
     "godfall-society": {
-        "floor": 2.9125e-05
+        "floor": 1.55764e-05
     },
     "socket-agents": {
         "floor": 0.0
     },
     "chroma-538319241": {
-        "floor": 0.0
+        "floor": 0.00015
     },
     "rayville-central-west-land": {
         "floor": 0.0
@@ -69977,5 +69977,134 @@
     },
     "souls-club-digital-humans": {
         "floor": 0.0
+    },
+    "notacaptain-riggles": {
+        "floor": 0.0
+    },
+    "apenft-837874060": {
+        "floor": 9.998e-05
+    },
+    "hypest-access-passes": {
+        "floor": 0.0
+    },
+    "the-try-839373518": {
+        "floor": 10.0
+    },
+    "the-try-312901833": {
+        "floor": 0.05
+    },
+    "fake-m3mories-pendant-519438455": {
+        "floor": 0.0
+    },
+    "fake-m3mories-pass-285721783": {
+        "floor": 0.0
+    },
+    "0xae5696f14bd9531104b9af3eb4c72b8e838673e3": {
+        "floor": 0.0
+    },
+    "grimace-cm-position-manager": {
+        "floor": 0.0
+    },
+    "0x364135affe89d361e7d3ad79e67c83f521ac4143": {
+        "floor": 0.0
+    },
+    "fomo-bulls-club": {
+        "floor": 0.0
+    },
+    "try-242607135": {
+        "floor": 0.0
+    },
+    "babynut-nfts": {
+        "floor": 0.012
+    },
+    "the-try-282527240": {
+        "floor": 0.0
+    },
+    "0x3cd2ad55f0ccd37254041e29212f78cc284f5462": {
+        "floor": 0.0
+    },
+    "fake-m3mories-pendant-723693342": {
+        "floor": 0.0
+    },
+    "fake-m3mories-pass-896009082": {
+        "floor": 0.0
+    },
+    "nichirin-echoes": {
+        "floor": 4.79401485e-05
+    },
+    "bitcoin-paws": {
+        "floor": 1.0
+    },
+    "clanker-cats-v3-327054948": {
+        "floor": 0.0
+    },
+    "balboa-studios-og-pass": {
+        "floor": 0.004408
+    },
+    "blopy-184006878": {
+        "floor": 0.0
+    },
+    "bomboclatggg": {
+        "floor": 0.0
+    },
+    "recard-73107729": {
+        "floor": 0.0
+    },
+    "recard-374898856": {
+        "floor": 0.0
+    },
+    "zone14": {
+        "floor": 0.0
+    },
+    "tes-mint": {
+        "floor": 0.14
+    },
+    "0x19b08c633a40bce34f157a32d74943475382461b": {
+        "floor": 0.0
+    },
+    "restinpending": {
+        "floor": 0.0
+    },
+    "0x22464c4b058e2ba626e4aa15926ca38eb947de2f": {
+        "floor": 0.0
+    },
+    "micro-duck": {
+        "floor": 0.000357
+    },
+    "0x407a83fb47140e0037371f18226bc644e5a7c970": {
+        "floor": 0.0
+    },
+    "brainrot-shark": {
+        "floor": 0.2
+    },
+    "fake-m3mories-pendant-25553329": {
+        "floor": 0.0
+    },
+    "fake-m3mories-pass-998175827": {
+        "floor": 0.0
+    },
+    "tool-poster-room": {
+        "floor": 0.0
+    },
+    "agent-dropies": {
+        "floor": 0.03
+    },
+    "0xd7a24288fc92296fdb36f7530664e082645ea26c": {
+        "floor": 0.0
+    },
+    "vibe-town": {
+        "floor": 0.0
+    },
+    "hood-port-204979725": {
+        "floor": 9.9e-05
+    },
+    "0xaa8216ea59d2c462024af8a7f5550452788c6d09": {
+        "floor": 0.0
+    },
+    "lord-hood-nfts": {
+        "floor": 0.015
+    },
+    "fishesrh-betav1": {
+        "floor": 0.02
     }
 }
