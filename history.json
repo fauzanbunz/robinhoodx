@@ -67471,7 +67471,7 @@
         "floor": 0.0
     },
     "giga-legends-rh": {
-        "floor": 0.072
+        "floor": 0.066
     },
     "testdrop-556022241": {
         "floor": 0.0
@@ -69598,7 +69598,7 @@
         "floor": 0.0
     },
     "inkbit-brokers": {
-        "floor": 0.0
+        "floor": 0.005
     },
     "bitdesk-desks-951535413": {
         "floor": 0.0
@@ -69610,7 +69610,7 @@
         "floor": 0.0
     },
     "oxus-trail": {
-        "floor": 0.06
+        "floor": 1.19482e-05
     },
     "factor-fight-cards": {
         "floor": 0.0
@@ -69628,7 +69628,7 @@
         "floor": 0.0
     },
     "hoodbitz-club": {
-        "floor": 8.99
+        "floor": 0.97
     },
     "pixel0computer": {
         "floor": 0.49
@@ -69710,5 +69710,122 @@
     },
     "fuwa-legendary": {
         "floor": 0.011
+    },
+    "0x04230c95557681d38f4c4e7e9819ef4b98564a08": {
+        "floor": 0.0
+    },
+    "monkey-universe-rh-402618590": {
+        "floor": 0.09
+    },
+    "0x4f9c94e1c62682d24a8db411c1cea1b8d4cb0018": {
+        "floor": 0.0
+    },
+    "rht4": {
+        "floor": 0.0
+    },
+    "straysocietyrh": {
+        "floor": 0.005
+    },
+    "pixel-hood-minis-rh": {
+        "floor": 0.05
+    },
+    "sad-little-monsters": {
+        "floor": 0.0
+    },
+    "halloween-punk-90815900": {
+        "floor": 0.0
+    },
+    "arcane-agent-239503173": {
+        "floor": 0.0
+    },
+    "0xb2de632ea285189bb08fb6b1cf9d9f79408637a6": {
+        "floor": 0.0
+    },
+    "0x0e37bdda107c4ce2d7598f6cfcba63c1c9e3d0cd": {
+        "floor": 0.0
+    },
+    "digital-puppies-807411440": {
+        "floor": 1.0
+    },
+    "vauitlings-limited-edition": {
+        "floor": 0.011
+    },
+    "haunted-monkes": {
+        "floor": 0.0001
+    },
+    "0x541078bfab3a064c14868ac0efc368404a0ef0be": {
+        "floor": 0.0
+    },
+    "0x8c414513d5fd41e5cdbbb23308f5ea9e4141db9f": {
+        "floor": 0.0
+    },
+    "the-cloaked-entities": {
+        "floor": 0.017
+    },
+    "slippy-club-legendary-670716076": {
+        "floor": 0.03
+    },
+    "error-8888": {
+        "floor": 0.0
+    },
+    "rearmtest": {
+        "floor": 0.0
+    },
+    "doll-bears": {
+        "floor": 0.0
+    },
+    "top-floor-468282020": {
+        "floor": 2.2941487069876e-05
+    },
+    "0x3ab7ebbde36b7c62b95fe805d45b1656c134e72f": {
+        "floor": 0.0
+    },
+    "honey-isles": {
+        "floor": 2.2956874397687e-05
+    },
+    "surf-boat-copy-verison": {
+        "floor": 0.0
+    },
+    "tulpenmanie-official": {
+        "floor": 0.0
+    },
+    "pax-test": {
+        "floor": 0.0
+    },
+    "0xb369d7991a2409f3833913db3ec2d824780033d2": {
+        "floor": 0.0
+    },
+    "xreign-562231382": {
+        "floor": 9.99
+    },
+    "pixel-hood-crayons": {
+        "floor": 0.0
+    },
+    "zelda-minish-hood": {
+        "floor": 0.0
+    },
+    "siippy-club-limited-edition-291476662": {
+        "floor": 0.025
+    },
+    "huemans-748671141": {
+        "floor": 0.011385
+    },
+    "giga-legends-892473608": {
+        "floor": 0.0
+    },
+    "xtron-404": {
+        "floor": 0.03
+    },
+    "0x04223e6672474c6a8b91bb3a2b3f359e269a557c": {
+        "floor": 0.0
+    },
+    "ascii-dogs--": {
+        "floor": 0.0198
+    },
+    "outlaw-pass-228728411": {
+        "floor": 0.0
+    },
+    "outlaw-pass-875124030": {
+        "floor": 0.0
     }
 }
