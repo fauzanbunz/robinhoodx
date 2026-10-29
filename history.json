@@ -69979,10 +69979,10 @@
         "floor": 0.0
     },
     "notacaptain-riggles": {
-        "floor": 0.0
+        "floor": 0.0105
     },
     "apenft-837874060": {
-        "floor": 9.998e-05
+        "floor": 3.999e-05
     },
     "hypest-access-passes": {
         "floor": 0.0
@@ -70030,16 +70030,16 @@
         "floor": 0.0
     },
     "nichirin-echoes": {
-        "floor": 4.79401485e-05
+        "floor": 3.48764578e-05
     },
     "bitcoin-paws": {
-        "floor": 1.0
+        "floor": 0.15
     },
     "clanker-cats-v3-327054948": {
         "floor": 0.0
     },
     "balboa-studios-og-pass": {
-        "floor": 0.004408
+        "floor": 0.003986
     },
     "blopy-184006878": {
         "floor": 0.0
@@ -70057,7 +70057,7 @@
         "floor": 0.0
     },
     "tes-mint": {
-        "floor": 0.14
+        "floor": 0.1
     },
     "0x19b08c633a40bce34f157a32d74943475382461b": {
         "floor": 0.0
@@ -70106,5 +70106,71 @@
     },
     "fishesrh-betav1": {
         "floor": 0.02
+    },
+    "agent-id-914052313": {
+        "floor": 0.0
+    },
+    "slippy-club-legendary-529574596": {
+        "floor": 0.03
+    },
+    "ludus-333": {
+        "floor": 0.0
+    },
+    "dlmm-token-853055775": {
+        "floor": 0.0
+    },
+    "grock-444539327": {
+        "floor": 0.0
+    },
+    "lexchex-787783320": {
+        "floor": 0.0
+    },
+    "0x25077c9c742b64ee5498bf3b6630761221bfdbb1-641530372": {
+        "floor": 0.0
+    },
+    "0x4e41811f6b5765fa3b2f0821665d80a98a4a17c0-461990053": {
+        "floor": 0.0
+    },
+    "forgeyard-factory": {
+        "floor": 0.0
+    },
+    "dlmm-token-777884566": {
+        "floor": 0.0
+    },
+    "traceforms-impressions-253703144": {
+        "floor": 0.0
+    },
+    "pixel-hood-penguins": {
+        "floor": 0.001
+    },
+    "dlmm-token-822449900": {
+        "floor": 0.0
+    },
+    "0xd9da61c2fb522831ac426d1eb0d3e79612176451": {
+        "floor": 0.06
+    },
+    "dez-943969753": {
+        "floor": 0.0
+    },
+    "baby-ape-robinhood-klub-44837871": {
+        "floor": 0.0
+    },
+    "phosphor-777845234": {
+        "floor": 0.01
+    },
+    "atom-test-reserve": {
+        "floor": 0.0
+    },
+    "agent-id-852409243": {
+        "floor": 0.0
+    },
+    "hitobito-reverse-nft": {
+        "floor": 0.36
+    },
+    "ttt-673941511": {
+        "floor": 0.0
+    },
+    "militia": {
+        "floor": 0.0
     }
 }
