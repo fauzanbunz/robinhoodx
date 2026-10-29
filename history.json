@@ -70114,13 +70114,13 @@
         "floor": 0.03
     },
     "ludus-333": {
-        "floor": 0.0
+        "floor": 0.02
     },
     "dlmm-token-853055775": {
         "floor": 0.0
     },
     "grock-444539327": {
-        "floor": 0.0
+        "floor": 15.0
     },
     "lexchex-787783320": {
         "floor": 0.0
@@ -70171,6 +70171,138 @@
         "floor": 0.0
     },
     "militia": {
+        "floor": 0.0
+    },
+    "street-monkeys": {
+        "floor": 0.0
+    },
+    "0xa78461690179ae1c1efbe0143c12d94d5e71aedf": {
+        "floor": 0.0
+    },
+    "fillout-circuit-839739803": {
+        "floor": 0.0
+    },
+    "vectr-nft": {
+        "floor": 10.0
+    },
+    "0x6c55197d4d3a2f062d0c14b9668819156dd21edd": {
+        "floor": 0.0
+    },
+    "dreaming-574819158": {
+        "floor": 0.0
+    },
+    "whackyonrh-1": {
+        "floor": 0.0062
+    },
+    "chaingreets-nft-968131930": {
+        "floor": 0.0
+    },
+    "noctrive-690344749": {
+        "floor": 0.0044
+    },
+    "nova-eth-533258735": {
+        "floor": 0.0
+    },
+    "cool-robinhood-cats": {
+        "floor": 0.0
+    },
+    "inkbit-neon-city": {
+        "floor": 5.499e-05
+    },
+    "farmers-nft": {
+        "floor": 10.0
+    },
+    "farmers-rh-640926580": {
+        "floor": 0.0064686303
+    },
+    "whackyonrh_": {
+        "floor": 10.0
+    },
+    "terminl-530854382": {
+        "floor": 0.0075
+    },
+    "farmers-886314337": {
+        "floor": 0.0055
+    },
+    "robin-piston": {
+        "floor": 1.299e-05
+    },
+    "whacky": {
+        "floor": 0.0198
+    },
+    "exaltation-413874505": {
+        "floor": 0.0
+    },
+    "ccff00-geometry": {
+        "floor": 3.99
+    },
+    "lode-claim": {
+        "floor": 0.0
+    },
+    "fillout-circuit": {
+        "floor": 0.0
+    },
+    "0x19a2e6b14ce7399252aabd2ab4b96c7d73611907": {
+        "floor": 0.0
+    },
+    "onchain-collective-dao": {
+        "floor": 0.0
+    },
+    "the-force-12304263": {
+        "floor": 7.92e-05
+    },
+    "unbroken-code": {
+        "floor": 0.0
+    },
+    "ugliess": {
+        "floor": 0.0001378907
+    },
+    "huemans-872625699": {
+        "floor": 10.0
+    },
+    "yucky-hood": {
+        "floor": 0.0
+    },
+    "robinhoodofsherwood": {
+        "floor": 0.0
+    },
+    "pixel-buddha-rh": {
+        "floor": 0.00086
+    },
+    "inkbit-fighter": {
+        "floor": 0.0
+    },
+    "0xc48de6b71eec5a592a1be105db027c8bd684785c": {
+        "floor": 0.0
+    },
+    "noctriveresidences": {
+        "floor": 0.0
+    },
+    "0x909c8c7511cafe68786f3f9edf926522339543f2": {
+        "floor": 0.0
+    },
+    "0xa2f4902a45149df16b3277a4dd63f6554f311473": {
+        "floor": 0.0
+    },
+    "peter-everyday": {
+        "floor": 0.0
+    },
+    "glitchyheads": {
+        "floor": 0.0
+    },
+    "extinct-inc": {
+        "floor": 0.0
+    },
+    "ccff00-cubes-nft-432605288": {
+        "floor": 0.00399998
+    },
+    "0xb9c5664da55abeeb5b940e1d22f429c27b763f4c": {
+        "floor": 0.0
+    },
+    "0xe7c3b8899eec15649635ce8ccf7ad3ca8886c8fc": {
+        "floor": 0.0
+    },
+    "0xeb8f1b6a5acbbbe9e1e40969382a6730c5dd2c92": {
         "floor": 0.0
     }
 }
