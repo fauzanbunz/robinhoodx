@@ -16171,7 +16171,7 @@
         "floor": 0.0
     },
     "robin-gridpunk": {
-        "floor": 0.0
+        "floor": 0.08
     },
     "robinsprout-nft": {
         "floor": 0.0
@@ -70735,6 +70735,153 @@
         "floor": 0.0
     },
     "tokyo-futuro-upper-city-apartment": {
+        "floor": 0.0
+    },
+    "asci-dogs": {
+        "floor": 0.0
+    },
+    "ffggmember": {
+        "floor": 0.0
+    },
+    "hood-crayons-limited-edition": {
+        "floor": 0.0
+    },
+    "ascii-dogs-379231685": {
+        "floor": 0.005
+    },
+    "robin-tiles": {
+        "floor": 0.0
+    },
+    "rehearsal-items-919174416": {
+        "floor": 0.0
+    },
+    "rehearsal-position-938066264": {
+        "floor": 0.0
+    },
+    "rehearsal-pass-28601496": {
+        "floor": 0.0
+    },
+    "lost-gods-7792497": {
+        "floor": 0.0
+    },
+    "loot-planets-582959459": {
+        "floor": 0.05
+    },
+    "rehearsal-charter-test-only-372804365": {
+        "floor": 0.0
+    },
+    "rehearsal-charter-test-only-249130197": {
+        "floor": 0.0
+    },
+    "egewewe": {
+        "floor": 0.0
+    },
+    "future-marlowe-by-virtuals": {
+        "floor": 0.0
+    },
+    "asdfsdf-296528136": {
+        "floor": 0.0
+    },
+    "cybershinobi-45838490": {
+        "floor": 0.0212
+    },
+    "rehearsal-charter-test-only-178798353": {
+        "floor": 0.0
+    },
+    "hoodedquillsnft": {
+        "floor": 0.0
+    },
+    "glass-metal-squirrel-with-heart-2": {
+        "floor": 0.0
+    },
+    "cat-math": {
+        "floor": 0.0
+    },
+    "0x4bd4f5fcb1c73890d8166f046b9f71188e004a14": {
+        "floor": 0.0
+    },
+    "0x54c37648087569b3099c2d4687d67ff9de224fe6-786056013": {
+        "floor": 0.0
+    },
+    "rehearsal-charter-test-only": {
+        "floor": 0.0
+    },
+    "0xa08f11fb4caf191f000abdf6adbfb98fb896858e": {
+        "floor": 0.0
+    },
+    "tmf-883903522": {
+        "floor": 0.05
+    },
+    "hashkitten": {
+        "floor": 0.0
+    },
+    "0xb5c7719370729d1c10231920e9603ff8d325e026": {
+        "floor": 0.0
+    },
+    "hashkitten-items": {
+        "floor": 0.0
+    },
+    "0x6ea0968c276e42188479a8c04e7fc3ab17e5b8e7": {
+        "floor": 0.0
+    },
+    "cybershinobi-893806350": {
+        "floor": 0.0002253653
+    },
+    "0xc9ecfcad8792ff89c79dc1e3417abaf146778310": {
+        "floor": 0.0
+    },
+    "0x487ed0d21e489d66e647fb4a55ce20daadaf7920": {
+        "floor": 0.0
+    },
+    "bitminers-599711145": {
+        "floor": 0.18
+    },
+    "yoodles-ovens": {
+        "floor": 0.0
+    },
+    "human-rh": {
+        "floor": 0.06
+    },
+    "project-sphere-442970832": {
+        "floor": 0.05
+    },
+    "projectspherexy": {
+        "floor": 0.02
+    },
+    "voxel-stamps-of-joe": {
+        "floor": 5.33243e-05
+    },
+    "vnft-812972812": {
+        "floor": 0.07
+    },
+    "0x1efde7d71f666711ddf3c0b522226932f7101bb5": {
+        "floor": 0.0
+    },
+    "0x832cd21718800fbe79d48a0895ae2ceaac73123c": {
+        "floor": 0.0
+    },
+    "the-balboa-pass-studios": {
+        "floor": 9.99
+    },
+    "balboa-studios": {
+        "floor": 0.37
+    },
+    "balboa-og-pass-317065457": {
+        "floor": 64.98
+    },
+    "0xc40bd6588f9dd5e914fa280c935466bb846cf823": {
+        "floor": 0.0
+    },
+    "0x30994c647e11685d7da7a55f4c03623bb5a0d960": {
+        "floor": 0.0
+    },
+    "elysium-degens": {
+        "floor": 3.0137e-05
+    },
+    "pixel-hood-penguin": {
+        "floor": 0.05
+    },
+    "0x387edc6e9d6c1f71649241085aadd3e1561e1dda": {
         "floor": 0.0
     }
 }
