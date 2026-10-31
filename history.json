@@ -70888,7 +70888,7 @@
         "floor": 0.05
     },
     "genesis-dawn": {
-        "floor": 0.0002
+        "floor": 0.0001
     },
     "ben-tennyson": {
         "floor": 1.5e-05
@@ -70957,7 +70957,7 @@
         "floor": 0.0
     },
     "monkeez-341386197": {
-        "floor": 9.5e-05
+        "floor": 6.93e-05
     },
     "pookhook": {
         "floor": 0.0
@@ -70966,7 +70966,7 @@
         "floor": 0.0
     },
     "yeahbuddy-182852584": {
-        "floor": 2.998e-05
+        "floor": 2.96702e-05
     },
     "cybergotchinft": {
         "floor": 0.05
@@ -70978,7 +70978,7 @@
         "floor": 0.0
     },
     "hood-apes-599846942": {
-        "floor": 0.0059
+        "floor": 0.0055
     },
     "feedchip-sbt-284745748": {
         "floor": 0.0
@@ -70993,6 +70993,90 @@
         "floor": 0.04
     },
     "the-muzzled": {
-        "floor": 0.0004
+        "floor": 0.000355
+    },
+    "tk-test": {
+        "floor": 0.0
+    },
+    "singularity-904080653": {
+        "floor": 0.00499999
+    },
+    "ploomi": {
+        "floor": 0.0
+    },
+    "edo-dusk": {
+        "floor": 0.0
+    },
+    "0xc4ac373d5f1d546468e5e9ad8faa58cc001cc26b": {
+        "floor": 0.0
+    },
+    "0x7d5cb3a940171ef681716d06a20b02cc9d54222d": {
+        "floor": 0.0
+    },
+    "farmrhpass": {
+        "floor": 0.0
+    },
+    "0x84da249aafa359886c6a2ae1ebdc78a6059b662d": {
+        "floor": 0.0
+    },
+    "0xcc0c2043313833bb70b136e38483bd05ff669bac": {
+        "floor": 0.0
+    },
+    "xlovsoq": {
+        "floor": 0.0
+    },
+    "cloaked-entities-nft": {
+        "floor": 0.05
+    },
+    "yule-pig": {
+        "floor": 8.928093137867e-06
+    },
+    "robin-c": {
+        "floor": 0.0
+    },
+    "thewatchers-345562131": {
+        "floor": 0.0
+    },
+    "atomise-series": {
+        "floor": 0.0
+    },
+    "pixel-cash-grab": {
+        "floor": 0.04
+    },
+    "robin-robot-772290801": {
+        "floor": 0.0
+    },
+    "polycat-847657598": {
+        "floor": 0.0
+    },
+    "monster-society-": {
+        "floor": 0.0
+    },
+    "cats-punk-": {
+        "floor": 0.0
+    },
+    "silent-echoes-156866782": {
+        "floor": 2.22747e-05
+    },
+    "0xa0ff9c6017fc9baa02841c3072b4e9c88f7fb0fb": {
+        "floor": 0.0
+    },
+    "0x3e9648d2943681d83de539df6210fe49b7469f01": {
+        "floor": 0.0
+    },
+    "lumenveil-964136338": {
+        "floor": 1.7639198218263e-05
+    },
+    "bad-neighbors": {
+        "floor": 0.0
+    },
+    "pixel-computers-500953096": {
+        "floor": 0.46
+    },
+    "chainstreak-nft-195942195": {
+        "floor": 0.0
+    },
+    "cipher-syndicate": {
+        "floor": 0.0
     }
 }
