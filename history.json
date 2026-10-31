@@ -71239,7 +71239,7 @@
         "floor": 0.0
     },
     "district-ape": {
-        "floor": 0.3
+        "floor": 0.08
     },
     "0x9b620b538fa6b519cda701849fbc24d9ed5f7057": {
         "floor": 0.0
@@ -71374,6 +71374,144 @@
         "floor": 0.0
     },
     "the-fox-cartel-nfts": {
+        "floor": 0.0
+    },
+    "connected-in-isolation": {
+        "floor": 0.0
+    },
+    "the-strategists-sdition": {
+        "floor": 0.0
+    },
+    "only-me-857729705": {
+        "floor": 0.0
+    },
+    "carpet39": {
+        "floor": 0.0
+    },
+    "vangrid-agents-nft": {
+        "floor": 0.05
+    },
+    "triflock": {
+        "floor": 2.20747e-05
+    },
+    "paper-rebellion": {
+        "floor": 0.0
+    },
+    "w12-665641428": {
+        "floor": 0.0
+    },
+    "0x598f05c26e7f0ebc519d94b93a0afdb4d2120df2": {
+        "floor": 0.0
+    },
+    "chrono-vaults": {
+        "floor": 1.76512e-05
+    },
+    "testb-434031374": {
+        "floor": 0.0
+    },
+    "flip-apes": {
+        "floor": 1.49
+    },
+    "pixel-metropolis": {
+        "floor": 2.21764e-05
+    },
+    "otpkzci": {
+        "floor": 0.0
+    },
+    "0x980ae496001a626c335baaf85515c3e33f603f53": {
+        "floor": 0.0
+    },
+    "shadow-soul-812400392": {
+        "floor": 0.0
+    },
+    "janigo-dog": {
+        "floor": 2.0
+    },
+    "ugly-art-79804466": {
+        "floor": 9e-05
+    },
+    "bloodied-sand": {
+        "floor": 0.0002220903
+    },
+    "404abstracts": {
+        "floor": 0.0
+    },
+    "0x7ee6e9c3cd826adf5b1e347399123033224a7b2e": {
+        "floor": 0.0
+    },
+    "rich-in-780380930": {
+        "floor": 9.99
+    },
+    "death-kings": {
+        "floor": 2.21846e-05
+    },
+    "0x13692f6a359b6d1fb4fa3c839b9fd55789f1cbe3": {
+        "floor": 0.0
+    },
+    "0xd74775d4635f57f5634310550d93ee961329ce28": {
+        "floor": 0.0
+    },
+    "chill-mech-pass": {
+        "floor": 0.0
+    },
+    "huemans-113352079": {
+        "floor": 0.0
+    },
+    "mangaglow": {
+        "floor": 0.00012
+    },
+    "take-my-pfp-squares": {
+        "floor": 0.0
+    },
+    "cat-854926539": {
+        "floor": 6.7e-06
+    },
+    "kimboverse": {
+        "floor": 2.218229409e-05
+    },
+    "fly-badges": {
+        "floor": 0.0
+    },
+    "h32000": {
+        "floor": 0.0
+    },
+    "bored-shrooms": {
+        "floor": 7.275e-05
+    },
+    "h31952": {
+        "floor": 0.0
+    },
+    "h2hh1943": {
+        "floor": 0.0
+    },
+    "h2hh1933": {
+        "floor": 0.0
+    },
+    "mining-system": {
+        "floor": 2.5e-05
+    },
+    "0x56fe8b0cf1d8d9a7ed796c413c7d01de45f3e8f0": {
+        "floor": 0.0
+    },
+    "starscream-523769738": {
+        "floor": 8.873547511191e-06
+    },
+    "starscream-969689734": {
+        "floor": 0.0
+    },
+    "stonkbroker-accounts": {
+        "floor": 0.11
+    },
+    "covenant-nft-790809452": {
+        "floor": 0.0
+    },
+    "0xfad3702935d8b6ef701283a5c8025a2181147d1b": {
+        "floor": 0.0
+    },
+    "t1-410753701": {
+        "floor": 0.0
+    },
+    "0x7bd6442cdaa7ba5fb1cc3bd3e1a2b81aafdc0ad1": {
         "floor": 0.0
     }
 }
