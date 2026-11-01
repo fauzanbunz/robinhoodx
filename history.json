@@ -71515,7 +71515,7 @@
         "floor": 0.0
     },
     "mochi-moths": {
-        "floor": 0.0
+        "floor": 9.4e-05
     },
     "halloween-barbarian": {
         "floor": 0.0
@@ -71533,7 +71533,7 @@
         "floor": 0.0
     },
     "bbbbbbbbb-779190047": {
-        "floor": 0.05
+        "floor": 0.02
     },
     "signal-forge-archive": {
         "floor": 4e-05
@@ -71566,19 +71566,19 @@
         "floor": 9e-05
     },
     "zkargos-evolution-rh": {
-        "floor": 0.00189999
+        "floor": 0.00189998
     },
     "mystery-box-360772541": {
-        "floor": 82.0
+        "floor": 0.04
     },
     "the-111-keys": {
         "floor": 0.0
     },
     "rhghost": {
-        "floor": 0.00099
+        "floor": 0.0007
     },
     "silent-weather-studies": {
-        "floor": 4.00125e-05
+        "floor": 1.6880273437499e-05
     },
     "0xed871d795bb9cf61b5283aa40f8735179408cab4": {
         "floor": 0.0
@@ -71606,5 +71606,86 @@
     },
     "claykin": {
         "floor": 1.32831e-05
+    },
+    "numism-banknotes": {
+        "floor": 0.0
+    },
+    "hood-siege-merged-genesis-nft": {
+        "floor": 10.0
+    },
+    "neon-968685013": {
+        "floor": 0.0
+    },
+    "primal-faces-3327652": {
+        "floor": 0.00469999
+    },
+    "goblins-on-crack-536726590": {
+        "floor": 0.0138
+    },
+    "farmrh-540128063": {
+        "floor": 0.07
+    },
+    "imagemarkets-up-railway-app": {
+        "floor": 0.0
+    },
+    "option-821661728": {
+        "floor": 0.0
+    },
+    "apenfts-rh": {
+        "floor": 0.00099999
+    },
+    "defidojo-lol": {
+        "floor": 0.0
+    },
+    "gizaguide-xyz": {
+        "floor": 0.0
+    },
+    "qurve-agent-identity-808605699": {
+        "floor": 0.0
+    },
+    "option-306548474": {
+        "floor": 0.0
+    },
+    "0xd79e5247408221cf9dd8fa1f47df36fdf59b042d": {
+        "floor": 0.0
+    },
+    "0xdb593e03afbeeb848be7aaefe98fe287e2c49f54": {
+        "floor": 0.0
+    },
+    "hejquzv": {
+        "floor": 0.0
+    },
+    "the-carnival-976795827": {
+        "floor": 0.0
+    },
+    "the-333-oracle": {
+        "floor": 0.0
+    },
+    "chop-lumberjacks-405485574": {
+        "floor": 10.0
+    },
+    "boredtraders-broker": {
+        "floor": 10.0
+    },
+    "tera-world": {
+        "floor": 0.0
+    },
+    "agentic-trolls-925311249": {
+        "floor": 0.0045
+    },
+    "ask-glyh": {
+        "floor": 0.00299999
+    },
+    "0x7a854883966a5fac37a82e40ca8a1c125f2e495b": {
+        "floor": 0.0
+    },
+    "buoy": {
+        "floor": 0.0
+    },
+    "demon-slayer-indigo-and-gold-1942548": {
+        "floor": 7e-05
+    },
+    "bochosun": {
+        "floor": 0.0
     }
 }
