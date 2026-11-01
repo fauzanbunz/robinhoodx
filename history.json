@@ -71380,22 +71380,22 @@
         "floor": 0.0
     },
     "the-strategists-sdition": {
-        "floor": 0.0
+        "floor": 0.13
     },
     "only-me-857729705": {
         "floor": 0.0
     },
     "carpet39": {
-        "floor": 0.0
+        "floor": 19.99
     },
     "vangrid-agents-nft": {
-        "floor": 0.05
+        "floor": 0.03
     },
     "triflock": {
         "floor": 2.20747e-05
     },
     "paper-rebellion": {
-        "floor": 0.0
+        "floor": 2.1375e-05
     },
     "w12-665641428": {
         "floor": 0.0
@@ -71410,10 +71410,10 @@
         "floor": 0.0
     },
     "flip-apes": {
-        "floor": 1.49
+        "floor": 0.02
     },
     "pixel-metropolis": {
-        "floor": 2.21764e-05
+        "floor": 1.3226521821556e-05
     },
     "otpkzci": {
         "floor": 0.0
@@ -71425,13 +71425,13 @@
         "floor": 0.0
     },
     "janigo-dog": {
-        "floor": 2.0
+        "floor": 1.99
     },
     "ugly-art-79804466": {
         "floor": 9e-05
     },
     "bloodied-sand": {
-        "floor": 0.0002220903
+        "floor": 0.0001249214
     },
     "404abstracts": {
         "floor": 0.0
@@ -71513,5 +71513,98 @@
     },
     "0x7bd6442cdaa7ba5fb1cc3bd3e1a2b81aafdc0ad1": {
         "floor": 0.0
+    },
+    "mochi-moths": {
+        "floor": 0.0
+    },
+    "halloween-barbarian": {
+        "floor": 0.0
+    },
+    "marutales": {
+        "floor": 0.0
+    },
+    "mallow-mischief-150569550": {
+        "floor": 5e-05
+    },
+    "aurelia-descendants-365517626": {
+        "floor": 0.0
+    },
+    "0xd8597209b2c1bfa05367d1bd8b2fafefc6e74d26": {
+        "floor": 0.0
+    },
+    "bbbbbbbbb-779190047": {
+        "floor": 0.05
+    },
+    "signal-forge-archive": {
+        "floor": 4e-05
+    },
+    "mas-605203025": {
+        "floor": 0.0
+    },
+    "cyber-weapons-142716762": {
+        "floor": 4e-05
+    },
+    "minehood-miners-472752981": {
+        "floor": 1.999e-05
+    },
+    "aaaaaaaaaaaa-530212036": {
+        "floor": 0.0
+    },
+    "magiyuverse": {
+        "floor": 0.0
+    },
+    "brainchain-proofs": {
+        "floor": 0.0
+    },
+    "dead-letter-society": {
+        "floor": 9e-05
+    },
+    "aaaaa-513463972": {
+        "floor": 0.01
+    },
+    "doddle-kids": {
+        "floor": 9e-05
+    },
+    "zkargos-evolution-rh": {
+        "floor": 0.00189999
+    },
+    "mystery-box-360772541": {
+        "floor": 82.0
+    },
+    "the-111-keys": {
+        "floor": 0.0
+    },
+    "rhghost": {
+        "floor": 0.00099
+    },
+    "silent-weather-studies": {
+        "floor": 4.00125e-05
+    },
+    "0xed871d795bb9cf61b5283aa40f8735179408cab4": {
+        "floor": 0.0
+    },
+    "phant0ms-w0rlds": {
+        "floor": 0.03
+    },
+    "vault-guard-871366412": {
+        "floor": 1.7689e-05
+    },
+    "neo-genesis": {
+        "floor": 0.0001454682
+    },
+    "one-in-a-million-922173283": {
+        "floor": 0.01
+    },
+    "404abstracts-300156653": {
+        "floor": 2.1464830870409e-05
+    },
+    "me-and-the-boys-865239643": {
+        "floor": 0.04
+    },
+    "0x5592e06a456d45e27f0b0f0a74af638e600994ea": {
+        "floor": 4e-05
+    },
+    "claykin": {
+        "floor": 1.32831e-05
     }
 }
