@@ -71842,10 +71842,10 @@
         "floor": 0.0
     },
     "bot-image": {
-        "floor": 0.0
+        "floor": 1.0
     },
     "unseen-cat": {
-        "floor": 0.18
+        "floor": 0.06
     },
     "unlock-world": {
         "floor": 0.0
@@ -71860,7 +71860,7 @@
         "floor": 5.0
     },
     "ape-captains": {
-        "floor": 0.0002217554
+        "floor": 0.0001663165
     },
     "playground-drop-714523865": {
         "floor": 0.0
@@ -71869,19 +71869,19 @@
         "floor": 0.0
     },
     "ordinary-santas": {
-        "floor": 6.78803e-05
+        "floor": 5.08977e-05
     },
     "yyyyy-623968753": {
         "floor": 0.0
     },
     "pixelpandas-809301074": {
-        "floor": 2.996e-05
+        "floor": 2.995e-05
     },
     "monster-world-493676142": {
-        "floor": 2.099e-05
+        "floor": 6.6e-06
     },
     "ninja-squad-317109410": {
-        "floor": 0.0003
+        "floor": 5.7e-05
     },
     "logue-dotted": {
         "floor": 0.02
@@ -71975,5 +71975,113 @@
     },
     "trump-legacy-583318414": {
         "floor": 0.005
+    },
+    "0x141916f78e107e5eec25aaf717a754e31d26ba18": {
+        "floor": 0.0
+    },
+    "nase2": {
+        "floor": 0.0
+    },
+    "asdxxbv": {
+        "floor": 0.0
+    },
+    "the-suited-apes-658724042": {
+        "floor": 0.24
+    },
+    "asii_aliens": {
+        "floor": 9.97
+    },
+    "rh-drifters-brawl": {
+        "floor": 0.96
+    },
+    "minehood_rh": {
+        "floor": 0.00199997
+    },
+    "brainrot-shark-nft": {
+        "floor": 0.01
+    },
+    "slightly-wrong-forest-89765896": {
+        "floor": 0.0
+    },
+    "emirates-908816561": {
+        "floor": 0.14
+    },
+    "0x38a1c71d659a4f494e141a294e39cbf580155697": {
+        "floor": 0.0
+    },
+    "cybercorp-safe-rehearsal-seed-safe": {
+        "floor": 0.0
+    },
+    "rh-guuka": {
+        "floor": 0.04
+    },
+    "dam-987016640": {
+        "floor": 0.0
+    },
+    "neon-glitch-105563977": {
+        "floor": 24.96
+    },
+    "hood-frennzies": {
+        "floor": 0.0
+    },
+    "dlmm-token-24673388": {
+        "floor": 0.0
+    },
+    "badjacks-2026": {
+        "floor": 0.0
+    },
+    "hjh-789658523": {
+        "floor": 0.0
+    },
+    "hj-495368573": {
+        "floor": 0.0
+    },
+    "0x3208d608b7568fd18c498fba8bf80b29cf8dadfa": {
+        "floor": 0.0
+    },
+    "retro-tv-buddies": {
+        "floor": 0.07
+    },
+    "ffggcards": {
+        "floor": 0.0
+    },
+    "hjhj-106913993": {
+        "floor": 0.0
+    },
+    "0x9d4378423b675bc214436203109e378230648c42": {
+        "floor": 0.0
+    },
+    "0xf8b2be6f9338592601e649d80122e9ac02d28b92": {
+        "floor": 0.0
+    },
+    "streamlab": {
+        "floor": 0.0
+    },
+    "hoood-gloom": {
+        "floor": 2.19743e-05
+    },
+    "punk-595754586": {
+        "floor": 1.1e-05
+    },
+    "byteforge-636785844": {
+        "floor": 2.90255e-05
+    },
+    "22222222222222": {
+        "floor": 0.0
+    },
+    "warmlab": {
+        "floor": 0.0
+    },
+    "the-eternal-core-570935664": {
+        "floor": 0.15
+    },
+    "ccff00-triangle": {
+        "floor": 0.0
+    },
+    "proof-of-access": {
+        "floor": 0.0
+    },
+    "poa-811949837": {
+        "floor": 0.0
     }
 }
