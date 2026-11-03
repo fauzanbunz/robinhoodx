@@ -72358,10 +72358,10 @@
         "floor": 0.0
     },
     "dunebound": {
-        "floor": 0.0
+        "floor": 0.2
     },
     "end-of-the-world-180361106": {
-        "floor": 0.46
+        "floor": 0.3
     },
     "collectioncollectioncollection3": {
         "floor": 0.0
@@ -72500,5 +72500,134 @@
     },
     "surprise-face-857043796": {
         "floor": 0.3
+    },
+    "inkbit-shinobi": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-787817431": {
+        "floor": 0.0
+    },
+    "mauverse2026": {
+        "floor": 0.0
+    },
+    "mauverse-923288853": {
+        "floor": 0.0
+    },
+    "0xc5b24836a0abe60bd2f27b5129294dfe0e3c7899": {
+        "floor": 0.0
+    },
+    "0x31a427bbf715e5adcdef188dd2f13e41d35b3e73": {
+        "floor": 0.0
+    },
+    "inkbit-hero": {
+        "floor": 0.0
+    },
+    "robin-meofia": {
+        "floor": 0.0
+    },
+    "phunkin-headhood": {
+        "floor": 0.96
+    },
+    "0x76b0cfb4f423d1f48a2b6823c3ef6d94e04671e7": {
+        "floor": 0.0
+    },
+    "yoodles-ovens-limited-edition": {
+        "floor": 0.0
+    },
+    "brxbaaq": {
+        "floor": 0.0
+    },
+    "0xca758b67a13eb06474251a9f451f841a76a20002": {
+        "floor": 0.0
+    },
+    "the-goat-ranch-club-rh": {
+        "floor": 8.904521270675e-06
+    },
+    "mortal-ape-society": {
+        "floor": 0.0
+    },
+    "0x3e70b0695ecd987c7c2a52ca1edc0979355a0d18-274655006": {
+        "floor": 0.0
+    },
+    "0xec3fa2d4b1a4c674f65e47f9921b288fbd99a96b": {
+        "floor": 0.0
+    },
+    "bot-uprising": {
+        "floor": 2.2158700613796e-05
+    },
+    "ape-diva": {
+        "floor": 1.7761279522576e-05
+    },
+    "shared-drops": {
+        "floor": 2.21481e-05
+    },
+    "vamps-limited-edition": {
+        "floor": 0.0055
+    },
+    "0x8c08b75411275dc891006a9cb662e64f779752fc": {
+        "floor": 0.0
+    },
+    "rooster-rumble-901642553": {
+        "floor": 0.00021999
+    },
+    "lost-path": {
+        "floor": 2.21733e-05
+    },
+    "bloodlust-887368804": {
+        "floor": 0.0
+    },
+    "0x57a3117f1068b1e28f9d3d67e5feb2a5e36eb539": {
+        "floor": 0.0
+    },
+    "lime-glow": {
+        "floor": 2.22054e-05
+    },
+    "hypest-911841256": {
+        "floor": 10.0
+    },
+    "echivisions": {
+        "floor": 1.33316e-05
+    },
+    "aaaaa-2053252": {
+        "floor": 0.0
+    },
+    "ape-queen-644481718": {
+        "floor": 0.005
+    },
+    "goose-hood": {
+        "floor": 2.225e-05
+    },
+    "lovebirdjourney": {
+        "floor": 2.2262195230547e-05
+    },
+    "0x9506c85458753ab61eb393cc72ae0eb4dec77c0e": {
+        "floor": 0.005
+    },
+    "moleculemystery": {
+        "floor": 1.77344e-05
+    },
+    "evolvingobjects": {
+        "floor": 2.2165576859137e-05
+    },
+    "icloneos": {
+        "floor": 0.0
+    },
+    "the-monke-gallery": {
+        "floor": 0.0
+    },
+    "0xac362e8552fef9d97a689e7fbd02657cbc95cad4": {
+        "floor": 0.0
+    },
+    "testttt----": {
+        "floor": 10.0
+    },
+    "tmo-initiates-337079320": {
+        "floor": 0.0
+    },
+    "the-original-error": {
+        "floor": 0.0
+    },
+    "overload-components-350483410": {
+        "floor": 0.0
     }
 }
