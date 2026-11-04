@@ -72811,22 +72811,22 @@
         "floor": 0.0
     },
     "merrabite-rh": {
-        "floor": 0.02
+        "floor": 0.08
     },
     "dasrelief": {
         "floor": 0.0
     },
     "punkess": {
-        "floor": 0.0
+        "floor": 0.00015389255
     },
     "luxe-loungers": {
-        "floor": 3.878e-05
+        "floor": 2.8481e-05
     },
     "0x0895122d9d010656a3d92ee957000a37f2d88320": {
-        "floor": 0.0
+        "floor": 0.08
     },
     "redacted-tradoor-agents-570720573": {
-        "floor": 0.00013999
+        "floor": 0.0001
     },
     "csmn": {
         "floor": 0.0
@@ -72835,7 +72835,7 @@
         "floor": 0.05
     },
     "leapfrog-794322686": {
-        "floor": 9.997e-05
+        "floor": 9.40314e-05
     },
     "portal-vault-position-350199784": {
         "floor": 0.0
@@ -72853,7 +72853,7 @@
         "floor": 0.0
     },
     "test-do-not-buy-this": {
-        "floor": 0.0001
+        "floor": 0.0002
     },
     "0x5587d795a96b66b9851f1cf0a6b74d926e974e92": {
         "floor": 7.999e-05
@@ -72926,5 +72926,83 @@
     },
     "0xdc2e8bd222e23933c08ecdf64237b10732c56302-457434357": {
         "floor": 0.0
+    },
+    "neko-nights": {
+        "floor": 0.0
+    },
+    "masa222": {
+        "floor": 0.0
+    },
+    "wenser-756611008": {
+        "floor": 0.0
+    },
+    "0x895c3c2cc2790db976eb03b0fae17eb5594aaca4": {
+        "floor": 0.0
+    },
+    "called-it-65413795": {
+        "floor": 0.0
+    },
+    "market-moods-387299773": {
+        "floor": 0.0
+    },
+    "0x70c743b8c8e2207c5481070cf5e5974cdae55fd5": {
+        "floor": 0.00487919
+    },
+    "denia": {
+        "floor": 0.0
+    },
+    "krill-army": {
+        "floor": 0.00039999
+    },
+    "executives-215993473": {
+        "floor": 0.0
+    },
+    "bloodbound": {
+        "floor": 0.00089509
+    },
+    "pepe-genesis": {
+        "floor": 9.698e-05
+    },
+    "yield-fields-item": {
+        "floor": 0.15
+    },
+    "waifu-grace": {
+        "floor": 9.40508e-05
+    },
+    "batch-4321": {
+        "floor": 0.0
+    },
+    "cinco-muertos": {
+        "floor": 3.366e-05
+    },
+    "testpunkhood": {
+        "floor": 0.0
+    },
+    "free-now-880796418": {
+        "floor": 0.01
+    },
+    "punksondrugs": {
+        "floor": 2.5e-05
+    },
+    "mutant-pepe-529080490": {
+        "floor": 2.9353e-05
+    },
+    "c3nt3no": {
+        "floor": 0.0
+    },
+    "flipflocks": {
+        "floor": 0.000672349
+    },
+    "craigscoinpurse": {
+        "floor": 0.0
+    },
+    "solitude-104023861": {
+        "floor": 4.9e-05
+    },
+    "moods-231304217": {
+        "floor": 455.0
+    },
+    "juju-vibes-722418375": {
+        "floor": 0.0001632393
     }
 }
