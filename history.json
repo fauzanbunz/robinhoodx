@@ -73270,7 +73270,7 @@
         "floor": 0.0
     },
     "midas-ops": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "gage-v2-reclaim-right-631908427": {
         "floor": 0.0
@@ -73285,7 +73285,7 @@
         "floor": 0.0
     },
     "sweetcorn": {
-        "floor": 0.000125
+        "floor": 0.0
     },
     "xxxxtest": {
         "floor": 0.0
@@ -73300,7 +73300,7 @@
         "floor": 0.19
     },
     "roaring-piggy": {
-        "floor": 0.002
+        "floor": 0.00098999
     },
     "chicagolives-pass": {
         "floor": 0.0
@@ -73309,7 +73309,7 @@
         "floor": 0.0
     },
     "pupkins-gen-0-box": {
-        "floor": 0.0
+        "floor": 0.15999893617021277
     },
     "nexus-690167804": {
         "floor": 0.0
@@ -73324,7 +73324,7 @@
         "floor": 0.0
     },
     "zephyr-665332070": {
-        "floor": 2.06612e-05
+        "floor": 2.04346e-05
     },
     "comic-hero": {
         "floor": 2.00078e-05
@@ -73414,6 +73414,96 @@
         "floor": 0.0
     },
     "testcollections15": {
+        "floor": 0.0
+    },
+    "vgusjwt": {
+        "floor": 0.0
+    },
+    "bronker-419622222": {
+        "floor": 0.99
+    },
+    "saltyra-genesis": {
+        "floor": 0.0
+    },
+    "0xe8fc31b7b468268dfa8348a27861077aa1846439": {
+        "floor": 0.0
+    },
+    "poonksdotfun": {
+        "floor": 0.0
+    },
+    "argoween": {
+        "floor": 0.0
+    },
+    "weko-cafe": {
+        "floor": 0.0
+    },
+    "miami-nights-players": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-884832523": {
+        "floor": 0.0
+    },
+    "moon-whisker": {
+        "floor": 0.001
+    },
+    "slippy-club-limited-edition-40318326": {
+        "floor": 0.011
+    },
+    "jaguars": {
+        "floor": 0.0
+    },
+    "2-111966161": {
+        "floor": 0.0
+    },
+    "slippy-club-limited-edition-141054339": {
+        "floor": 25.0
+    },
+    "slippy-club-legendary-479484675": {
+        "floor": 25.0
+    },
+    "slippy-club-legendary-9151485": {
+        "floor": 25.0
+    },
+    "slippy-ciub-legendary": {
+        "floor": 0.011
+    },
+    "nft-test-960515967": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-622911758": {
+        "floor": 0.0
+    },
+    "unndead-ruffians": {
+        "floor": 0.0
+    },
+    "hooligan-nft-896636588": {
+        "floor": 4.97
+    },
+    "topfloor-limited-edition-995809016": {
+        "floor": 0.0055
+    },
+    "dark-emperor": {
+        "floor": 0.02
+    },
+    "putridfuds": {
+        "floor": 24.99
+    },
+    "swol-mfer": {
+        "floor": 2e-05
+    },
+    "tmo-initiates-limited-edition": {
+        "floor": 0.01
+    },
+    "butterfly-3-353713234": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-739402828": {
+        "floor": 0.0
+    },
+    "raffles-hood": {
+        "floor": 0.0
+    },
+    "gage-fables-position": {
         "floor": 0.0
     }
 }
