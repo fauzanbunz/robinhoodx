@@ -73420,7 +73420,7 @@
         "floor": 0.0
     },
     "bronker-419622222": {
-        "floor": 0.99
+        "floor": 0.0198
     },
     "saltyra-genesis": {
         "floor": 0.0
@@ -73505,5 +73505,146 @@
     },
     "gage-fables-position": {
         "floor": 0.0
+    },
+    "0x10d4394e768bde840b96d7865b083f4a3c5a930e": {
+        "floor": 0.0
+    },
+    "argoween-749819603": {
+        "floor": 0.0
+    },
+    "refryn": {
+        "floor": 0.0
+    },
+    "tmo-initiates-official": {
+        "floor": 0.0
+    },
+    "rh-mind-robotics": {
+        "floor": 10.0
+    },
+    "tes3-517760653": {
+        "floor": 0.0
+    },
+    "halloween-barbarian-104722851": {
+        "floor": 0.0
+    },
+    "apenfts-rh-783332463": {
+        "floor": 0.0
+    },
+    "2c-254414573": {
+        "floor": 0.0
+    },
+    "rhcomputers-649702707": {
+        "floor": 11.98
+    },
+    "0x06b0e172064b5f777a5c90366652108eea1d5be7": {
+        "floor": 0.37
+    },
+    "hoodedmythics-303226100": {
+        "floor": 0.0
+    },
+    "hall-of-ash": {
+        "floor": 0.0223
+    },
+    "assets-club": {
+        "floor": 0.0
+    },
+    "gage-v2-reclaim-right-834120327": {
+        "floor": 0.0
+    },
+    "blockheadsrh": {
+        "floor": 0.0
+    },
+    "manifestmarkets-founding-shareholder-certificate": {
+        "floor": 0.0
+    },
+    "the-agents-89148035": {
+        "floor": 0.0
+    },
+    "elephants-chain": {
+        "floor": 1.5
+    },
+    "n-o-n-i-57127454": {
+        "floor": 2.06634e-05
+    },
+    "n-o-n-i": {
+        "floor": 0.0
+    },
+    "pixel-legends-520068781": {
+        "floor": 0.17
+    },
+    "we620754070": {
+        "floor": 0.01
+    },
+    "leviathan-783219812": {
+        "floor": 0.005
+    },
+    "stench-swarm": {
+        "floor": 0.005
+    },
+    "hoodedmythics": {
+        "floor": 0.0
+    },
+    "hooded-mythics": {
+        "floor": 0.0
+    },
+    "sharkzuki-360473596": {
+        "floor": 0.0024
+    },
+    "seasore2": {
+        "floor": 0.0
+    },
+    "bronker-desk-1": {
+        "floor": 0.99
+    },
+    "halloween-barbarian-292830775": {
+        "floor": 0.0
+    },
+    "binzo-203514495": {
+        "floor": 0.0321
+    },
+    "arb-bot-e2e-19834890": {
+        "floor": 0.0
+    },
+    "tidebound-982104786": {
+        "floor": 0.0216
+    },
+    "option-711817172": {
+        "floor": 0.0
+    },
+    "tesss1": {
+        "floor": 0.0
+    },
+    "highroll-ticket-575248996": {
+        "floor": 0.0
+    },
+    "dogestreet": {
+        "floor": 3.0
+    },
+    "neon-bay-89": {
+        "floor": 2.06873e-05
+    },
+    "0x000e3affca7911d4897ada0568145cb32852ed60": {
+        "floor": 0.0
+    },
+    "0x1bd66a8810647e80bb8e2f73a550ce097c29a488": {
+        "floor": 0.0
+    },
+    "0xd4b2b5fa077e46616ab9d3d7116d1a648143cf8b": {
+        "floor": 0.0
+    },
+    "0xa3926762f7465ec0755fe7fa6bbcad395b60ef29": {
+        "floor": 0.0
+    },
+    "test-spaceegg": {
+        "floor": 0.0
+    },
+    "cash-kittens": {
+        "floor": 0.0
+    },
+    "punks2027-cripto-jeton": {
+        "floor": 4.078303425775e-06
+    },
+    "bronker-desk-672122812": {
+        "floor": 1.99
     }
 }
