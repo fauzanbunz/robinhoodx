@@ -73804,7 +73804,7 @@
         "floor": 0.0
     },
     "punk-puppet": {
-        "floor": 0.00299999
+        "floor": 0.00014
     },
     "zoko-618988462": {
         "floor": 0.0
@@ -73813,7 +73813,7 @@
         "floor": 0.0
     },
     "yield-field-broker": {
-        "floor": 1.79
+        "floor": 0.89
     },
     "zoko-644038654": {
         "floor": 0.0
@@ -73942,6 +73942,129 @@
         "floor": 0.0
     },
     "kooo-331578639": {
+        "floor": 0.0
+    },
+    "joystick-junkies-122988532": {
+        "floor": 0.0
+    },
+    "pocket-noob-26170752": {
+        "floor": 11.0
+    },
+    "w1g": {
+        "floor": 0.0
+    },
+    "makinas-rh": {
+        "floor": 10.0
+    },
+    "hood-duness": {
+        "floor": 0.3
+    },
+    "dry-mercy-123378480": {
+        "floor": 0.0192
+    },
+    "robinhackers-rh": {
+        "floor": 9.1
+    },
+    "robinhackers-297497245": {
+        "floor": 0.86
+    },
+    "minamilist": {
+        "floor": 0.0
+    },
+    "kall-199": {
+        "floor": 0.0
+    },
+    "klah-19": {
+        "floor": 0.0
+    },
+    "lkah-199": {
+        "floor": 0.0
+    },
+    "abcd-efgh": {
+        "floor": 0.0
+    },
+    "pupkins-863790278": {
+        "floor": 0.0042
+    },
+    "let-check-it-out": {
+        "floor": 0.0
+    },
+    "skitters": {
+        "floor": 0.042
+    },
+    "sasta-messi-messi": {
+        "floor": 0.0
+    },
+    "minta-tust": {
+        "floor": 0.0
+    },
+    "hoodmallard-909639664": {
+        "floor": 0.0248
+    },
+    "neon-buddies-2-706875064": {
+        "floor": 0.0
+    },
+    "angry-ape-319335993": {
+        "floor": 0.0
+    },
+    "0x6afb4022bbdc0d492f1be40bad8313be3854dd16": {
+        "floor": 0.0
+    },
+    "pupkins-gen-0-box-schiffy": {
+        "floor": 0.113
+    },
+    "founding-standard-charter": {
+        "floor": 0.0
+    },
+    "lil-cats-rh": {
+        "floor": 0.0
+    },
+    "5starr": {
+        "floor": 0.3
+    },
+    "eifoihq": {
+        "floor": 0.0
+    },
+    "rhood-tooys": {
+        "floor": 0.001
+    },
+    "amba-748898589": {
+        "floor": 0.0
+    },
+    "seadrop-allowlist-test": {
+        "floor": 0.0
+    },
+    "fungopet": {
+        "floor": 0.0
+    },
+    "0xe25bfac3432611a607dfe79f597f0653ddf14b69": {
+        "floor": 2e-05
+    },
+    "vialverse-rh": {
+        "floor": 0.0
+    },
+    "trussory-board-263000940": {
+        "floor": 0.0
+    },
+    "neon-buddies-2": {
+        "floor": 5.0
+    },
+    "oldmonks-361718679": {
+        "floor": 0.005
+    },
+    "cartel-punks-74898966": {
+        "floor": 5.5e-05
+    },
+    "trussory-board": {
+        "floor": 0.0
+    },
+    "night-kohi": {
+        "floor": 0.0
+    },
+    "grim-pixelz": {
+        "floor": 0.0
+    },
+    "kooo-920940956": {
         "floor": 0.0
     }
 }
