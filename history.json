@@ -74653,16 +74653,16 @@
         "floor": 0.0
     },
     "locked-antseed-stake-rh": {
-        "floor": 1.0
+        "floor": 0.00059968
     },
     "locked-antseed-stake": {
-        "floor": 10.0
+        "floor": 0.000597979
     },
     "hood-syndicate-rh": {
-        "floor": 9.98
+        "floor": 1.98
     },
     "neko-cats-nft": {
-        "floor": 0.0
+        "floor": 10.0
     },
     "neko-robinhood": {
         "floor": 0.0
@@ -74671,7 +74671,7 @@
         "floor": 0.0
     },
     "elysium-qoutrons-rh": {
-        "floor": 0.49
+        "floor": 0.48
     },
     "art-as-monkey": {
         "floor": 0.0
@@ -74680,7 +74680,7 @@
         "floor": 0.0
     },
     "elysium-qoutrons": {
-        "floor": 0.09
+        "floor": 0.06
     },
     "priced-out-limited-edition": {
         "floor": 0.0055
@@ -74689,25 +74689,25 @@
         "floor": 0.0
     },
     "dosk-106013844": {
-        "floor": 0.19
+        "floor": 0.18
     },
     "elyziuma-hood": {
-        "floor": 0.06
+        "floor": 0.01
     },
     "the-unseen-583955080": {
         "floor": 10.0
     },
     "the-unseen-284315279": {
-        "floor": 4.94
+        "floor": 4.93
     },
     "spacerz-nft": {
         "floor": 9.99
     },
     "mirror-souls-670427433": {
-        "floor": 0.00099997
+        "floor": 0.00049997
     },
     "jpegz-rh": {
-        "floor": 0.19
+        "floor": 0.18
     },
     "bucking-broncs": {
         "floor": 2.22683e-05
@@ -74800,6 +74800,96 @@
         "floor": 0.0
     },
     "0x4d2d5e6ffe5a2a52614404a589058a4562520af8": {
+        "floor": 0.0
+    },
+    "gaze-709993496": {
+        "floor": 0.0
+    },
+    "mans-bestfren": {
+        "floor": 0.0
+    },
+    "pocket-447195904": {
+        "floor": 9.9e-05
+    },
+    "vibecodermaxi-repo-slots": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-189167648": {
+        "floor": 0.0
+    },
+    "jungle-league": {
+        "floor": 0.54
+    },
+    "angry-child": {
+        "floor": 0.06
+    },
+    "mandelbrots-voyage-to-void": {
+        "floor": 0.0
+    },
+    "plundivo": {
+        "floor": 0.2
+    },
+    "gordon-ape": {
+        "floor": 9.986e-05
+    },
+    "robinhood-wobbalu": {
+        "floor": 9e-06
+    },
+    "0x942efa76a83f86165ac97ca20ad8dcb6978c9b21": {
+        "floor": 0.0
+    },
+    "home-car-rh-780559750": {
+        "floor": 4.995e-05
+    },
+    "0xc2643fa5b310ee1a9e7855f27f2d6c76293b37da": {
+        "floor": 0.0
+    },
+    "home-car-rh": {
+        "floor": 0.0
+    },
+    "0x55737cf5ddddedeffafb9a28c3747d4eb849f782": {
+        "floor": 0.0
+    },
+    "0xc8da4b2fb5098e62936b8f75f1e660b40b67808d": {
+        "floor": 0.0
+    },
+    "0x012d9c1cd6a54a740318a0cd91642bdb0c9f35cb": {
+        "floor": 0.0
+    },
+    "deletednoneeded": {
+        "floor": 0.0
+    },
+    "future-onionswap-by-virtuals": {
+        "floor": 0.0
+    },
+    "elysium-makers": {
+        "floor": 0.03
+    },
+    "skelepunks": {
+        "floor": 6.79e-05
+    },
+    "pocket-rh": {
+        "floor": 0.0
+    },
+    "yield-farm-companions-rh": {
+        "floor": 0.24
+    },
+    "rainbow-hood-apes": {
+        "floor": 0.18
+    },
+    "robinhoodhardwarelaptops": {
+        "floor": 0.0
+    },
+    "the-locked-antseed-stake": {
+        "floor": 10.0
+    },
+    "riff-rats-740481423": {
+        "floor": 0.0001
+    },
+    "elysium-quotrons-374766687": {
+        "floor": 0.28
+    },
+    "strata-credential": {
         "floor": 0.0
     }
 }
