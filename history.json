@@ -74818,10 +74818,10 @@
         "floor": 0.0
     },
     "jungle-league": {
-        "floor": 3e-05
+        "floor": 0.000198
     },
     "angry-child": {
-        "floor": 0.04
+        "floor": 0.03
     },
     "mandelbrots-voyage-to-void": {
         "floor": 0.0
@@ -74830,16 +74830,16 @@
         "floor": 0.2
     },
     "gordon-ape": {
-        "floor": 2.998e-05
+        "floor": 2.996e-05
     },
     "robinhood-wobbalu": {
-        "floor": 6.9e-05
+        "floor": 4.2e-05
     },
     "0x942efa76a83f86165ac97ca20ad8dcb6978c9b21": {
         "floor": 0.0
     },
     "home-car-rh-780559750": {
-        "floor": 4.989e-05
+        "floor": 4.984e-05
     },
     "0xc2643fa5b310ee1a9e7855f27f2d6c76293b37da": {
         "floor": 0.0
@@ -74893,34 +74893,34 @@
         "floor": 0.0
     },
     "joystick-junkies-hoods": {
-        "floor": 0.97
+        "floor": 0.38
     },
     "pupkins-gen-box": {
-        "floor": 0.14
+        "floor": 0.1
     },
     "soulvoid-402021459": {
-        "floor": 2.998e-05
+        "floor": 2.997e-05
     },
     "fucking-nibblers-rh": {
-        "floor": 3.997e-05
+        "floor": 3.994e-05
     },
     "pangs-cup-badges": {
         "floor": 0.0
     },
     "soulvoid-15436186": {
-        "floor": 0.0004899
+        "floor": 0.00048015099
     },
     "soulvoid": {
         "floor": 0.0
     },
     "stoked-moods-rh": {
-        "floor": 9.999e-05
+        "floor": 9.992e-05
     },
     "tmo-initiaes": {
-        "floor": 0.18
+        "floor": 0.14
     },
     "mindroot-land": {
-        "floor": 1.2
+        "floor": 0.00043795827603
     },
     "whoopsies-wd": {
         "floor": 0.97
@@ -74932,13 +74932,13 @@
         "floor": 0.0
     },
     "boredtraders-ape": {
-        "floor": 0.97
+        "floor": 0.96
     },
     "goblin-lands-plot": {
-        "floor": 0.03
+        "floor": 0.02
     },
     "elysium-broker-genesis": {
-        "floor": 0.03
+        "floor": 0.02
     },
     "pixel-kitty-511889822": {
         "floor": 8.950668391162e-06
@@ -74959,9 +74959,42 @@
         "floor": 0.0
     },
     "city-vox-punks-monsters": {
-        "floor": 2.23951e-05
+        "floor": 2.97e-05
     },
     "goblin-lands": {
         "floor": 0.0
+    },
+    "base-bearish": {
+        "floor": 0.0
+    },
+    "society-chain-rh": {
+        "floor": 9.84
+    },
+    "zkcodex-nft-366648370": {
+        "floor": 0.0
+    },
+    "robin-bubbls": {
+        "floor": 18.0
+    },
+    "2-19974707": {
+        "floor": 0.0
+    },
+    "scammer-369495009": {
+        "floor": 0.0
+    },
+    "lovebugs-studio": {
+        "floor": 0.01
+    },
+    "0xb733ddc4efec3da1ad41994db8df30e56bf95585": {
+        "floor": 0.0005
+    },
+    "bagholder-gremlins": {
+        "floor": 0.0005
+    },
+    "ccff00-art": {
+        "floor": 1e-06
+    },
+    "monitor-c-u-p": {
+        "floor": 1.97
     }
 }
