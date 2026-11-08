@@ -74893,10 +74893,10 @@
         "floor": 0.0
     },
     "joystick-junkies-hoods": {
-        "floor": 0.38
+        "floor": 0.3
     },
     "pupkins-gen-box": {
-        "floor": 0.1
+        "floor": 0.01
     },
     "soulvoid-402021459": {
         "floor": 2.997e-05
@@ -74968,7 +74968,7 @@
         "floor": 0.0
     },
     "society-chain-rh": {
-        "floor": 9.84
+        "floor": 0.02
     },
     "zkcodex-nft-366648370": {
         "floor": 0.0
@@ -74986,7 +74986,7 @@
         "floor": 0.01
     },
     "0xb733ddc4efec3da1ad41994db8df30e56bf95585": {
-        "floor": 0.0005
+        "floor": 0.0002
     },
     "bagholder-gremlins": {
         "floor": 0.0005
@@ -74996,5 +74996,116 @@
     },
     "monitor-c-u-p": {
         "floor": 1.97
+    },
+    "chain-society-rh": {
+        "floor": 0.0
+    },
+    "yeda-yung": {
+        "floor": 0.0
+    },
+    "rh-boxhead": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-226953952": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-318445910": {
+        "floor": 0.0
+    },
+    "tiny-legends-character": {
+        "floor": 0.0
+    },
+    "anthood-651780814": {
+        "floor": 0.0
+    },
+    "tiny-legends-founders-pass": {
+        "floor": 0.0
+    },
+    "spaceeggs": {
+        "floor": 0.0
+    },
+    "rotunda-seat": {
+        "floor": 0.0
+    },
+    "t-400353502": {
+        "floor": 0.0
+    },
+    "hoodskull-200445015": {
+        "floor": 9.8e-05
+    },
+    "cryptopilot-duel-items": {
+        "floor": 0.0
+    },
+    "remilios-redacted": {
+        "floor": 0.0
+    },
+    "skeletonkingdom": {
+        "floor": 0.0
+    },
+    "0x97c05af712f60e6e9df3b4fbf793c5b40e550e0b": {
+        "floor": 0.0
+    },
+    "0xebae2d2204a98b56198fe63944f02e85ed3a9311": {
+        "floor": 0.0
+    },
+    "0xe29dd45a217c97ab39d9617a1574e38e1f3c4a28": {
+        "floor": 0.0
+    },
+    "mr-ruggy": {
+        "floor": 3.41619e-05
+    },
+    "glitch-matrix-punk": {
+        "floor": 0.23
+    },
+    "pusycat": {
+        "floor": 0.2
+    },
+    "patakha": {
+        "floor": 0.0
+    },
+    "pixturted": {
+        "floor": 0.00085
+    },
+    "0x6569582e76b8ec315d67a5d415d9ca5956430f0d": {
+        "floor": 0.0
+    },
+    "0xd8fd8639e524573e46cfefabf7c5c3d0a70a5cbb": {
+        "floor": 0.0
+    },
+    "degen-cobwebs": {
+        "floor": 0.1
+    },
+    "evwgvbw": {
+        "floor": 0.0
+    },
+    "grim-pixelz-942116347": {
+        "floor": 0.0167
+    },
+    "apesad-rh": {
+        "floor": 13.66
+    },
+    "cursed-p": {
+        "floor": 0.10641
+    },
+    "punks-mvp": {
+        "floor": 74.97
+    },
+    "mutant-mumi": {
+        "floor": 13.7
+    },
+    "ghosts-cifer": {
+        "floor": 44.77
+    },
+    "ghetto-felines": {
+        "floor": 0.0
+    },
+    "hoodnetwork-premium-pass": {
+        "floor": 0.0
+    },
+    "chop-lumberjacks-rh": {
+        "floor": 0.96
+    },
+    "c0lony": {
+        "floor": 0.0
     }
 }
