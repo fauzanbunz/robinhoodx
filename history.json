@@ -75571,31 +75571,31 @@
         "floor": 0.0
     },
     "ml_nfts": {
-        "floor": 0.0
+        "floor": 0.01
     },
     "money-laundering-530555584": {
-        "floor": 10.0
+        "floor": 2.3
     },
     "black-magic-bird": {
-        "floor": 0.05
+        "floor": 0.0003
     },
     "money-laundering-69702865": {
         "floor": 0.0
     },
     "inner-land-of-mercy": {
-        "floor": 0.2
+        "floor": 0.09
     },
     "d-face-mask-31269563": {
-        "floor": 0.3
+        "floor": 0.13
     },
     "d-face-mask": {
         "floor": 0.0
     },
     "rhythm-punkz": {
-        "floor": 0.2
+        "floor": 0.19
     },
     "tiny-cets": {
-        "floor": 9.9e-05
+        "floor": 1.1834153e-05
     },
     "lil-giraffies-club": {
         "floor": 0.0
@@ -75710,5 +75710,119 @@
     },
     "kalos-fun-rh": {
         "floor": 0.01
+    },
+    "schiffy-dog": {
+        "floor": 9.74
+    },
+    "the-crypt-rh": {
+        "floor": 4.89
+    },
+    "ssrfnft2-103778179": {
+        "floor": 0.0
+    },
+    "ssrfnft2-184215633": {
+        "floor": 0.0
+    },
+    "ssrfnft2-587847570": {
+        "floor": 0.0
+    },
+    "ssrfnft2-92396067": {
+        "floor": 0.0
+    },
+    "ssrfnft2": {
+        "floor": 0.0
+    },
+    "ssrfnft": {
+        "floor": 0.0
+    },
+    "retros-nft-492832096": {
+        "floor": 0.00424399
+    },
+    "cloaked-properties": {
+        "floor": 0.0
+    },
+    "future-cowboys": {
+        "floor": 0.0
+    },
+    "elysium-genesis-01": {
+        "floor": 0.0
+    },
+    "chess-nft-476748621": {
+        "floor": 1.24
+    },
+    "hortons-bit": {
+        "floor": 4.14
+    },
+    "sdfsdfsdf-932093111": {
+        "floor": 0.0
+    },
+    "test123-683812322": {
+        "floor": 0.0
+    },
+    "0x71ae1b971e4f1e0a75b00c122e8740a5108efbfc": {
+        "floor": 0.0015
+    },
+    "welcome-to-the-dark-side-372114062": {
+        "floor": 0.0
+    },
+    "0x317dca87a78c62188559ca6c4cc40736a4f1aa39": {
+        "floor": 0.0
+    },
+    "punk-pixel-905182711": {
+        "floor": 0.01
+    },
+    "fuds-onchain": {
+        "floor": 0.0003
+    },
+    "clubx-166711170": {
+        "floor": 0.0
+    },
+    "reeflight-70134195": {
+        "floor": 0.00038799
+    },
+    "reeflight": {
+        "floor": 1.87241e-05
+    },
+    "vrbs-410148270": {
+        "floor": 0.00022299
+    },
+    "esophaguys": {
+        "floor": 0.0
+    },
+    "swoke-mfer": {
+        "floor": 0.79
+    },
+    "astroview-505366431": {
+        "floor": 1.799e-05
+    },
+    "mindspark-30133438": {
+        "floor": 0.00010499
+    },
+    "hooded-hood": {
+        "floor": 0.0
+    },
+    "0xd54d738723177838ce476d1a4dc04e3c22e633fc": {
+        "floor": 0.0
+    },
+    "agents-rides": {
+        "floor": 0.00455
+    },
+    "legion-x-624871443": {
+        "floor": 0.0
+    },
+    "umibot-801544116": {
+        "floor": 0.0
+    },
+    "hooky-monkey": {
+        "floor": 1.799e-05
+    },
+    "goblin-hood-790121663": {
+        "floor": 9e-05
+    },
+    "botsandknots": {
+        "floor": 1.799e-05
+    },
+    "0xdb4ead16603e6b645378a249bfe30a3361ce328e-888565705": {
+        "floor": 0.0
     }
 }
