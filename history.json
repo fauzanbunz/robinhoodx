@@ -74509,7 +74509,7 @@
         "floor": 0.0
     },
     "pumpkin-pit": {
-        "floor": 0.0
+        "floor": 0.005
     },
     "seeker-mantles-rh": {
         "floor": 0.0
@@ -76135,10 +76135,10 @@
         "floor": 0.0
     },
     "us-honoraries-878562807": {
-        "floor": 0.0
+        "floor": 2500000.0
     },
     "art-as-monkey-nft": {
-        "floor": 0.0
+        "floor": 2.578672503e-05
     },
     "tenten-111320357": {
         "floor": 0.0
@@ -76250,5 +76250,128 @@
     },
     "test123-999015988": {
         "floor": 0.0
+    },
+    "petrocraniums": {
+        "floor": 0.0
+    },
+    "fehu-362249592": {
+        "floor": 0.0
+    },
+    "booty-rh": {
+        "floor": 0.08924
+    },
+    "scare-bare-nft": {
+        "floor": 0.00496299
+    },
+    "ewy-usd-options-409469274": {
+        "floor": 0.0
+    },
+    "qqq-usd-options": {
+        "floor": 0.0
+    },
+    "0x614f638b7d0a8c43d6782d27b7572fa7570a39c5-67959341": {
+        "floor": 0.0
+    },
+    "agx-chips": {
+        "floor": 0.0
+    },
+    "simoncat-gang": {
+        "floor": 0.0
+    },
+    "glitch-matrix-hood": {
+        "floor": 0.0
+    },
+    "pt999": {
+        "floor": 0.0
+    },
+    "bufo-873543832": {
+        "floor": 0.21
+    },
+    "pokehorde": {
+        "floor": 0.0
+    },
+    "lmao-803920390": {
+        "floor": 0.0
+    },
+    "grand-ape-moon": {
+        "floor": 0.00499999
+    },
+    "foome": {
+        "floor": 0.00732
+    },
+    "copper-bone": {
+        "floor": 0.0
+    },
+    "robinhood-cyborgs": {
+        "floor": 0.0
+    },
+    "pepe-code-cracker-nft": {
+        "floor": 0.0
+    },
+    "the-bufos-999562382": {
+        "floor": 0.0333
+    },
+    "the-hamiverse": {
+        "floor": 0.057
+    },
+    "sniper-collection-494780942": {
+        "floor": 0.0
+    },
+    "myyekvo": {
+        "floor": 0.0
+    },
+    "sniper-collection-230575433": {
+        "floor": 0.0
+    },
+    "sniper-collection-208457037": {
+        "floor": 0.0
+    },
+    "pumpkin-732518185": {
+        "floor": 0.028
+    },
+    "bsbl-babys-85527970": {
+        "floor": 0.0237
+    },
+    "baggies-hood": {
+        "floor": 0.0
+    },
+    "boatn-fish": {
+        "floor": 153.63
+    },
+    "anthood-452594752": {
+        "floor": 0.0275
+    },
+    "animal-pharm-71884901": {
+        "floor": 0.0
+    },
+    "yield-field-limited-editions-286263141": {
+        "floor": 7.8
+    },
+    "hall-pass": {
+        "floor": 0.0
+    },
+    "hood-puffs": {
+        "floor": 5e-06
+    },
+    "rehearsal-2026-11-11-827374687": {
+        "floor": 0.0
+    },
+    "jpeg-monkes": {
+        "floor": 0.0033
+    },
+    "degencorns": {
+        "floor": 0.0023
+    },
+    "grand-ape-moon-club": {
+        "floor": 0.011
+    },
+    "holographic-mint": {
+        "floor": 0.01
+    },
+    "society-nft-319460828": {
+        "floor": 1.76121e-05
+    },
+    "og-fuds-nft": {
+        "floor": 0.0044724763
     }
 }
