@@ -76525,10 +76525,10 @@
         "floor": 0.0
     },
     "0xa6dcf347b433a2caaecf004cdd1710a8f22dbeee": {
-        "floor": 0.0
+        "floor": 0.45
     },
     "feedthefirerh": {
-        "floor": 0.0
+        "floor": 1.19
     },
     "islands-318804215": {
         "floor": 0.0
@@ -76669,6 +76669,141 @@
         "floor": 0.0004257
     },
     "fulcrum-avatar": {
+        "floor": 0.0
+    },
+    "painted-skies-879839730": {
+        "floor": 0.0
+    },
+    "el-gato-527341010": {
+        "floor": 0.0
+    },
+    "cash-hoods": {
+        "floor": 9.999e-05
+    },
+    "dlmm-token-86314047": {
+        "floor": 0.0
+    },
+    "girlzuki-rh": {
+        "floor": 0.0839
+    },
+    "tds-quackers": {
+        "floor": 1.99
+    },
+    "chaingreets-nft-580470149": {
+        "floor": 0.0
+    },
+    "rhpunknouns": {
+        "floor": 0.0
+    },
+    "0x8f7c5c019f1b3c934278c8d60176928b766613ae": {
+        "floor": 0.0
+    },
+    "0x4e589691bc7788d6db9595281864c113f0447896": {
+        "floor": 0.0
+    },
+    "deadhood-163377916": {
+        "floor": 0.0
+    },
+    "hoodfrenz": {
+        "floor": 0.0
+    },
+    "0x5bf01da95102b8e8b51bb90645277b8e86d2f15b": {
+        "floor": 0.0
+    },
+    "test-qwe": {
+        "floor": 0.0
+    },
+    "lemon-vg": {
+        "floor": 0.21
+    },
+    "santa-apes-190262331": {
+        "floor": 0.00019999
+    },
+    "splix": {
+        "floor": 0.0
+    },
+    "brahhood-the-999": {
+        "floor": 0.0
+    },
+    "-10": {
+        "floor": 0.0
+    },
+    "test-4663-965071242": {
+        "floor": 0.0
+    },
+    "bullhood-herd-985330949": {
+        "floor": 0.0
+    },
+    "voxel-kings-228120391": {
+        "floor": 0.0
+    },
+    "drip-fellas": {
+        "floor": 0.08
+    },
+    "pixel-ape-club-530535301": {
+        "floor": 0.1
+    },
+    "stronghold-dwarves-729345675": {
+        "floor": 0.0
+    },
+    "rusty-bots-572026092": {
+        "floor": 0.000292
+    },
+    "companions-149688187": {
+        "floor": 0.0321
+    },
+    "unkbjkl": {
+        "floor": 0.0
+    },
+    "poonks-440249221": {
+        "floor": 0.06
+    },
+    "cube-apes-297431999": {
+        "floor": 10.0
+    },
+    "hood-junkie-19": {
+        "floor": 0.005
+    },
+    "boolish-134357296": {
+        "floor": 0.0018
+    },
+    "hood-guardians-pass": {
+        "floor": 0.0
+    },
+    "ember-664363918": {
+        "floor": 0.0
+    },
+    "lastgate": {
+        "floor": 0.0
+    },
+    "mopes": {
+        "floor": 10.0
+    },
+    "christmas-punk-2026": {
+        "floor": 0.0
+    },
+    "over-the-counter-624312713": {
+        "floor": 0.0
+    },
+    "chain-society-limited-edition": {
+        "floor": 0.011
+    },
+    "arda-109256712": {
+        "floor": 0.0
+    },
+    "bullhood-lock": {
+        "floor": 0.0
+    },
+    "bullhood-herd": {
+        "floor": 0.0
+    },
+    "onchain-goblin-punks": {
+        "floor": 0.0
+    },
+    "ameland": {
+        "floor": 0.0
+    },
+    "be5b": {
         "floor": 0.0
     }
 }
