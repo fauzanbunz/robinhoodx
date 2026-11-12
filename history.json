@@ -76798,12 +76798,159 @@
         "floor": 0.0
     },
     "onchain-goblin-punks": {
-        "floor": 0.0
+        "floor": 1.494329021e-05
     },
     "ameland": {
         "floor": 0.0
     },
     "be5b": {
+        "floor": 0.0
+    },
+    "option-positions-131378735": {
+        "floor": 0.0
+    },
+    "option-positions-859636713": {
+        "floor": 0.0
+    },
+    "0xc3a1c8dd40bee458e3c2a5da04762143ecb35cac": {
+        "floor": 0.0
+    },
+    "0x2bfe70ab98ff89fdccc600815399bfd92ba44261": {
+        "floor": 0.0
+    },
+    "shine-wizards": {
+        "floor": 0.0
+    },
+    "0x0a205b25ddf93d8b77eb3169079ffbb59a377744": {
+        "floor": 0.0
+    },
+    "0x11b3d5b7e607cf678ca1410ac84650c80ec8b68d": {
+        "floor": 0.0
+    },
+    "0x1b72d144bb71fe14292e361b38f895731fbd8cc6": {
+        "floor": 0.0
+    },
+    "the-hoodfather-genesis": {
+        "floor": 0.0
+    },
+    "hood-apes-rich-club": {
+        "floor": 2.48427e-05
+    },
+    "hood-junkies-nft": {
+        "floor": 10.0
+    },
+    "0x6c906ce86dfbc03f82cce88d0106c335acd6a4f3-466935593": {
+        "floor": 0.0
+    },
+    "the-forgotten-nft": {
+        "floor": 0.0062
+    },
+    "poonks-257112616": {
+        "floor": 0.0022
+    },
+    "neko-neon": {
+        "floor": 0.16
+    },
+    "moneymomosreal-55368796": {
+        "floor": 4.999e-05
+    },
+    "k8sprobe": {
+        "floor": 0.0
+    },
+    "themochi": {
+        "floor": 0.0
+    },
+    "the-undead-buffet-880751040": {
+        "floor": 0.0004
+    },
+    "directprobe": {
+        "floor": 0.0
+    },
+    "0x74766f93fb3ef1bc8c25acd034ef43146080bfab": {
+        "floor": 0.0
+    },
+    "probetoken-774863690": {
+        "floor": 0.0
+    },
+    "the-forgotten-333837345": {
+        "floor": 0.0001
+    },
+    "probetoken-215373290": {
+        "floor": 0.0
+    },
+    "probetoken-157439662": {
+        "floor": 0.0
+    },
+    "0x03fe01206118b7cb29e85fe32744cf5ad2b2c9a7": {
+        "floor": 0.0
+    },
+    "probetoken-766056719": {
+        "floor": 0.0
+    },
+    "icarus-private-cl-pool": {
+        "floor": 0.0
+    },
+    "sasuke-760646435": {
+        "floor": 0.0
+    },
+    "dreadz": {
+        "floor": 9.9e-05
+    },
+    "boymeetshood-862686718": {
+        "floor": 9.46
+    },
+    "frostfang-raiders": {
+        "floor": 0.0
+    },
+    "punk-chimps": {
+        "floor": 0.03
+    },
+    "feedthefire-697257519": {
+        "floor": 0.025
+    },
+    "dessert-gecko-plenger": {
+        "floor": 0.0
+    },
+    "foome-218592989": {
+        "floor": 0.0247
+    },
+    "cr8tiv3": {
+        "floor": 0.0
+    },
+    "military-apes-81895793": {
+        "floor": 4e-05
+    },
+    "future-nocap-by-virtuals": {
+        "floor": 0.0
+    },
+    "pixel-paws-490016980": {
+        "floor": 0.005
+    },
+    "frtestmnt": {
+        "floor": 0.0
+    },
+    "yuri-kiri-rh": {
+        "floor": 9.97
+    },
+    "bars-tcg-rh": {
+        "floor": 9.96
+    },
+    "trptest": {
+        "floor": 0.0
+    },
+    "ever-magic": {
+        "floor": 0.0215
+    },
+    "robin-hog": {
+        "floor": 0.06
+    },
+    "future-vaultx-by-virtuals-64251859": {
+        "floor": 0.0
+    },
+    "i-need-help-819991820": {
+        "floor": 2.997e-05
+    },
+    "gobz-hood": {
         "floor": 0.0
     }
 }
