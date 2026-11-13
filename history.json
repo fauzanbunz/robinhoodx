@@ -76954,7 +76954,7 @@
         "floor": 0.0
     },
     "silent-d-cruiser": {
-        "floor": 0.0
+        "floor": 0.0001
     },
     "0x25d45f80199ee0029f590aa766eefa9c2f5fb013": {
         "floor": 0.0
@@ -76969,7 +76969,7 @@
         "floor": 0.0001
     },
     "baby-ape-club-0": {
-        "floor": 0.0
+        "floor": 8.99e-05
     },
     "idos-game-items-693590938": {
         "floor": 0.0
@@ -77047,6 +77047,141 @@
         "floor": 0.0002
     },
     "0x0992afc6a26d323b6a2796087a223f042cde7c32": {
+        "floor": 0.0
+    },
+    "cache-protocol-437614681": {
+        "floor": 0.0
+    },
+    "testdefintiivo-432038082": {
+        "floor": 0.0
+    },
+    "sherwood-orangutans": {
+        "floor": 0.0
+    },
+    "plank-beard-punks": {
+        "floor": 0.0
+    },
+    "testdefintiivo-142826354": {
+        "floor": 0.0
+    },
+    "claysons": {
+        "floor": 0.0
+    },
+    "testdefintiivo-525929858": {
+        "floor": 0.0
+    },
+    "tiny-legends-868559312": {
+        "floor": 0.018
+    },
+    "monkey-legends-426109480": {
+        "floor": 10.0
+    },
+    "testdefintiivo-691922026": {
+        "floor": 0.0
+    },
+    "0x1cryptopunks": {
+        "floor": 0.004
+    },
+    "zouejjv": {
+        "floor": 0.0
+    },
+    "poonks-338520273": {
+        "floor": 0.0189
+    },
+    "testdefintiivo-965982251": {
+        "floor": 0.0
+    },
+    "syndicate-files": {
+        "floor": 0.0
+    },
+    "testdefintiivo-495259534": {
+        "floor": 0.0
+    },
+    "testdefinitivo-190618592": {
+        "floor": 0.0
+    },
+    "paws-hood-484691001": {
+        "floor": 0.023
+    },
+    "sbn13th-218921133": {
+        "floor": 0.0
+    },
+    "sbn13th-235464412": {
+        "floor": 0.0
+    },
+    "ascendants-447110122": {
+        "floor": 0.0247
+    },
+    "testdefintiivo-367660859": {
+        "floor": 0.0
+    },
+    "squeekchain-843984102": {
+        "floor": 0.0757
+    },
+    "sbn13th-333160877": {
+        "floor": 0.0
+    },
+    "sbn13th": {
+        "floor": 0.0
+    },
+    "anthood-219103314": {
+        "floor": 0.0255
+    },
+    "mintropolis-ape-club-597818683": {
+        "floor": 0.00597
+    },
+    "companions-rh": {
+        "floor": 0.00494999
+    },
+    "giphy-fun": {
+        "floor": 1.0329564763788e-05
+    },
+    "testporquefalle": {
+        "floor": 0.0
+    },
+    "alphamorph-model-lineage-league": {
+        "floor": 0.0
+    },
+    "cache-protocol-369691401": {
+        "floor": 0.00709216
+    },
+    "pixelora": {
+        "floor": 0.015147
+    },
+    "testgirafas": {
+        "floor": 0.0
+    },
+    "testantesdelasgirafas": {
+        "floor": 0.0
+    },
+    "deep-sea-salvagers": {
+        "floor": 0.1
+    },
+    "pixel-odyssey-956408486": {
+        "floor": 0.0
+    },
+    "cache-protocol": {
+        "floor": 0.00499999
+    },
+    "jkl-189": {
+        "floor": 0.0
+    },
+    "uye-404526728": {
+        "floor": 0.0
+    },
+    "0x02dcc6ae51d49c440890166169b37cd10022e34a": {
+        "floor": 0.0
+    },
+    "0x9ffbd01f88618ab701d8c71d9a0c31633215f1e5": {
+        "floor": 0.0
+    },
+    "open-bots": {
+        "floor": 0.0
+    },
+    "little-swag-7097819": {
+        "floor": 0.0011
+    },
+    "little-swag": {
         "floor": 0.0
     }
 }
