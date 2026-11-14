@@ -77335,7 +77335,7 @@
         "floor": 0.12
     },
     "gobs-on-hood": {
-        "floor": 0.0
+        "floor": 1.98e-05
     },
     "samali": {
         "floor": 0.0
@@ -77347,16 +77347,16 @@
         "floor": 0.0002051
     },
     "the-iron-brotherhood-108374786": {
-        "floor": 10.0
+        "floor": 0.07
     },
     "wood-peckers": {
-        "floor": 5.4e-05
+        "floor": 4.4e-05
     },
     "egglo-681307550": {
         "floor": 0.0153
     },
     "rob-ottmachin-rh": {
-        "floor": 0.00256687
+        "floor": 4.999e-05
     },
     "grokagnts": {
         "floor": 0.0
@@ -77483,5 +77483,131 @@
     },
     "the-farm-isles": {
         "floor": 0.0055
+    },
+    "architectonic-sfumato": {
+        "floor": 0.0
+    },
+    "0xe89bed306890eeae425aef93ab3ac55bb3ecf2b9": {
+        "floor": 0.0
+    },
+    "0x1d8dc3d1539bac59163761737f741319e02ac049": {
+        "floor": 0.0
+    },
+    "0x107a0eec35b0ae90fcb76bc8d170161f39218f42": {
+        "floor": 0.0
+    },
+    "hoodverse-219545624": {
+        "floor": 0.008217
+    },
+    "bit-dominators": {
+        "floor": 3.6253e-05
+    },
+    "alphapilot": {
+        "floor": 0.00469
+    },
+    "jetburn": {
+        "floor": 0.001026795206214705
+    },
+    "0xfe95f4ce2d6e77f0b3b9378d3a70934b80388d1a": {
+        "floor": 0.0
+    },
+    "0xe119fbdfed42ee43b5619f6a649cb8bc31834012": {
+        "floor": 0.0
+    },
+    "0x3dbc497d54b4c5a68f112f38db288010383a215e": {
+        "floor": 0.0
+    },
+    "llolpack": {
+        "floor": 0.0
+    },
+    "0x4e9a491b2de5e6b672004764f34ea2aa29fc89b8": {
+        "floor": 0.0
+    },
+    "tiny-legends-rh": {
+        "floor": 0.0
+    },
+    "syndicate-files-rh": {
+        "floor": 0.04
+    },
+    "jpegs-are-monkeys": {
+        "floor": 0.00011931
+    },
+    "tamago": {
+        "floor": 0.05
+    },
+    "toppunks2027-609262743": {
+        "floor": 0.0
+    },
+    "vigidoodles": {
+        "floor": 0.0645
+    },
+    "pixel-faces-661763466": {
+        "floor": 0.03
+    },
+    "test45645": {
+        "floor": 0.0
+    },
+    "ssrfprobe-730193901": {
+        "floor": 0.0
+    },
+    "ssrfprobe-972312443": {
+        "floor": 0.0
+    },
+    "ssrfprobe-136791794": {
+        "floor": 0.0
+    },
+    "ssrfprobe-942298239": {
+        "floor": 0.0
+    },
+    "ssrfprobe-942375634": {
+        "floor": 0.0
+    },
+    "ssrfprobe-784971644": {
+        "floor": 0.0
+    },
+    "ssrfprobe-217604548": {
+        "floor": 0.0
+    },
+    "ssrfprobe-253977010": {
+        "floor": 0.0
+    },
+    "ssrfprobe-978522064": {
+        "floor": 0.0
+    },
+    "ssrfprobe-265868084": {
+        "floor": 0.0
+    },
+    "ssrfprobe-791742789": {
+        "floor": 0.0
+    },
+    "ssrfprobe-987403773": {
+        "floor": 0.0
+    },
+    "ssrfprobe-910547099": {
+        "floor": 0.0
+    },
+    "ssrfprobe-848214929": {
+        "floor": 0.0
+    },
+    "ssrfprobe-368430176": {
+        "floor": 0.0
+    },
+    "citizens-of-ewww-coe": {
+        "floor": 0.99
+    },
+    "bluebdjfwe": {
+        "floor": 0.0
+    },
+    "paws-hood-": {
+        "floor": 0.0
+    },
+    "toppunks2027-395718921": {
+        "floor": 0.0
+    },
+    "hoodjesters-343230221": {
+        "floor": 0.0201
+    },
+    "swag-punks": {
+        "floor": 0.000117
     }
 }
