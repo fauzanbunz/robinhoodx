@@ -77965,7 +77965,7 @@
         "floor": 1.5
     },
     "lumina-beetle-rangers": {
-        "floor": 0.0
+        "floor": 0.005
     },
     "professional-collection": {
         "floor": 0.0
@@ -77977,7 +77977,7 @@
         "floor": 0.0163
     },
     "hood-punks-559603880": {
-        "floor": 0.0
+        "floor": 0.000116
     },
     "gangster-rh-504925374": {
         "floor": 0.000114
@@ -77986,7 +77986,7 @@
         "floor": 0.0
     },
     "crazy-rabbits-610930411": {
-        "floor": 0.0001163965
+        "floor": 0.0001163865
     },
     "fresh-apes-rh": {
         "floor": 0.001
@@ -77996,5 +77996,86 @@
     },
     "plushettesdepreciated": {
         "floor": 0.0
+    },
+    "hope-this-works-643033349": {
+        "floor": 0.0
+    },
+    "world-manipulators": {
+        "floor": 0.0
+    },
+    "potionrh-373462109": {
+        "floor": 0.0
+    },
+    "loffy-onchain": {
+        "floor": 0.0
+    },
+    "rgeher": {
+        "floor": 0.0
+    },
+    "reste-255512638": {
+        "floor": 0.0
+    },
+    "hoodbots-497149907": {
+        "floor": 7.999e-05
+    },
+    "deadhood-667166124": {
+        "floor": 0.0024
+    },
+    "unknown-test-125479928": {
+        "floor": 10.0
+    },
+    "0x56d9566e98ccd7c81bd4dbfed613c266d0d9c431": {
+        "floor": 0.0
+    },
+    "gridlock-cars-623929667": {
+        "floor": 0.0
+    },
+    "coolbuddyz": {
+        "floor": 0.0
+    },
+    "0x1ef979c741f3d94aa82a5a30b0445a8dfe9f75ca": {
+        "floor": 0.0
+    },
+    "plates-13929252": {
+        "floor": 0.0
+    },
+    "zkcodex-nft-250889621": {
+        "floor": 0.0
+    },
+    "jpeg-oncats": {
+        "floor": 0.09
+    },
+    "potionrh-870495789": {
+        "floor": 9.98
+    },
+    "the-potionrh": {
+        "floor": 0.0
+    },
+    "syndicate-rhc": {
+        "floor": 0.006
+    },
+    "itnltji": {
+        "floor": 0.0
+    },
+    "trench-virus": {
+        "floor": 0.0
+    },
+    "gridlock-cars": {
+        "floor": 0.0
+    },
+    "demoio": {
+        "floor": 9.99
+    },
+    "episodeapes": {
+        "floor": 0.0
+    },
+    "temu-chikn": {
+        "floor": 0.0
+    },
+    "machood": {
+        "floor": 0.0
+    },
+    "primal-punks-rh": {
+        "floor": 0.02
     }
 }
