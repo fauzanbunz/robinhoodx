@@ -77854,7 +77854,7 @@
         "floor": 0.0005
     },
     "rodent-wardens": {
-        "floor": 4e-05
+        "floor": 2.97e-05
     },
     "lahori-sy-nahi-horahi": {
         "floor": 0.0
@@ -77863,40 +77863,40 @@
         "floor": 0.001
     },
     "rustpatch-punks": {
-        "floor": 0.0
+        "floor": 1.99
     },
     "slippy-club-limited-edition-395722436": {
         "floor": 0.02
     },
     "voidframe": {
-        "floor": 4.999e-05
+        "floor": 4.79807e-05
     },
     "bitsigil-firstbound": {
-        "floor": 0.0023
+        "floor": 0.00227601
     },
     "musegod-muses-limited-edition-691271641": {
         "floor": 0.04
     },
     "ultra-surge": {
-        "floor": 9.995e-05
+        "floor": 9.40425e-05
     },
     "0x89135ead6018fcf1358f9a4035821289f6545325": {
         "floor": 0.0
     },
     "plumage-121503289": {
-        "floor": 6.995e-05
+        "floor": 6.71447e-05
     },
     "nyan-spark": {
         "floor": 9.996e-05
     },
     "fractal-aether": {
-        "floor": 0.00199998
+        "floor": 0.00099999
     },
     "robin-grand-apes": {
         "floor": 0.0
     },
     "mystic-seer-381532555": {
-        "floor": 4.998e-05
+        "floor": 4.997e-05
     },
     "ringborn": {
         "floor": 0.2
@@ -77905,10 +77905,10 @@
         "floor": 0.00199899
     },
     "oxen-crest": {
-        "floor": 0.00039997
+        "floor": 0.0003803185
     },
     "gepo-660487832": {
-        "floor": 4.999e-05
+        "floor": 4.84755e-05
     },
     "no-mercy-society": {
         "floor": 0.0
@@ -77945,5 +77945,56 @@
     },
     "cursed-p-729172326": {
         "floor": 9.98
+    },
+    "hhoohh": {
+        "floor": 0.0
+    },
+    "primal-punks-575555050": {
+        "floor": 0.0
+    },
+    "strat-pass-900493225": {
+        "floor": 0.0
+    },
+    "lllllllllllll-982968040": {
+        "floor": 0.0
+    },
+    "purely-degen": {
+        "floor": 0.0009
+    },
+    "0x585107d921d8484b5b9fa61775df15384d64938e": {
+        "floor": 1.5
+    },
+    "lumina-beetle-rangers": {
+        "floor": 0.0
+    },
+    "professional-collection": {
+        "floor": 0.0
+    },
+    "felines-jpegz": {
+        "floor": 0.2
+    },
+    "zea-1": {
+        "floor": 0.0163
+    },
+    "hood-punks-559603880": {
+        "floor": 0.0
+    },
+    "gangster-rh-504925374": {
+        "floor": 0.000114
+    },
+    "hood-turtle": {
+        "floor": 0.0
+    },
+    "crazy-rabbits-610930411": {
+        "floor": 0.0001163965
+    },
+    "fresh-apes-rh": {
+        "floor": 0.001
+    },
+    "robinfbsdnfsyr": {
+        "floor": 1.37
+    },
+    "plushettesdepreciated": {
+        "floor": 0.0
     }
 }
