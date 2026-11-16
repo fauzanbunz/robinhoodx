@@ -75832,7 +75832,7 @@
         "floor": 0.0
     },
     "droolies": {
-        "floor": 0.0
+        "floor": 0.0212
     },
     "web-hoodr": {
         "floor": 0.0
@@ -78382,7 +78382,7 @@
         "floor": 0.0
     },
     "yellow-outlaws": {
-        "floor": 0.0
+        "floor": 0.25
     },
     "0xe6506d926ec25ff8db9a099577836aeccb485d3e": {
         "floor": 0.0
@@ -78400,7 +78400,7 @@
         "floor": 10.0
     },
     "robinhood-spirits": {
-        "floor": 0.08
+        "floor": 0.06
     },
     "glewme-dollas-prepaid": {
         "floor": 0.0
@@ -78433,6 +78433,129 @@
         "floor": 0.0
     },
     "hvpass": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-751343984": {
+        "floor": 0.0
+    },
+    "bone-dynasty-96378874": {
+        "floor": 0.0
+    },
+    "sniper-collection-765701681": {
+        "floor": 2.0
+    },
+    "homlander-the-best": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-632791794": {
+        "floor": 0.0
+    },
+    "upbvybe": {
+        "floor": 0.0
+    },
+    "0x0cca88e8237a54d52888b2f64c3283613ffcf015": {
+        "floor": 0.0
+    },
+    "cc-283924714": {
+        "floor": 0.0
+    },
+    "punkrobhood-821125051": {
+        "floor": 0.0
+    },
+    "dragon-883711873": {
+        "floor": 0.0
+    },
+    "tmo-initiates-limited-edition-178136981": {
+        "floor": 0.025
+    },
+    "scintilla-749902235": {
+        "floor": 0.0242
+    },
+    "punkrobhood": {
+        "floor": 0.0
+    },
+    "entertheanime-by-etalabs": {
+        "floor": 0.0
+    },
+    "vitrum-falcons-412819054": {
+        "floor": 9.95
+    },
+    "0xf4ed421e4e9b76c64ed996c75c4fadca835db3c9": {
+        "floor": 0.0
+    },
+    "cc-850257885": {
+        "floor": 0.0
+    },
+    "0xbbe8a201fbcc37457a384e231f0873b7dfca6cd5": {
+        "floor": 0.0
+    },
+    "rank-test-3": {
+        "floor": 0.0
+    },
+    "rank-test-2": {
+        "floor": 0.0
+    },
+    "fungo-puzzle-nft": {
+        "floor": 0.04
+    },
+    "cubist-hoods": {
+        "floor": 198.0
+    },
+    "habibi-cats": {
+        "floor": 0.007128
+    },
+    "rank-test": {
+        "floor": 0.0
+    },
+    "pons-universe-witness": {
+        "floor": 0.0
+    },
+    "cans-test-drop-40": {
+        "floor": 0.0
+    },
+    "bit-miners-613451716": {
+        "floor": 0.0033
+    },
+    "little-agents": {
+        "floor": 0.0
+    },
+    "gamamarus-clerks": {
+        "floor": 0.0
+    },
+    "bit-miners-686631994": {
+        "floor": 9.998e-05
+    },
+    "talktomyhand": {
+        "floor": 0.0
+    },
+    "deadhood-nftt": {
+        "floor": 9.99
+    },
+    "dessert-gecko-hood": {
+        "floor": 0.05
+    },
+    "colony-test": {
+        "floor": 0.0
+    },
+    "0xea69d0003c822370ab46b0fc3861b607b21c9961": {
+        "floor": 0.0
+    },
+    "meme-loyalty-724026429": {
+        "floor": 0.0215
+    },
+    "hashdream": {
+        "floor": 1.995e-05
+    },
+    "trench-virus-254963535": {
+        "floor": 0.0
+    },
+    "mutantlineapes": {
+        "floor": 0.0
+    },
+    "kkiil": {
+        "floor": 0.0
+    },
+    "the-unseen444": {
         "floor": 0.0
     }
 }
