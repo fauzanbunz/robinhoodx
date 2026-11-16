@@ -77410,7 +77410,7 @@
         "floor": 0.0
     },
     "robinhood-rocks-rh": {
-        "floor": 0.02
+        "floor": 1.997e-05
     },
     "the-lil-giraffies-club": {
         "floor": 4.92
@@ -78556,6 +78556,153 @@
         "floor": 0.0
     },
     "the-unseen444": {
+        "floor": 0.0
+    },
+    "bit-miners-limited-edition": {
+        "floor": 0.0
+    },
+    "wallinals-combined-qa-747497412": {
+        "floor": 0.0
+    },
+    "tunnel-vision-rh": {
+        "floor": 0.0
+    },
+    "bit-aliens-genesisnft": {
+        "floor": 0.0
+    },
+    "gangster-rh-217090800": {
+        "floor": 5e-05
+    },
+    "testoor-853986208": {
+        "floor": 0.0
+    },
+    "seared-test-416563198": {
+        "floor": 0.0
+    },
+    "0xe0ba650d92649942d1035853b1e94f3f0f0bd875": {
+        "floor": 0.0
+    },
+    "orbi-hood": {
+        "floor": 0.0
+    },
+    "0x36635495e53caabee89fe331360331ecb471ee93": {
+        "floor": 0.0
+    },
+    "bitbotz-213537714": {
+        "floor": 0.0
+    },
+    "creck-society": {
+        "floor": 0.02
+    },
+    "teddy-robin": {
+        "floor": 0.0
+    },
+    "hood-drive": {
+        "floor": 0.0
+    },
+    "futurepunks-450223729": {
+        "floor": 0.02
+    },
+    "genesis-bugz-595377174": {
+        "floor": 0.069
+    },
+    "0x3aa87f59b7bb1130139f0a9f0e44b4260338727d": {
+        "floor": 0.0
+    },
+    "pickle-pals-": {
+        "floor": 0.052
+    },
+    "robincats-robinhood": {
+        "floor": 0.0
+    },
+    "robinhood-allstars": {
+        "floor": 2.7e-05
+    },
+    "pickle-pals-539618385": {
+        "floor": 0.00499996
+    },
+    "pocket-dragon-": {
+        "floor": 0.047
+    },
+    "feather-games-167982255": {
+        "floor": 9.998e-05
+    },
+    "kajaj-17": {
+        "floor": 0.0
+    },
+    "casper-unicorn": {
+        "floor": 0.0
+    },
+    "better-call-saul-114460375": {
+        "floor": 0.0
+    },
+    "mopes-895523559": {
+        "floor": 0.0167
+    },
+    "guk-14872023": {
+        "floor": 0.09
+    },
+    "0x77d402c61291b8724a3844f7be90411dd1299cf8": {
+        "floor": 0.0
+    },
+    "better-call-saul": {
+        "floor": 0.0
+    },
+    "0x000c8dbf0f3855d66f346bd969e659d93f744e4b-348846052": {
+        "floor": 0.0
+    },
+    "phoenix-72387137": {
+        "floor": 0.0
+    },
+    "pigarc-320050163": {
+        "floor": 0.00049746
+    },
+    "spiritsrh": {
+        "floor": 0.0
+    },
+    "hvpass-490070051": {
+        "floor": 0.06
+    },
+    "efregrg": {
+        "floor": 0.0
+    },
+    "claude-ai-833642447": {
+        "floor": 0.0
+    },
+    "burnout-relic": {
+        "floor": 0.0
+    },
+    "szzrdpfl": {
+        "floor": 0.0
+    },
+    "robinhood-lil-pengees": {
+        "floor": 0.0
+    },
+    "grand-theft-alpha-rh": {
+        "floor": 0.96
+    },
+    "bumbling-bean": {
+        "floor": 5.994e-05
+    },
+    "metalheads-rh": {
+        "floor": 9.99
+    },
+    "voxel-kings-rh": {
+        "floor": 9.97
+    },
+    "hood-pixel-411033198": {
+        "floor": 0.0
+    },
+    "rb404-phone": {
+        "floor": 0.01
+    },
+    "pocket-dragons-874721892": {
+        "floor": 0.00499999
+    },
+    "seared-test": {
+        "floor": 0.0
+    },
+    "0xcc41ce9b4a27dcee0765b80eb289a99fccdf4aac": {
         "floor": 0.0
     }
 }
