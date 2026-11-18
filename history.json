@@ -23143,7 +23143,7 @@
         "floor": 0.0
     },
     "onchain-nodepunks": {
-        "floor": 8e-05
+        "floor": 0.01
     },
     "0x6441513c29d4163affdce9711d0d81f6f710a337": {
         "floor": 0.03
@@ -79153,6 +79153,153 @@
         "floor": 0.02
     },
     "cappy-corn": {
+        "floor": 0.0
+    },
+    "captest9": {
+        "floor": 0.0
+    },
+    "stest1-796817313": {
+        "floor": 0.0
+    },
+    "rr7crcnjnhh": {
+        "floor": 0.0
+    },
+    "strong-apes-0": {
+        "floor": 0.008
+    },
+    "circus-vesting-position-565672711": {
+        "floor": 0.0
+    },
+    "hoods-of-the-five-blades-709321491": {
+        "floor": 0.0
+    },
+    "sherwood-rehearsal-test": {
+        "floor": 0.0
+    },
+    "0xd7db7d205eeb1cbaa58ec3575574b3f97196855b": {
+        "floor": 0.0
+    },
+    "neon-harbor-lab": {
+        "floor": 0.0
+    },
+    "0250-4455920": {
+        "floor": 0.0
+    },
+    "hjjjjjjk": {
+        "floor": 0.0
+    },
+    "jjjjkjkjkjjk": {
+        "floor": 0.0
+    },
+    "hjhhjhhhh": {
+        "floor": 0.0
+    },
+    "bbn-464700810": {
+        "floor": 0.0
+    },
+    "jhbuuhvdr6": {
+        "floor": 0.0
+    },
+    "0x87c89732c3a3d28937bf47fb835ae188b25341a1": {
+        "floor": 0.0
+    },
+    "uiuou": {
+        "floor": 0.0
+    },
+    "drifters-rh": {
+        "floor": 0.0
+    },
+    "kitties-rh": {
+        "floor": 0.000159
+    },
+    "bearjaks": {
+        "floor": 0.0
+    },
+    "lasttest-316670075": {
+        "floor": 0.0
+    },
+    "1000-66361511": {
+        "floor": 9.18
+    },
+    "overload-components-842086982": {
+        "floor": 0.0
+    },
+    "tset-789654568": {
+        "floor": 0.0
+    },
+    "avatarx90": {
+        "floor": 0.0
+    },
+    "0x419756b8e6cb98612087790ece6fc765d6ebde1b": {
+        "floor": 0.0
+    },
+    "avatarx0": {
+        "floor": 0.0
+    },
+    "openplankditionbeardpunks": {
+        "floor": 0.0
+    },
+    "check-471526482": {
+        "floor": 10.0
+    },
+    "testest-19174376": {
+        "floor": 0.0
+    },
+    "teest-106813379": {
+        "floor": 0.0
+    },
+    "0x463fbbd5ff079345f0d98d5d359058dcff807a70": {
+        "floor": 0.0
+    },
+    "denutzrh": {
+        "floor": 0.31
+    },
+    "kayat": {
+        "floor": 0.0
+    },
+    "0xc927187429aad449f89ad8dc60486a307d6477f6": {
+        "floor": 0.01
+    },
+    "0xd7d4081139233c0f4d05289dc36881f2ad3c15e8": {
+        "floor": 0.0
+    },
+    "-745179551": {
+        "floor": 0.13
+    },
+    "test-mint1": {
+        "floor": 0.0
+    },
+    "pepe-code-crackers": {
+        "floor": 0.0
+    },
+    "robinxxx": {
+        "floor": 0.0001065868
+    },
+    "future-dupe-machine-by-virtuals": {
+        "floor": 0.0
+    },
+    "hoodsofthefiveblades": {
+        "floor": 0.0
+    },
+    "hoods-of-the-five-blades-402992349": {
+        "floor": 0.0
+    },
+    "0xd97233eba100d6a38da4c8ef86f9af20e12c0fbc": {
+        "floor": 0.0
+    },
+    "tsrer5e": {
+        "floor": 0.0
+    },
+    "hoods-of-the-five-blades": {
+        "floor": 0.0
+    },
+    "robinhood-pudgies": {
+        "floor": 3.534618430112e-06
+    },
+    "robin-742948041": {
+        "floor": 0.0
+    },
+    "robin-a": {
         "floor": 0.0
     }
 }
