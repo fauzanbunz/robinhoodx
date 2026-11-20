@@ -80053,7 +80053,7 @@
         "floor": 0.0
     },
     "robinhood-nodepepes": {
-        "floor": 8.698e-05
+        "floor": 7.7148e-05
     },
     "genesis-bugz-226095810": {
         "floor": 0.089
@@ -80153,5 +80153,98 @@
     },
     "wtf-syndicate": {
         "floor": 8.54681359e-06
+    },
+    "feral-frog-federation-nft": {
+        "floor": 0.0
+    },
+    "kyll-city-plots": {
+        "floor": 0.0
+    },
+    "agntx-829439305": {
+        "floor": 0.005
+    },
+    "uksnook": {
+        "floor": 0.0
+    },
+    "mortal-cats-society": {
+        "floor": 0.0021
+    },
+    "zerogates": {
+        "floor": 0.0
+    },
+    "barbariansnft": {
+        "floor": 9.98
+    },
+    "kinetiq-toons-193358896": {
+        "floor": 0.0355
+    },
+    "dega-account-860031332": {
+        "floor": 0.0
+    },
+    "catchback-pack-limited-edition": {
+        "floor": 25.0
+    },
+    "spades-804220541": {
+        "floor": 0.0025
+    },
+    "spades-449770706": {
+        "floor": 0.00499899
+    },
+    "catchback-1st-edition-drop-limited-edition-672": {
+        "floor": 15.0
+    },
+    "lils-cow-farmer": {
+        "floor": 0.0
+    },
+    "baddie-on-rh": {
+        "floor": 0.00199998
+    },
+    "lobinhood-wallet-test": {
+        "floor": 0.0
+    },
+    "bgyc_rh-751686378": {
+        "floor": 0.01
+    },
+    "dlmm-token-349261178": {
+        "floor": 0.0
+    },
+    "loxleyhood": {
+        "floor": 0.000231
+    },
+    "0x542d35047ca3f1df0455aeca46d1fa133500119c": {
+        "floor": 0.0
+    },
+    "0x044a40ce73e2243f3eae3b2bdd79e4bafd6b5b82": {
+        "floor": 0.0
+    },
+    "minichain-nft": {
+        "floor": 0.01
+    },
+    "justz-headz-575812378": {
+        "floor": 0.68
+    },
+    "krozxrp": {
+        "floor": 0.0
+    },
+    "alice-games": {
+        "floor": 0.01
+    },
+    "sbound-game": {
+        "floor": 0.04
+    },
+    "multipass-50212399": {
+        "floor": 0.0
+    },
+    "ever-magic-genesis-581325278": {
+        "floor": 0.0281
+    },
+    "the-native-stack": {
+        "floor": 0.0
+    },
+    "testtttt-150566948": {
+        "floor": 0.0
+    },
+    "test-650919086": {
+        "floor": 0.0
     }
 }
