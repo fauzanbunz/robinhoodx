@@ -80251,7 +80251,7 @@
         "floor": 0.0
     },
     "mocca-gator": {
-        "floor": 0.0
+        "floor": 0.00012
     },
     "test-4663-c": {
         "floor": 0.0
@@ -80395,6 +80395,147 @@
         "floor": 0.0255
     },
     "kyll-city-items": {
+        "floor": 0.0
+    },
+    "oooo-983202263": {
+        "floor": 0.0
+    },
+    "hhjhjhjhj-36530488": {
+        "floor": 0.0
+    },
+    "hjjj-323839813": {
+        "floor": 0.0
+    },
+    "hhhh-77685021": {
+        "floor": 0.0
+    },
+    "nova-test-4": {
+        "floor": 0.97
+    },
+    "blooby-people": {
+        "floor": 0.0
+    },
+    "testttt-625835829": {
+        "floor": 0.0
+    },
+    "eternal-drake": {
+        "floor": 0.0
+    },
+    "test-mint-osss": {
+        "floor": 0.0
+    },
+    "test-mint-os": {
+        "floor": 0.0
+    },
+    "nova-test-3-1665852": {
+        "floor": 0.97
+    },
+    "ye-220833786": {
+        "floor": 0.0
+    },
+    "nnn-765943358": {
+        "floor": 0.0
+    },
+    "0x65ec60dbb1c68fba9948f9c490e6a58ae0d00ff2": {
+        "floor": 0.0
+    },
+    "nnnnn-114273000": {
+        "floor": 0.0
+    },
+    "apocalyptic-hope": {
+        "floor": 0.0
+    },
+    "mint-speed-test": {
+        "floor": 10.0
+    },
+    "0x21188a38ebf500ec05f74b008812d0612b73dfe9": {
+        "floor": 0.0
+    },
+    "undead-onchain": {
+        "floor": 0.0
+    },
+    "gods-onchain": {
+        "floor": 7e-05
+    },
+    "liquid-inscriptions": {
+        "floor": 3.666140878e-05
+    },
+    "lil-monbirdies": {
+        "floor": 1.1317e-05
+    },
+    "czars-jewels": {
+        "floor": 9.9e-05
+    },
+    "beyond-the-mint-29646546": {
+        "floor": 0.0
+    },
+    "digital-creatures-browser": {
+        "floor": 0.0
+    },
+    "beyond-the-mint": {
+        "floor": 0.0
+    },
+    "rageape-462966227": {
+        "floor": 2.98451e-05
+    },
+    "jiro-bots": {
+        "floor": 14.84
+    },
+    "snow-vault": {
+        "floor": 0.00069895
+    },
+    "mint-desk-burst-test-50": {
+        "floor": 0.01
+    },
+    "nova-test-2-596729592": {
+        "floor": 9.98
+    },
+    "bitycodes": {
+        "floor": 0.0
+    },
+    "ape-bart-159548947": {
+        "floor": 2.71481e-05
+    },
+    "teddy-hood": {
+        "floor": 0.0
+    },
+    "web-fragments": {
+        "floor": 0.00015898
+    },
+    "void-580997855": {
+        "floor": 0.04
+    },
+    "0x0de7b60f6bc77cc4197ed0b4807764566fae43f0": {
+        "floor": 0.000624864
+    },
+    "mint-desk-burst-test": {
+        "floor": 10.0
+    },
+    "0x72b74cb6ad4326de2908c870953086b394b1a173": {
+        "floor": 0.0
+    },
+    "nova-test-714799357": {
+        "floor": 0.48
+    },
+    "tuff-wizard": {
+        "floor": 7e-05
+    },
+    "mustache-cat-387640746": {
+        "floor": 3e-05
+    },
+    "magic-rampage": {
+        "floor": 0.000123
+    },
+    "skeleton-club-rh": {
+        "floor": 0.0
+    },
+    "stockbox-gift": {
+        "floor": 0.0
+    },
+    "stockbox-premium": {
+        "floor": 0.0
+    },
+    "stockbox-normal": {
         "floor": 0.0
     }
 }
