@@ -80665,7 +80665,7 @@
         "floor": 5.0
     },
     "woohood-401373046": {
-        "floor": 9.77
+        "floor": 0.01
     },
     "0x2aee27ca2d08213bc334d0993260e7a630f9c285": {
         "floor": 0.0
@@ -80674,7 +80674,7 @@
         "floor": 0.0
     },
     "hoodstreet-mutants": {
-        "floor": 0.0005
+        "floor": 0.000495
     },
     "companions-by-wfit-limited-edition-35800547": {
         "floor": 0.02
@@ -80710,22 +80710,22 @@
         "floor": 0.00499999
     },
     "zdjygcdsbg": {
-        "floor": 0.1
+        "floor": 0.03
     },
     "neetardio-nephews": {
         "floor": 0.0
     },
     "dusk-veil-696072984": {
-        "floor": 1.4454e-05
+        "floor": 1e-05
     },
     "femme-106896321": {
-        "floor": 0.00192773
+        "floor": 0.000154031
     },
     "timiverse": {
-        "floor": 2.279267e-05
+        "floor": 1.9511948337947e-05
     },
     "soul-cycle": {
-        "floor": 0.00015225186382
+        "floor": 5.063382789e-05
     },
     "aman-rebels": {
         "floor": 0.0001
@@ -80807,5 +80807,89 @@
     },
     "vicehood": {
         "floor": 0.0035
+    },
+    "tempo-105554162": {
+        "floor": 0.0
+    },
+    "seeker-arcade-stones-413695530": {
+        "floor": 0.0
+    },
+    "just-headz-hq": {
+        "floor": 0.0
+    },
+    "sammyjimpunk": {
+        "floor": 0.01
+    },
+    "the-drift-pack": {
+        "floor": 0.0
+    },
+    "rd-939051855": {
+        "floor": 0.0
+    },
+    "the-unsent-post": {
+        "floor": 0.0
+    },
+    "0x2d5199bd9383199ac0345d6429c9156251a8ac96": {
+        "floor": 0.0
+    },
+    "the-boys-799767993": {
+        "floor": 10.0
+    },
+    "win-or-lose-box": {
+        "floor": 0.0
+    },
+    "little-robins-438465054": {
+        "floor": 0.0
+    },
+    "little-robins": {
+        "floor": 0.0
+    },
+    "zunki-testnet": {
+        "floor": 0.0
+    },
+    "gta-vice-2077": {
+        "floor": 0.0
+    },
+    "vice-2077": {
+        "floor": 0.0
+    },
+    "jelly-587226760": {
+        "floor": 0.0
+    },
+    "crocs-hood": {
+        "floor": 0.000107314304731003
+    },
+    "mutant-dobermans": {
+        "floor": 8.933216985e-06
+    },
+    "lavtest4mm-vault-103961398": {
+        "floor": 0.0
+    },
+    "gearvault": {
+        "floor": 0.0
+    },
+    "scammer-killer-virus": {
+        "floor": 0.0
+    },
+    "pupkins-gen-0-box-limited-edition-371188982": {
+        "floor": 0.055
+    },
+    "pupkins-gen-0-box-limited-edition-364707358": {
+        "floor": 0.055
+    },
+    "onchain-slime-monkeys": {
+        "floor": 9e-07
+    },
+    "pupkins-gen-0-box-limited-edition-841314552": {
+        "floor": 0.055
+    },
+    "seeker-arcade-stones": {
+        "floor": 0.0
+    },
+    "the-loxleyhood": {
+        "floor": 2.999e-05
+    },
+    "hyperhaul-captains-limited-edition": {
+        "floor": 1.0
     }
 }
