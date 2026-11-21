@@ -80410,7 +80410,7 @@
         "floor": 0.0
     },
     "nova-test-4": {
-        "floor": 0.97
+        "floor": 0.14
     },
     "blooby-people": {
         "floor": 0.0
@@ -80536,6 +80536,129 @@
         "floor": 0.0
     },
     "stockbox-normal": {
+        "floor": 0.0
+    },
+    "the-falling-tears": {
+        "floor": 0.0058
+    },
+    "cars-as-cards": {
+        "floor": 0.0
+    },
+    "sandcastle-metric-position-284644089": {
+        "floor": 0.0
+    },
+    "robins-on-hood": {
+        "floor": 0.0
+    },
+    "snake-hood": {
+        "floor": 0.0
+    },
+    "shapes-test-2": {
+        "floor": 0.0
+    },
+    "chaingreets-nft-373526836": {
+        "floor": 0.0
+    },
+    "lucid-paradox": {
+        "floor": 2.3504098310442e-05
+    },
+    "pokemonworld-967077807": {
+        "floor": 0.0
+    },
+    "pokemonworld-535307124": {
+        "floor": 0.0
+    },
+    "hyperhaul-5158292": {
+        "floor": 0.0076
+    },
+    "pokemon3d-mon": {
+        "floor": 0.0
+    },
+    "barbariannft2": {
+        "floor": 0.0
+    },
+    "moninja": {
+        "floor": 0.0
+    },
+    "bons-genesis-322874816": {
+        "floor": 0.000612145
+    },
+    "ggggg-43751475": {
+        "floor": 0.0
+    },
+    "jjj-663214549": {
+        "floor": 0.0
+    },
+    "vvv-119162234": {
+        "floor": 0.0
+    },
+    "share-the-oats": {
+        "floor": 0.001699899998
+    },
+    "degenbrokers": {
+        "floor": 0.0
+    },
+    "coxcomb-753222561": {
+        "floor": 0.0
+    },
+    "lemkidz": {
+        "floor": 0.0
+    },
+    "timeless-turtles-489451469": {
+        "floor": 14.5
+    },
+    "pixel-hood-553259055": {
+        "floor": 0.0392
+    },
+    "wasdwasdwasd": {
+        "floor": 0.0
+    },
+    "mafia-animals-576769380": {
+        "floor": 0.0
+    },
+    "hummm-944711751": {
+        "floor": 0.0
+    },
+    "pass-this": {
+        "floor": 0.0
+    },
+    "0x544a8eab781641af435fa244d550b8eec4f77b85": {
+        "floor": 0.0
+    },
+    "foxwind": {
+        "floor": 2.4065e-05
+    },
+    "pepe-portraits-147027636": {
+        "floor": 0.0
+    },
+    "jd-access-pass": {
+        "floor": 0.0
+    },
+    "robinland-478477359": {
+        "floor": 6.093288243e-06
+    },
+    "0x2380ecc56b74eccb52f6aeac7590024c9e7fe8fe": {
+        "floor": 0.0
+    },
+    "juicehedz-rh": {
+        "floor": 0.0
+    },
+    "stonkbroker-ai-positions": {
+        "floor": 0.0
+    },
+    "tesssst-599194252": {
+        "floor": 0.0
+    },
+    "onchain-pepewtf": {
+        "floor": 4.545e-05
+    },
+    "0xa6730b6d25e5477b7077b7b34f4cd907863e177f": {
+        "floor": 0.0
+    },
+    "metaverse-bears-105153549": {
+        "floor": 6.110303193244e-06
+    },
+    "testtest-667673581": {
         "floor": 0.0
     }
 }
