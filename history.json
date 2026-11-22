@@ -80809,7 +80809,7 @@
         "floor": 0.0035
     },
     "tempo-105554162": {
-        "floor": 0.0
+        "floor": 2.4051e-05
     },
     "seeker-arcade-stones-413695530": {
         "floor": 0.0
@@ -80821,7 +80821,7 @@
         "floor": 0.01
     },
     "the-drift-pack": {
-        "floor": 0.0
+        "floor": 204.0
     },
     "rd-939051855": {
         "floor": 0.0
@@ -80857,7 +80857,7 @@
         "floor": 0.0
     },
     "crocs-hood": {
-        "floor": 0.000107314304731003
+        "floor": 9.0633584246014e-05
     },
     "mutant-dobermans": {
         "floor": 8.933216985e-06
@@ -80891,5 +80891,104 @@
     },
     "hyperhaul-captains-limited-edition": {
         "floor": 1.0
+    },
+    "frenzz": {
+        "floor": 0.0
+    },
+    "picklepals-rh-283208472": {
+        "floor": 0.0
+    },
+    "kkkk-432460623": {
+        "floor": 0.0
+    },
+    "scammer-virus-3-0": {
+        "floor": 0.0
+    },
+    "vvvv-462546628": {
+        "floor": 0.0
+    },
+    "vvv-485052404": {
+        "floor": 0.0
+    },
+    "bbbbbb-506327629": {
+        "floor": 0.0
+    },
+    "the-pandons": {
+        "floor": 0.0
+    },
+    "seeker-arcade-stones-319054820": {
+        "floor": 0.0
+    },
+    "jpegz-chimps": {
+        "floor": 9.895e-05
+    },
+    "scammer-virus-2-0-767611144": {
+        "floor": 0.0
+    },
+    "scammer-virus-2-0": {
+        "floor": 0.0
+    },
+    "gearvault-96369929": {
+        "floor": 0.012
+    },
+    "nnnn-151839870": {
+        "floor": 0.0
+    },
+    "bbbbb-988700660": {
+        "floor": 0.0
+    },
+    "nn-429829828": {
+        "floor": 0.0
+    },
+    "agenticfaces": {
+        "floor": 0.01
+    },
+    "nightcode-461149122": {
+        "floor": 0.00059201
+    },
+    "rat-wardens": {
+        "floor": 2.3983e-05
+    },
+    "noodle-buddies": {
+        "floor": 0.09899
+    },
+    "true-renegades": {
+        "floor": 2.1547e-05
+    },
+    "companions-pre-reveal-party": {
+        "floor": 9.2e-05
+    },
+    "birbflip": {
+        "floor": 0.000129
+    },
+    "wallst-broz-275845148": {
+        "floor": 0.0
+    },
+    "wallst-broz": {
+        "floor": 0.0
+    },
+    "grand-theft-america-465573832": {
+        "floor": 0.0
+    },
+    "grand-theft-america-35294098": {
+        "floor": 0.0
+    },
+    "grand-theft-america": {
+        "floor": 0.0
+    },
+    "thai-warrior": {
+        "floor": 0.079998
+    },
+    "hoodguins": {
+        "floor": 0.0
+    },
+    "forbidden-path": {
+        "floor": 1.9e-05
+    },
+    "juju-pulse": {
+        "floor": 6e-05
+    },
+    "twofacedrh": {
+        "floor": 0.0009
     }
 }
