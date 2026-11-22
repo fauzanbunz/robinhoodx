@@ -80920,7 +80920,7 @@
         "floor": 0.0
     },
     "jpegz-chimps": {
-        "floor": 9.895e-05
+        "floor": 9.2994e-05
     },
     "scammer-virus-2-0-767611144": {
         "floor": 0.0
@@ -80944,19 +80944,19 @@
         "floor": 0.01
     },
     "nightcode-461149122": {
-        "floor": 0.00059201
+        "floor": 0.00021658
     },
     "rat-wardens": {
-        "floor": 2.3983e-05
+        "floor": 0.000137485
     },
     "noodle-buddies": {
-        "floor": 0.09899
+        "floor": 0.00033121
     },
     "true-renegades": {
-        "floor": 2.1547e-05
+        "floor": 0.000189487
     },
     "companions-pre-reveal-party": {
-        "floor": 9.2e-05
+        "floor": 9.403e-05
     },
     "birbflip": {
         "floor": 0.000129
@@ -80990,5 +80990,98 @@
     },
     "twofacedrh": {
         "floor": 0.0009
+    },
+    "muse-world-788776195": {
+        "floor": 0.0
+    },
+    "aetherwing-393829874": {
+        "floor": 0.005
+    },
+    "circuit-breakers-415608925": {
+        "floor": 0.0
+    },
+    "moolies-92583229": {
+        "floor": 0.0073
+    },
+    "vicehood-1": {
+        "floor": 0.0066
+    },
+    "51-hoods": {
+        "floor": 0.0
+    },
+    "buzquitos": {
+        "floor": 9.97
+    },
+    "ator-387331701": {
+        "floor": 0.0
+    },
+    "8bit-miladys": {
+        "floor": 2.898e-05
+    },
+    "phonks": {
+        "floor": 0.11
+    },
+    "hood-owls-247517409": {
+        "floor": 0.0
+    },
+    "mixfits-mix-n-match-966699495": {
+        "floor": 0.0077
+    },
+    "gta6-694225344": {
+        "floor": 0.0
+    },
+    "whisky-atone": {
+        "floor": 0.000115453524107308
+    },
+    "asciimals": {
+        "floor": 0.0
+    },
+    "black-scammer-virus-4-0": {
+        "floor": 0.0
+    },
+    "hoodz-732638222": {
+        "floor": 0.0027
+    },
+    "genesis-skil-force": {
+        "floor": 3.83
+    },
+    "teset-823124044": {
+        "floor": 0.0
+    },
+    "weeweeteetee": {
+        "floor": 0.0
+    },
+    "0x3f8ab911ad67afe020992314a1577c6fa0b5d6f6": {
+        "floor": 9.94
+    },
+    "ghggjh": {
+        "floor": 0.0
+    },
+    "bot-test-763686024": {
+        "floor": 0.0
+    },
+    "0x65083c74cfcfc8fb820d24fa3b9aec00f0f3ed32": {
+        "floor": 0.0
+    },
+    "vvvv-129898405": {
+        "floor": 0.0
+    },
+    "bbbb-955357777": {
+        "floor": 0.0
+    },
+    "bbbb-153416520": {
+        "floor": 0.0
+    },
+    "cyborg-gotchi": {
+        "floor": 0.0
+    },
+    "rhobots-55533259": {
+        "floor": 0.00499999
+    },
+    "frenzz-": {
+        "floor": 0.0
+    },
+    "frenzz-671252583": {
+        "floor": 0.0
     }
 }
