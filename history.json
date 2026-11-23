@@ -81235,7 +81235,7 @@
         "floor": 0.0
     },
     "slothlings": {
-        "floor": 0.0049479801
+        "floor": 0.000238111225
     },
     "luminous-primates": {
         "floor": 0.00289999
@@ -81244,7 +81244,7 @@
         "floor": 0.0
     },
     "alxsandr8": {
-        "floor": 0.06
+        "floor": 0.01
     },
     "nnnnn-353113968": {
         "floor": 0.0
@@ -81253,7 +81253,7 @@
         "floor": 0.0
     },
     "daily-essentials": {
-        "floor": 0.000179
+        "floor": 0.00016
     },
     "0x273e61faa6e70e0ece255202b3845824df89c478": {
         "floor": 0.0
@@ -81335,5 +81335,134 @@
     },
     "penguhoods-273596747": {
         "floor": 0.0
+    },
+    "clankbots-504753250": {
+        "floor": 0.0009
+    },
+    "rgbstone-530123031": {
+        "floor": 0.0335
+    },
+    "quill-protocol": {
+        "floor": 0.04
+    },
+    "warlord-corp": {
+        "floor": 0.0258
+    },
+    "sealedarts": {
+        "floor": 0.0
+    },
+    "stay-liquid-show": {
+        "floor": 0.0259
+    },
+    "tosheez-753073520": {
+        "floor": 0.0258
+    },
+    "flockhood-1": {
+        "floor": 0.0
+    },
+    "rebelian-977229194": {
+        "floor": 0.0251
+    },
+    "brokxel-280198687": {
+        "floor": 2.89
+    },
+    "wonderfarm": {
+        "floor": 0.0255
+    },
+    "brewly-badges": {
+        "floor": 0.0
+    },
+    "ai-slop-74548124": {
+        "floor": 0.025
+    },
+    "dust-bunnies-test": {
+        "floor": 0.0
+    },
+    "wolfysyndicate-537378137": {
+        "floor": 0.015
+    },
+    "shinobi-pass": {
+        "floor": 0.0
+    },
+    "lions-x": {
+        "floor": 0.00017
+    },
+    "trippi-816967953": {
+        "floor": 0.0
+    },
+    "wycerei": {
+        "floor": 0.0
+    },
+    "hoodz-vibes": {
+        "floor": 0.0
+    },
+    "officialgloopix": {
+        "floor": 0.0
+    },
+    "new-jazz-city-indentured-agents": {
+        "floor": 0.0
+    },
+    "trash-gang-241027409": {
+        "floor": 5e-05
+    },
+    "trash-gang": {
+        "floor": 0.0
+    },
+    "yumi-493902630": {
+        "floor": 1.25
+    },
+    "slime-302038161": {
+        "floor": 0.0
+    },
+    "orphica-movement": {
+        "floor": 0.0
+    },
+    "overload-components-52891833": {
+        "floor": 0.0
+    },
+    "musegod-303098604": {
+        "floor": 0.0
+    },
+    "orbsz": {
+        "floor": 0.0
+    },
+    "genesis-bugz-164452964": {
+        "floor": 0.0
+    },
+    "blood-moon-amulets-nft": {
+        "floor": 9.89
+    },
+    "vvvvv-443244472": {
+        "floor": 0.0
+    },
+    "vvvv-139153338": {
+        "floor": 0.0
+    },
+    "cozies-eth-nft": {
+        "floor": 8e-06
+    },
+    "cccc-699767148": {
+        "floor": 0.0
+    },
+    "vvvvvvv-689517856": {
+        "floor": 0.0
+    },
+    "hjjkjk-610734751": {
+        "floor": 0.0
+    },
+    "bjhbnbn": {
+        "floor": 0.0
+    },
+    "hjjbn": {
+        "floor": 0.0
+    },
+    "hjhjhhh": {
+        "floor": 0.0
+    },
+    "mindseed-19661719": {
+        "floor": 0.0001700602
+    },
+    "hood-punks-470046639": {
+        "floor": 0.000117
     }
 }
