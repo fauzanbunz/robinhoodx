@@ -81085,19 +81085,19 @@
         "floor": 0.0
     },
     "supernovers-122575002": {
-        "floor": 0.0
+        "floor": 0.03
     },
     "test5123": {
-        "floor": 0.0
+        "floor": 0.47
     },
     "penguhoods": {
         "floor": 0.0
     },
     "vice-club": {
-        "floor": 0.0
+        "floor": 9.0
     },
     "dmc-keys-835360887": {
-        "floor": 0.14
+        "floor": 0.13
     },
     "jpeg-frens-limited-edition-90713618": {
         "floor": 0.03
@@ -81230,5 +81230,110 @@
     },
     "monadune": {
         "floor": 0.00029998
+    },
+    "cs00": {
+        "floor": 0.0
+    },
+    "slothlings": {
+        "floor": 0.0049479801
+    },
+    "luminous-primates": {
+        "floor": 0.00289999
+    },
+    "nnn-311208572": {
+        "floor": 0.0
+    },
+    "alxsandr8": {
+        "floor": 0.06
+    },
+    "nnnnn-353113968": {
+        "floor": 0.0
+    },
+    "bbbbb-37657062": {
+        "floor": 0.0
+    },
+    "daily-essentials": {
+        "floor": 0.000179
+    },
+    "0x273e61faa6e70e0ece255202b3845824df89c478": {
+        "floor": 0.0
+    },
+    "setz-shelf-139509543": {
+        "floor": 0.0
+    },
+    "sherwood-rehearsal-test-725259617": {
+        "floor": 0.0
+    },
+    "0xa9600c64336aeffc3aa2ad73fad948906963e7d0": {
+        "floor": 0.0
+    },
+    "clementime": {
+        "floor": 0.0
+    },
+    "sirens-sinners": {
+        "floor": 0.0
+    },
+    "0xb5455fd5c6e5b6d5b5df5a387b11910dd23543f8": {
+        "floor": 0.0
+    },
+    "0x201e0decc3100e5636233a4490e14167d2b3bc81": {
+        "floor": 0.0
+    },
+    "testtest01-387389458": {
+        "floor": 0.0
+    },
+    "pharm-creations": {
+        "floor": 0.05
+    },
+    "hood-gorillas": {
+        "floor": 0.1
+    },
+    "0x0c4cc18c1c37cfea66fc4e84c7daa1487928518b": {
+        "floor": 0.00045
+    },
+    "hoodbit-196657319": {
+        "floor": 0.09
+    },
+    "pixel-misfits-rh": {
+        "floor": 0.0
+    },
+    "ripperz-resurrected": {
+        "floor": 0.0
+    },
+    "pixel-birds-454778027": {
+        "floor": 0.02
+    },
+    "hasan-259326376": {
+        "floor": 0.0
+    },
+    "weepnow": {
+        "floor": 0.0
+    },
+    "wise-guyz": {
+        "floor": 0.04
+    },
+    "supernoversnft": {
+        "floor": 0.02
+    },
+    "test512": {
+        "floor": 7.91
+    },
+    "wearers-80386117": {
+        "floor": 0.01
+    },
+    "keystrokenft": {
+        "floor": 0.0
+    },
+    "wearers-37809319": {
+        "floor": 0.0
+    },
+    "the-mandate": {
+        "floor": 0.0
+    },
+    "test412": {
+        "floor": 0.11
+    },
+    "penguhoods-273596747": {
+        "floor": 0.0
     }
 }
