@@ -81970,10 +81970,10 @@
         "floor": 0.0
     },
     "ninja-hoods": {
-        "floor": 0.00012
+        "floor": 0.0001199
     },
     "mini-pixel-moonbirds": {
-        "floor": 5.796e-05
+        "floor": 2.605e-05
     },
     "mutant-chimps-": {
         "floor": 0.0
@@ -81985,13 +81985,13 @@
         "floor": 0.115
     },
     "mutant-meows-226751054": {
-        "floor": 0.001
+        "floor": 0.045
     },
     "t10-928095671": {
-        "floor": 9.93
+        "floor": 0.17
     },
     "werevamps": {
-        "floor": 0.013
+        "floor": 0.010548
     },
     "happy-consume-": {
         "floor": 1.0
@@ -82006,7 +82006,7 @@
         "floor": 0.0
     },
     "howlers-clubs": {
-        "floor": 6.8600171361123e-05
+        "floor": 4.9000072502296e-05
     },
     "hootling": {
         "floor": 0.0
@@ -82015,7 +82015,7 @@
         "floor": 0.0
     },
     "capricornh00d-770561491": {
-        "floor": 0.08
+        "floor": 0.09
     },
     "onchain-display-probe": {
         "floor": 0.0
@@ -82064,5 +82064,83 @@
     },
     "deminers": {
         "floor": 0.000199999
+    },
+    "teras-240297992": {
+        "floor": 0.0
+    },
+    "bullies-20625464": {
+        "floor": 0.0
+    },
+    "bitycodes-test-nft": {
+        "floor": 0.0
+    },
+    "the-bucket-hat-ape": {
+        "floor": 0.0
+    },
+    "pixel-robinhood-punks-nft": {
+        "floor": 0.0
+    },
+    "exit-liquidity-society": {
+        "floor": 10.0
+    },
+    "tired-fun": {
+        "floor": 0.25
+    },
+    "ankou": {
+        "floor": 37.62
+    },
+    "pemulung-x-pria-sawit": {
+        "floor": 0.0
+    },
+    "sector-one-967813727": {
+        "floor": 0.004158
+    },
+    "playhaunt": {
+        "floor": 0.0
+    },
+    "rockers-732010266": {
+        "floor": 0.0
+    },
+    "0x055d443d438fd7f66d001a4fae7621440750901d-630734683": {
+        "floor": 0.0
+    },
+    "0xf502dd7cfabf86dd20c558ed9a3b0e80f86e7a00-953029009": {
+        "floor": 0.0
+    },
+    "0xa72c3bc01cffd68856d4dab3bfe48680cb2afe10-440759072": {
+        "floor": 0.0
+    },
+    "0x9ab172f0b0fdc607aeabd82393ed3db4295537ef-551590001": {
+        "floor": 0.0
+    },
+    "the-shadow-born-v2": {
+        "floor": 0.0
+    },
+    "tessel-position": {
+        "floor": 0.0
+    },
+    "tyler-brooks-rookie-card": {
+        "floor": 0.0
+    },
+    "wearers-limited-edition": {
+        "floor": 0.001
+    },
+    "lanternhold": {
+        "floor": 0.0
+    },
+    "ctrl-kidz": {
+        "floor": 0.000118579722014791
+    },
+    "petro-craniums": {
+        "floor": 0.0
+    },
+    "otherside-adventures": {
+        "floor": 0.0
+    },
+    "digital-weapons-founders-edition": {
+        "floor": 0.0
+    },
+    "the-jacket-man": {
+        "floor": 1.5
     }
 }
