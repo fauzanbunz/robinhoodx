@@ -82525,10 +82525,10 @@
         "floor": 0.0
     },
     "weapon-capsule": {
-        "floor": 0.5
+        "floor": 0.3
     },
     "neon-ape-dynasty": {
-        "floor": 3.0
+        "floor": 0.02
     },
     "mintabears-228238400": {
         "floor": 7.92e-05
@@ -82561,7 +82561,7 @@
         "floor": 0.0213
     },
     "slayers-hood": {
-        "floor": 3.86e-05
+        "floor": 3e-05
     },
     "soft7-77": {
         "floor": 0.0
@@ -82664,5 +82664,92 @@
     },
     "feed-fire-sim-best-spuds-706799742": {
         "floor": 0.0
+    },
+    "vaultling-nft-963928807": {
+        "floor": 0.0
+    },
+    "max-v4x": {
+        "floor": 0.0
+    },
+    "bonebloom-540311739": {
+        "floor": 0.01485
+    },
+    "lamoryant-genesis": {
+        "floor": 0.00396
+    },
+    "black-554896938": {
+        "floor": 0.0
+    },
+    "kismo-nft-14122827": {
+        "floor": 2.0
+    },
+    "0x2558fef268c74d4f94b765852abb80060df1775a": {
+        "floor": 0.0
+    },
+    "blue-pic": {
+        "floor": 0.25
+    },
+    "poetbabe": {
+        "floor": 0.0
+    },
+    "kismo-genesis-144790417": {
+        "floor": 0.5
+    },
+    "pixel-botrh": {
+        "floor": 9.479e-05
+    },
+    "scrapkin": {
+        "floor": 8.81e-05
+    },
+    "hoodgremlin-192148631": {
+        "floor": 0.01
+    },
+    "hoodgremlin-rh": {
+        "floor": 0.01
+    },
+    "mopes-nft-333695112": {
+        "floor": 25.0
+    },
+    "option-positions-453968468": {
+        "floor": 0.0
+    },
+    "option-positions-562056649": {
+        "floor": 0.0
+    },
+    "0x6a189ce9451f215e18b8a8ed8c0289a219f3997f": {
+        "floor": 0.0
+    },
+    "0xccd8d5bc8e4f6c57159b321445d6f2829fd83ffd": {
+        "floor": 0.0
+    },
+    "leather-heads-official": {
+        "floor": 0.0
+    },
+    "ogtest-846602155": {
+        "floor": 0.0
+    },
+    "0x464b090b27bfc80e9f61227662ed7c53b4e5ea04": {
+        "floor": 5.55
+    },
+    "0xad3ebe357fcb39dfea6c7e9a7ea680e657c15ff7": {
+        "floor": 1.5
+    },
+    "og2-661729773": {
+        "floor": 4.98
+    },
+    "digital-weapons-269146532": {
+        "floor": 2.1e-05
+    },
+    "hoodrefs": {
+        "floor": 0.0
+    },
+    "og-936964938": {
+        "floor": 0.0
+    },
+    "enchanted-sunrise": {
+        "floor": 0.01
+    },
+    "quantum-apes-rh": {
+        "floor": 5.76e-06
     }
 }
