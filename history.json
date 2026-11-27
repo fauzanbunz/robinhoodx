@@ -82751,5 +82751,155 @@
     },
     "quantum-apes-rh": {
         "floor": 5.76e-06
+    },
+    "a-trackpad-collection": {
+        "floor": 0.0
+    },
+    "0xbe0d53f99ec17dd938fa74821c4d5e8baf362ccb": {
+        "floor": 0.0
+    },
+    "bugz-mint-check": {
+        "floor": 0.0
+    },
+    "null-cats": {
+        "floor": 0.0
+    },
+    "shimme": {
+        "floor": 0.2
+    },
+    "rh-syndicate": {
+        "floor": 0.02
+    },
+    "drachen-250420382": {
+        "floor": 0.0033
+    },
+    "0x24fa19efd066aa37d62803fc0b82ed7ac22f29f2": {
+        "floor": 0.0
+    },
+    "rhinodinos": {
+        "floor": 0.0
+    },
+    "0xb60718e53b5df1801cb933cb5c6b34a093c21aee": {
+        "floor": 0.0
+    },
+    "mongang-559786649": {
+        "floor": 0.0
+    },
+    "silver-287871814": {
+        "floor": 35.0
+    },
+    "silver-612621780": {
+        "floor": 0.0
+    },
+    "0x70d698a8d038819d468e92ec96ef936989d61d48": {
+        "floor": 0.0
+    },
+    "0x9cf6e27f38fab27b2e281e47db8bfb7c8e14e31b": {
+        "floor": 0.0
+    },
+    "0x6dc7b03c330e0d88591f7b8da34fb8ac28e7c3ab": {
+        "floor": 0.0
+    },
+    "syndicate-limited-edition-122769053": {
+        "floor": 0.011
+    },
+    "toad-gobs": {
+        "floor": 4.95e-05
+    },
+    "syndicate-limited-edition": {
+        "floor": 0.011
+    },
+    "syndicate-774307951": {
+        "floor": 0.0063
+    },
+    "chaotic-order-450551747": {
+        "floor": 0.0112
+    },
+    "0x337354ebc02ba40ee01c46fa510ea19fdb20067d": {
+        "floor": 0.0
+    },
+    "prism-visions": {
+        "floor": 4.95e-05
+    },
+    "petalia": {
+        "floor": 0.0255
+    },
+    "pixel-apes-rh": {
+        "floor": 4.99e-05
+    },
+    "chainbitz-725403345": {
+        "floor": 0.0155
+    },
+    "monolithia": {
+        "floor": 0.0001
+    },
+    "chaotic-ordernft": {
+        "floor": 3.0
+    },
+    "pixel-camelrh": {
+        "floor": 0.0
+    },
+    "thepandons": {
+        "floor": 0.0092
+    },
+    "hyper-doge-yacht-club-": {
+        "floor": 0.0
+    },
+    "tickcast-position": {
+        "floor": 0.0
+    },
+    "mopes-858623198": {
+        "floor": 0.0001
+    },
+    "pepe-code-crackers-secret-files": {
+        "floor": 0.0
+    },
+    "thebit-bera-genesis-153284738": {
+        "floor": 0.0
+    },
+    "grape-season-badges": {
+        "floor": 0.0
+    },
+    "kiddies-art": {
+        "floor": 0.000116
+    },
+    "0x733a3f561d9d21e2762836be20104e9e73421e93": {
+        "floor": 0.0
+    },
+    "595-244113865": {
+        "floor": 0.0
+    },
+    "melters-585117489": {
+        "floor": 0.18
+    },
+    "g6rh-318641730": {
+        "floor": 0.1
+    },
+    "g6rh": {
+        "floor": 0.0
+    },
+    "0x1b7e7be09f04b89b60b2c67745ba9b323ca2e20e": {
+        "floor": 0.0
+    },
+    "lamoryant-576374229": {
+        "floor": 0.0495
+    },
+    "0x5cd3f3190ff01819b32e6c7141af3962c90d2853": {
+        "floor": 0.0
+    },
+    "lamoryant-682138724": {
+        "floor": 2.89e-05
+    },
+    "vamps-lethal-mutant": {
+        "floor": 0.5
+    },
+    "enter-the-manga-414708163": {
+        "floor": 9.702e-05
+    },
+    "0x743cc4b7d20153f1f09eb778a4ab889a1295ff6d": {
+        "floor": 0.0
+    },
+    "signum-genesis-45092800": {
+        "floor": 0.0
     }
 }
