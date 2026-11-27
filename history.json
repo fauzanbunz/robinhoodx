@@ -82901,5 +82901,155 @@
     },
     "signum-genesis-45092800": {
         "floor": 0.0
+    },
+    "siglab-open": {
+        "floor": 0.0
+    },
+    "siglab-warm": {
+        "floor": 0.0
+    },
+    "bronk3r": {
+        "floor": 0.0
+    },
+    "krocco-913179453": {
+        "floor": 0.0
+    },
+    "krocco-832307367": {
+        "floor": 0.0
+    },
+    "siglab-test": {
+        "floor": 0.0
+    },
+    "test-aaa": {
+        "floor": 0.0
+    },
+    "festival-blocks": {
+        "floor": 0.0005398
+    },
+    "go-977911552": {
+        "floor": 0.0
+    },
+    "rotten-byte-punks": {
+        "floor": 0.04
+    },
+    "theboysnft": {
+        "floor": 0.0
+    },
+    "black-hat-compendium-volume-1-prime-plane": {
+        "floor": 0.0
+    },
+    "streamlab-test-149733007": {
+        "floor": 0.0
+    },
+    "2-22135047": {
+        "floor": 0.0
+    },
+    "golden-idols-436048559": {
+        "floor": 9e-05
+    },
+    "mad-faces-758820669": {
+        "floor": 6.01e-05
+    },
+    "1-15809056": {
+        "floor": 0.0
+    },
+    "agony-159736688": {
+        "floor": 3e-05
+    },
+    "0xc7d25f813654dda6d009b736481f22ea38207103": {
+        "floor": 0.0002
+    },
+    "pigpack": {
+        "floor": 2.97e-05
+    },
+    "fractal-aether-316435578": {
+        "floor": 0.001
+    },
+    "fae-realm": {
+        "floor": 7.92e-05
+    },
+    "budgy-552821713": {
+        "floor": 0.000121
+    },
+    "flub-flux": {
+        "floor": 0.04
+    },
+    "karvex": {
+        "floor": 0.0001
+    },
+    "the-boys-648715500": {
+        "floor": 0.022
+    },
+    "family-589256102": {
+        "floor": 0.0
+    },
+    "muddle-901291970": {
+        "floor": 0.00011
+    },
+    "loppers-unite": {
+        "floor": 9.89e-05
+    },
+    "pride-on": {
+        "floor": 0.017
+    },
+    "tsyjf": {
+        "floor": 0.0
+    },
+    "pride-959193246": {
+        "floor": 0.0
+    },
+    "bongville": {
+        "floor": 3.01e-05
+    },
+    "sold-881183801": {
+        "floor": 0.3
+    },
+    "shadow-ronin-477113638": {
+        "floor": 0.09
+    },
+    "riftide-367041753": {
+        "floor": 4.95e-05
+    },
+    "mescalito-rh": {
+        "floor": 0.0
+    },
+    "apple-juice-aj": {
+        "floor": 0.0007009
+    },
+    "1-741074618": {
+        "floor": 0.3
+    },
+    "drachen-rh": {
+        "floor": 0.0
+    },
+    "50-620773262": {
+        "floor": 0.3
+    },
+    "tripple-nipples": {
+        "floor": 0.0
+    },
+    "lablobs": {
+        "floor": 0.0
+    },
+    "boo-289195244": {
+        "floor": 0.3
+    },
+    "rh123": {
+        "floor": 0.3
+    },
+    "syndicate-hood": {
+        "floor": 0.0
+    },
+    "0x5e5d22e9e9baf98e1f8598874e2c822dd991e755-804917711": {
+        "floor": 0.0
+    },
+    "zzzzzz-463240958": {
+        "floor": 0.14
+    },
+    "hooja-239342523": {
+        "floor": 0.0312
+    },
+    "limited-edition-companions-by-wfit": {
+        "floor": 0.011
     }
 }
