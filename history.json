@@ -82912,7 +82912,7 @@
         "floor": 0.0
     },
     "krocco-913179453": {
-        "floor": 0.0
+        "floor": 0.5
     },
     "krocco-832307367": {
         "floor": 0.0
@@ -82924,7 +82924,7 @@
         "floor": 0.0
     },
     "festival-blocks": {
-        "floor": 0.0005398
+        "floor": 0.000126
     },
     "go-977911552": {
         "floor": 0.0
@@ -83051,5 +83051,107 @@
     },
     "limited-edition-companions-by-wfit": {
         "floor": 0.011
+    },
+    "mescalito-341457602": {
+        "floor": 0.0
+    },
+    "bobo-399333768": {
+        "floor": 0.0
+    },
+    "mix-n-match-880075411": {
+        "floor": 0.0
+    },
+    "jeeter": {
+        "floor": 0.0
+    },
+    "drachen-595092630": {
+        "floor": 0.0
+    },
+    "void-apes-636719582": {
+        "floor": 0.0
+    },
+    "yono-kashs": {
+        "floor": 0.0
+    },
+    "outcowl-882817606": {
+        "floor": 0.0025
+    },
+    "muse-world-49614611": {
+        "floor": 0.0038
+    },
+    "shadow-hounds": {
+        "floor": 0.0
+    },
+    "artsac-753162446": {
+        "floor": 0.0
+    },
+    "jester-slayers": {
+        "floor": 0.0
+    },
+    "thegenz": {
+        "floor": 0.005
+    },
+    "martopia-staff": {
+        "floor": 0.0
+    },
+    "martopia-store-deed": {
+        "floor": 1.0
+    },
+    "ape-enigma": {
+        "floor": 1.19
+    },
+    "zora-journal": {
+        "floor": 1.21
+    },
+    "quotezero-machines": {
+        "floor": 0.0
+    },
+    "quotezero-gsrsgrs": {
+        "floor": 0.0
+    },
+    "plumbers-662826079": {
+        "floor": 0.00495
+    },
+    "astra-anime": {
+        "floor": 0.0
+    },
+    "fos-nft-761124344": {
+        "floor": 0.0
+    },
+    "chubby-penguins-613817725": {
+        "floor": 0.0
+    },
+    "rh-city-gangs": {
+        "floor": 0.0
+    },
+    "trenches-trench-marketplace-canary": {
+        "floor": 0.0
+    },
+    "trenches-resident-marketplace-canary": {
+        "floor": 0.0
+    },
+    "quill-wallet-281087249": {
+        "floor": 0.0
+    },
+    "quill-wallet-902778317": {
+        "floor": 0.0
+    },
+    "42-362081108": {
+        "floor": 0.0
+    },
+    "blockrobi": {
+        "floor": 0.01
+    },
+    "0xd87717a2f9ad4d423b005971c159789ee9ae6fcd": {
+        "floor": 0.0
+    },
+    "0x9e91accc60479a9f57b758151c8c1a12e66bc131": {
+        "floor": 0.0
+    },
+    "siglab-race": {
+        "floor": 0.0
+    },
+    "tropa-da-drih-876574508": {
+        "floor": 0.5
     }
 }
